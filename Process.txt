@@ -15,7 +15,11 @@ Good Will Hunting
 
 
 - Create python script that searches lines through search engine, return line & hits
+{Done in strip_movie_sentences, scores go to movie_script_sentences_scores}
+
 - Limit each doc to K most frequently hit lines from search engine
+{25K lines currently, limit to top 5000, top_5k_scores.py}
+
 - Print to output a doc containing, for each document, lines & their hit total
 - Make a copy of this output, one testing will be only hits by search engine
 - Annotate the copy, for each doc based off of whether or not the line is "memorable", "slightly memorable", "not memorable"
