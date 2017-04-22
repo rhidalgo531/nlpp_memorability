@@ -1,0 +1,26 @@
+To DO :
+
+- Gather N movie docs {N = 40, source = imsdb.com}
+--> Movies Used: Birdman, Interstellar, Dear White People, La La Land,
+The Revenant, Star Wars: The Force Awakens, Foxcatcher, American Sniper,
+Big Eyes, A Most Violent Year, No Country For Old Men, Dallas Buyers Club,
+The Avengers, Inception, Gravity, American Hustle, How to train your dragon 2,
+Social Network, Rush, Fruitvale Station, Citizen Kane, The Godfather, Ocean's Eleven,
+Halloween 6, Super 8, Terminator, Taxi Driver, Titanic, Toy Story, Unbreakable,
+Watchmen, Zero Dark Thirty, Source Code, The King's Speech, Insidious,
+Godzilla, It Happened One Night, Horrible Bosses, Gladiator,
+Good Will Hunting
+
+- Separate docs into sentences {went to filtered_movie_script_sentences, split by THE END, only sentences}
+
+
+- Create python script that searches lines through search engine, return line & hits
+- Limit each doc to K most frequently hit lines from search engine
+- Print to output a doc containing, for each document, lines & their hit total
+- Make a copy of this output, one testing will be only hits by search engine
+- Annotate the copy, for each doc based off of whether or not the line is "memorable", "slightly memorable", "not memorable"
+- Make a copy of all the documents annotated by annotators {good part to talk about in analysis}
+- Return only the X most "consistent" documents by "annotators". Basically cut down to 70% of total.
+- Create another script that will take in the docs and use the viterbi process to break down frequencies by POS
+- Output the frequencies and what the most likely structures were  {good part to talk about in analysis}
+- Use the frequencies, for each "style", to then predict inputs, potentially a script
