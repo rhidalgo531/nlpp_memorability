@@ -4633,7 +4633,7 @@ The murder of Mrs. 	4580000	Not Memorable
 SEBASTIAN ...This is home. 	4570000	Not Memorable
 THOMPSON We'd better get along. 	4570000	Not Memorable
 I can sign a draft made good by Captain Henry. 	4570000	Not Memorable
-Show me again, the power of the darkness, and I will let nothing stand in our way. ,	4570000	Not Memorable
+Show me again, the power of the darkness, and I will let nothing stand in our way. ,	4570000	Slightly Memorable
 They're calling you The Legend. 	4570000	Not Memorable
 A scientist? 	4570000	Not Memorable
 We went through the last year's data and triangulated the source. 	4560000	Not Memorable
@@ -4675,7 +4675,7 @@ Malcolm gives Keith a look: "Damn". 	4480000	Not Memorable
 She and Sebastian start walking. 	4480000	Not Memorable
 I swear... 	4480000	Not Memorable
 He's left totally alone. 	4480000	Not Memorable
-CHRIS They got sniping in the Olympics now? 	4470000	Not Memorable
+CHRIS They got sniping in the Olympics now? 	4470000	Slightly Memorable
 Lionel takes in this moment. 	4470000	Not Memorable
 MARGARET I've never posted bail before. 	4460000	Not Memorable
 Lionel shakes his head "yes" and "no" at the same time. 	4460000	Not Memorable
@@ -4806,7 +4806,7 @@ From a distance you look like a painter, but up close... there's nothing there. 
 I'm ready... 	4200000	Not Memorable
 SMATHERS (as though Kane were talking Greek) We can't remake them, Mr. Kane. ,	4200000	Not Memorable
 Go! Poe turns to him. 	4200000	Not Memorable
-FITZGERALD I'd be careful if I was you, boy. ,	4200000	Not Memorable
+FITZGERALD I'd be careful if I was you, boy. ,	4200000	 Memorable
 LAWRENCE I think I know your father. 	4190000	Not Memorable
 TAYA Sounds like you're under attack. 	4190000	Not Memorable
 Then she fills in the shape of his head. 	4190000	Not Memorable
@@ -4869,7 +4869,7 @@ How's that hamstring? 	4080000	Not Memorable
 He backs off. 	4080000	Not Memorable
 Sam's got it. 	4080000	Not Memorable
 We stay on her as she gets the news. 	4080000	Not Memorable
-And what's cooler than being a sniper? 	4080000	Not Memorable
+And what's cooler than being a sniper? 	4080000	Slightly Memorable
 Because I can't have it going on any longer either. 	4080000	Not Memorable
 Unlocks the door just as his partner, THUG #2, does the same thing on the passenger side, but he is holding a gun. ,	4070000	Not Memorable
 Water is bubbling into her suit through the open mask. 	4070000	Not Memorable
@@ -4887,7 +4887,7 @@ Sebastian's wearing the new suit. 	4060000	Not Memorable
 Kurt's hand is on Lionel's collar. 	4060000	Not Memorable
 MURPHY That you, Fitzgerald? ,	4040000	Not Memorable
 He steps right into the guy's face. 	4040000	Not Memorable
-I'm terrified. 	4040000	Not Memorable
+I'm terrified. 	4040000	Slightly Memorable
 A DOZEN MARINES are posted outside an apartment complex. 	4040000	Not Memorable
 Please, Susan - Susan! She is staring at him. ,	4040000	Not Memorable
 RAYMOND What do you think all that is worth, Mr. Thompson? ,	4040000	Not Memorable
@@ -4947,7 +4947,7 @@ It was no truer then than it is now. 	3930000	Not Memorable
 You hear me? 	3930000	Not Memorable
 The woman looks at it, stunned. ,	3920000	Not Memorable
 She seems to be on the phone, speaking into her car's system. ,	3920000	Not Memorable
-I'm letting life hit me `til it gets tired. 	3920000	Not Memorable
+I'm letting life hit me `til it gets tired. 	3920000	Slightly Memorable
 Not sure where you are -- maybe Boston? 	3920000	Not Memorable
 TAYA I'm proud of you and I don't say it enough. 	3920000	Not Memorable
 They head off in opposite directions. 	3920000	Not Memorable
@@ -4958,7 +4958,7 @@ WALTER I'm trying! Ah, you know me. ,	3900000	Not Memorable
 Sam hangs up. 	3900000	Not Memorable
 How do you know you haven't done them before? 	3900000	Not Memorable
 His accent is strong yet you can understand every word. 	3900000	Not Memorable
-I'm letting life hit me `til it gets tired. 	3900000	Not Memorable
+I'm letting life hit me `til it gets tired. 	3900000	Slightly Memorable
 Mind you, I guess you turned up eventually, didn't you? ,	3890000	Not Memorable
 CHRIS Nice to meet you, Taya. ,	3890000	Not Memorable
 But I don't want us hiding anything from them. 	3890000	Not Memorable
@@ -4974,8 +4974,8 @@ DICK Walter... you never told me you had another daughter. 	3870000	Not Memorabl
 GOAT Mustafa's not Iraqi. 	3870000	Not Memorable
 And then she sees him. 	3860000	Not Memorable
 Kane indicates he is to proceed. 	3860000	Not Memorable
-What the hell? 	3860000	Not Memorable
-LELAND You almost convince me. (rising) I'm just drunk enough to tell you the truth. 	3860000	Not Memorable
+What the hell? 	3860000	Slightly Memorable
+LELAND You almost convince me. (rising) I'm just drunk enough to tell you the truth. 	3860000	Slightly Memorable
 Sitting down on the bed next to Bernstein, he starts to write. ,	3860000	Not Memorable
 The ladies grab the opening. 	3860000	Not Memorable
 Like us they were fixated on this place. 	3860000	Not Memorable
@@ -4987,7 +4987,7 @@ She seems to be on the phone, speaking into her car's system. ,	3850000	Not Memo
 Over the picture are crossed American flags. 	3850000	Not Memorable
 Revealing... underneath... the name "S. 	3840000	Not Memorable
 Unable to see two feet ahead. 	3840000	Not Memorable
-It's JULIAN. He is standing holding a gun. 	3840000	Not Memorable
+It's JULIAN. He is standing holding a gun. 	3840000	Slightly Memorable
 Behind him the combines continue to work, oblivious. ,	3840000	Not Memorable
 CARLO You're fat as a pig. 	3840000	Not Memorable
 MIKE (O.S.) Intimidating. 	3840000	Not Memorable

@@ -18,7 +18,12 @@ def get_top_5k(sent_board, score_board):
     output_file = open("top_5k.txt", "w+")
     i = 0
     while (i != 5000):
-        output_file.write(sent_board[i] + "\t" + str(score_board[i]) + "\n")
+        if (i < 1250):
+            output_file.write(sent_board[i] + "\t" + str(score_board[i]) + "\t" + "Memorable\n")
+        elif (i < 3750):
+            output_file.write(sent_board[i] + "\t" + str(score_board[i]) + "\t" + "Slightly Memorable\n")
+        else:
+            output_file.write(sent_board[i] + "\t" + str(score_board[i]) + "\t" + "Not Memorable\n")
         i+= 1
     output_file.close()
 
