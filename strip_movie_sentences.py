@@ -16,7 +16,6 @@ def output_text(script, output, score_output, text):
                 score_output.write(score_line)
             #elif data == -1:
             #    score_output.write(score_line + "\n")
-    print 1
     output.write("THE END\n")
 
 def remove_extra_spaces(doc):

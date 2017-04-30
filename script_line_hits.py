@@ -2,7 +2,6 @@
 import urllib2
 from urllib2 import urlopen
 import re
-import math
 import time
 
 yahoo_search_url_prefix = '''https://search.yahoo.com/search?q='''
@@ -36,7 +35,3 @@ def do_provider_search_with_pause(term,timing=1,reps=0):
             time.sleep(timing)
             total = do_provider_search_with_pause(term,timing=timing,reps=reps+1)
     return(total)
-
-
-if __name__ == "__main__":
-    main()
