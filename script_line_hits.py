@@ -5,7 +5,7 @@ import re
 import time
 
 yahoo_search_url_prefix = '''https://search.yahoo.com/search?q='''
-#yahoo_search_url_prefix = '''https://www.bing.com/search?q='''
+#bing_search_url_prefix = '''https://www.bing.com/search?q='''
 get_total_results = re.compile('<span[^>]*> *([0-9,]+) results *</span>')
 webscore_dict = {}
 

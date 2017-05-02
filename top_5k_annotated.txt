@@ -1,118 +1,118 @@
-It's 3:34... 	1380000000	Memorable
-It's on you Walter. 	1350000000	Memorable
+It's 3:34... 	1380000000	Not Memorable
+It's on you Walter. 	1350000000	Slightly Memorable
 WALTER What's it all mean? 	1320000000	Memorable
-The O.S. 	1320000000	Memorable
+The O.S. 	1320000000	Not Memorable
 CHRIS I do it for you. 	1310000000	Memorable
-You do. 41. 	1310000000	Memorable
+You do. 41. 	1310000000	Not Memorable
 ABEL What can I do? 	1300000000	Memorable
 ARNOLD KLINE What can I do for you? 	1290000000	Memorable
 Mia's at work. 	1240000000	Memorable
-I came here for you. 	1200000000	Memorable
-MIA I'm -- no... 	1150000000	Memorable
-All out of ideas. 	880000000	Memorable
+I came here for you. 	1200000000	Slightly Memorable
+MIA I'm -- no... 	1150000000	Not Memorable
+All out of ideas. 	880000000	Slightly Memorable
 How do you do, Mr. Kane? ,	717000000	Memorable
 JULIAN What do you do? 	717000000	Memorable
-MIA (O.S.) No... 	689000000	Memorable
-MIA (O.S.) No... 	684000000	Memorable
-MIA (O.S.) No... 	651000000	Memorable
-How old are you? 	628000000	Memorable
+MIA (O.S.) No... 	689000000	Not Memorable
+MIA (O.S.) No... 	684000000	Not Memorable
+MIA (O.S.) No... 	651000000	Not Memorable
+How old are you? 	628000000	Slightly Memorable
 Why do I do it? 2. 	576000000	Memorable
-Congratulations on your home. 	571000000	Memorable
+Congratulations on your home. 	571000000	Not Memorable
 It is 1:30 at night. 	571000000	Memorable
-JEFF (closing his eyes) A job is a job. 	565000000	Memorable
-And that's not funny to you. 	557000000	Memorable
+JEFF (closing his eyes) A job is a job. 	565000000	Not Memorable
+And that's not funny to you. 	557000000	Not Memorable
 ANSEN (INDIGNANT) You can't do that. 	556000000	Memorable
-MARGARET If that's the price. 	556000000	Memorable
+MARGARET If that's the price. 	556000000	Not Memorable
 CHRIS (wounded) Why would you do this? 	520000000	Memorable
 No time to soak this in though. 	517000000	Memorable
 That's all there is to it. 	514000000	Memorable
-That's all there was to it. 	493000000	Memorable
+That's all there was to it. 	493000000	Not Memorable
 MARGARET Do you -- like it? 	399000000	Memorable
-SEBASTIAN How long have...? 	336000000	Memorable
+SEBASTIAN How long have...? 	336000000	Not Memorable
 FINN There is one. 	333000000	Memorable
-MARGARET Is this what it's come to? 	321000000	Memorable
+MARGARET Is this what it's come to? 	321000000	Not Memorable
 It's only Halloween. 	321000000	Memorable
 That work out for you? 	314000000	Memorable
 ABEL What do you expect me to do with this? 	301000000	Memorable
-What's the plan? 89. 	288000000	Memorable
-That's the big plan? 	288000000	Memorable
-COOPER I can't go. 	278000000	Memorable
+What's the plan? 89. 	288000000	Not Memorable
+That's the big plan? 	288000000	Not Memorable
+COOPER I can't go. 	278000000	Not Memorable
 And now you. 	274000000	Memorable
 No, he won't be there, just me... ,	265000000	Memorable
-BERNSTEIN Not to me. 	262000000	Memorable
+BERNSTEIN Not to me. 	262000000	Not Memorable
 But I have to be there, on the planet-- HAN We'll get you there. ,	259000000	Memorable
-So Margaret, where do you get your ideas? ,	258000000	Memorable
-How did you do it? 	247000000	Memorable
+So Margaret, where do you get your ideas? ,	258000000	Not Memorable
+How did you do it? 	247000000	Not Memorable
 All life gone. 	221000000	Memorable
 World's Fair??? 	214000000	Memorable
-SEBASTIAN That's the point. 	209000000	Memorable
+SEBASTIAN That's the point. 	209000000	Not Memorable
 I'm not black. 	208000000	Memorable
 I can see it. 	205000000	Memorable
 LAURA I love you. 	204000000	Memorable
-It's not about us anymore. 	204000000	Memorable
-It's a good day for us. 	203000000	Memorable
+It's not about us anymore. 	204000000	Slightly Memorable
+It's a good day for us. 	203000000	Not Memorable
 Are you in love with him? 	203000000	Memorable
-But so do boos. 	202000000	Memorable
+But so do boos. 	202000000	Not Memorable
 LAURA I love you. 	199000000	Memorable
 We have what we need. 	199000000	Memorable
 The D.J. is confused. 	198000000	Memorable
 SEBASTIAN How `bout one for you, one for me? ,	197000000	Memorable
-It's all we had. 	194000000	Memorable
-WALTER What's your name? 	193000000	Memorable
+It's all we had. 	194000000	Not Memorable
+WALTER What's your name? 	193000000	Not Memorable
 BRAND What did you do to it? 	192000000	Memorable
 We have to be precise. 	191000000	Memorable
-You take me. 	183000000	Memorable
-He's sick. 	179000000	Memorable
+You take me. 	183000000	Not Memorable
+He's sick. 	179000000	Not Memorable
 TAYA (almost laughs) What do you do for work? 	176000000	Memorable
-Keane's word. 	169000000	Memorable
+Keane's word. 	169000000	Not Memorable
 No. SUNGMI Everyone loves you. 	166000000	Memorable
-He's driving. 	166000000	Memorable
+He's driving. 	166000000	Not Memorable
 Can I come in? 	166000000	Memorable
 SEBASTIAN How `bout one for you, one for me? ,	164000000	Memorable
 SEBASTIAN How `bout one for you, one for me? ,	163000000	Memorable
 The people of this state can decide which one of us to trust. 	158000000	Memorable
 COOPER Where do you want to go first? 	157000000	Memorable
-Michael. 	156000000	Memorable
+Michael. 	156000000	Not Memorable
 LAURA I have someone I want you to meet. 	156000000	Memorable
 PETER FORENTE You don't want to do that. 	155000000	Memorable
 Low low low. 	155000000	Memorable
 LAURA I have someone I want you to meet. 	154000000	Memorable
-Can I come in? 	154000000	Memorable
-If he's sick, he's sick. ,	154000000	Memorable
+Can I come in? 	154000000	Not Memorable
+If he's sick, he's sick. ,	154000000	Slightly Memorable
 LAURA I have someone I want you to meet. 	153000000	Memorable
-You know that. 	153000000	Memorable
-You know that? 	152000000	Memorable
+You know that. 	153000000	Not Memorable
+You know that? 	152000000	Not Memorable
 COOPER There's no one for it to report to. 	152000000	Memorable
 I know it's noise. 	151000000	Memorable
 Good family time. 	150000000	Memorable
 She is all business. 	149000000	Memorable
 You should be proud. 	148000000	Memorable
-One ... 	148000000	Memorable
+One ... 	148000000	Not Memorable
 You know Mr. Leland. 	147000000	Memorable
-You know what you are, Cooper? ,	147000000	Memorable
+You know what you are, Cooper? ,	147000000	Not Memorable
 LAWRENCE You know... 	147000000	Memorable
-You know that right? 	147000000	Memorable
+You know that right? 	147000000	Not Memorable
 I think I'm the man to do it. 	147000000	Memorable
-You know that. 	147000000	Memorable
-You know that. 	146000000	Memorable
+You know that. 	147000000	Not Memorable
+You know that. 	146000000	Not Memorable
 I know you are busy. 	146000000	Memorable
 I want you to tell me everything. 	146000000	Memorable
 You have to be realistic. 	146000000	Memorable
 You're drunk. 	145000000	Memorable
 PETER FORENTE That's new territory for you, no? ,	145000000	Memorable
-I buy you out. 	145000000	Memorable
+I buy you out. 	145000000	Slightly Memorable
 You're old as fuck. 	145000000	Memorable
-How're you feeling? 	145000000	Memorable
+How're you feeling? 	145000000	Not Memorable
 Who else is on the list for today? 	145000000	Memorable
 MURPHY (O.S.) Where're you headed? 	145000000	Memorable
-Mother did for me. 	144000000	Memorable
+Mother did for me. 	144000000	Not Memorable
 SEBASTIAN When do you find out? 	144000000	Memorable
 There is no one in there. 	143000000	Memorable
 ABEL Where did you get it? 	143000000	Memorable
 I'm like you. 	142000000	Memorable
-I have to go work. 64. 	141000000	Memorable
-RAWLSTON That's right. 	141000000	Memorable
-That's right. 96. 	141000000	Memorable
+I have to go work. 64. 	141000000	Not Memorable
+RAWLSTON That's right. 	141000000	Not Memorable
+That's right. 96. 	141000000	Not Memorable
 TAYA Why are you so good with me. 	141000000	Memorable
 ANNA Where did you get this? 	141000000	Memorable
 ANNA Where were you? 	140000000	Memorable
@@ -130,7 +130,7 @@ VOICE (O.S.) I wouldn't do that. 	134000000	Memorable
 WAITER So what can I get you to drink? 	133000000	Memorable
 ANNIE How do you want me to do that? 	133000000	Memorable
 Your family is here. 	133000000	Memorable
-No car in sight. 	133000000	Memorable
+No car in sight. 	133000000	Not Memorable
 SAM What do you want me to do? 	133000000	Memorable
 We can't stay like this any longer. 	133000000	Memorable
 MARK What are you talking about? 	132000000	Memorable
@@ -142,18 +142,18 @@ How awful am I to do that to him? 	131000000	Memorable
 Just what path do I take to get there. 	130000000	Memorable
 The New York World's Fair. 70 million visitors. 	128000000	Memorable
 MARK It's over. 	126000000	Memorable
-A... 	124000000	Memorable
+A... 	124000000	Not Memorable
 ABEL I don't know what you mean. 	123000000	Memorable
 First you tried to break up the Black house. 	123000000	Memorable
 There's no one to take it back to. 	123000000	Memorable
 We can't do the loan. 	122000000	Memorable
 They can't get out of the yard. 	122000000	Memorable
-HENRY I know you can. 	122000000	Memorable
-The. 	122000000	Memorable
+HENRY I know you can. 	122000000	Not Memorable
+The. 	122000000	Not Memorable
 I want you to help the Corleones and I want you to help me. 	121000000	Memorable
 But we are not what you think we are. 	120000000	Memorable
 MARK How do you mean? 	120000000	Memorable
-I don't know why I did. 	119000000	Memorable
+I don't know why I did. 	119000000	Not Memorable
 GENCO You need your old Consigliere. 	118000000	Memorable
 Office hours and paperwork. 	117000000	Memorable
 ABEL Does he have any money? 	117000000	Memorable
@@ -168,7 +168,7 @@ SEBASTIAN ...What do you mean? 	115000000	Memorable
 WALTER What do you mean? 	115000000	Memorable
 RIGGAN I don't have an actor. 	115000000	Memorable
 THOMPSON No, I don't. ,	115000000	Memorable
-CHRIS What do you mean? 	115000000	Memorable
+CHRIS What do you mean? 	115000000	Not Memorable
 We don't have an actor. 	115000000	Memorable
 BIGGLES No, I did it for you. ,	114000000	Memorable
 KAY What time do they expect us? 	114000000	Memorable
@@ -191,7 +191,7 @@ They both know: they can't run. 	111000000	Memorable
 How can you still be cranking out paintings? 	111000000	Memorable
 I'm not sure we can do this... 	111000000	Memorable
 LAWRENCE You can get them out of the house. 	111000000	Memorable
-What will he do? 	110000000	Memorable
+What will he do? 	110000000	Not Memorable
 Not trying to get my card revoked. 	110000000	Memorable
 MIA Why was it weird between you two? 	109000000	Memorable
 Can I get you something to drink? 	109000000	Memorable
@@ -203,23 +203,23 @@ We don't know what they have or how they got it. 	108000000	Memorable
 F-18 closing. 	107000000	Memorable
 I don't want you to be in this position. 	107000000	Memorable
 If it was up to me we would be dealing with this in a very different way. 	107000000	Memorable
-It's his nature. 	107000000	Memorable
+It's his nature. 	107000000	Not Memorable
 All you did was have a radio show and look what happened to you. 	107000000	Memorable
 SEBASTIAN What's the difference? 	106000000	Memorable
-KANE I won't let you go. 	106000000	Memorable
+KANE I won't let you go. 	106000000	Not Memorable
 So with all this information that you have gained... 	106000000	Memorable
 WYNN Why you spend all this time with us? 	105000000	Memorable
 I can't let you kill us. 	105000000	Memorable
 The probe CHIRPS as Cooper slides down on top of it. 	105000000	Memorable
 VOICE (O.S.) I think so, but I can't get close enough. ,	105000000	Memorable
 We need to know you are standing by us. 	104000000	Memorable
-I need a name. 	103000000	Memorable
+I need a name. 	103000000	Slightly Memorable
 TAYA What's the difference? 	103000000	Memorable
 RAYMOND How did you get him to part with it, Mr. Kane? ,	103000000	Memorable
 SEBASTIAN What's the difference? 	103000000	Memorable
 Do I have a job? 	102000000	Memorable
 It's not the way I do business. 	102000000	Memorable
-They want out. 	102000000	Memorable
+They want out. 	102000000	Not Memorable
 We need to stitch his back up. 	102000000	Memorable
 TISHKOFF But, but... he can't just be out. ,	102000000	Memorable
 KANE You do anything you want to do. 	102000000	Memorable
@@ -230,17 +230,17 @@ JOSEPH So why is it you want this land? 	101000000	Memorable
 Did they see you come in here? 	101000000	Memorable
 FLASH. FLASH. 50. 	101000000	Memorable
 ANNA You better. 	101000000	Memorable
-We need you on stage. 	101000000	Memorable
+We need you on stage. 	101000000	Not Memorable
 I have done everything you have asked of me. 	101000000	Memorable
 MURPH What are you going to do with it? 	101000000	Memorable
 Young MOMS. Scampering KIDS. Then, a SUBTITLE: "TEN YEARS EARLIER" 2. ,	101000000	Memorable
 Pop's hurt...I don't know how bad. 	101000000	Memorable
-We all did. 	101000000	Memorable
+We all did. 	101000000	Not Memorable
 Where does he fit? 	101000000	Memorable
-ARTHUR LEWIS I don't. 	101000000	Memorable
+ARTHUR LEWIS I don't. 	101000000	Not Memorable
 You want me to hold your seat? 	101000000	Memorable
-They need your approval. 	101000000	Memorable
-It's all right, dear. ,	101000000	Memorable
+They need your approval. 	101000000	Not Memorable
+It's all right, dear. ,	101000000	Not Memorable
 We need you on overwatch. 	101000000	Memorable
 Would you like to know the last thing you will see? 	101000000	Memorable
 Why would you do such a thing?! WALTER It was a misunderstanding. 	101000000	Memorable
@@ -248,26 +248,26 @@ ABEL I need more time. 	100000000	Memorable
 TROY What's the difference? 	100000000	Memorable
 You too, Mike, no chances. ,	100000000	Memorable
 THOMPSON You know why? 	100000000	Memorable
-What's the name of that place? 	100000000	Memorable
-I know you can't help it... 	100000000	Memorable
-Give me more of that. 	100000000	Memorable
-Let's try it again. 	100000000	Memorable
-Do you know where he is? 	100000000	Memorable
+What's the name of that place? 	100000000	Not Memorable
+I know you can't help it... 	100000000	Not Memorable
+Give me more of that. 	100000000	Slightly Memorable
+Let's try it again. 	100000000	Not Memorable
+Do you know where he is? 	100000000	Not Memorable
 TAYA You find a way! You have to. 	100000000	Memorable
 BALLPLAYER We did. 	100000000	Memorable
-MARGARET Would you like to come in? 	99900000	Memorable
-ABEL I don't. 	99900000	Memorable
-LAWRENCE I don't. 	99800000	Memorable
-FINN I don't. 	99800000	Memorable
+MARGARET Would you like to come in? 	99900000	Slightly Memorable
+ABEL I don't. 	99900000	Not Memorable
+LAWRENCE I don't. 	99800000	Not Memorable
+FINN I don't. 	99800000	Not Memorable
 I love the music tonight. 	99700000	Memorable
 CHRIS Don't do this. 	99600000	Memorable
 Find out what's inside. 	99600000	Memorable
 BONASERA What do you want of me? 	99500000	Memorable
 I'm just grabbing my stuff... 	99500000	Memorable
-For your country. 	99400000	Memorable
+For your country. 	99400000	Not Memorable
 DU PONT Keep it up, gentlemen. ,	99400000	Memorable
 That's part of your job. 	99100000	Memorable
-Always have been. 	99100000	Memorable
+Always have been. 	99100000	Not Memorable
 She presses play on the latest video. 	98900000	Memorable
 Send it right away. 	98800000	Memorable
 LEIA Don't do that. 	98700000	Memorable
@@ -278,9 +278,9 @@ If it's a problem, I can go -- 37. ,	97800000	Memorable
 So, I figured-- (03.18.14) 20. ,	97800000	Memorable
 Then -- MIA How did you find me? 	97700000	Memorable
 MARK Why do I do it? 	97000000	Memorable
-Some new technology... 	96900000	Memorable
+Some new technology... 	96900000	Not Memorable
 A D.J. turning tables. 	96900000	Memorable
-You'd be alright. 	96900000	Memorable
+You'd be alright. 	96900000	Not Memorable
 Not a word of this in the Observer okay? 	96800000	Memorable
 It can't be. 	96800000	Memorable
 FINN I can't. 	96800000	Memorable
@@ -294,17 +294,17 @@ It's only money. 	95200000	Memorable
 You don't like it, the door's to my left. ,	95200000	Memorable
 ABEL So who's coming? 	95000000	Memorable
 MAN'S VOICE Get back here. 	95000000	Memorable
-COOPER Can't be. 	94900000	Memorable
-LATER 2:30 a.m. 	94800000	Memorable
+COOPER Can't be. 	94900000	Not Memorable
+LATER 2:30 a.m. 	94800000	Not Memorable
 CASTING DIRECTOR (CONT'D) You know what? 	94800000	Memorable
-You got that in? 	94700000	Memorable
+You got that in? 	94700000	Not Memorable
 If you can't take a joke in this day and age? 	94500000	Memorable
 But no one came. 	94200000	Memorable
 I'd like to show you - EMILY You don't have to show me anything, Mr. Rogers. ,	93800000	Memorable
 The car is all loaded up. 	93700000	Memorable
 TAYA I know how hard you fought to get here. (03.18.14) 115. 	93700000	Memorable
-It's a self-portrait. 	93700000	Memorable
-But it's not a probe. 	93700000	Memorable
+It's a self-portrait. 	93700000	Not Memorable
+But it's not a probe. 	93700000	Not Memorable
 I don't know how it has come to this, but it has. ,	93400000	Memorable
 SONNY I know I'm not the man he was. 	93300000	Memorable
 Because when you get this -- MIA If I get this -- Revision 75. 	93100000	Memorable
@@ -325,19 +325,19 @@ ANNA So what's your plan here? 	91100000	Memorable
 MARC LEE Can't do. 	91100000	Memorable
 HAN So it's big. 	91100000	Memorable
 Well that's alright. 	91100000	Memorable
-Let's relax. 	90900000	Memorable
+Let's relax. 	90900000	Not Memorable
 COOPER But why didn't they come? 	90700000	Memorable
 ANDREW WALSH We need your help. 	90400000	Memorable
 You don't like it, the door's to my left. ,	90100000	Memorable
 MAZ The belonging you seek is not behind you. 	89900000	Memorable
 They thought we could do business. 	89700000	Memorable
-MARK (O.S.) You don't have to do this. 	89700000	Memorable
+MARK (O.S.) You don't have to do this. 	89700000	Not Memorable
 TAYA Not until you tell me what you do. 	89600000	Memorable
 Most of you know each other already. 	89600000	Memorable
-How'd you get on the lot? 	89400000	Memorable
-My right, your left. ,	89400000	Memorable
+How'd you get on the lot? 	89400000	Not Memorable
+My right, your left. ,	89400000	Not Memorable
 It's in there... and now you'll give it to me. 	89000000	Memorable
-Find our way. 	88900000	Memorable
+Find our way. 	88900000	Not Memorable
 Stay focused on what's important. 	88900000	Memorable
 CHRIS (VO) I don't know... 	88800000	Memorable
 And all our girls? 	88800000	Memorable
@@ -351,7 +351,7 @@ Can I count on you being there? 	88200000	Memorable
 And they want... no, need... to feel that you want the best too. ,	88100000	Memorable
 You need to get that thing out of our house. 	88100000	Memorable
 But that's not your kids' fault. 	88000000	Memorable
-DU PONT Thank you. 	87900000	Memorable
+DU PONT Thank you. 	87900000	Not Memorable
 SECOND NEWSPAPERMAN Well, what have you been doing? ,	87800000	Memorable
 You know it's the smart thing to do, too. ,	87400000	Memorable
 REY What about BB-8? 	87400000	Memorable
@@ -359,14 +359,14 @@ DAVE (CONT'D) What's going on with you? 	87300000	Memorable
 What you supposed to do with it? (03.18.14) 8. 	87100000	Memorable
 MIA I don't know if they were there. 	87100000	Memorable
 DU PONT Family time. 	87000000	Memorable
-Was he good or bad? 	86700000	Memorable
+Was he good or bad? 	86700000	Not Memorable
 Hat or no hat? 	86700000	Memorable
 Saw your e- mail. 	86600000	Memorable
 I thought you were the man to see it. 	86200000	Memorable
 Once more repeat the map of the USA 1932-1939. 	86200000	Memorable
 Does he have any kin you know of? 	85800000	Memorable
 MARGARET Do they only show Modern? 	85800000	Memorable
-We'll be in touch. 	85700000	Memorable
+We'll be in touch. 	85700000	Not Memorable
 Don't quit your day job... 	85300000	Memorable
 MIA He just told you what to do. 	85300000	Memorable
 ASSISTANT They said we should look out the window. 	85200000	Memorable
@@ -385,13 +385,13 @@ We go to press in five minutes. 	84400000	Memorable
 INSTRUCTOR Can I get you a coffee or tea? 	84300000	Memorable
 ANDREW WALSH We don't know yet. 	84200000	Memorable
 SUSAN I see - it's you that this is being done to! It's not me at all. 	84200000	Memorable
-DU PONT No. Mark. 	84200000	Memorable
+DU PONT No. Mark. 	84200000	Not Memorable
 LESLIE Because he said he'd want to do it. 	84000000	Memorable
-DU PONT In my study. 	84000000	Memorable
+DU PONT In my study. 	84000000	Not Memorable
 COOPER (REALIZING) No. No. We're rebuilding. 	83800000	Memorable
 Go over there and yell at them? 	83800000	Memorable
-Come down here. 	83700000	Memorable
-In case we can see him... 	83600000	Memorable
+Come down here. 	83700000	Not Memorable
+In case we can see him... 	83600000	Not Memorable
 That's Charlie's story - it's the story of how he lost it. 	83300000	Memorable
 ASSISTANT We don't have any way to answer that question. 	83300000	Memorable
 ANDREW WALSH Where's the gun? 	83200000	Memorable
@@ -415,13 +415,13 @@ SHEIKH AL-OBEIDI You must understand the risk to us. 	81900000	Memorable
 BILL O'LEARY By Friday. 	81800000	Memorable
 He's got projects all over town. 	81800000	Memorable
 FITZGERALD (CONT'D) You don't think I will? 	81800000	Memorable
-I think we're good. 	81800000	Memorable
+I think we're good. 	81800000	Not Memorable
 BILL O'LEARY By Friday. 	81800000	Memorable
 MARK We all have demons. 	81700000	Memorable
-The women come closer. 	81700000	Memorable
+The women come closer. 	81700000	Not Memorable
 It's-- MIKE Les... 	81700000	Memorable
 He can't help himself. 	81700000	Memorable
-He's got projects all over town. 	81600000	Memorable
+He's got projects all over town. 	81600000	Not Memorable
 FRANK It's tough now, our line of work. ,	81600000	Memorable
 INSTRUCTOR "TONY" How about you old man? 	81500000	Memorable
 MIA Make your own history. 	81500000	Memorable
@@ -461,7 +461,7 @@ But the thing is it's grounded. 	80000000	Memorable
 Light us up. 	80000000	Memorable
 ANSEN We need to get back to work. 	80000000	Memorable
 Won't be long now. 	79900000	Memorable
-All I want to ask you... 	79900000	Memorable
+All I want to ask you... 	79900000	Not Memorable
 I mean, everything's cool right? ,	79800000	Memorable
 They dance around... 	79800000	Memorable
 DREADS We all look the same. 	79800000	Memorable
@@ -497,7 +497,7 @@ DOYLE Look at the size of this place. 	78900000	Memorable
 ROTH They would if we used it all at once. 	78900000	Memorable
 COCO (reading) We want you. 	78900000	Memorable
 We had the same problems. 	78900000	Memorable
-Then it's over. 	78900000	Memorable
+Then it's over. 	78900000	Not Memorable
 We must close on that property... 	78900000	Memorable
 GEORGE That was our Times advisor. 	78900000	Memorable
 It's safer with you than it is with me. 	78900000	Memorable
@@ -547,7 +547,7 @@ I just came to hang out. 	77800000	Memorable
 I got something off of it. 	77800000	Memorable
 DU PONT I'm sorry? 	77800000	Memorable
 I never ask myself why I do this. 	77700000	Memorable
-Con. 	77700000	Memorable
+Con. 	77700000	Not Memorable
 The same homogenized images of Black people over and over again? 	77700000	Memorable
 PO TOSH (OC) There is nothing out there but a target. 	77700000	Memorable
 MARY Come with me if you want to save your baby. 	77700000	Memorable
@@ -568,7 +568,7 @@ LELAND (quietly) What're you going to do, Charlie? ,	77200000	Memorable
 CHRIS I should get going... 	77100000	Memorable
 But I'm done with the First Order. 	77100000	Memorable
 I tell the facts the way I see them. 	77100000	Memorable
-When..... 	77000000	Memorable
+When..... 	77000000	Not Memorable
 We've covered it from the news end, of course. ,	76900000	Memorable
 It's exactly what I needed from you. 	76900000	Memorable
 That's how this thing works. 	76900000	Memorable
@@ -586,17 +586,17 @@ Guess I'll see you in the movies. 	76500000	Memorable
 I just try everything I can think of. 	76500000	Memorable
 ABEL (CONT'D) Give me five minutes. 	76400000	Memorable
 COCO You guys got a party coming up? 	76300000	Memorable
-But if you want it -- the job's yours. 	76300000	Memorable
+But if you want it -- the job's yours. 	76300000	Not Memorable
 It's starting to be a real problem. 	76100000	Memorable
 But you have to let me win. 	76100000	Memorable
 DU PONT You got a problem with me? 	75900000	Memorable
 I wouldn't be here without him. 	75900000	Memorable
-They catch each others eye. 	75900000	Memorable
+They catch each others eye. 	75900000	Not Memorable
 Guess I'll see you in the movies. 	75900000	Memorable
-CITY EDITOR No, Mr. Kane. ,	75800000	Memorable
-DAVE (ON PHONE) All right. 	75800000	Memorable
-DREADS Your call then man. 	75800000	Memorable
-Are you coming, Charles? ,	75700000	Memorable
+CITY EDITOR No, Mr. Kane. ,	75800000	Not Memorable
+DAVE (ON PHONE) All right. 	75800000	Not Memorable
+DREADS Your call then man. 	75800000	Not Memorable
+Are you coming, Charles? ,	75700000	Not Memorable
 I just lost my money. 	75600000	Memorable
 CHRIS That's good. 	75500000	Memorable
 ARTHUR LEWIS I know you will. 	75400000	Memorable
@@ -605,7 +605,7 @@ MARC LEE I'm only clocking one point of entry. 	75000000	Memorable
 Back home, Walter is living a Man's, Man's World. ,	75000000	Memorable
 MICHAEL I'll come to you when I need you. 	74900000	Memorable
 KANE I didn't think you did. 	74900000	Memorable
-He's south of the wall. 	74800000	Memorable
+He's south of the wall. 	74800000	Not Memorable
 He won't last out the night. 	74700000	Memorable
 ANDREW WALSH Of course we are turning you in. 	74700000	Memorable
 They both look back at Mike. 	74700000	Memorable
@@ -629,7 +629,7 @@ And a MELODY -- one we will come to know very well... 	73900000	Memorable
 At least not in High School. 	73800000	Memorable
 LIONEL This is a research school. 	73800000	Memorable
 We go at zero-dark. 	73800000	Memorable
-MARK I'm done. 	73600000	Memorable
+MARK I'm done. 	73600000	Not Memorable
 He looks back across the river... 	73600000	Memorable
 But we're still about a million short. 	73600000	Memorable
 JANE Do you live far away? 	73500000	Memorable
@@ -639,8 +639,8 @@ They look out across the city. 	73300000	Memorable
 They look up, startled. ,	73300000	Memorable
 CHRIS No, ma'am. ,	73300000	Memorable
 I don't have any friends. 	73200000	Memorable
-I won't do it... 	73200000	Memorable
-I failed you again. 	73200000	Memorable
+I won't do it... 	73200000	Not Memorable
+I failed you again. 	73200000	Slightly Memorable
 WALTER Would they want... this? 	73200000	Memorable
 They are really going at it now. 	73100000	Memorable
 LELAND (worried) What's happened? 	73100000	Memorable
@@ -648,8 +648,8 @@ COOPER I don't want it to incorporate me. 	73100000	Memorable
 Would you like to make any additional changes? 	73100000	Memorable
 Won't accept this. 	73100000	Memorable
 Twenty each if you get picked up for series. 	73000000	Memorable
-I won't let you. 	73000000	Memorable
-Does he like it? 	73000000	Memorable
+I won't let you. 	73000000	Not Memorable
+Does he like it? 	73000000	Not Memorable
 There may be more below. 	73000000	Memorable
 Turns off the light. 	73000000	Memorable
 You should open a window. 	73000000	Memorable
@@ -657,7 +657,7 @@ What did he have for lunch? 	73000000	Memorable
 One problem -- the engine isn't there. 	73000000	Memorable
 And that's the way you want it to be. 	73000000	Memorable
 MIKE Ask Nick what real love is. 	72900000	Memorable
-That's what I want to know. 	72900000	Memorable
+That's what I want to know. 	72900000	Not Memorable
 SEBASTIAN I know what you mean. 	72900000	Memorable
 SAM That's absurd. 	72900000	Memorable
 MARC LEE You can't shoot what you can't see. 	72900000	Memorable
@@ -665,7 +665,7 @@ Rey, then BB-8, head out. ,	72900000	Memorable
 He did it, you know? ,	72900000	Memorable
 ABEL We are working on it. 	72900000	Memorable
 TAYA What do you want to do today, hon'? ,	72800000	Memorable
-I feel much better. 	72800000	Memorable
+I feel much better. 	72800000	Not Memorable
 Makes coming to work easier. 	72700000	Memorable
 MICHAEL How's Mom? 	72700000	Memorable
 WALTER And here's the best part. 	72700000	Memorable
@@ -675,10 +675,10 @@ They get made whole again. 	72600000	Memorable
 He comes around to see her face. 	72600000	Memorable
 ANNA So what does that mean? 	72500000	Memorable
 LAWRENCE The most right? 	72500000	Memorable
-You must have noticed. 	72500000	Memorable
+You must have noticed. 	72500000	Not Memorable
 GEORGE Right, which is why no one else will take it. ,	72500000	Memorable
-Safety up ahead. 	72400000	Memorable
-It's your turn. 	72400000	Memorable
+Safety up ahead. 	72400000	Slightly Memorable
+It's your turn. 	72400000	Not Memorable
 It's a gun Abel. 	72400000	Memorable
 But we're still about a million short. 	72300000	Memorable
 MIA He just told you what to do. 	72100000	Memorable
@@ -744,7 +744,7 @@ Heads to her ROOM. Revision 5. 	66400000	Memorable
 I'd never seen anything like it. 	66200000	Memorable
 COOPER Any sign of big life-forms? 	66100000	Memorable
 PETER FORENTE Abel, you know I respect everything you've done. ,	65900000	Memorable
-Let's use 'em. 	65800000	Memorable
+Let's use 'em. 	65800000	Not Memorable
 Can't wait to cut all this off. 	65800000	Memorable
 RYAN No sir, she's not. ,	65700000	Memorable
 KURT Bad move. 25. 	65500000	Memorable
@@ -768,7 +768,7 @@ You would not want to cross this woman. 	63800000	Memorable
 I will meet you at four. 	63600000	Memorable
 Had to go home. 	63600000	Memorable
 Who wants another round? 	63400000	Memorable
-And... 	63400000	Memorable
+And... 	63400000	Not Memorable
 And your kids know it, too. ,	63300000	Memorable
 ANNA Look at us...it is. 	63200000	Memorable
 And I can't shoot them if I can't see `em. 	63100000	Memorable
@@ -781,29 +781,29 @@ ARNOLD KLINE I know I am. 	62700000	Memorable
 RIGGAN And, what did you say? (CONTINUED) 10/29/14 / 14. ,	62300000	Memorable
 WALTER You have a good eye, sweetie. ,	62300000	Memorable
 LAURA Holy shit! When can I meet him? 	62200000	Memorable
-It won't look... 	62200000	Memorable
+It won't look... 	62200000	Not Memorable
 Inside-- "D" (into mike) --need a two block perimeter around the area. 	62100000	Memorable
 He can't move him at all. 	61700000	Memorable
 In it is SEBASTIAN, 32, L.A. native. ,	61700000	Memorable
-He can't keep up. 	61700000	Memorable
-ANNA ...I won't. 	61600000	Memorable
+He can't keep up. 	61700000	Not Memorable
+ANNA ...I won't. 	61600000	Not Memorable
 ABEL (looking to the dog) A lot of help you were. 	61500000	Memorable
 POE (CONT'D) We've got company. 	61500000	Memorable
 He steps back, realizing something. ,	61400000	Memorable
 You better wait outside; there're some things you shouldn't hear. 	61300000	Memorable
 They don't get the training we do. 	60800000	Memorable
-The other men follow. 	60700000	Memorable
+The other men follow. 	60700000	Not Memorable
 MIA Why did you come here? 	60500000	Memorable
 SEBASTIAN What did you think I was going to do? 	60300000	Memorable
-MARK (ON PHONE) Okay... 	60200000	Memorable
-MARK (ON PHONE) Yeah. 	60100000	Memorable
-Maybe run for office. 	60000000	Memorable
+MARK (ON PHONE) Okay... 	60200000	Not Memorable
+MARK (ON PHONE) Yeah. 	60100000	Not Memorable
+Maybe run for office. 	60000000	Not Memorable
 GLASS (BEAT) He thinks he let me die. 	60000000	Memorable
 Show me what you want me to look at. 	59700000	Memorable
 WALTER What's wrong...? 	59400000	Memorable
 Except for you, of course. 44. ,	59300000	Memorable
 SAM Use your head Reggie. 	59300000	Memorable
-I'm coming. 	59100000	Memorable
+I'm coming. 	59100000	Not Memorable
 BRAND I won't. 	59100000	Memorable
 And it won't be as a cheat. 	59100000	Memorable
 BRAND I won't need one. 	59100000	Memorable
@@ -815,7 +815,7 @@ CASE I don't know. 	58400000	Memorable
 COOPER Long way to come by bus. 	58200000	Memorable
 HAN You okay, Big deal? ,	58200000	Memorable
 They'll clear all right. 	58200000	Memorable
-You? 	58100000	Memorable
+You? 	58100000	Not Memorable
 I'm in charge now, Phasma. ,	58100000	Memorable
 COOPER No. I want to know. 	58000000	Memorable
 How you feeling? (03.18.14) 15. 	58000000	Memorable
@@ -829,7 +829,7 @@ WALTER Why, thank you...! Thank you so much! 24. ,	57600000	Memorable
 We can't agree anymore. 	57600000	Memorable
 CASE We have to go down. 	57500000	Memorable
 We'll miss the train. 	57400000	Memorable
-You. 	57400000	Memorable
+You. 	57400000	Not Memorable
 I didn't see any option, so I went along. ,	57400000	Memorable
 FITZGERALD We run. 	57100000	Memorable
 Discover what you're made of. 	57000000	Memorable
@@ -840,14 +840,14 @@ His face shows it probably isn't great news. 	56900000	Memorable
 It's better that they don't know. 	56900000	Memorable
 Be easier on us all if you'd take that last breath. 	56800000	Memorable
 Guard doesn't see it-- "D" Hold. 	56800000	Memorable
-It's a duck. 	56700000	Memorable
+It's a duck. 	56700000	Not Memorable
 MARK (ON PHONE) It's Mark. 	56700000	Memorable
 All kinds of things. 	56600000	Memorable
 SAM (CONT'D) You watch all the other customers order before you do... 	56600000	Memorable
 JOHNNY It's too late. 	56400000	Memorable
 Mark looks around the room. 	56400000	Memorable
 I don't need you worrying. 	56400000	Memorable
-Big. 	56300000	Memorable
+Big. 	56300000	Not Memorable
 You're my first date in a long time... 	56200000	Memorable
 It's a beautiful sight. 	56200000	Memorable
 LAWRENCE Like enter a new market? 	56200000	Memorable
@@ -858,7 +858,7 @@ HENRY What if it's `Ree? 	55700000	Memorable
 TROY You're not going to go with me? 	55700000	Memorable
 MARGARET I won't. 	55700000	Memorable
 There are three people in his car. 	55400000	Memorable
-Ok? How's Dad? 	55300000	Memorable
+Ok? How's Dad? 	55300000	Not Memorable
 It's his daughter. 	55300000	Memorable
 SEBASTIAN How's the play going? 	55200000	Memorable
 Not know what they take from you. 	55200000	Memorable
@@ -869,7 +869,7 @@ Yo this is how we get down. 	55000000	Memorable
 I would never do that. 	55000000	Memorable
 You have to talk some sense into him. 	55000000	Memorable
 An old jazz track. 	54900000	Memorable
-Looks down at BB-8. 	54900000	Memorable
+Looks down at BB-8. 	54900000	Not Memorable
 HAGEN They'll cut the cake in a few minutes...leave right after that. 	54900000	Memorable
 Just like our student ID numbers. 	54900000	Memorable
 It's all there ever is to it. 	54900000	Memorable
@@ -882,8 +882,8 @@ You said it would be fun... (CONTINUED) 10/29/14 / 11. 	54600000	Memorable
 Just train with me. 	54500000	Memorable
 We'll meet back here. 	54500000	Memorable
 BERNSTEIN Who else you been to see? 	54500000	Memorable
-We miss you. 	54500000	Memorable
-I got the top. 	54400000	Memorable
+We miss you. 	54500000	Not Memorable
+I got the top. 	54400000	Not Memorable
 ANNA And you're going out to check on the new house? 	54400000	Memorable
 GIRL What do they say? 	54400000	Memorable
 CHRIS I don't want you thinking about it. 	54300000	Memorable
@@ -891,7 +891,7 @@ ON HAN'S FACE, knowing exactly what's about to happen. ,	54200000	Memorable
 Get off the board bro. 	54200000	Memorable
 You're right back in the mess. 	54200000	Memorable
 We feel this around the room. 	54200000	Memorable
-I'm not that kind of person. 	54200000	Memorable
+I'm not that kind of person. 	54200000	Slightly Memorable
 Glass swings up onto his horse. 	54100000	Memorable
 I would love you to help on this. 	54100000	Memorable
 SNIPERS and SUPPORT cross an orchard. (03.18.14) 27. 	54100000	Memorable
@@ -899,19 +899,19 @@ CLOSE ON BUTCHER (03.18.14) 100. 	54100000	Memorable
 BONASERA America has made my fortune. 	54000000	Memorable
 An open window. 	54000000	Memorable
 FITZGERALD What'd you say, kid? ,	54000000	Memorable
-Do you want to come in? 	54000000	Memorable
-NANCY You can leave. 	54000000	Memorable
+Do you want to come in? 	54000000	Not Memorable
+NANCY You can leave. 	54000000	Not Memorable
 I want to be free of this pain. 	54000000	Memorable
 Where's he going? 	54000000	Memorable
 But this is like a master key. (MORE) 100. 	53900000	Memorable
-BRAND And go where? 	53900000	Memorable
-Make it sound good. 	53900000	Memorable
+BRAND And go where? 	53900000	Not Memorable
+Make it sound good. 	53900000	Not Memorable
 SUNGMI But what about just being you? 	53900000	Memorable
 PRINCIPAL One more thing. 	53900000	Memorable
 MARGARET It's too big. 	53800000	Memorable
 Your stuff's so hot, go put it in a museum. 22. ,	53800000	Memorable
 You got like 24 confirmed kills. 	53800000	Memorable
-You got a name? 	53800000	Memorable
+You got a name? 	53800000	Not Memorable
 CHRIS What do we got? 	53800000	Memorable
 Not the way I think you want it - by your way. 	53800000	Memorable
 No. I need to be getting back. 	53700000	Memorable
@@ -920,13 +920,13 @@ SEBASTIAN I don't buy it. 	53600000	Memorable
 HAGEN (quietly) I was as good a son to him as you or Mike. 	53600000	Memorable
 ANNA It's horrible. 	53600000	Memorable
 MARGARET And how do you know...? 	53500000	Memorable
-And into a room... 	53500000	Memorable
+And into a room... 	53500000	Not Memorable
 Not for more than a few billionths of a second. 	53500000	Memorable
 DOYLE How do you know that? 	53500000	Memorable
 MARTIN You should be so lucky. 	53500000	Memorable
 GEORGIE Is everything the way you want it, dear? ,	53500000	Memorable
 TAYA (harbors doubt) How do you know? 	53500000	Memorable
-Go pick one. 	53400000	Memorable
+Go pick one. 	53400000	Not Memorable
 Only God could make those colors. 	53300000	Memorable
 Right to left, or left to right? ,	53300000	Memorable
 FITZGERALD Bring it over here for me to have a look. 	53200000	Memorable
@@ -938,7 +938,7 @@ ABEL Well, it makes a difference to me. 20 A.D.A. ,	52900000	Memorable
 May their first child...be a masculine child. 	52900000	Memorable
 MARGARET Did she just move in?? 	52800000	Memorable
 CHRIS That's a shitty thing to tell a girl. 	52700000	Memorable
-We all got it. 	52700000	Memorable
+We all got it. 	52700000	Not Memorable
 Just hang on-- (03.18.14) 87. 	52700000	Memorable
 TIPSY LADY Your work is very powerful. 	52700000	Memorable
 I'm done. (03.18.14) 24. 	52600000	Memorable
@@ -997,7 +997,7 @@ SOLLOZZO That's going to be his first reaction. 	51400000	Memorable
 KEANE" flecks off. 	51400000	Memorable
 Is Danny here? 	51400000	Memorable
 Besides, the boys could do with a woman in their lives. ,	51400000	Memorable
-TOM We lost it. 	51400000	Memorable
+TOM We lost it. 	51400000	Not Memorable
 CHRIS To be honest, you look a little sad. ,	51300000	Memorable
 She lights up. 	51300000	Memorable
 JULIAN Fuck you. 	51300000	Memorable
@@ -1008,14 +1008,14 @@ And those words stop everything. ,The Trappers all turn from their game. ,	51200
 She lights up. 	51200000	Memorable
 Did you tell Kelly the diamond was from Zales? 	51200000	Memorable
 You take care of Sonny and the other two kids. 	51100000	Memorable
-Call. 	51000000	Memorable
+Call. 	51000000	Not Memorable
 What's your best friend Reggie think? 	51000000	Memorable
 Then a VOICE: D.J. (O.S.) Oh yeah! We got a special guest today. 	51000000	Memorable
 TOM They said I can start an agriculture class a year early. 	50900000	Memorable
 MARK I'm not the one frigging smoking. 42. 	50900000	Memorable
 And after all that, your kid throws a Blackface party? ,	50900000	Memorable
 CANADAY No. But that doesn't make it art either. 	50800000	Memorable
-It's cold out. 	50800000	Memorable
+It's cold out. 	50800000	Not Memorable
 The best move is always to cooperate at first. 	50800000	Memorable
 Moving by her, into a dressing room. ,	50800000	Memorable
 Does everything for one. 	50600000	Memorable
@@ -1061,18 +1061,18 @@ ANNA Well, that went about as well as could be expected. ,	48800000	Memorable
 I didn't mean to take you away. 	48800000	Memorable
 ABEL Within my business it has that potential. 	48700000	Memorable
 Reggie hides his from view as he punches something in. 	48700000	Memorable
-Cute little thing. 	48600000	Memorable
+Cute little thing. 	48600000	Not Memorable
 It's been nine months. 	48600000	Memorable
 CHRIS They're all like that. 	48600000	Memorable
 LOR SAN TEKKA You have to leave. 	48500000	Memorable
-One... 	48500000	Memorable
+One... 	48500000	Not Memorable
 WALTER I figured out a solution to our problems. 	48400000	Memorable
 RIGGAN Okay, let me-- MIKE Come on. ,	48300000	Memorable
 Then -- an IDENTICAL girl SLAPS in front of the first one. 	48200000	Memorable
-Nice talking to you. 	48200000	Memorable
+Nice talking to you. 	48200000	Not Memorable
 The Tattaglia family's going to eat dirt. 	48200000	Memorable
 Also don't forget to pick your office hours. 	48200000	Memorable
-Some. 	48000000	Memorable
+Some. 	48000000	Not Memorable
 For several seconds, they look at each other. ,	48000000	Memorable
 The Manager takes it from her. 	47800000	Memorable
 ANSEN What did they say? 	47700000	Memorable
@@ -1082,7 +1082,7 @@ As they reach the first ship in the line, we get a better look. ,	47400000	Memor
 GLASS All I need is a horse and enough supplies to... 	47400000	Memorable
 WALTER Well, I don't know about forever. ,	47300000	Memorable
 MARK Well, I mean, I am. ,	47200000	Memorable
-Now? 	47200000	Memorable
+Now? 	47200000	Not Memorable
 The Manager takes it from her. 	47200000	Memorable
 He's not going to win this one. 	47000000	Memorable
 There is a new sign on the side of the building below. 	47000000	Memorable
@@ -1102,20 +1102,20 @@ DON CORLEONE Will your girl friend get back to the city all right? 	46300000	Mem
 You're supposed to train her voice. 	46100000	Memorable
 Some of you...none of you probably know me. 	46100000	Memorable
 You have to make the peace between me and Santino. 	45900000	Memorable
-The sun has just about gone down. 	45900000	Memorable
+The sun has just about gone down. 	45900000	Not Memorable
 MICHAEL Is it like they say? 	45900000	Memorable
 The previous game is over. 	45900000	Memorable
 BOSS Your welcome. 	45800000	Memorable
 Do whatever they say; I'm going over to the main house. 	45700000	Memorable
 LAURA I don't have a life. 	45700000	Memorable
-She was so - BERNSTEIN Sure, sure. ,	45700000	Memorable
+She was so - BERNSTEIN Sure, sure. ,	45700000	Not Memorable
 They rush past him. 	45600000	Memorable
 I'm not even really into Black dudes anyway. 	45600000	Memorable
 Because at the time it's easier. 	45600000	Memorable
-BOSS Your welcome. 	45600000	Memorable
+BOSS Your welcome. 	45600000	Not Memorable
 SEBASTIAN I don't think we can do anything. 	45500000	Memorable
 RAYMOND (callously) That's the whole works, right up to date. ,	45500000	Memorable
-Continue. 	45500000	Memorable
+Continue. 	45500000	Not Memorable
 So your husband approves of you working? 	45400000	Memorable
 I'm fine. 	45400000	Memorable
 PRESIDENT FLETCHER Free speech my ass. 	45300000	Memorable
@@ -1127,7 +1127,7 @@ COOPER What does that have to do with anything? 	45000000	Memorable
 LAURA Don't get him started, Mel. ,	45000000	Memorable
 I don't want you uncomfortable and trying to change this into something it's not. 	44900000	Memorable
 He starts out of the room, followed by Leland. ,	44900000	Memorable
-You'll do fine. 	44900000	Memorable
+You'll do fine. 	44900000	Not Memorable
 See -- this is why I need your help! I want to go on tv, to defend our art. ,	44900000	Memorable
 AT THE BAR TONY bowls up; once their instructor, now their Chief. "D" What's the word, Chief? ,	44900000	Memorable
 The kid went out and got his own gun. 	44800000	Memorable
@@ -1144,7 +1144,7 @@ BRAND Maybe we could work with it. 	44200000	Memorable
 TROY That what you want? 	44100000	Memorable
 If you find her, tell her to head back. ,	44000000	Memorable
 DEAN FAIRBANKS We know you were planning this. 	43900000	Memorable
-TROY Get it yet? 	43800000	Memorable
+TROY Get it yet? 	43800000	Not Memorable
 He is not a member of the Society of Western Artists. 	43800000	Memorable
 LAWRENCE I know it does. 	43600000	Memorable
 FIVE MEN IN BALACLAVAS stand over an AMERICAN HOSTAGE in an orange jumpsuit. 	43500000	Memorable
@@ -1175,7 +1175,7 @@ To have one more shot? 	42200000	Memorable
 CHRIS Well in that case... what's your name? 	42000000	Memorable
 Don't go out there, that's the street. ,	41900000	Memorable
 JOSEPH I want you to know this up front. 	41900000	Memorable
-You'll do great. 	41800000	Memorable
+You'll do great. 	41800000	Slightly Memorable
 The next canvas! They all are signed "S. 	41800000	Memorable
 All the lights are lit. 	41800000	Memorable
 MIKE Did you just give me water? 	41800000	Memorable
@@ -1184,20 +1184,20 @@ Does she like jazz? 	41700000	Memorable
 SAM How am I supposed to know how you feel about me? 	41700000	Memorable
 He reviews her goods. 	41600000	Memorable
 ANNA I understand you and your men have a job to do here. 	41600000	Memorable
-Help. 	41600000	Memorable
+Help. 	41600000	Not Memorable
 BERNSTEIN But please, Mr. Kane, don't buy any more paintings. ,	41600000	Memorable
-Help. 	41600000	Memorable
+Help. 	41600000	Not Memorable
 I do it because I like it. 	41500000	Memorable
 COOPER (CONT'D) I can't help you. 	41500000	Memorable
-See? 	41300000	Memorable
+See? 	41300000	Not Memorable
 Do you have any idea what happens if you get caught using that thing? 	41200000	Memorable
 RIGGAN (Joking.) You're pretty sure it's mine? 	41100000	Memorable
 What are you saying? 	41000000	Memorable
-MIA I made something for you. 	41000000	Memorable
+MIA I made something for you. 	41000000	Not Memorable
 RIGGAN I'm fine. 	40800000	Memorable
 She holds still at first then gives in. 	40800000	Memorable
-CLICK... 	40800000	Memorable
-CLICK... 	40700000	Memorable
+CLICK... 	40800000	Not Memorable
+CLICK... 	40700000	Not Memorable
 There is a POUNDING on the door. 	40700000	Memorable
 CLICK... 	40700000	Memorable
 He heads out the door. 	40600000	Memorable
@@ -1205,10 +1205,10 @@ ANNA I'll be up. 	40600000	Memorable
 ANNA I'll be up. 	40600000	Memorable
 COOPER Maybe it's better for everyone to forget what they did back then. 	40600000	Memorable
 Close. 	40600000	Memorable
-Here. 	40500000	Memorable
+Here. 	40500000	Not Memorable
 I don't need savin' by you or nobody else. 	40500000	Memorable
 There is cold menace in his walk. 	40500000	Memorable
-Tars looks up. 	40500000	Memorable
+Tars looks up. 	40500000	Not Memorable
 SAM (O.S.) But you'd welcome it? 	40400000	Memorable
 KAY Would you like me better if I were a nun? 	40300000	Memorable
 MIA (glowing) I think so. 	40300000	Memorable
@@ -1252,7 +1252,7 @@ Yeah, I'm just leaving now... ,	38700000	Slightly Memorable
 We don't even know what they are bringing against us. 	38700000	Slightly Memorable
 We don't serve niggers. 	38600000	Slightly Memorable
 It was the right thing to do. 	38500000	Slightly Memorable
-Now. 	38300000	Slightly Memorable
+Now. 	38300000	Not Memorable
 EXT. COOPER'S HOUSE -- DAY The shriek is still muffled. 	38300000	Slightly Memorable
 Before... 	38300000	Slightly Memorable
 MARGARET What is going on here??! WALTER That's Lily. 	38300000	Slightly Memorable
@@ -1281,8 +1281,8 @@ TONY (looks them over) It's on boys. 	37300000	Slightly Memorable
 If they are in the street he will know we have spoken. 	37100000	Slightly Memorable
 They both stare out at the court for beat. 	37100000	Slightly Memorable
 I have to grab a drink... 	37000000	Slightly Memorable
-Music. 	37000000	Slightly Memorable
-Music. 	36900000	Slightly Memorable
+Music. 	37000000	Not Memorable
+Music. 	36900000	Not Memorable
 Emily does not answer. 	36900000	Slightly Memorable
 Wants you for parts. 	36900000	Slightly Memorable
 NURSE Here, let me take your arm, Mr. Leland. ,	36900000	Slightly Memorable
@@ -1301,7 +1301,7 @@ I had a very serious plan for my future. 	36400000	Slightly Memorable
 CHRIS Yes, sir. ,	36400000	Slightly Memorable
 GOAT You hear that? 	36300000	Slightly Memorable
 Why are we starving, while they print money? ,	36300000	Slightly Memorable
-Music. 	36200000	Slightly Memorable
+Music. 	36200000	Not Memorable
 Yeah, I'm just leaving now... ,	36200000	Slightly Memorable
 A8 We follow Mia INSIDE her room. 	36100000	Slightly Memorable
 He can HEAR THE KIDS in the background. 	36000000	Slightly Memorable
@@ -1310,9 +1310,9 @@ DAVE He's open to the left. 	35800000	Slightly Memorable
 KANE Then you have no alibi at all. 	35700000	Slightly Memorable
 From me you'll get Justice. 	35600000	Slightly Memorable
 I'll be in it, too, won't I? (quickly) And Junior? ,	35500000	Slightly Memorable
-CUT TO: I/E. 	35400000	Slightly Memorable
-CUT TO: I/E. 	35400000	Slightly Memorable
-CUT TO: I/E. 	35400000	Slightly Memorable
+CUT TO: I/E. 	35400000	Not Memorable
+CUT TO: I/E. 	35400000	Not Memorable
+CUT TO: I/E. 	35400000	Not Memorable
 SAM What are you doing in here? 	35400000	Slightly Memorable
 CUT TO: I/E. 	35400000	Slightly Memorable
 I can get the map from the girl. 	35300000	Slightly Memorable
@@ -1333,7 +1333,7 @@ RIGGAN I did. (CONTINUED) 10/29/14 / 18. 	34600000	Slightly Memorable
 Sadly, he may never be his old self again. ,	34600000	Slightly Memorable
 SEBASTIAN Not in my experience. 	34500000	Slightly Memorable
 MANAGER You'd better be here early tomorrow. 	34500000	Slightly Memorable
-REF ... 	34400000	Slightly Memorable
+REF ... 	34400000	Not Memorable
 Me! What about her? 	34400000	Slightly Memorable
 MIA So it's...the long haul? 	34300000	Slightly Memorable
 MARK You been calling me and hanging up? 	34300000	Slightly Memorable
@@ -1364,7 +1364,7 @@ CONTRACTOR That may be true. 	33200000	Slightly Memorable
 But it's local. 	33100000	Slightly Memorable
 Who's coming? 	33100000	Slightly Memorable
 They can't seem to get right. 	33100000	Slightly Memorable
-I do... 	33100000	Slightly Memorable
+I do... 	33100000	Not Memorable
 We're working off a new playbook now. 	33100000	Slightly Memorable
 That's a warning. 	33100000	Slightly Memorable
 It's dead. 	33100000	Slightly Memorable
@@ -1392,31 +1392,31 @@ SEBASTIAN I'm good. 	32500000	Slightly Memorable
 ABEL I would never take this. 	32500000	Slightly Memorable
 He pauses just long enough to think. 	32500000	Slightly Memorable
 It's 3 a.m. 	32500000	Slightly Memorable
-Please. 	32500000	Slightly Memorable
+Please. 	32500000	Not Memorable
 BIGGLES Whatever, man. ,	32400000	Slightly Memorable
 They see each other. 	32300000	Slightly Memorable
-Why don't you go get yourself a fudgesicle? 	32200000	Slightly Memorable
+Why don't you go get yourself a fudgesicle? 	32200000	Memorable
 He pauses just long enough to think. 	32200000	Slightly Memorable
 JANE Well you did a really good job. 	32200000	Slightly Memorable
-Yes. 	32100000	Slightly Memorable
+Yes. 	32100000	Not Memorable
 In a dark place. 	32100000	Slightly Memorable
 GORDON "The honeys?" You're from Vermont. 	32100000	Slightly Memorable
 Soon as you realize that, these others will too. ,	32000000	Slightly Memorable
 The dog takes off around a crumbled wall. 	31900000	Slightly Memorable
 Just got the call. 	31900000	Slightly Memorable
 A shot for school president. 	31900000	Slightly Memorable
-Magazine? 	31900000	Slightly Memorable
-Watching. 	31900000	Slightly Memorable
+Magazine? 	31900000	Not Memorable
+Watching. 	31900000	Not Memorable
 WALTER No -- I'm an artist. 	31800000	Slightly Memorable
 No way you could've handled it. 	31800000	Slightly Memorable
 Just then Lionel stands and before he can think... 	31800000	Slightly Memorable
 Moss, moss, moss. ,	31800000	Slightly Memorable
 TARS You will. 	31700000	Slightly Memorable
 And we need to close this deal. 	31700000	Slightly Memorable
-There's you. 	31700000	Slightly Memorable
+There's you. 	31700000	Not Memorable
 They come in together. 	31700000	Slightly Memorable
 ABEL You will. 	31700000	Slightly Memorable
-See? 	31600000	Slightly Memorable
+See? 	31600000	Not Memorable
 Pig and Anderson walk back into camp. 	31600000	Slightly Memorable
 They are not wearing masks. 	31600000	Slightly Memorable
 ANNA If you... 	31600000	Slightly Memorable
@@ -1455,7 +1455,7 @@ But the girls up at that place are... 	30600000	Slightly Memorable
 MIKE Follow me. 	30600000	Slightly Memorable
 Last guy wasn't as good as you. 	30600000	Slightly Memorable
 It was after the War. 	30500000	Slightly Memorable
-Everything. 	30500000	Slightly Memorable
+Everything. 	30500000	Not Memorable
 KAY What will your father say? 	30500000	Slightly Memorable
 I could sign it myself. 	30400000	Slightly Memorable
 Dauber shakes his head, he's not going to make it. ,	30400000	Slightly Memorable
@@ -1469,7 +1469,7 @@ OUTSIDE A car backfires. 	30200000	Slightly Memorable
 Fitzgerald, you and Anderson take west and north. ,	30200000	Slightly Memorable
 Now I'm going to lay all my cards on the table. 	30100000	Slightly Memorable
 I know these things. 	30100000	Slightly Memorable
-SAM My dad. 	30100000	Slightly Memorable
+SAM My dad. 	30100000	Not Memorable
 I don't ever want to see him again. 	30100000	Slightly Memorable
 They won't be there. 	30100000	Slightly Memorable
 SAM Want to know how this world sees you? 	30000000	Slightly Memorable
@@ -1480,7 +1480,7 @@ With that, he gets back into his car. ,	30000000	Slightly Memorable
 TROY I like you a lot. 	29900000	Slightly Memorable
 ANNA It will if we don't do something. 	29900000	Slightly Memorable
 MURPH You're not coming back, are you? ,	29900000	Slightly Memorable
-Michael ... 	29900000	Slightly Memorable
+Michael ... 	29900000	Not Memorable
 What color were you thinking? 	29800000	Slightly Memorable
 Well, what I'm interested in is seeing that he's not elected. ,	29800000	Slightly Memorable
 My brother Dave and me care about this more than we care about anything. 	29800000	Slightly Memorable
@@ -1488,7 +1488,7 @@ Takes Case's rifle and SMASHES one of the chips on the board. 	29800000	Slightly
 But can I tell you something? 	29700000	Slightly Memorable
 Don't get going on this. 	29600000	Slightly Memorable
 My mother and father were divorced when I was two years old. 	29600000	Slightly Memorable
-Over. 	29500000	Slightly Memorable
+Over. 	29500000	Not Memorable
 You remember that, Hugh? ,	29500000	Slightly Memorable
 She pulls out a blue dress. 	29500000	Slightly Memorable
 ABEL Where are you heading? 	29500000	Slightly Memorable
@@ -1496,9 +1496,9 @@ The TV is on. 	29300000	Slightly Memorable
 CHRIS You get what it gives you. 	29200000	Slightly Memorable
 COOPER You don't believe we went to the moon? 	29200000	Slightly Memorable
 Riggan slams the tv off, his mind racing. ,	29100000	Slightly Memorable
-Right now. 	29100000	Slightly Memorable
-All of us. 	29000000	Slightly Memorable
-Team. 	29000000	Slightly Memorable
+Right now. 	29100000	Not Memorable
+All of us. 	29000000	Not Memorable
+Team. 	29000000	Not Memorable
 DAVE You sure - ? 	29000000	Slightly Memorable
 The SALES KID stands up to shake his hand. 	28900000	Slightly Memorable
 Perhaps you'd like to write a letter to the editor. 	28900000	Slightly Memorable
@@ -1513,13 +1513,13 @@ SAM Think they'll let you in? 	28700000	Slightly Memorable
 GEORGE I hope so. 	28600000	Slightly Memorable
 It isn't much of a war. 	28600000	Slightly Memorable
 That is very close, a very sacred religious relationship. ,	28600000	Slightly Memorable
-All is good. 	28400000	Slightly Memorable
-CUT TO: I/E. 	28400000	Slightly Memorable
+All is good. 	28400000	Not Memorable
+CUT TO: I/E. 	28400000	Not Memorable
 TEAM THREE have seated the family; A PROTECTIVE FATHER hugs his BOY(6) as his WIFE frets. 	28400000	Slightly Memorable
 CUT TO: I/E. 	28300000	Slightly Memorable
 We only had each other. 	28300000	Slightly Memorable
 That's hot. 	28300000	Slightly Memorable
-Over. 	28300000	Slightly Memorable
+Over. 	28300000	Not Memorable
 WALTER Ah! It's my art supplies. 	28300000	Slightly Memorable
 Students look at each other stunned. 	28300000	Slightly Memorable
 DOCTOR HOFFSTADER How you feeling? 	28200000	Slightly Memorable
@@ -1535,13 +1535,13 @@ Go after the people that knew Kane well. 	28000000	Slightly Memorable
 SAM You call me the minute there's an update. 	28000000	Slightly Memorable
 Kane is standing at the other side of the desk looking down on him. 	28000000	Slightly Memorable
 But far more time will be passing back home. 	28000000	Slightly Memorable
-We all are. 	27900000	Slightly Memorable
+We all are. 	27900000	Not Memorable
 PIG I can feel some air outta his mouth. 	27900000	Slightly Memorable
 Even though you don't know who I am? 	27900000	Slightly Memorable
 LAWRENCE Well yes and no. 	27900000	Slightly Memorable
 SUSAN Ow! KANE What's the matter with you? 	27900000	Slightly Memorable
 RIGGAN What are you talking about? 	27900000	Slightly Memorable
-Learning. 	27800000	Slightly Memorable
+Learning. 	27800000	Not Memorable
 SEBASTIAN Yes you are. 	27800000	Slightly Memorable
 You see, I have money and property - Thatcher doesn't understand him. ,	27800000	Slightly Memorable
 They see her Prius. 	27800000	Slightly Memorable
@@ -1554,9 +1554,9 @@ I'm going to put it on myself. 	27500000	Slightly Memorable
 MIA But do you think people will like it? 	27500000	Slightly Memorable
 Rose. 	27500000	Slightly Memorable
 Can I speak with you outside? 	27500000	Slightly Memorable
-We all are. 	27400000	Slightly Memorable
+We all are. 	27400000	Not Memorable
 Brand steps back. 	27400000	Slightly Memorable
-Again. 	27400000	Slightly Memorable
+Again. 	27400000	Not Memorable
 I wanna make it home. 	27300000	Slightly Memorable
 RIGGAN I am. 	27300000	Slightly Memorable
 EMILY Have they heard from father yet? 	27200000	Slightly Memorable
@@ -1646,24 +1646,24 @@ Right? 	25500000	Slightly Memorable
 What's the man? 	25500000	Slightly Memorable
 HAN There's a little bit more to it than that. 	25500000	Slightly Memorable
 It's all lies. 	25400000	Slightly Memorable
-But... 	25400000	Slightly Memorable
-But... 	25400000	Slightly Memorable
+But... 	25400000	Not Memorable
+But... 	25400000	Not Memorable
 It's du Pont. 	25400000	Slightly Memorable
 COCO I am. 	25300000	Slightly Memorable
 THOMPSON Well - it's become a very clear picture. 	25300000	Slightly Memorable
-Fun. 	25300000	Slightly Memorable
+Fun. 	25300000	Not Memorable
 It's dialogue. 	25200000	Slightly Memorable
-CHRIS I am... 	25200000	Slightly Memorable
+CHRIS I am... 	25200000	Not Memorable
 KARA Stay away from her, you bastard. ,	25100000	Slightly Memorable
 JOHN ... 	25100000	Slightly Memorable
-Fun. 	25100000	Slightly Memorable
-It's dead. 	25100000	Slightly Memorable
+Fun. 	25100000	Not Memorable
+It's dead. 	25100000	Memorable
 The kind of love I'm talking about is absolute. 	25100000	Slightly Memorable
 Don't you forget that. 	25000000	Slightly Memorable
 MIA Do you like the music you're playing? 	25000000	Slightly Memorable
 Piano, look down at the keys. ,	25000000	Slightly Memorable
 You and your family. 	25000000	Slightly Memorable
-Oh... 	25000000	Slightly Memorable
+Oh... 	25000000	Not Memorable
 MARGARET I believe things can be seen in eyes. 	24900000	Slightly Memorable
 ABEL You just said you've done what you needed to... so what was it that you've done? 	24900000	Slightly Memorable
 DAVE You know, Nancy and the kids are here. ,	24900000	Slightly Memorable
@@ -1672,13 +1672,13 @@ And I like who you are. 	24800000	Slightly Memorable
 SONNY (angry) That's easy to say; it's not your father. 	24800000	Slightly Memorable
 How you holding up? 	24700000	Slightly Memorable
 GLASS We best pick up our pace. 	24700000	Slightly Memorable
-Stories. 	24700000	Slightly Memorable
+Stories. 	24700000	Not Memorable
 You are looking backward. 	24600000	Slightly Memorable
 I can find something else that I'm supposed to do. 	24600000	Slightly Memorable
 What are you, my grandmother? ,	24600000	Slightly Memorable
 PRIEST'S VOICE No, no! Please. ,	24500000	Slightly Memorable
 MARGARET What time is it? 	24500000	Slightly Memorable
-Oh... 	24500000	Slightly Memorable
+Oh... 	24500000	Not Memorable
 WOLTZ Okay, but just tell him this is one favor I can't give. ,	24500000	Slightly Memorable
 ABEL I did. 	24500000	Slightly Memorable
 MARGARET Well... he's more established. 	24500000	Slightly Memorable
@@ -1696,7 +1696,7 @@ Water. 	24300000	Slightly Memorable
 CHRIS Yes, ma'am. ,	24300000	Slightly Memorable
 ABEL I did. 	24300000	Slightly Memorable
 It's a movement. 	24200000	Slightly Memorable
-Mark. 	24200000	Slightly Memorable
+Mark. 	24200000	Not Memorable
 JULIAN Thank you. 	24200000	Slightly Memorable
 RIGGAN Thank you. 	24200000	Slightly Memorable
 Of course, the music, swelling and building, suggests otherwise. ,	24200000	Slightly Memorable
@@ -1711,7 +1711,7 @@ He was just-- IN THE STREET Chris falters forward. 	24100000	Slightly Memorable
 SCHOOL SECRETARY Twenty... and... no one-hundreds... 	24100000	Slightly Memorable
 The two of them look around the room. 	24100000	Slightly Memorable
 LOR SAN TEKKA "The General." To me, she's royalty. ,	24000000	Slightly Memorable
-Water? 	24000000	Slightly Memorable
+Water? 	24000000	Not Memorable
 Her face is set and impassive. 	24000000	Slightly Memorable
 They walk up and ring the bell. 	23900000	Slightly Memorable
 KANE (referring to the staff; with a smile) Ask them to sit down, Mr. Bernstein. ,	23900000	Slightly Memorable
@@ -1723,12 +1723,12 @@ They're gonna fix my face though. 	23700000	Slightly Memorable
 The bulldog's just gone to press. 	23600000	Slightly Memorable
 They look at each other and then out over the city. 	23600000	Slightly Memorable
 COOPER Strange place to look for a new home. 	23500000	Slightly Memorable
-Look. 	23500000	Slightly Memorable
+Look. 	23500000	Not Memorable
 THOMPSON Yes, and maybe he didn't. ,	23500000	Slightly Memorable
 The other men just watch in silence, not sure what the hell's going on. ,	23500000	Slightly Memorable
 I feel like I haven't seen them in days. 	23500000	Slightly Memorable
 RIGGAN He is? 	23500000	Slightly Memorable
-Mark. 	23500000	Slightly Memorable
+Mark. 	23500000	Not Memorable
 The ref takes each of their hands. 	23500000	Slightly Memorable
 And then, at the end of the month, this big shot will give you the part you want. ,	23400000	Slightly Memorable
 A long beat, then... ,	23400000	Slightly Memorable
@@ -1741,15 +1741,15 @@ GLASS Don't ask me. 	23100000	Slightly Memorable
 TAYA (OS) Where are you? 	23100000	Slightly Memorable
 The Man gestures. 	23100000	Slightly Memorable
 It's about 8 o'clock at night. 	23100000	Slightly Memorable
-Really we are. 	23100000	Slightly Memorable
-He goes down. 	23000000	Slightly Memorable
+Really we are. 	23100000	Not Memorable
+He goes down. 	23000000	Not Memorable
 ANNA Are you okay? 	23000000	Slightly Memorable
 CHRIS Tell him that's very generous of him. 	23000000	Slightly Memorable
 No, you can't -- you have to go back, you're too important. ,	22900000	Slightly Memorable
-I'm not sure... 	22900000	Slightly Memorable
+I'm not sure... 	22900000	Not Memorable
 Troy hates this game. 	22800000	Slightly Memorable
 ANDREW opens it and gives it a once over. 	22800000	Slightly Memorable
-Done. 	22800000	Slightly Memorable
+Done. 	22800000	Not Memorable
 The video cuts out. 	22800000	Slightly Memorable
 Kurt's alright. 	22800000	Slightly Memorable
 THE BOY'S MOM runs over. 	22800000	Slightly Memorable
@@ -1763,12 +1763,12 @@ CONTRACTOR We are. 	22700000	Slightly Memorable
 KANE I'll go with you. 	22700000	Slightly Memorable
 We are quits. 	22600000	Slightly Memorable
 That can not and will not continue. 	22600000	Slightly Memorable
-Hard. 	22600000	Slightly Memorable
+Hard. 	22600000	Not Memorable
 But he's too wobbly -- and falls. 	22600000	Slightly Memorable
 That can not and will not continue. 	22600000	Slightly Memorable
 HENRY Go get the others. 	22600000	Slightly Memorable
 There is nothing there for you to gain. 	22600000	Slightly Memorable
-Well... 	22500000	Slightly Memorable
+Well... 	22500000	Not Memorable
 BRIDGER I'll look after him. 	22500000	Slightly Memorable
 DOCTOR He was moved here after they found you. 	22500000	Slightly Memorable
 I don't care what anybody says. 	22500000	Slightly Memorable
@@ -1776,8 +1776,8 @@ Tars looks back, deadpan. ,	22500000	Slightly Memorable
 BRIDGER Thank you... for what you done back there. 	22500000	Slightly Memorable
 COOPER You know how plants don't usually move? 	22500000	Slightly Memorable
 KURT Once I heard what the group was planning, I sent out an email to the staff to cancel it. ,	22500000	Slightly Memorable
-Hard. 	22500000	Slightly Memorable
-Fast. 	22500000	Slightly Memorable
+Hard. 	22500000	Not Memorable
+Fast. 	22500000	Not Memorable
 JOHN (continuing; mutters) Work all day and not even any supper ... 	22500000	Slightly Memorable
 Cooper looks back. 	22500000	Slightly Memorable
 Secure the van. 	22500000	Slightly Memorable
@@ -1787,15 +1787,15 @@ RAWLSTON Ask the question anyway, Thompson! Build the picture around the questio
 Fire the engines. 	22400000	Slightly Memorable
 MIA I mean with the band, the travel, all of it. ,	22400000	Slightly Memorable
 You'll be leaving on Number Ten. 	22400000	Slightly Memorable
-Well... 	22400000	Slightly Memorable
-Tonight. 	22300000	Slightly Memorable
+Well... 	22400000	Not Memorable
+Tonight. 	22300000	Not Memorable
 COOPER (shakes his head) The plan. 	22300000	Slightly Memorable
 A small fire burns. 	22300000	Slightly Memorable
 We'll figure out what to do with you later. 	22300000	Slightly Memorable
-Michael... 	22200000	Slightly Memorable
+Michael... 	22200000	Not Memorable
 It's not for the world. 	22200000	Slightly Memorable
 Not this place. 	22200000	Slightly Memorable
-Michael ... 	22200000	Slightly Memorable
+Michael ... 	22200000	Not Memorable
 He is in a sunlit room. 	22200000	Slightly Memorable
 And I think it's time you get off the board bro. 	22200000	Slightly Memorable
 What about the information onboard? 	22100000	Slightly Memorable
@@ -1823,7 +1823,7 @@ CHRIS (nostalgic) Teams and shit. "D" (a beat) That Biggles news hit hard. 	2170
 PIG And the Captain found the money gone. 	21700000	Slightly Memorable
 Bullets sing past. 	21700000	Slightly Memorable
 Is he serious? 	21700000	Slightly Memorable
-Working. 	21700000	Slightly Memorable
+Working. 	21700000	Not Memorable
 JAMIE (V.O.) It's ... 	21600000	Slightly Memorable
 HIGH ROLLER #1 Weak stomach, Mr. Zerga? ,	21600000	Slightly Memorable
 COOPER If we're such a liability, why take us along? ,	21600000	Slightly Memorable
@@ -1831,7 +1831,7 @@ REGGIE Why you got to snap at me all the time? 	21600000	Slightly Memorable
 He will die alone. 	21600000	Slightly Memorable
 The hand closes. 	21600000	Slightly Memorable
 I have nothing. 	21500000	Slightly Memorable
-David!... 	21500000	Slightly Memorable
+David!... 	21500000	Not Memorable
 LELAND Oh, yes. ,	21500000	Slightly Memorable
 She looks up with a small but sweet smile. 	21500000	Slightly Memorable
 MIA ...Hi. (then) What are you doing here? 	21500000	Slightly Memorable
@@ -1841,7 +1841,7 @@ She looks up with a small but sweet smile. 	21500000	Slightly Memorable
 Coco's phone buzzes with a message. 	21500000	Slightly Memorable
 Maybe I should have. 	21500000	Slightly Memorable
 We always have. 39. 	21500000	Slightly Memorable
-Slow. 	21400000	Slightly Memorable
+Slow. 	21400000	Not Memorable
 He is frightened. 	21400000	Slightly Memorable
 They all land somewhere big, some before they even graduate. ,	21400000	Slightly Memorable
 On the job training. 	21400000	Slightly Memorable
@@ -1851,7 +1851,7 @@ The place is rusting and could use some work. 	21400000	Slightly Memorable
 He keeps going. 	21400000	Slightly Memorable
 Margaret is good. 	21400000	Slightly Memorable
 RIGGAN I don't want to look at it anymore. 	21400000	Slightly Memorable
-Do you? 	21400000	Slightly Memorable
+Do you? 	21400000	Not Memorable
 He is baffled. 	21300000	Slightly Memorable
 Understand? 	21300000	Slightly Memorable
 Love those dice. 	21300000	Slightly Memorable
@@ -1868,7 +1868,7 @@ MIA Can I borrow what you're wearing? 	21100000	Slightly Memorable
 BRAND What would be the point? 	21100000	Slightly Memorable
 He calls you white satan, devil of Ramadi. ,	21100000	Slightly Memorable
 Not even close. 	21100000	Slightly Memorable
-Remember... 	21100000	Slightly Memorable
+Remember... 	21100000	Not Memorable
 During the entire course of this scene, nobody's face is really seen. ,	21100000	Slightly Memorable
 He was the one that let them build these tanks here. 	21100000	Slightly Memorable
 He opens it and takes out the small gun. 	21100000	Slightly Memorable
@@ -1882,8 +1882,8 @@ He looks miserable. 	21000000	Slightly Memorable
 I just want to say... 	21000000	Slightly Memorable
 MIA Can I borrow what you're wearing? 	21000000	Slightly Memorable
 Playing music, getting paid for it. ,	21000000	Slightly Memorable
-D.J. 	21000000	Slightly Memorable
-D.J. 	21000000	Slightly Memorable
+D.J. 	21000000	Not Memorable
+D.J. 	21000000	Not Memorable
 He gets off. 	20900000	Slightly Memorable
 SAUL Say we do all that. 	20900000	Slightly Memorable
 D.J. 	20900000	Slightly Memorable
@@ -1901,11 +1901,11 @@ He looks up to the tops of the trees, then back at the new house. ,	20700000	Sli
 Time is now. 	20600000	Slightly Memorable
 GEORGE Did we go too far? 	20600000	Slightly Memorable
 I think so. 31. 	20600000	Slightly Memorable
-Then. 	20500000	Slightly Memorable
+Then. 	20500000	Not Memorable
 He begins to cry. 	20500000	Slightly Memorable
 He barely made it through. 	20500000	Slightly Memorable
-Then... 	20500000	Slightly Memorable
-Thanks... 	20500000	Slightly Memorable
+Then... 	20500000	Not Memorable
+Thanks... 	20500000	Not Memorable
 WOMAN #2 (O.S.) Hi, I'm trying to reach Mia Dolan. ,	20500000	Slightly Memorable
 MARK I didn't realize he was married. 	20500000	Slightly Memorable
 Not until now. 	20500000	Slightly Memorable
@@ -1915,12 +1915,12 @@ HAN You might need this. 	20400000	Slightly Memorable
 WOMAN #2 (O.S.) -- She's not answering her cell and I was told I might find her here. 	20400000	Slightly Memorable
 SOFIA I don't have to be. 	20400000	Slightly Memorable
 But I'm going to write a good story, okay? ,	20400000	Slightly Memorable
-Fuck. 	20300000	Slightly Memorable
+Fuck. 	20300000	Memorable
 Then -- SEBASTIAN Your play's incredible. 	20300000	Slightly Memorable
 It's not very robust. (looks at Case) No offense. 	20300000	Slightly Memorable
 WOMAN #2 (O.S.) -- please tell her Jane at Amy Brandt Casting is trying to reach her. 	20300000	Slightly Memorable
 Mark has no idea what that means, but nods his head. ,	20200000	Slightly Memorable
-Focus. 	20200000	Slightly Memorable
+Focus. 	20200000	Not Memorable
 WAYNE (VO) You know your purpose. 	20200000	Slightly Memorable
 Here I am. 	20200000	Slightly Memorable
 MICHAEL For dinner. 	20200000	Slightly Memorable
@@ -1941,7 +1941,7 @@ TIPSY MAN We got in early. 	19800000	Slightly Memorable
 Nineteen. 	19800000	Slightly Memorable
 You gave me a very good chance. 	19800000	Slightly Memorable
 The DON is silent, stern. ,	19700000	Slightly Memorable
-Singing. 	19700000	Slightly Memorable
+Singing. 	19700000	Not Memorable
 This comes back to me. 	19700000	Slightly Memorable
 She's an hour-and-a-half walk from her place. 	19700000	Slightly Memorable
 KANE Do you like poetry, Raymond? ,	19700000	Slightly Memorable
@@ -1978,15 +1978,15 @@ He would like to rip the phone to pieces in his bare hands. 	19200000	Slightly M
 You walk around like you are saving the world but what are you doing... nothing! This stings. 	19200000	Slightly Memorable
 Leading. 	19200000	Slightly Memorable
 LIONEL You wanted me to drop in and tell you how the story was coming? 	19200000	Slightly Memorable
-Sorry. 	19200000	Slightly Memorable
-Sure. 	19100000	Slightly Memorable
-Really? 	19100000	Slightly Memorable
+Sorry. 	19200000	Not Memorable
+Sure. 	19100000	Not Memorable
+Really? 	19100000	Not Memorable
 They speak when they should listen. 	19100000	Slightly Memorable
 Disbelief on Mia's face. 	19000000	Slightly Memorable
-Him? 	19000000	Slightly Memorable
+Him? 	19000000	Not Memorable
 How haven't we staffed you yet? 	19000000	Slightly Memorable
 I guess that's why you ran away from Emily. 	18900000	Slightly Memorable
-Really. 	18900000	Slightly Memorable
+Really. 	18900000	Not Memorable
 CHRIS You ever hunt? 	18800000	Slightly Memorable
 Loomis's words fall on him like a death sentence. 	18800000	Slightly Memorable
 CHRIS MESSAGE (VO Tell the kids I love them. 	18800000	Slightly Memorable
@@ -1994,41 +1994,41 @@ Make the arrangements. 	18800000	Slightly Memorable
 I won't put up with it. 	18800000	Slightly Memorable
 SEBASTIAN It turns your head into an antenna. 	18700000	Slightly Memorable
 CHRIS But she was right... 	18700000	Slightly Memorable
-Fly. 	18700000	Slightly Memorable
+Fly. 	18700000	Not Memorable
 MIA He did offer you a job. 	18600000	Slightly Memorable
 FINN You want me to blast that bucket off your head? 	18600000	Slightly Memorable
 GUARD #1 (reading its return address over Danny's shoulder) Those your lawyers? 	18600000	Slightly Memorable
 The case shatters. 	18600000	Slightly Memorable
 Understand what I'm saying? 	18600000	Slightly Memorable
 What about the other kills? 	18600000	Slightly Memorable
-Wait... 	18500000	Slightly Memorable
+Wait... 	18500000	Not Memorable
 You're not Rosebud, are you? ,	18500000	Slightly Memorable
 Or the one before that. 	18500000	Slightly Memorable
-Relief. 	18500000	Slightly Memorable
+Relief. 	18500000	Not Memorable
 I'm calling on you. 	18500000	Slightly Memorable
 Margaret is lost. 	18500000	Slightly Memorable
-Wait. 	18500000	Slightly Memorable
-And I... 	18400000	Slightly Memorable
+Wait. 	18500000	Not Memorable
+And I... 	18400000	Not Memorable
 GUARD #2 Sign. (adding a piece of mail to the pile) This came today for you. 	18400000	Slightly Memorable
 Where is the truck now? 	18400000	Slightly Memorable
 In the hands of your father, Han Solo. ,	18400000	Slightly Memorable
-Hey... 	18400000	Slightly Memorable
+Hey... 	18400000	Not Memorable
 LUCA I know. 	18400000	Slightly Memorable
 Doesn't place any value on you at all. 	18300000	Slightly Memorable
 ANNA How did it go? 	18300000	Slightly Memorable
 A long beat, then... ,	18300000	Slightly Memorable
 A few of the others open more liquor... 	18300000	Slightly Memorable
 TAYA (OS) Then come home. 	18300000	Slightly Memorable
-Anything. 	18300000	Slightly Memorable
-Points. 	18300000	Slightly Memorable
+Anything. 	18300000	Not Memorable
+Points. 	18300000	Not Memorable
 A man. 	18200000	Slightly Memorable
 MIKE I don't need the script. 	18200000	Slightly Memorable
 TOM The kid doesn't even know what he was named after... 	18200000	Slightly Memorable
-Mary... 	18200000	Slightly Memorable
+Mary... 	18200000	Not Memorable
 He looks around as ANDREW and ANNA come up next to him. 	18200000	Slightly Memorable
 But he doesn't move... not yet. 	18200000	Slightly Memorable
 JAKE What do you mean? (CONTINUED) 10/29/14 / 8. 	18200000	Slightly Memorable
-I lost a tooth. 	18200000	Slightly Memorable
+I lost a tooth. 	18200000	Not Memorable
 Sungmi takes this time to exit. 	18100000	Slightly Memorable
 I've seen you in front of a crowd Troy. 	18100000	Slightly Memorable
 SUSAN I'm not going to put up with it. 	18100000	Slightly Memorable
@@ -2038,17 +2038,17 @@ A good actor. 	18100000	Slightly Memorable
 Case is right. 	18100000	Slightly Memorable
 SONNY enters, climbs two steps at a time. ,	18100000	Slightly Memorable
 No major, no affiliations, no solo son. ,	18000000	Slightly Memorable
-You know... 	18000000	Slightly Memorable
-You know? 	18000000	Slightly Memorable
+You know... 	18000000	Not Memorable
+You know? 	18000000	Not Memorable
 Maybe some girl? 	18000000	Slightly Memorable
 We all just keep our distance. 	18000000	Slightly Memorable
 Right now. 	18000000	Slightly Memorable
 ABEL Yes, I have. ,	18000000	Slightly Memorable
-Watching. 	17900000	Slightly Memorable
+Watching. 	17900000	Not Memorable
 CHRIS Not really. 	17900000	Slightly Memorable
-We earned it. 	17900000	Slightly Memorable
+We earned it. 	17900000	Not Memorable
 Brand looks down. 	17900000	Slightly Memorable
-Kiss. 	17900000	Slightly Memorable
+Kiss. 	17900000	Not Memorable
 Well, let's see. ,	17900000	Slightly Memorable
 Moving. 	17800000	Slightly Memorable
 LELAND Sure I am. 	17800000	Slightly Memorable
@@ -2061,15 +2061,15 @@ JULIAN Did you get the truck back? 	17800000	Slightly Memorable
 Formula. 	17800000	Slightly Memorable
 Interested? 	17800000	Slightly Memorable
 Nothing. 	17700000	Slightly Memorable
-Beat. 	17700000	Slightly Memorable
+Beat. 	17700000	Not Memorable
 BERNSTEIN Oh, yes. ,	17700000	Slightly Memorable
 Nobody is sure what to say. 	17700000	Slightly Memorable
-Beat. 	17700000	Slightly Memorable
-Beat. 	17700000	Slightly Memorable
+Beat. 	17700000	Not Memorable
+Beat. 	17700000	Not Memorable
 JULIAN He's turning me in? 	17700000	Slightly Memorable
 Yeah? 	17600000	Slightly Memorable
 John du Pont. 	17600000	Slightly Memorable
-Beat. 	17600000	Slightly Memorable
+Beat. 	17600000	Not Memorable
 Nothing. 	17600000	Slightly Memorable
 JAMIE (V.O.) (continuing; slowed) It's ... 	17600000	Slightly Memorable
 Your kids' lives. 	17600000	Slightly Memorable
@@ -2077,16 +2077,16 @@ COOPER Good boy. 	17600000	Slightly Memorable
 What's first? 	17600000	Slightly Memorable
 KANE Who am I? 	17600000	Slightly Memorable
 Jesus. 	17600000	Slightly Memorable
-Is it? 	17500000	Slightly Memorable
+Is it? 	17500000	Not Memorable
 But what was the race? 	17500000	Slightly Memorable
 SEBASTIAN It turns your head into an antenna. 	17500000	Slightly Memorable
 Excellent. 	17500000	Slightly Memorable
 You caught on, didn't you? ,	17500000	Slightly Memorable
-Beat. 	17500000	Slightly Memorable
-Beat. 	17500000	Slightly Memorable
-Looks... 	17500000	Slightly Memorable
-Yeah.... 	17500000	Slightly Memorable
-Looks. 	17500000	Slightly Memorable
+Beat. 	17500000	Not Memorable
+Beat. 	17500000	Not Memorable
+Looks... 	17500000	Not Memorable
+Yeah.... 	17500000	Not Memorable
+Looks. 	17500000	Not Memorable
 DU PONT No no. 	17500000	Slightly Memorable
 Blood oozes down his head... over his eyes. 	17500000	Slightly Memorable
 I/E. 	17500000	Slightly Memorable
@@ -2097,8 +2097,8 @@ Until... 	17400000	Slightly Memorable
 As it comes off his head, we discover it was a wig. ,	17400000	Slightly Memorable
 He peers back to camp... 	17400000	Slightly Memorable
 ABEL Hey, how are you? ,	17400000	Slightly Memorable
-Dave. 	17400000	Slightly Memorable
-Yeah? 	17400000	Slightly Memorable
+Dave. 	17400000	Not Memorable
+Yeah? 	17400000	Not Memorable
 Looks... 	17300000	Slightly Memorable
 LAURA Are you serious? 	17300000	Slightly Memorable
 The guys would love it. 	17300000	Slightly Memorable
@@ -2109,20 +2109,20 @@ I'm missing you guys. 	17300000	Slightly Memorable
 NANCY It's my room, Mark. ,	17300000	Slightly Memorable
 Brand looks angry. 	17300000	Slightly Memorable
 He passes Mia's car. 	17300000	Slightly Memorable
-Pause. 	17300000	Slightly Memorable
-Waiting. 	17200000	Slightly Memorable
+Pause. 	17300000	Not Memorable
+Waiting. 	17200000	Not Memorable
 DU PONT I did. 	17200000	Slightly Memorable
 GABE Hey so...this whole "Head of House" thing. 	17200000	Slightly Memorable
 And all three head off. 	17200000	Slightly Memorable
 LAURA You miss him. 	17200000	Slightly Memorable
 DON CORLEONE No, give him a living. ,	17200000	Slightly Memorable
-Heavy. 	17100000	Slightly Memorable
+Heavy. 	17100000	Not Memorable
 They survive by photosynthesis. 	17100000	Slightly Memorable
 He turns and they look at each other. 	17100000	Slightly Memorable
 LAURA You'll like her. 	17100000	Slightly Memorable
 BRAND Not yet. 	17000000	Slightly Memorable
 CLOSE ON HER. Stunned. 	17000000	Slightly Memorable
-DANNY ... 	17000000	Slightly Memorable
+DANNY ... 	17000000	Not Memorable
 CASE Hull integrity is fine. 	17000000	Slightly Memorable
 LAURA You'll like her. 	17000000	Slightly Memorable
 The DON smiles. 	17000000	Slightly Memorable
@@ -2155,14 +2155,14 @@ OLD MAN Plenty. 	16700000	Slightly Memorable
 I want it in the Bugle. 	16700000	Slightly Memorable
 MURPH (CONFUSED) What's that? 	16700000	Slightly Memorable
 As if by design. 	16700000	Slightly Memorable
-Stick. 	16700000	Slightly Memorable
-Protect... 	16700000	Slightly Memorable
-Hm... 	16700000	Slightly Memorable
+Stick. 	16700000	Not Memorable
+Protect... 	16700000	Not Memorable
+Hm... 	16700000	Not Memorable
 The OLD MAN nods. 	16700000	Slightly Memorable
 She says she can't make it tonight. 	16700000	Slightly Memorable
 We can see that she is in her comfort zone. 	16700000	Slightly Memorable
 SONNY (calmly) They shot the old man. 	16700000	Slightly Memorable
-Sit. 	16600000	Slightly Memorable
+Sit. 	16600000	Not Memorable
 He stares at her for a beat. 	16600000	Slightly Memorable
 ABEL Where is this thing? 	16600000	Slightly Memorable
 He gets out of the car and stands there looking at the large house. 	16600000	Slightly Memorable
@@ -2170,11 +2170,11 @@ CHRIS You got a problem? 	16600000	Slightly Memorable
 Is that a universal rule? 	16600000	Slightly Memorable
 RIGGAN Okay, yeah... ,	16600000	Slightly Memorable
 MARK Has he always lived with his mother? 	16500000	Slightly Memorable
-No one. 	16500000	Slightly Memorable
+No one. 	16500000	Not Memorable
 How's everything? 	16500000	Slightly Memorable
 Shouting. 	16500000	Slightly Memorable
 COCO It's fine. 	16500000	Slightly Memorable
-Tommy. 	16500000	Slightly Memorable
+Tommy. 	16500000	Not Memorable
 A family? 	16500000	Slightly Memorable
 She examines the print. 	16500000	Slightly Memorable
 The GUESTS are gone. 	16400000	Slightly Memorable
@@ -2191,7 +2191,7 @@ All right. 	16300000	Slightly Memorable
 Sad. 	16300000	Slightly Memorable
 So this is what we do. 	16300000	Slightly Memorable
 She doesn't know what to do. 	16300000	Slightly Memorable
-Runs. 	16300000	Slightly Memorable
+Runs. 	16300000	Not Memorable
 I just wanted to tell him I can't see him tonight; I have to go out of town. 	16300000	Slightly Memorable
 Sebastian. 	16300000	Slightly Memorable
 So humanity could spend the last fifty years of its life fighting over the scraps? 	16300000	Slightly Memorable
@@ -2199,7 +2199,7 @@ They look at each other again. 	16300000	Slightly Memorable
 They look at each other, suspicious... ,	16300000	Slightly Memorable
 KANE You don't really think so? 	16300000	Slightly Memorable
 And then... 	16300000	Slightly Memorable
-Instead... 	16300000	Slightly Memorable
+Instead... 	16300000	Not Memorable
 MANAGER On us. 	16300000	Slightly Memorable
 Banks? 	16300000	Slightly Memorable
 Who will replace me? (suddenly) Stay with me Godfather. 	16300000	Slightly Memorable
@@ -2210,7 +2210,7 @@ Seeking. 	16200000	Slightly Memorable
 LAURA It's two. 	16200000	Slightly Memorable
 Sebastian. 	16200000	Slightly Memorable
 About that. 	16200000	Slightly Memorable
-Or Coach. 	16200000	Slightly Memorable
+Or Coach. 	16200000	Not Memorable
 LIONEL Did they know you were a trekker? 	16200000	Slightly Memorable
 CENIC" The next canvas. 	16200000	Slightly Memorable
 LAURA Our dad never got to do what he wanted. 	16200000	Slightly Memorable
@@ -2247,8 +2247,8 @@ PETER FORENTE That was very well said last night. 	16000000	Slightly Memorable
 COOPER I don't know. 	16000000	Slightly Memorable
 Danny? 	16000000	Slightly Memorable
 My life. 	16000000	Slightly Memorable
-Finally. 	16000000	Slightly Memorable
-Finally. 	16000000	Slightly Memorable
+Finally. 	16000000	Not Memorable
+Finally. 	16000000	Not Memorable
 Rey... 	16000000	Slightly Memorable
 VOICE (O.S.) Right. 	16000000	Slightly Memorable
 I -- I forgot. 	16000000	Slightly Memorable
@@ -2256,11 +2256,11 @@ Greg. 	16000000	Slightly Memorable
 COOPER I don't know. 	16000000	Slightly Memorable
 Emily nods to him. 	16000000	Slightly Memorable
 With a click Helmut pulls it up. 	16000000	Slightly Memorable
-O.S. 	15900000	Slightly Memorable
+O.S. 	15900000	Not Memorable
 Jane paints a goofy flower, like any child. ,	15900000	Slightly Memorable
 Slowly the HUSBAND comes into frame. 	15900000	Slightly Memorable
 MARK (ON PHONE) Who do you work for again? 13. 	15900000	Slightly Memorable
-At all. 	15900000	Slightly Memorable
+At all. 	15900000	Not Memorable
 Sometimes. 	15900000	Slightly Memorable
 Night is falling. 	15900000	Slightly Memorable
 SECOND ASSISTANT (reading a label) No. 483. 	15900000	Slightly Memorable
@@ -2274,15 +2274,15 @@ CASE No -- I mean how is your mood? 	15800000	Slightly Memorable
 He's the worst. 	15800000	Slightly Memorable
 Glass said to keep this course. 	15800000	Slightly Memorable
 Lots of cash. 	15800000	Slightly Memorable
-O.S. 	15800000	Slightly Memorable
+O.S. 	15800000	Not Memorable
 And will. 	15700000	Slightly Memorable
 You see? 	15700000	Slightly Memorable
 The stage from Kane's angle. 	15700000	Slightly Memorable
-He's not. 	15700000	Slightly Memorable
+He's not. 	15700000	Not Memorable
 Relax. 	15700000	Slightly Memorable
 How about it, Jerry? ,	15700000	Slightly Memorable
-FASTER... 	15700000	Slightly Memorable
-O.S. 	15700000	Slightly Memorable
+FASTER... 	15700000	Not Memorable
+O.S. 	15700000	Not Memorable
 He's heartbroken. 	15700000	Slightly Memorable
 MAN In the back. 	15700000	Slightly Memorable
 There are four things in my inbox that you're perfect for and I will submit you. 	15600000	Slightly Memorable
@@ -2290,28 +2290,28 @@ So that's when I started painting her... 	15600000	Slightly Memorable
 The husband was depressed. 	15600000	Slightly Memorable
 Then he goes up. 	15600000	Slightly Memorable
 DOYLE Why not? 	15600000	Slightly Memorable
-Jake. 	15500000	Slightly Memorable
+Jake. 	15500000	Not Memorable
 You've tried to buy me into giving you something. 	15500000	Slightly Memorable
-Silent. 	15500000	Slightly Memorable
+Silent. 	15500000	Not Memorable
 Then our time here is over. 	15500000	Slightly Memorable
 There are four things in my inbox that you're perfect for and I will submit you. 	15500000	Slightly Memorable
 HIS HEAD SCALPED... 	15500000	Slightly Memorable
 Finn. 	15500000	Slightly Memorable
-Forgotten. 	15500000	Slightly Memorable
+Forgotten. 	15500000	Not Memorable
 How many shots were fired? 	15500000	Slightly Memorable
-Silence... 	15500000	Slightly Memorable
+Silence... 	15500000	Not Memorable
 LAWRENCE looks at her trying to figure her out. 	15500000	Slightly Memorable
 It's "no big deal", nothing they haven't seen or felt before -- because, after all, there's no chance for romance between them... ,	15500000	Slightly Memorable
-Silence. 	15500000	Slightly Memorable
-Hurt. 	15500000	Slightly Memorable
-Except... 	15500000	Slightly Memorable
-Pasta. 	15500000	Slightly Memorable
-Silence. 	15500000	Slightly Memorable
-I just... 	15500000	Slightly Memorable
+Silence. 	15500000	Not Memorable
+Hurt. 	15500000	Not Memorable
+Except... 	15500000	Not Memorable
+Pasta. 	15500000	Not Memorable
+Silence. 	15500000	Not Memorable
+I just... 	15500000	Not Memorable
 First with Relief of the Sufferers, First with the news of their Relief of the Sufferers. ,	15500000	Slightly Memorable
-Silence. 	15400000	Slightly Memorable
-Turns. 	15400000	Slightly Memorable
-Silence. 	15400000	Slightly Memorable
+Silence. 	15400000	Not Memorable
+Turns. 	15400000	Not Memorable
+Silence. 	15400000	Not Memorable
 What else, Tom? ,	15400000	Slightly Memorable
 Bold. 	15400000	Slightly Memorable
 That's a poem. 	15400000	Slightly Memorable
@@ -2320,7 +2320,7 @@ It's a lie and they both know it. 	15400000	Slightly Memorable
 Absolutely. 	15400000	Slightly Memorable
 Chris tosses smoke. 	15400000	Slightly Memorable
 You got visual? 	15400000	Slightly Memorable
-Noun. 	15400000	Slightly Memorable
+Noun. 	15400000	Not Memorable
 Drunk? 	15400000	Slightly Memorable
 SUSAN He was in love with me. 	15400000	Slightly Memorable
 COOPER You've known this for how long? 	15400000	Slightly Memorable
@@ -2328,32 +2328,32 @@ Bye... 	15300000	Slightly Memorable
 There are four things in my inbox that you're perfect for and I will submit you. 	15300000	Slightly Memorable
 He is partly dressed. 	15300000	Slightly Memorable
 TROY & SAM Oh shit. 	15300000	Slightly Memorable
-Waves. 	15300000	Slightly Memorable
+Waves. 	15300000	Not Memorable
 CHRIS 3rd floor. 	15300000	Slightly Memorable
 It's "no big deal", nothing they haven't seen or felt before -- because, after all, there's no chance for romance between them... ,	15300000	Slightly Memorable
 I'm gonna kick it in if you don't open it. 	15300000	Slightly Memorable
-Silence... 	15300000	Slightly Memorable
-Silence. 	15300000	Slightly Memorable
+Silence... 	15300000	Not Memorable
+Silence. 	15300000	Not Memorable
 BERNSTEIN You don't say! Why I had no idea - THOMPSON Nothing particular the matter with him, they tell me. ,	15300000	Slightly Memorable
 Madness. 	15300000	Slightly Memorable
 Give him what he wants. 	15300000	Slightly Memorable
 This is the news MICHAEL has been waiting for. 	15300000	Slightly Memorable
-Soap. 	15300000	Slightly Memorable
+Soap. 	15300000	Not Memorable
 COOPER Get the spare, Tom. ,	15300000	Slightly Memorable
-The family. 	15200000	Slightly Memorable
-The guy was dangerous. 	15200000	Slightly Memorable
-MURPH I... 	15200000	Slightly Memorable
+The family. 	15200000	Not Memorable
+The guy was dangerous. 	15200000	Memorable
+MURPH I... 	15200000	Not Memorable
 KANE I'll get you some coffee. 	15200000	Slightly Memorable
-Bye. 	15200000	Slightly Memorable
-Quiet. 	15200000	Slightly Memorable
+Bye. 	15200000	Not Memorable
+Quiet. 	15200000	Not Memorable
 Boots scuffing dirt. 	15200000	Slightly Memorable
 DISSOLVE TO: 32. 	15200000	Slightly Memorable
-One day. 	15200000	Slightly Memorable
+One day. 	15200000	Not Memorable
 CHRIS This Marine. 	15200000	Slightly Memorable
-Comfortable? 	15200000	Slightly Memorable
-Focused. 	15200000	Slightly Memorable
-Catalogs. 	15200000	Slightly Memorable
-MIA No... 	15200000	Slightly Memorable
+Comfortable? 	15200000	Not Memorable
+Focused. 	15200000	Not Memorable
+Catalogs. 	15200000	Not Memorable
+MIA No... 	15200000	Not Memorable
 Mia looks back at him, takes it all in: Is this really him...? ,	15200000	Slightly Memorable
 Mute. 	15200000	Slightly Memorable
 Clutching ASSORTED NEWSPAPERS. MARGARET He made me sound crazy!! ASIAN LADY #2 Just rise above it. 	15200000	Slightly Memorable
@@ -2363,17 +2363,17 @@ Kane. 	15200000	Slightly Memorable
 Du Pont on top. 	15100000	Slightly Memorable
 Six billion people. 	15100000	Slightly Memorable
 COOPER Lost, I guess. ,	15100000	Slightly Memorable
-Mute. 	15100000	Slightly Memorable
+Mute. 	15100000	Not Memorable
 MARK (after a moment) It's nothing. 	15100000	Slightly Memorable
-Margaret. 	15100000	Slightly Memorable
+Margaret. 	15100000	Not Memorable
 The others have already sat down. 	15100000	Slightly Memorable
 CITY EDITOR Yes. 	15100000	Slightly Memorable
-Help me. 	15100000	Slightly Memorable
+Help me. 	15100000	Not Memorable
 MIKE Look at this. 	15100000	Slightly Memorable
 ABEL thinks this through. 	15100000	Slightly Memorable
 After a moment, they're surrounded. ,	15100000	Slightly Memorable
 I wrote a paper on it when I was a boy. 	15100000	Slightly Memorable
-Kane. 	15100000	Slightly Memorable
+Kane. 	15100000	Not Memorable
 Cooper puts an arm around the boy. 	15100000	Slightly Memorable
 Don't say my name, just listen. ,	15100000	Slightly Memorable
 CHRIS I know. 	15100000	Slightly Memorable
@@ -2391,10 +2391,10 @@ ABEL thinks this through. 	15000000	Slightly Memorable
 PHOTOGRAPHER Good! Now. 	15000000	Slightly Memorable
 WALTER You shouldn't knock your work. 	14900000	Slightly Memorable
 RAWLSTON What were the last words he said on earth? 	14900000	Slightly Memorable
-Tender. 	14900000	Slightly Memorable
+Tender. 	14900000	Not Memorable
 ABEL (CONT'D) ...It is. 	14900000	Slightly Memorable
 WALTER I studied art in Paris. 	14900000	Slightly Memorable
-Stops. 	14900000	Slightly Memorable
+Stops. 	14900000	Not Memorable
 A BB unit. 	14900000	Slightly Memorable
 Stops. 	14900000	Slightly Memorable
 BRIDGER (TO HENRY) Shape he's in... 	14900000	Slightly Memorable
@@ -2404,7 +2404,7 @@ TECHNICIAN #1 (GETTING READINGS) Disabled. 	14900000	Slightly Memorable
 He's not fighting any of this. 	14900000	Slightly Memorable
 Endless... 	14900000	Slightly Memorable
 Glass trots off. 	14900000	Slightly Memorable
-He's desperate. 	14900000	Slightly Memorable
+He's desperate. 	14900000	Not Memorable
 Stops. 	14900000	Slightly Memorable
 CHRIS Did I--? 	14900000	Slightly Memorable
 Emily looks at Kane. 	14800000	Slightly Memorable
@@ -2452,8 +2452,8 @@ COOPER It was last of its kind. 	14600000	Slightly Memorable
 Not one. 	14600000	Slightly Memorable
 Welcome back. 	14600000	Slightly Memorable
 Chris studies the women, and lowers his gun. ,	14600000	Slightly Memorable
-The match is over. 	14600000	Slightly Memorable
-Bottles. 	14600000	Slightly Memorable
+The match is over. 	14600000	Not Memorable
+Bottles. 	14600000	Not Memorable
 Fix some weakness. 	14600000	Slightly Memorable
 He thinks this through. 	14600000	Slightly Memorable
 LUISA I know. 	14600000	Slightly Memorable
@@ -2462,24 +2462,24 @@ Savage. 	14600000	Slightly Memorable
 And then -- it hits him. 	14500000	Slightly Memorable
 ABEL I know. 	14500000	Slightly Memorable
 Mentor. 	14500000	Slightly Memorable
-See it? 	14500000	Slightly Memorable
+See it? 	14500000	Not Memorable
 ANNA And Peter? 	14500000	Slightly Memorable
 I've got something. 	14500000	Slightly Memorable
 The Turk will wait. 	14500000	Slightly Memorable
 ANNA And Peter? 	14500000	Slightly Memorable
-Boise. 	14500000	Slightly Memorable
+Boise. 	14500000	Not Memorable
 They look each other over. 	14500000	Slightly Memorable
 A line is staked off, leading down into the well below. ,	14500000	Slightly Memorable
-They all agree. 	14500000	Slightly Memorable
+They all agree. 	14500000	Not Memorable
 COOPER I know. 	14500000	Slightly Memorable
 They do. 	14500000	Slightly Memorable
 CUSTOMERS looking now. 	14500000	Slightly Memorable
 LEIA ... 	14500000	Slightly Memorable
 She's too focused on her lines to notice. 	14400000	Slightly Memorable
 Han is confused. 	14400000	Slightly Memorable
-Eddy? 	14400000	Slightly Memorable
-Eddy? 	14400000	Slightly Memorable
-Pleased. 	14400000	Slightly Memorable
+Eddy? 	14400000	Not Memorable
+Eddy? 	14400000	Not Memorable
+Pleased. 	14400000	Not Memorable
 They look out. 	14400000	Slightly Memorable
 Realize. 	14400000	Slightly Memorable
 Seriously? 	14400000	Slightly Memorable
@@ -2502,13 +2502,13 @@ Jane is taken aback. 	14400000	Slightly Memorable
 She advances into the hall. 	14400000	Slightly Memorable
 TROY My dad saw your videos. 	14300000	Slightly Memorable
 If I wanted to kill you you'd be dead already. 	14300000	Slightly Memorable
-Come on. 	14300000	Slightly Memorable
-Anyway... 	14300000	Slightly Memorable
+Come on. 	14300000	Not Memorable
+Anyway... 	14300000	Not Memorable
 ANNA Show me. 	14300000	Slightly Memorable
 SEBASTIAN ...Which guy? 	14300000	Slightly Memorable
 MARGARET I have nothing to hide! (TORRID) It also says no lies. "Speak truth. 	14300000	Slightly Memorable
 MIA It's -- five past... 	14300000	Slightly Memorable
-A gift. 	14300000	Slightly Memorable
+A gift. 	14300000	Not Memorable
 KANE (still looking at Leland) What do you mean by that? 	14300000	Slightly Memorable
 But things are getting better. 	14300000	Slightly Memorable
 ANNA Is it dead? 	14300000	Slightly Memorable
@@ -2516,12 +2516,12 @@ POE ... 	14300000	Slightly Memorable
 I'll go in and draw fire, but I'm gonna need cover. ,	14300000	Slightly Memorable
 ABEL There he is. 	14300000	Slightly Memorable
 Mia steps in. 	14300000	Slightly Memorable
-Pleased. 	14300000	Slightly Memorable
+Pleased. 	14300000	Not Memorable
 LAWRENCE I know. 	14300000	Slightly Memorable
 LAURA Is he happy? 	14200000	Slightly Memorable
 MARGARET I know. 	14200000	Slightly Memorable
 Shaft? 	14200000	Slightly Memorable
-Abel. 	14200000	Slightly Memorable
+Abel. 	14200000	Not Memorable
 Laughing. 	14200000	Slightly Memorable
 Puts a hand on it. 	14200000	Slightly Memorable
 So the men hurry off to their positions. 19. 	14200000	Slightly Memorable
@@ -2535,13 +2535,13 @@ COOPER Then what? 	14200000	Slightly Memorable
 They are here to shoot anyone who isn't invited. 	14100000	Slightly Memorable
 The bank... 	14100000	Slightly Memorable
 Humanity. 	14100000	Slightly Memorable
-Mmm. 	14100000	Slightly Memorable
+Mmm. 	14100000	Not Memorable
 The ghosts have been buried. 	14100000	Slightly Memorable
-Thinks. 	14100000	Slightly Memorable
+Thinks. 	14100000	Not Memorable
 Leave my wife. 	14100000	Slightly Memorable
 ANNA Who else? 	14100000	Slightly Memorable
 TROY Of course I got my dad involved. 	14100000	Slightly Memorable
-Not yet? 	14100000	Slightly Memorable
+Not yet? 	14100000	Not Memorable
 ANNA Who else? 	14100000	Slightly Memorable
 That letter did. 	14100000	Slightly Memorable
 I know it. 	14100000	Slightly Memorable
@@ -2557,8 +2557,8 @@ COOPER Hello there. 	14000000	Slightly Memorable
 Movement back there. 	14000000	Slightly Memorable
 The "Enquirer" is not in competition with those other rags. 	14000000	Slightly Memorable
 ANNA is as well. 	14000000	Slightly Memorable
-This way. 	14000000	Slightly Memorable
-Thinks. 	14000000	Slightly Memorable
+This way. 	14000000	Not Memorable
+Thinks. 	14000000	Not Memorable
 TRACY Look, I know things didn't go well today. ,	14000000	Slightly Memorable
 Sure, sometimes our folks can be intolerant around people like you. ,	14000000	Slightly Memorable
 Time seems to stop. 	14000000	Slightly Memorable
@@ -2576,11 +2576,11 @@ The two THUGS now have their guns out. 	14000000	Slightly Memorable
 Studying the technique. 	13900000	Slightly Memorable
 The stage again. 	13900000	Slightly Memorable
 Brand says nothing. 	13900000	Slightly Memorable
-Call me. 	13900000	Slightly Memorable
+Call me. 	13900000	Not Memorable
 Get up. 	13900000	Slightly Memorable
 ANDREW looks around. 	13900000	Slightly Memorable
 Do you?! (hits him again) I'm done, Mark. ,	13900000	Slightly Memorable
-Got it? 	13900000	Slightly Memorable
+Got it? 	13900000	Not Memorable
 Say it. 	13900000	Slightly Memorable
 Value $6.00. 	13900000	Slightly Memorable
 Alright... 	13900000	Slightly Memorable
@@ -2589,14 +2589,14 @@ Value $2.00. 	13900000	Slightly Memorable
 So... this guy should be able to help you. 	13900000	Slightly Memorable
 A thousand? 	13900000	Slightly Memorable
 Perfection. 	13900000	Slightly Memorable
-Smiles. 	13900000	Slightly Memorable
+Smiles. 	13900000	Not Memorable
 ABEL I'm sorry to ask but how old are you? 	13900000	Slightly Memorable
 Hold on. 	13800000	Slightly Memorable
 COOPER By "cooperate" do you mean let it eat me? 	13800000	Slightly Memorable
 ASIAN LADY #2 Do you know what it says in Timothy 3:1-5? (she pulls out a BIBLE and quickly thumbs to a page) "In the last days, critical times hard to deal with will be here. ,	13800000	Slightly Memorable
 No, I'm acting in it as well... ,	13800000	Slightly Memorable
-ASIAN LADY #2 Then they're wrong for you. 	13800000	Slightly Memorable
-Smiles. 	13800000	Slightly Memorable
+ASIAN LADY #2 Then they're wrong for you. 	13800000	Not Memorable
+Smiles. 	13800000	Not Memorable
 ASIAN LADY #2 (SHE SMILES) Because our beliefs are supported by the Scriptures. 	13800000	Slightly Memorable
 Entirely. 	13800000	Slightly Memorable
 ASIAN LADY #2 (EMPHATIC) Honesty leads to self-respect. 	13800000	Slightly Memorable
@@ -2608,21 +2608,21 @@ KYLO REN (CONT'D) You know I can take whatever I want. 	13800000	Slightly Memora
 On third I think? 	13800000	Slightly Memorable
 All made good by Captain Henry and The Rocky Mountain Fur Company. 	13800000	Slightly Memorable
 To be famous? 	13800000	Slightly Memorable
-A bit nervous. 	13800000	Slightly Memorable
+A bit nervous. 	13800000	Not Memorable
 ASIAN LADY #1 Do you mean that you are not interested in the Bible, or in religion in general? ,	13800000	Slightly Memorable
 ASIAN LADY #2 But we're not selling anything. 	13800000	Slightly Memorable
 MARK Hey, Dave. ,	13800000	Slightly Memorable
 ASIAN LADY #2 Yes! Exactly! That is the good news! What? 	13800000	Slightly Memorable
 Charming. 	13800000	Slightly Memorable
 ASIAN LADY #1 Bad things in the world are a sign. 	13800000	Slightly Memorable
-A moment. 	13700000	Slightly Memorable
+A moment. 	13700000	Not Memorable
 DICK I really don't know much about them... 	13700000	Slightly Memorable
 SAM Yeah, it's...it's. ,	13700000	Slightly Memorable
 Then we will crush them once and for all. 	13700000	Slightly Memorable
 KEITH So how've you been? 	13700000	Slightly Memorable
 It is freezing out. 	13700000	Slightly Memorable
-Confused. 	13700000	Slightly Memorable
-A moment. 	13700000	Slightly Memorable
+Confused. 	13700000	Not Memorable
+A moment. 	13700000	Not Memorable
 How's Mike? 	13600000	Slightly Memorable
 Hm...! Maybe you're right. 	13600000	Slightly Memorable
 Riggan is doing a good job. 	13600000	Slightly Memorable
@@ -2634,8 +2634,8 @@ Guns still trained. 	13600000	Slightly Memorable
 That sits for a beat. 	13600000	Slightly Memorable
 Cheers. 	13600000	Slightly Memorable
 He stoops to pick it up - can't make it. 	13600000	Slightly Memorable
-And still. 	13600000	Slightly Memorable
-But he doesn't. 	13600000	Slightly Memorable
+And still. 	13600000	Not Memorable
+But he doesn't. 	13600000	Not Memorable
 GEORGE Dear God. 	13600000	Slightly Memorable
 The Singer walks off. 	13600000	Slightly Memorable
 ABEL I have been looking over my fence at this property for a very long time. 	13500000	Slightly Memorable
@@ -2651,8 +2651,8 @@ DICK True true. 	13500000	Slightly Memorable
 THUG #2 Over here. 	13500000	Slightly Memorable
 THUG #2 Over here. 	13500000	Slightly Memorable
 HENRY What if we find Fitzgerald... and I ask you not to do this? 	13500000	Slightly Memorable
-I've only heard his name mentioned in passing. 	13500000	Slightly Memorable
-I've only heard his name mentioned in passing. 	13500000	Slightly Memorable
+I've only heard his name mentioned in passing. 	13500000	Not Memorable
+I've only heard his name mentioned in passing. 	13500000	Not Memorable
 Barefoot. 	13500000	Slightly Memorable
 With this we can save everyone. 	13500000	Slightly Memorable
 Cooper stops breathing. 	13500000	Slightly Memorable
@@ -2661,10 +2661,10 @@ Grandparents. 	13500000	Slightly Memorable
 LELAND Our readers are, anyway, I don't know about the rest of the country. ,	13500000	Slightly Memorable
 Cooper walks over. 	13400000	Slightly Memorable
 HELMUT I'm looking for good TV sister. 	13400000	Slightly Memorable
-A smile. 	13400000	Slightly Memorable
+A smile. 	13400000	Not Memorable
 Cooper walks over. 	13400000	Slightly Memorable
 Sadly he had no children of his own. 	13400000	Slightly Memorable
-You have an iPhone and go on hikes. 	13400000	Slightly Memorable
+You have an iPhone and go on hikes. 	13400000	Memorable
 DU PONT Good. 	13400000	Slightly Memorable
 KURT (CONT'D) You've got to believe me. 	13400000	Slightly Memorable
 Nervous. 	13400000	Slightly Memorable
@@ -2675,41 +2675,41 @@ His head falls. 	13400000	Slightly Memorable
 LELAND September the ninth? 	13400000	Slightly Memorable
 Margaret is taken aback. 	13300000	Slightly Memorable
 LAURA (To Lesley. 	13300000	Slightly Memorable
-A moment. 	13300000	Slightly Memorable
+A moment. 	13300000	Not Memorable
 CHRIS Is that what they say? 	13300000	Slightly Memorable
 He TOUCHES HER FACE again: the pain, tears stream. ,	13300000	Slightly Memorable
 BIGGLES fires at the rooftop. 	13300000	Slightly Memorable
 So they couldn't return to us. 	13300000	Slightly Memorable
-A moment. 	13300000	Slightly Memorable
+A moment. 	13300000	Not Memorable
 A smile. 	13300000	Slightly Memorable
 At least now they know what needs to be done. 	13300000	Slightly Memorable
-A moment. 	13300000	Slightly Memorable
+A moment. 	13300000	Not Memorable
 She is very angry. 	13300000	Slightly Memorable
 Slow by determined. 	13300000	Slightly Memorable
-A moment. 	13300000	Slightly Memorable
-Insulted. 	13300000	Slightly Memorable
+A moment. 	13300000	Not Memorable
+Insulted. 	13300000	Not Memorable
 At least now they know what needs to be done. 	13300000	Slightly Memorable
-Tess... 	13300000	Slightly Memorable
-It is dark. 	13200000	Slightly Memorable
+Tess... 	13300000	Not Memorable
+It is dark. 	13200000	Not Memorable
 HAGEN This morning. 	13200000	Slightly Memorable
 Of course, a lot of us check out with no special conviction about death. ,	13200000	Slightly Memorable
 Are you getting drunk? 	13200000	Slightly Memorable
 GLASS I do, Pig. ,	13200000	Slightly Memorable
-Drinking water. 	13200000	Slightly Memorable
-Crushed. 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
+Drinking water. 	13200000	Not Memorable
+Crushed. 	13200000	Not Memorable
+A moment. 	13200000	Not Memorable
 Troubled... 	13200000	Slightly Memorable
 I call. 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
+A moment. 	13200000	Not Memorable
 How close? 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
+A moment. 	13200000	Not Memorable
+A moment. 	13200000	Not Memorable
+A moment. 	13200000	Not Memorable
 Has he seen - KANE I've tried to tell you, Emily. ,	13200000	Slightly Memorable
-He is a salesman. 	13200000	Slightly Memorable
+He is a salesman. 	13200000	Not Memorable
 JOSEPH Of course. 	13200000	Slightly Memorable
-Truman. 	13200000	Slightly Memorable
-A moment. 	13200000	Slightly Memorable
+Truman. 	13200000	Not Memorable
+A moment. 	13200000	Not Memorable
 Understood? 	13200000	Slightly Memorable
 Cooper looks around. 	13200000	Slightly Memorable
 A moment passes. 	13200000	Slightly Memorable
@@ -2719,11 +2719,11 @@ Cooper looks away. 	13100000	Slightly Memorable
 I lost. 	13100000	Slightly Memorable
 Very well trained candidates. 	13100000	Slightly Memorable
 TIPSY MAN (beat; he CHUCKLES) Oh, I get it...! The artist doesn't wanna part with his favorite piece... ,	13100000	Slightly Memorable
-Worried... 	13100000	Slightly Memorable
+Worried... 	13100000	Not Memorable
 Bring it down. 	13100000	Slightly Memorable
 ABEL Because, we are never going to be the cheapest option, so we have to be the best. ,	13100000	Slightly Memorable
-Shaking. 	13100000	Slightly Memorable
-Laughter. 	13000000	Slightly Memorable
+Shaking. 	13100000	Not Memorable
+Laughter. 	13000000	Not Memorable
 Then Dave smacks him on the back of the neck. 	13000000	Slightly Memorable
 LELAND I guess maybe I'm not as hard to see through as I think. 	13000000	Slightly Memorable
 Old photos. 	13000000	Slightly Memorable
@@ -2751,7 +2751,7 @@ MIA Where are we? 	12900000	Slightly Memorable
 Helps with identification. 	12900000	Slightly Memorable
 You've probably got a lot of clothes. 	12900000	Slightly Memorable
 CHRIS KYLE I guess you'd know. 	12900000	Slightly Memorable
-Remember that. 	12900000	Slightly Memorable
+Remember that. 	12900000	Not Memorable
 You free? 	12900000	Slightly Memorable
 Mia snaps out of it. 	12900000	Slightly Memorable
 Be good at that. 	12900000	Slightly Memorable
@@ -2759,7 +2759,7 @@ MIA Not anymore. 	12900000	Slightly Memorable
 Didn't even wait to get out of the hospital. 	12900000	Slightly Memorable
 SUSAN Well, I - KANE Don't tell me your toothache is bothering you again? ,	12900000	Slightly Memorable
 CASE A few years. 	12900000	Slightly Memorable
-A title. 	12900000	Slightly Memorable
+A title. 	12900000	Not Memorable
 Anything but roses. 	12900000	Slightly Memorable
 Something folks like me can get behind. 	12800000	Slightly Memorable
 MIA I'm doing that. 	12800000	Slightly Memorable
@@ -2786,20 +2786,20 @@ Phone calls. 	12700000	Slightly Memorable
 COOPER Lose time? 	12700000	Slightly Memorable
 DON CORLEONE Thank you, Luca, my most valued friend. ,	12700000	Slightly Memorable
 MIA I mean -- where are we? 	12700000	Slightly Memorable
-A fake daughter... 	12700000	Slightly Memorable
-Cooper looks down. 	12700000	Slightly Memorable
-WALTER I wanted... 	12700000	Slightly Memorable
-CHRIS 30, sir. ,	12700000	Slightly Memorable
-Good to hear. 	12700000	Slightly Memorable
+A fake daughter... 	12700000	Not Memorable
+Cooper looks down. 	12700000	Not Memorable
+WALTER I wanted... 	12700000	Not Memorable
+CHRIS 30, sir. ,	12700000	Not Memorable
+Good to hear. 	12700000	Not Memorable
 WALSH Then, sir... ,	12700000	Slightly Memorable
 Cooper accepts it. 	12700000	Slightly Memorable
 It will guide you. 	12700000	Slightly Memorable
 COOPER Not you? 	12600000	Slightly Memorable
 Besides, they all know I'm married to his niece. ,	12600000	Slightly Memorable
-Thorn. 	12600000	Slightly Memorable
-COOPER This way. 	12600000	Slightly Memorable
-COP 1 Hey. 	12600000	Slightly Memorable
-Staring. 	12600000	Slightly Memorable
+Thorn. 	12600000	Not Memorable
+COOPER This way. 	12600000	Not Memorable
+COP 1 Hey. 	12600000	Not Memorable
+Staring. 	12600000	Not Memorable
 COOPER Great idea. 	12600000	Slightly Memorable
 She catches a SOCIETY MAN's eye, and he hurries over. ,	12600000	Slightly Memorable
 Mia snaps out of it. 	12600000	Slightly Memorable
@@ -2814,7 +2814,7 @@ Forces it open. 	12500000	Slightly Memorable
 LAWRENCE Probably not. 	12500000	Slightly Memorable
 The casting director. 	12500000	Slightly Memorable
 Fuck me. 	12500000	Slightly Memorable
-Wynn. 	12500000	Slightly Memorable
+Wynn. 	12500000	Not Memorable
 There's no sign of their ship in orbit. 	12500000	Slightly Memorable
 They look at each other one last time. 	12500000	Slightly Memorable
 PRESIDENT FLETCHER Son, call me Herb. ,	12500000	Slightly Memorable
@@ -2825,24 +2825,24 @@ I am interested in - well, Junior, for one thing. ,	12500000	Slightly Memorable
 They both smile. 	12500000	Slightly Memorable
 The whole room looks up at them. 	12500000	Slightly Memorable
 Walter is surprised. 	12500000	Slightly Memorable
-CUT TO: 96. 	12400000	Slightly Memorable
+CUT TO: 96. 	12400000	Not Memorable
 She tingles. 	12400000	Slightly Memorable
-Surprised. 	12400000	Slightly Memorable
+Surprised. 	12400000	Not Memorable
 Try the speech. 	12400000	Slightly Memorable
 Mia knew this. 	12400000	Slightly Memorable
 LAWRENCE Excuse me? 	12400000	Slightly Memorable
 MIKE Okay, then we should probably get her out of here. ,	12400000	Slightly Memorable
 The newspapers, for instance. ,	12400000	Slightly Memorable
 On your call. 	12400000	Slightly Memorable
-LESLEY Fuck. 	12400000	Slightly Memorable
+LESLEY Fuck. 	12400000	Memorable
 My shift is actually up. 	12400000	Slightly Memorable
 No worries about operations, is that what you tell me? ,	12400000	Slightly Memorable
-Oh no. 	12400000	Slightly Memorable
+Oh no. 	12400000	Not Memorable
 Wadded Honolulu newspapers. 	12400000	Slightly Memorable
 YOUNG MAN Are you... "Chief" Chris Kyle? 	12400000	Slightly Memorable
 Sooner. 	12400000	Slightly Memorable
 A challenging smile. 	12400000	Slightly Memorable
-How's Jane? 	12400000	Slightly Memorable
+How's Jane? 	12400000	Not Memorable
 Biggles smiles, jealous. ,	12400000	Slightly Memorable
 THOMPSON Not much. 	12400000	Slightly Memorable
 George can't fight his grin as he looks to Annie. 	12400000	Slightly Memorable
@@ -2855,7 +2855,7 @@ The drill revs. 	12300000	Slightly Memorable
 This is personal. 	12300000	Slightly Memorable
 DAVE Hey, Coach. ,	12300000	Slightly Memorable
 They enter, Emily first. ,	12300000	Slightly Memorable
-CUT TO: 73. 	12300000	Slightly Memorable
+CUT TO: 73. 	12300000	Not Memorable
 This is our ritual. 	12300000	Slightly Memorable
 You got a break coming up? 	12300000	Slightly Memorable
 JUDGE Now, I'm not looking for a masterpiece. ,	12300000	Slightly Memorable
@@ -2866,8 +2866,8 @@ Not the Legend. 	12200000	Slightly Memorable
 INSTRUCTOR ROLLE Don't lie to me! I bet we could use her panties as a parachute. 	12200000	Slightly Memorable
 She relents and relaxes. 	12200000	Slightly Memorable
 KYLO REN I want that map. 	12200000	Slightly Memorable
-Bad things. 	12200000	Slightly Memorable
-I'm not a hero. 	12200000	Slightly Memorable
+Bad things. 	12200000	Not Memorable
+I'm not a hero. 	12200000	Memorable
 DAVE Whether or not he chooses to stay. 	12200000	Slightly Memorable
 She gets to her feet, frightened by what she sees. ,	12200000	Slightly Memorable
 LAWRENCE I hear you closed on this terminal today? 	12200000	Slightly Memorable
@@ -2890,15 +2890,15 @@ I have responsibilities. 	12100000	Slightly Memorable
 Come home. 	12100000	Slightly Memorable
 Susan is sober. 	12100000	Slightly Memorable
 ABEL Nowhere easy. 	12100000	Slightly Memorable
-Anyone else? 	12100000	Slightly Memorable
+Anyone else? 	12100000	Not Memorable
 For once in your life. 	12100000	Slightly Memorable
-Diapers. 	12100000	Slightly Memorable
+Diapers. 	12100000	Not Memorable
 And another. 	12100000	Slightly Memorable
 Got you. 	12100000	Slightly Memorable
 To protect you. 	12100000	Slightly Memorable
 But I'm not going to race him I'm going to put him out to Stud. 	12100000	Slightly Memorable
 Seems recently it's been changed. 	12000000	Slightly Memorable
-They're the windows of the soul -- 12. 	12000000	Slightly Memorable
+They're the windows of the soul -- 12. 	12000000	Memorable
 When'd you say he skipped out? 	12000000	Slightly Memorable
 It is empty. 	12000000	Slightly Memorable
 The cop leaves. 	12000000	Slightly Memorable
@@ -2909,14 +2909,14 @@ SINGER "I Ran" it is. (to Sebastian) Wanna start us off, piano-man? ,	12000000	S
 I've had a very tiring day and - EMILY It may not be about anything at all. 	12000000	Slightly Memorable
 LAURA Are you serious? 	12000000	Slightly Memorable
 She crawls back to her chair. 	12000000	Slightly Memorable
-Susan is thinking. 	12000000	Slightly Memorable
+Susan is thinking. 	12000000	Not Memorable
 This is a signal. 	12000000	Slightly Memorable
 SUNGMI You're not serious. 	12000000	Slightly Memorable
 No, I don't think it explains anything. ,	12000000	Slightly Memorable
 The ramp drops. 	12000000	Slightly Memorable
 The place is empty. 	12000000	Slightly Memorable
 MICHAEL (softly) That's not how Pop would have played it. 	12000000	Slightly Memorable
-But they failed. 	12000000	Slightly Memorable
+But they failed. 	12000000	Not Memorable
 CHRIS They say it'll be over in 6 weeks. 	12000000	Slightly Memorable
 KANE (screams louder) I'm going to send you to Sing Sing, Rogers. ,	11900000	Slightly Memorable
 BB-8 doesn't like this at all. 	11900000	Slightly Memorable
@@ -2927,7 +2927,7 @@ Now Kane stops and smiles. 	11900000	Slightly Memorable
 CASE (CALM) The engines don't have enough power to push us back. 	11900000	Slightly Memorable
 Mia is taken aback. 	11900000	Slightly Memorable
 His face shaved. 	11900000	Slightly Memorable
-CUT TO: 63. 	11900000	Slightly Memorable
+CUT TO: 63. 	11900000	Not Memorable
 It feels right. 	11900000	Slightly Memorable
 Threatened. 	11900000	Slightly Memorable
 KANE What check? 	11900000	Slightly Memorable
@@ -2951,13 +2951,13 @@ Philip Seymour Hoffman... 	11800000	Slightly Memorable
 He has a dark goatee and his hair looks strangely abundant. 	11700000	Slightly Memorable
 I appreciate it. 	11700000	Slightly Memorable
 He looks into the last car and sees LOUIS SERVIDIO and just bull rushes him to the ground. 	11700000	Slightly Memorable
-The wife. 	11700000	Slightly Memorable
+The wife. 	11700000	Not Memorable
 He cups her face in his hands tenderly. 	11700000	Slightly Memorable
 GOAT No man. 	11700000	Slightly Memorable
 SEBASTIAN So you're happy here? 	11700000	Slightly Memorable
 CLARA I know. 	11700000	Slightly Memorable
-Sebastian is silent. 	11700000	Slightly Memorable
-KANE Mr. President. 	11700000	Slightly Memorable
+Sebastian is silent. 	11700000	Not Memorable
+KANE Mr. President. 	11700000	Not Memorable
 NERI I'll do this for you; you know I should. 	11700000	Slightly Memorable
 Right now-- MAN'S VOICE (OC) Excuse me, sir. ,	11700000	Slightly Memorable
 And don't get lost. 	11600000	Slightly Memorable
@@ -2981,9 +2981,9 @@ LAURA Okay, I was going to tell you this over dinner, but everything-- I have so
 LAWRENCE Of course. 	11600000	Slightly Memorable
 That - that shabby little girl. 	11600000	Slightly Memorable
 Now what happened between you and Sam to make her come after you anyway? 	11500000	Slightly Memorable
-He's nuts. 	11500000	Slightly Memorable
+He's nuts. 	11500000	Memorable
 Kurt is there. 	11500000	Slightly Memorable
-Sit down. 	11500000	Slightly Memorable
+Sit down. 	11500000	Not Memorable
 GORDON For starters. 	11500000	Slightly Memorable
 Abrams & Michael Arndt Based on characters created by George Lucas A long time ago in a galaxy far, far away... ,	11500000	Slightly Memorable
 Kane looks up. 	11500000	Slightly Memorable
@@ -3000,8 +3000,8 @@ ABEL We'll use the money... your money. 	11400000	Slightly Memorable
 And again. 	11400000	Slightly Memorable
 HENRY (O.S.) Step clear, Mr. Bridger. ,	11400000	Slightly Memorable
 My name is Mads. 	11400000	Slightly Memorable
-She's tired. 	11400000	Slightly Memorable
-That's the butler. 	11400000	Slightly Memorable
+She's tired. 	11400000	Not Memorable
+That's the butler. 	11400000	Not Memorable
 This is a grave marker. 	11400000	Slightly Memorable
 Okay - well, good luck with your season, coach. ,	11400000	Slightly Memorable
 She wants to go, but something nags at her. ,	11400000	Slightly Memorable
@@ -3019,9 +3019,9 @@ FINN What--?! Thief? 	11300000	Slightly Memorable
 Quit or fired? 	11300000	Slightly Memorable
 Riggan releases the door. 	11300000	Slightly Memorable
 He starts flying down the stairs at top panic speed. 	11300000	Slightly Memorable
-KANE I know. 	11300000	Slightly Memorable
+KANE I know. 	11300000	Not Memorable
 WAYNE It's a deer, son. ,	11300000	Slightly Memorable
-BRAND A guess. 	11300000	Slightly Memorable
+BRAND A guess. 	11300000	Not Memorable
 RIPPED off a mailbox. 	11300000	Slightly Memorable
 Scans the structure. 	11300000	Slightly Memorable
 The DOOR opens. 	11300000	Slightly Memorable
@@ -3083,9 +3083,9 @@ We fear she may botch this completely... 	11000000	Slightly Memorable
 Can you hear me...? 	11000000	Slightly Memorable
 BRAND I've got you. 	11000000	Slightly Memorable
 ANNA For what? 	11000000	Slightly Memorable
-The door opens. 	11000000	Slightly Memorable
+The door opens. 	11000000	Not Memorable
 And you're so funny. 	11000000	Slightly Memorable
-I am. 	11000000	Slightly Memorable
+I am. 	11000000	Not Memorable
 KANE Of course. 	11000000	Slightly Memorable
 Cooper laughs, glimpsing the outline of a plan. ,	11000000	Slightly Memorable
 An awkward silence. 	11000000	Slightly Memorable
@@ -3109,7 +3109,7 @@ Can you hear me...? 	10800000	Slightly Memorable
 It's a shame we won't get to see it up close. 	10800000	Slightly Memorable
 HER POV WALTER If you like this style, I'm working on a few new pieces. ,	10800000	Slightly Memorable
 ABEL is exhausted. 	10800000	Slightly Memorable
-I can admit that. 	10800000	Slightly Memorable
+I can admit that. 	10800000	Not Memorable
 And a lot of oil. 	10800000	Slightly Memorable
 Go to a Young Republican's meeting and bring up Welfare. 	10800000	Slightly Memorable
 We've got two spreads of pictures. 	10800000	Slightly Memorable
@@ -3124,7 +3124,7 @@ DU PONT America doesn't respect you. 	10700000	Slightly Memorable
 She turns and looks at him. 	10700000	Slightly Memorable
 FITZGERALD On foot? 	10700000	Slightly Memorable
 No matter what you think of him, Abel doesn't work this way. ,	10700000	Slightly Memorable
-This is insane. 	10700000	Slightly Memorable
+This is insane. 	10700000	Memorable
 DOYLE What problem? 	10700000	Slightly Memorable
 Roosevelt and such. 	10700000	Slightly Memorable
 She points to the old man lying in the bed. 	10700000	Slightly Memorable
@@ -3144,7 +3144,7 @@ Are you hungry? 	10600000	Slightly Memorable
 Let's get to work. 	10500000	Slightly Memorable
 He's showing Alex how to change the oil filter. 	10500000	Slightly Memorable
 Stumbles out the door. 	10500000	Slightly Memorable
-I can admit that. 	10500000	Slightly Memorable
+I can admit that. 	10500000	Not Memorable
 ABEL I will. 	10500000	Slightly Memorable
 This is unexpected. 	10500000	Slightly Memorable
 This sits unanswered. 19 A.D.A. 	10500000	Slightly Memorable
@@ -3155,24 +3155,24 @@ Leia, I saw our son. ,	10500000	Slightly Memorable
 It was some kid. 	10500000	Slightly Memorable
 CHRIS I just know. 	10400000	Slightly Memorable
 Information begins appearing on the terminal's screen. 	10400000	Slightly Memorable
-ANNA I mean it. 	10400000	Slightly Memorable
+ANNA I mean it. 	10400000	Not Memorable
 This is an honorable institution. 	10400000	Slightly Memorable
-He chugs his glass. 	10400000	Slightly Memorable
+He chugs his glass. 	10400000	Not Memorable
 ABEL To grow. 	10400000	Slightly Memorable
 Twenty-one. 	10400000	Slightly Memorable
-A deadly silence. 	10400000	Slightly Memorable
-Mia is left standing on her own. 	10400000	Slightly Memorable
+A deadly silence. 	10400000	Memorable
+Mia is left standing on her own. 	10400000	Not Memorable
 How much? 91. 	10400000	Slightly Memorable
 Du Pont enters. 	10400000	Slightly Memorable
-Baby, when you look at me like that, I could fall hard. ,	10400000	Slightly Memorable
-What a nightmare... 	10400000	Slightly Memorable
+Baby, when you look at me like that, I could fall hard. ,	10400000	Memorable
+What a nightmare... 	10400000	Not Memorable
 WALTER Sure! Why not? 	10400000	Slightly Memorable
 Leland doesn't look up at him. 	10400000	Slightly Memorable
-A little girl. 	10400000	Slightly Memorable
+A little girl. 	10400000	Not Memorable
 TOM What about the tire? 	10300000	Slightly Memorable
 Even when you're here you're not here. 	10300000	Slightly Memorable
 They stare at each other, then the truck. ,	10300000	Slightly Memorable
-Waits. 	10300000	Slightly Memorable
+Waits. 	10300000	Not Memorable
 CHRIS (snaps-to; to Colton) Get off the floor. 	10300000	Slightly Memorable
 DAUBER Country is countrywide, sir. ,	10300000	Slightly Memorable
 She opens the door... 	10300000	Slightly Memorable
@@ -3189,7 +3189,7 @@ REGGIE This shit. 	10300000	Slightly Memorable
 A bit weathered. 	10300000	Slightly Memorable
 How can you? 	10300000	Slightly Memorable
 CARTER There is no news big enough. 	10300000	Slightly Memorable
-LELAND Why not? 	10300000	Slightly Memorable
+LELAND Why not? 	10300000	Not Memorable
 The Singer walks off. 	10200000	Slightly Memorable
 Sebastian steps in. 	10200000	Slightly Memorable
 Stabbed. 	10200000	Slightly Memorable
@@ -3211,18 +3211,18 @@ Sees the Valet. 	10200000	Slightly Memorable
 ABEL Do we even need to be doing this? 	10200000	Slightly Memorable
 VAN ROARS up the turning lane. 	10200000	Slightly Memorable
 You in one piece? 	10200000	Slightly Memorable
-He stops, looks. ,	10200000	Slightly Memorable
+He stops, looks. ,	10200000	Not Memorable
 They walk away. 	10200000	Slightly Memorable
 ABEL A lot. 	10200000	Slightly Memorable
 Because if it had we'd all be dead by now. 	10200000	Slightly Memorable
 MARGARET I don't want you sleeping in this room any longer. 	10100000	Slightly Memorable
 CHRIS Is that high? 	10100000	Slightly Memorable
 ANNA Because they are. 	10100000	Slightly Memorable
-CHRIS Yes I do. 	10100000	Slightly Memorable
+CHRIS Yes I do. 	10100000	Not Memorable
 WALTER Teach me. (BEAT) Show me your tricks. 	10100000	Slightly Memorable
 He stops when he sees Thatcher. 	10100000	Slightly Memorable
 COOPER Can you ask it to stop? 	10100000	Slightly Memorable
-Not alone. 	10100000	Slightly Memorable
+Not alone. 	10100000	Not Memorable
 Sebastian steps in. 	10100000	Slightly Memorable
 A cab has pulled up. 	10100000	Slightly Memorable
 The Singer walks off. 	10100000	Slightly Memorable
@@ -3240,7 +3240,7 @@ Riggan gives Jake a look. 	10000000	Slightly Memorable
 One eyebrow raised. 	10000000	Slightly Memorable
 She's drawing. 	10000000	Slightly Memorable
 MIA People will want to go to it! People love what other people are passionate about. 	10000000	Slightly Memorable
-Sweating. 	9990000	Slightly Memorable
+Sweating. 	9990000	Not Memorable
 How are things? 	9990000	Slightly Memorable
 Again and again. 	9980000	Slightly Memorable
 MURPH But what if there is, dad? ,	9980000	Slightly Memorable
@@ -3248,12 +3248,12 @@ ANNA What is this? 	9980000	Slightly Memorable
 WOLTZ I'm going to show you something beautiful. 	9950000	Slightly Memorable
 CHRIS That's me. 	9940000	Slightly Memorable
 NSA AGENT I've read your book, Doctor. ,	9940000	Slightly Memorable
-I'll see you. 	9930000	Slightly Memorable
+I'll see you. 	9930000	Not Memorable
 CHRIS I can hunt. 	9930000	Slightly Memorable
 Shangri-la? 	9920000	Slightly Memorable
 The two look at each other. 	9920000	Slightly Memorable
 They're running wild. 	9920000	Slightly Memorable
-I know it. 	9910000	Slightly Memorable
+I know it. 	9910000	Not Memorable
 But they just need to show that they are defending themselves, and this will stop. ,	9910000	Slightly Memorable
 But they just need to show that they are defending themselves, and this will stop. ,	9910000	Slightly Memorable
 BACK TO SCENE 27. 	9900000	Slightly Memorable
@@ -3262,64 +3262,64 @@ It is Susie. 	9890000	Slightly Memorable
 One, two, three seconds later. ,	9890000	Slightly Memorable
 Answers -- SEBASTIAN What...? 	9880000	Slightly Memorable
 Leland comes in. 	9860000	Slightly Memorable
-I saw him. 	9850000	Slightly Memorable
+I saw him. 	9850000	Not Memorable
 MARGARET What? (CONFUSED; BEAT) Oh -- you mean Lily! No, she doesn't really live with us. ,	9830000	Slightly Memorable
 He looks over in the other mirror and there is THUG #2 walking up. 	9830000	Slightly Memorable
 And -- Walter is taken aback. 	9810000	Slightly Memorable
 For the bear. 	9800000	Slightly Memorable
 KURT Your son tell you that? 	9800000	Slightly Memorable
-Bernstein joins him. 	9800000	Slightly Memorable
+Bernstein joins him. 	9800000	Not Memorable
 They're just... blank. 	9790000	Slightly Memorable
 Shoots a Trooper. 	9790000	Slightly Memorable
 Can you confirm? 	9780000	Slightly Memorable
 They're both naked. 	9780000	Slightly Memorable
 I'm The Legend. (laughs at self; into phone) Hey babe-- TAYA (OS) You were right, doctor says it's a boy. ,	9770000	Slightly Memorable
 What's wrong? 	9760000	Slightly Memorable
-All good. 	9760000	Slightly Memorable
+All good. 	9760000	Not Memorable
 GORDON Yo Kurt. 	9750000	Slightly Memorable
 Just a moment. 	9750000	Slightly Memorable
 Lets the phone ring. 	9730000	Slightly Memorable
 Right, Moe? ,	9730000	Slightly Memorable
 LELAND It's been a tough day. 	9720000	Slightly Memorable
 For the bear. 	9710000	Slightly Memorable
-A beat. 	9710000	Slightly Memorable
+A beat. 	9710000	Not Memorable
 BERNSTEIN Right away. 	9710000	Slightly Memorable
 Is this going to make you safe? 	9700000	Slightly Memorable
 ANDREW WALSH He wants to talk to them. 	9700000	Slightly Memorable
-A beat. 	9690000	Slightly Memorable
+A beat. 	9690000	Not Memorable
 Just a moment. 	9690000	Slightly Memorable
-A beat. 	9690000	Slightly Memorable
-A beat. 	9680000	Slightly Memorable
+A beat. 	9690000	Not Memorable
+A beat. 	9680000	Not Memorable
 JEAN Which ribbons? 	9680000	Slightly Memorable
-A beat. 	9660000	Slightly Memorable
+A beat. 	9660000	Not Memorable
 JAKE He's not that bad. 	9660000	Slightly Memorable
 BRIDGER But, Captain. ,	9650000	Slightly Memorable
-A beat. 	9650000	Slightly Memorable
+A beat. 	9650000	Not Memorable
 Her face. 	9650000	Slightly Memorable
 Look... can we just do a crying child? 	9650000	Slightly Memorable
-A beat. 	9650000	Slightly Memorable
+A beat. 	9650000	Not Memorable
 Green-light. 	9640000	Slightly Memorable
 He's made it quite clear to the people what he thinks of them. 	9640000	Slightly Memorable
 KANE No. But you're close. 	9640000	Slightly Memorable
-A beat. 	9640000	Slightly Memorable
+A beat. 	9640000	Not Memorable
 LESLEY And stayed??? 	9630000	Slightly Memorable
-A beat. 	9630000	Slightly Memorable
+A beat. 	9630000	Not Memorable
 And that's all Pig can stand... he TACKLES FITZGERALD... they roll to the ground. 	9620000	Slightly Memorable
-A beat. 	9620000	Slightly Memorable
-A beat. 	9610000	Slightly Memorable
+A beat. 	9620000	Not Memorable
+A beat. 	9610000	Not Memorable
 He looks at his crew who laugh at him. 	9610000	Slightly Memorable
 BERNSTEIN So then, tonight, we go over everything thoroughly, eh? ,	9600000	Slightly Memorable
 GLASS Middle of workin' on it. 	9590000	Slightly Memorable
 He looks up: the tree is venting steam. 	9590000	Slightly Memorable
 Would you be willing to take a look. 	9590000	Slightly Memorable
-What to do?? 	9580000	Slightly Memorable
+What to do?? 	9580000	Not Memorable
 There is a silence. 	9580000	Slightly Memorable
 Now just get out there and do what you were born to do. 	9570000	Slightly Memorable
 Woeful Keane kids. 	9560000	Slightly Memorable
 Why should it matter now? 	9560000	Slightly Memorable
 How was the flight? 	9550000	Slightly Memorable
-It's different. 	9550000	Slightly Memorable
-A beat. 	9550000	Slightly Memorable
+It's different. 	9550000	Not Memorable
+A beat. 	9550000	Not Memorable
 MIA Why what? 	9530000	Slightly Memorable
 SEBASTIAN That's it? 	9530000	Slightly Memorable
 That means you all are stealing from each other. 	9530000	Slightly Memorable
@@ -3328,83 +3328,83 @@ A tiny reading -- non-lethal. 	9520000	Slightly Memorable
 Only you're going to need more than one lesson. 	9510000	Slightly Memorable
 You're the public face of Foxcatcher. 	9500000	Slightly Memorable
 CATHERINE It was just sitting right here. 	9500000	Slightly Memorable
-Takes a moment. 	9500000	Slightly Memorable
-There is a pause. 	9480000	Slightly Memorable
+Takes a moment. 	9500000	Not Memorable
+There is a pause. 	9480000	Not Memorable
 SUSAN (glares at him balefully) What do you mean? 	9480000	Slightly Memorable
-CUT TO: 30. 	9480000	Slightly Memorable
+CUT TO: 30. 	9480000	Not Memorable
 MIKE Nobody's drunk. 	9470000	Slightly Memorable
 But he can't leave his boys behind. 	9450000	Slightly Memorable
-Takes a moment. 	9450000	Slightly Memorable
-Takes a moment. 	9440000	Slightly Memorable
+Takes a moment. 	9450000	Not Memorable
+Takes a moment. 	9440000	Not Memorable
 THE CAPTAIN Rosebud? 	9440000	Slightly Memorable
-Mia looks up. 	9430000	Slightly Memorable
-Takes it in. 	9430000	Slightly Memorable
+Mia looks up. 	9430000	Not Memorable
+Takes it in. 	9430000	Not Memorable
 Her mask is also broken. 	9430000	Slightly Memorable
-The couple smile. 	9430000	Slightly Memorable
+The couple smile. 	9430000	Not Memorable
 FN-2187 This is a rescue, I'm helping you escape. ,	9420000	Slightly Memorable
-Checks her phone. 	9410000	Slightly Memorable
-Know this. 	9410000	Slightly Memorable
+Checks her phone. 	9410000	Not Memorable
+Know this. 	9410000	Not Memorable
 Kylo Ren watches him go. 	9410000	Slightly Memorable
 Murphy hustles out. 	9400000	Slightly Memorable
 COOPER We'll be back. 	9400000	Slightly Memorable
 She turns off the vent. 	9390000	Slightly Memorable
-A moment passes. 	9390000	Slightly Memorable
+A moment passes. 	9390000	Not Memorable
 She turns off the vent. 	9380000	Slightly Memorable
 MARGARET No, please! Walter, it's -- personal. 49. ,	9370000	Slightly Memorable
 DON CORLEONE Then the picture will wait for him. 	9360000	Slightly Memorable
 SEBASTIAN (not listening to her) What am I supposed to do? 	9360000	Slightly Memorable
 At least until we know what we're dealing with. 	9350000	Slightly Memorable
-All the time. 	9350000	Slightly Memorable
+All the time. 	9350000	Not Memorable
 It totally misses THUG #2. 	9350000	Slightly Memorable
 But please know that I have always chosen the path that was the most right. 	9350000	Slightly Memorable
 Walter calms himself, contrite. ,	9350000	Slightly Memorable
-He grabs a mike. 	9340000	Slightly Memorable
-SAM I don't know. 	9340000	Slightly Memorable
-It has to be good. 	9340000	Slightly Memorable
+He grabs a mike. 	9340000	Not Memorable
+SAM I don't know. 	9340000	Not Memorable
+It has to be good. 	9340000	Not Memorable
 LIONEL I don't know... 	9330000	Slightly Memorable
 They get led in. 	9330000	Slightly Memorable
 LIONEL I don't know. 	9330000	Slightly Memorable
 Cooper looks down -- a great fissure has opened in the ice beneath them. 	9330000	Slightly Memorable
-They know each other. 	9310000	Slightly Memorable
+They know each other. 	9310000	Not Memorable
 So they beat her like an animal. 	9290000	Slightly Memorable
-MIA'S DAD Never. 	9290000	Slightly Memorable
+MIA'S DAD Never. 	9290000	Not Memorable
 Night should be falling soon. 	9290000	Slightly Memorable
-A moment passes. 	9290000	Slightly Memorable
+A moment passes. 	9290000	Not Memorable
 They won't be able to fight it for long. 	9280000	Slightly Memorable
 I wish I were a little boy and going to make a trip like that for the first time. 	9280000	Slightly Memorable
 Swallows the pill. 	9280000	Slightly Memorable
 ABEL is keeping up with him and in fact may be gaining on him. 	9270000	Slightly Memorable
-All of you. 	9260000	Slightly Memorable
+All of you. 	9260000	Not Memorable
 ALEXIS Same here. 	9260000	Slightly Memorable
 MARGARET I don't... know. 	9240000	Slightly Memorable
-A moment passes. 	9240000	Slightly Memorable
-BRAND I don't know. 	9240000	Slightly Memorable
-JULIAN I don't know. 	9240000	Slightly Memorable
-BRAND I don't know. 	9240000	Slightly Memorable
-ANSEN I don't know. 	9240000	Slightly Memorable
-LELAND I don't know. 	9240000	Slightly Memorable
-MIA I don't know... 	9240000	Slightly Memorable
+A moment passes. 	9240000	Not Memorable
+BRAND I don't know. 	9240000	Not Memorable
+JULIAN I don't know. 	9240000	Not Memorable
+BRAND I don't know. 	9240000	Not Memorable
+ANSEN I don't know. 	9240000	Not Memorable
+LELAND I don't know. 	9240000	Not Memorable
+MIA I don't know... 	9240000	Not Memorable
 ABEL I don't know. 	9240000	Slightly Memorable
 How far back are they going? 	9230000	Slightly Memorable
-LUISA I don't know? 	9230000	Slightly Memorable
+LUISA I don't know? 	9230000	Not Memorable
 She's an hour-and-a-half walk from her place. 	9230000	Slightly Memorable
 KANE Don't you realize that everybody here is going to know about this? 	9220000	Slightly Memorable
 DU PONT ... 	9220000	Slightly Memorable
 The other GUARD opens up the back of the truck. 	9210000	Slightly Memorable
 Mark doesn't acknowledge him. 	9200000	Slightly Memorable
-A clock ticks. 	9200000	Slightly Memorable
+A clock ticks. 	9200000	Not Memorable
 DISSOLVE TO: 14. 	9200000	Slightly Memorable
 Present tense. 	9190000	Slightly Memorable
-She turns back from the glass. 	9190000	Slightly Memorable
-She turns off the vent. 	9190000	Slightly Memorable
+She turns back from the glass. 	9190000	Not Memorable
+She turns off the vent. 	9190000	Not Memorable
 ALEXIS Same here. 	9180000	Slightly Memorable
-He doesn't see it. 	9170000	Slightly Memorable
+He doesn't see it. 	9170000	Not Memorable
 COCO For shooting? 	9150000	Slightly Memorable
-He doesn't move. 	9150000	Slightly Memorable
+He doesn't move. 	9150000	Not Memorable
 He looks in each room and the CHILD is sleeping soundly with nothing out of place. 	9120000	Slightly Memorable
 Prints are smooth. 	9110000	Slightly Memorable
 HOLD on Rey. 	9110000	Slightly Memorable
-A moment passes. 	9090000	Slightly Memorable
+A moment passes. 	9090000	Not Memorable
 Please sing. 	9070000	Slightly Memorable
 SUNGMI Black Student Union. 	9060000	Slightly Memorable
 The other men all drop their heads... except for Fitzgerald... he's ready to see this end. 	9050000	Slightly Memorable
@@ -3413,17 +3413,17 @@ He holds her put. 	9040000	Slightly Memorable
 HENRY Do it. 	9030000	Slightly Memorable
 She badly wants to give him the answer he wants. 	9020000	Slightly Memorable
 LAURA I think so. 	9000000	Slightly Memorable
-Who's in? 	8990000	Slightly Memorable
-Brand takes it in. 	8980000	Slightly Memorable
+Who's in? 	8990000	Not Memorable
+Brand takes it in. 	8980000	Not Memorable
 Anything to drink? 	8970000	Slightly Memorable
 SOLLOZZO takes a breath. 	8960000	Slightly Memorable
-Sebastian sits up. 	8960000	Slightly Memorable
+Sebastian sits up. 	8960000	Not Memorable
 Things have been so smooth the last ten years... 	8950000	Slightly Memorable
 I reward accomplishment. 	8950000	Slightly Memorable
 BRAND These organisms have no interest in us. 	8940000	Slightly Memorable
 Nothing else? 	8930000	Slightly Memorable
-I am not... 	8900000	Slightly Memorable
-Good deal. 	8900000	Slightly Memorable
+I am not... 	8900000	Not Memorable
+Good deal. 	8900000	Not Memorable
 MIA I guess. 	8900000	Slightly Memorable
 Welcome to Philadelphia. 	8880000	Slightly Memorable
 Mia knew this. 	8880000	Slightly Memorable
@@ -3432,7 +3432,7 @@ PIG Found it, Cap. ,	8880000	Slightly Memorable
 COOPER Who are you people? 	8880000	Slightly Memorable
 LESLEY I can call him and find out. 	8870000	Slightly Memorable
 She cracks the cookie. 	8870000	Slightly Memorable
-MIA I can. 	8850000	Slightly Memorable
+MIA I can. 	8850000	Not Memorable
 He shows the paper to her. 	8850000	Slightly Memorable
 After a brief light moment the cloud comes back over him. 	8840000	Slightly Memorable
 But now I've sent for them just the same. 	8830000	Slightly Memorable
@@ -3440,22 +3440,22 @@ FINN Not anymore. 	8820000	Slightly Memorable
 You don't belong here. 	8820000	Slightly Memorable
 The radio crackles to life. 	8820000	Slightly Memorable
 You remember Sofia? 	8810000	Slightly Memorable
-Congrats? 	8810000	Slightly Memorable
+Congrats? 	8810000	Not Memorable
 Would you like a postponement, in order to get your affairs in order? ,	8800000	Slightly Memorable
 All the posters and everything. 	8800000	Slightly Memorable
 He glowers. 	8800000	Slightly Memorable
 CHRIS We don't even have proof this guy exists. 	8800000	Slightly Memorable
 He just stands there, like a chastened schoolboy, his face reddening. ,	8790000	Slightly Memorable
 HENRY (TO MURPHY) Go clear out a room. 	8790000	Slightly Memorable
-Hang on. 	8790000	Slightly Memorable
+Hang on. 	8790000	Not Memorable
 SEBASTIAN It's beautiful. 	8790000	Slightly Memorable
-Spying. 	8780000	Slightly Memorable
-For a moment. 	8780000	Slightly Memorable
-Thatcher. 	8770000	Slightly Memorable
+Spying. 	8780000	Not Memorable
+For a moment. 	8780000	Not Memorable
+Thatcher. 	8770000	Not Memorable
 SEBASTIAN 6:45. 	8760000	Slightly Memorable
 HAN (CONT'D) What'd you do? 	8760000	Slightly Memorable
-Good deal. 	8760000	Slightly Memorable
-Good deal. 	8750000	Slightly Memorable
+Good deal. 	8760000	Not Memorable
+Good deal. 	8750000	Not Memorable
 CLOSE ON Sebastian. 	8730000	Slightly Memorable
 A little blood flows. 	8730000	Slightly Memorable
 Mia knew this. 	8720000	Slightly Memorable
@@ -3464,16 +3464,16 @@ COOPER They never landed. 	8710000	Slightly Memorable
 The comms are just noise. 	8710000	Slightly Memorable
 I just know I'm supposed to charge extra for extra meat. 	8710000	Slightly Memorable
 Sam glances at Mike for a second, then returns to her phone. ,	8710000	Slightly Memorable
-Starts to marshal his breath. 	8700000	Slightly Memorable
-So I ran. 	8700000	Slightly Memorable
+Starts to marshal his breath. 	8700000	Not Memorable
+So I ran. 	8700000	Not Memorable
 SEBASTIAN ...Excuse me? 	8700000	Slightly Memorable
 Harry rejoins the table. 	8690000	Slightly Memorable
 RALPH Ask her what he did after she left him. 	8690000	Slightly Memorable
-You know what would be fun? 	8690000	Slightly Memorable
+You know what would be fun? 	8690000	Not Memorable
 U.S.A...." 	8680000	Slightly Memorable
 Fire and dirt engulf them. 	8680000	Slightly Memorable
 Margaret sits up. 	8680000	Slightly Memorable
-Thank God. 13. 	8670000	Slightly Memorable
+Thank God. 13. 	8670000	Not Memorable
 FINN Do it. 	8660000	Slightly Memorable
 Nervous, and alone... ,	8660000	Slightly Memorable
 He has no idea what to say. 	8660000	Slightly Memorable
@@ -3487,73 +3487,73 @@ MARGARET Well, every one except that street scene. (BEAT) But I did the rest. ,	
 KAY Yes. 	8620000	Slightly Memorable
 Checks his watch. 	8620000	Slightly Memorable
 The robot looks up. 	8620000	Slightly Memorable
-It was announced this morning. 	8620000	Slightly Memorable
+It was announced this morning. 	8620000	Not Memorable
 A.D.A. 	8610000	Slightly Memorable
 A.D.A. 	8610000	Slightly Memorable
 A.D.A. 	8610000	Slightly Memorable
 A.D.A. 	8600000	Slightly Memorable
-Sebastian finds it. 	8600000	Slightly Memorable
-We reveal across from him... 	8600000	Slightly Memorable
-And that's never easy. 	8600000	Slightly Memorable
-LATER Walter finally paints. 	8600000	Slightly Memorable
+Sebastian finds it. 	8600000	Not Memorable
+We reveal across from him... 	8600000	Not Memorable
+And that's never easy. 	8600000	Not Memorable
+LATER Walter finally paints. 	8600000	Not Memorable
 A.D.A. 	8600000	Slightly Memorable
-Sebastian is still. 	8590000	Slightly Memorable
+Sebastian is still. 	8590000	Not Memorable
 She doesn't know what to say. 	8570000	Slightly Memorable
-Everything is too small. 	8570000	Slightly Memorable
-Sebastian is confused. 	8560000	Slightly Memorable
-Hands in the air. 	8550000	Slightly Memorable
+Everything is too small. 	8570000	Not Memorable
+Sebastian is confused. 	8560000	Not Memorable
+Hands in the air. 	8550000	Memorable
 CHRIS (uncertain) I don't know... 	8550000	Slightly Memorable
-In total crisis... 	8550000	Slightly Memorable
+In total crisis... 	8550000	Not Memorable
 COOPER (SMILES) I don't know. 	8550000	Slightly Memorable
 Even at nine I could feel their eyes on me. 	8550000	Slightly Memorable
-DICK I don't know... 	8550000	Slightly Memorable
-Considers. 	8540000	Slightly Memorable
-THOMPSON No, I didn't. ,	8540000	Slightly Memorable
+DICK I don't know... 	8550000	Not Memorable
+Considers. 	8540000	Not Memorable
+THOMPSON No, I didn't. ,	8540000	Not Memorable
 REILLY Mr. Leland sent back that check. 	8540000	Slightly Memorable
 The nurse, unwilling, leaves. ,	8530000	Slightly Memorable
 Then -- she starts MOVING down the lane. 	8530000	Slightly Memorable
-MARC LEE Clear. 	8520000	Slightly Memorable
-MARC LEE Negative. 	8520000	Slightly Memorable
+MARC LEE Clear. 	8520000	Not Memorable
+MARC LEE Negative. 	8520000	Not Memorable
 Banks got no money. 	8520000	Slightly Memorable
-MARC LEE Six? 	8520000	Slightly Memorable
+MARC LEE Six? 	8520000	Not Memorable
 MARC LEE They're Marines. 	8520000	Slightly Memorable
 He is making a difficult right turn to get onto the 59th Street Bridge. 	8520000	Slightly Memorable
-LIONEL You need something? 	8490000	Slightly Memorable
-Mia looks at him. 	8490000	Slightly Memorable
-Picks up her phone. 	8490000	Slightly Memorable
-Mia looks at him. 	8490000	Slightly Memorable
+LIONEL You need something? 	8490000	Not Memorable
+Mia looks at him. 	8490000	Not Memorable
+Picks up her phone. 	8490000	Not Memorable
+Mia looks at him. 	8490000	Not Memorable
 Bernstein looks at him. 	8480000	Slightly Memorable
-Fairbanks just smiles. 	8480000	Slightly Memorable
+Fairbanks just smiles. 	8480000	Not Memorable
 Emily looks at him. 	8480000	Slightly Memorable
-A pumpking patch. 	8480000	Slightly Memorable
-The crew looks over. 	8480000	Slightly Memorable
+A pumpking patch. 	8480000	Not Memorable
+The crew looks over. 	8480000	Not Memorable
 Then -- she starts MOVING down the lane. 	8480000	Slightly Memorable
-Susan looks at him. 	8470000	Slightly Memorable
+Susan looks at him. 	8470000	Not Memorable
 Then the old man shifts in his chair. 	8470000	Slightly Memorable
-Looks at Keith. 	8460000	Slightly Memorable
+Looks at Keith. 	8460000	Not Memorable
 Where's Rey? 	8460000	Slightly Memorable
-ANNIE He's incredible. 	8460000	Slightly Memorable
+ANNIE He's incredible. 	8460000	Not Memorable
 COMMANDING OFFICER (OS) Negative. 	8450000	Slightly Memorable
-Bertha is on the phone. 	8450000	Slightly Memorable
-Trapper #1 stands up. 	8440000	Slightly Memorable
+Bertha is on the phone. 	8450000	Not Memorable
+Trapper #1 stands up. 	8440000	Not Memorable
 Sebastian finds it. 	8440000	Slightly Memorable
-We recognize it. 	8440000	Slightly Memorable
-She moves hers. 	8440000	Slightly Memorable
-But I know. 	8440000	Slightly Memorable
+We recognize it. 	8440000	Not Memorable
+She moves hers. 	8440000	Not Memorable
+But I know. 	8440000	Not Memorable
 DAVE What's that? 	8440000	Slightly Memorable
-Finally, Glass shoves the man off the back of the horse. ,Trapper #1 tumbles into the snow. ,	8440000	Slightly Memorable
-TRAPPER #1 And my shooter. 	8440000	Slightly Memorable
+Finally, Glass shoves the man off the back of the horse. ,Trapper #1 tumbles into the snow. ,	8440000	Not Memorable
+TRAPPER #1 And my shooter. 	8440000	Not Memorable
 Present tense ho!" Right in the gut. 	8440000	Slightly Memorable
 Finn is confused. 	8430000	Slightly Memorable
 It is eerily empty. 	8420000	Slightly Memorable
-WALTER Is he here? 	8420000	Slightly Memorable
-It doesn't. 	8410000	Slightly Memorable
-Pretty good. 	8400000	Slightly Memorable
+WALTER Is he here? 	8420000	Not Memorable
+It doesn't. 	8410000	Not Memorable
+Pretty good. 	8400000	Not Memorable
 You are my guest but please tell the others to come inside. 	8390000	Slightly Memorable
-DEAN FAIRBANKS What? 	8390000	Slightly Memorable
-A paragraph has been typed. 	8380000	Slightly Memorable
-The foot of Kane's bed. 	8370000	Slightly Memorable
-Why do you paint those? 	8360000	Slightly Memorable
+DEAN FAIRBANKS What? 	8390000	Not Memorable
+A paragraph has been typed. 	8380000	Not Memorable
+The foot of Kane's bed. 	8370000	Not Memorable
+Why do you paint those? 	8360000	Not Memorable
 Biggles is coughing. 	8360000	Slightly Memorable
 WALTER ON THE PHONE - WOODSIDE He is strangely controlled and forboding. 	8360000	Slightly Memorable
 TRAPPER #2 I can't get a clear look. 	8350000	Slightly Memorable
@@ -3561,100 +3561,100 @@ CHRIS (into phone) Yeah, I got out early. ,	8350000	Slightly Memorable
 LESLEY No. (A beat.) Okay, well, he did beat me up one night. ,	8340000	Slightly Memorable
 Her lights pick out something in the ice. 	8340000	Slightly Memorable
 Henry turns... walks over to Fitzgerald and Stubby Bill. 	8340000	Slightly Memorable
-Laura looks at Mia. 	8330000	Slightly Memorable
-JUST THE NIGHT SKY THROUGH THOSE BRANCHES... 	8330000	Slightly Memorable
-COOPER Almost got it. 	8330000	Slightly Memorable
-It doesn't. 	8320000	Slightly Memorable
-KANE You mustn't go, Susan. ,	8320000	Slightly Memorable
+Laura looks at Mia. 	8330000	Not Memorable
+JUST THE NIGHT SKY THROUGH THOSE BRANCHES... 	8330000	Memorable
+COOPER Almost got it. 	8330000	Not Memorable
+It doesn't. 	8320000	Not Memorable
+KANE You mustn't go, Susan. ,	8320000	Not Memorable
 A train of dust plumes behind it. 	8310000	Slightly Memorable
-MIA Come to Boise? 	8310000	Slightly Memorable
+MIA Come to Boise? 	8310000	Not Memorable
 Cost twenty-three thousand. 	8310000	Slightly Memorable
-They'll be back. 	8300000	Slightly Memorable
-Brand's eyes widen. 	8300000	Slightly Memorable
-There is a short silence. 	8300000	Slightly Memorable
+They'll be back. 	8300000	Not Memorable
+Brand's eyes widen. 	8300000	Not Memorable
+There is a short silence. 	8300000	Not Memorable
 Trapper #1 nods to Fitzgerald. 	8300000	Slightly Memorable
 And you don't ask in respect or friendship. 	8290000	Slightly Memorable
 WALTER YEAH YEAH! Point taken. 	8280000	Slightly Memorable
-Sebastian is silent. 	8280000	Slightly Memorable
+Sebastian is silent. 	8280000	Not Memorable
 TRAPPER #1 Then from where I stand, you don't got no friends at all. ,	8280000	Slightly Memorable
-TRAPPER #2 It's cold as hell, Cees. ,	8280000	Slightly Memorable
-I want you to talk Sonny into it. 	8270000	Slightly Memorable
+TRAPPER #2 It's cold as hell, Cees. ,	8280000	Not Memorable
+I want you to talk Sonny into it. 	8270000	Not Memorable
 The clock: 7:02am. 	8270000	Slightly Memorable
 Let us appreciate this moment. 	8270000	Slightly Memorable
 CHRIS KYLE It's a boy! MARC LEE Hell yeah. 	8260000	Slightly Memorable
 TRAPPER #2 Maybe we oughta help him do it right. 	8260000	Slightly Memorable
 Trapper #1 and Trapper #2 pull the SKINNING KNIVES from their belts... start toward Glass. 	8250000	Slightly Memorable
 MARK Talked to some coaches. 	8250000	Slightly Memorable
-You can't hide. 	8250000	Slightly Memorable
-MARC LEE And check this. 	8250000	Slightly Memorable
-She moves hers. 	8240000	Slightly Memorable
+You can't hide. 	8250000	Not Memorable
+MARC LEE And check this. 	8250000	Not Memorable
+She moves hers. 	8240000	Not Memorable
 It is now dark outside. 	8240000	Slightly Memorable
 KANE (as car starts to drive off) What's this all about, Emily? ,	8240000	Slightly Memorable
 Margaret glances in a mirror. 	8230000	Slightly Memorable
-I am having my daughter's birthday party. 	8230000	Slightly Memorable
+I am having my daughter's birthday party. 	8230000	Not Memorable
 He didn't think this through. 41. 	8230000	Slightly Memorable
 I appreciate this. 	8230000	Slightly Memorable
 TROY I was beloved. ,Won't lie. ,	8220000	Slightly Memorable
-An awkward silence. 	8210000	Slightly Memorable
-Where are they? 	8210000	Slightly Memorable
+An awkward silence. 	8210000	Not Memorable
+Where are they? 	8210000	Not Memorable
 The log says the base has been here for thirty years. 	8200000	Slightly Memorable
 SEBASTIAN You're not gonna find a better player. 	8190000	Slightly Memorable
-Why don't you hop in? 	8190000	Slightly Memorable
-Sebastian is silent. 	8180000	Slightly Memorable
-Who is this? 	8170000	Slightly Memorable
-Good luck. 	8170000	Slightly Memorable
+Why don't you hop in? 	8190000	Not Memorable
+Sebastian is silent. 	8180000	Not Memorable
+Who is this? 	8170000	Not Memorable
+Good luck. 	8170000	Not Memorable
 Sebastian is silent. 	8170000	Slightly Memorable
-But there are great numbers of candidates. 	8170000	Slightly Memorable
-A LOW RUMBLING SOUND. Cooper looks out over the river. 	8170000	Slightly Memorable
-It suits you. 	8140000	Slightly Memorable
-This is just what's on his mind. 	8140000	Slightly Memorable
-Mia is silent. 	8120000	Slightly Memorable
-Taking off... 	8120000	Slightly Memorable
+But there are great numbers of candidates. 	8170000	Not Memorable
+A LOW RUMBLING SOUND. Cooper looks out over the river. 	8170000	Not Memorable
+It suits you. 	8140000	Not Memorable
+This is just what's on his mind. 	8140000	Not Memorable
+Mia is silent. 	8120000	Not Memorable
+Taking off... 	8120000	Not Memorable
 He starts typing again, the expression on his face doesn't change. ,	8120000	Slightly Memorable
-Me too. 	8120000	Slightly Memorable
+Me too. 	8120000	Not Memorable
 LELAND (good naturedly) You're in a conspiracy against me, you two. ,	8120000	Slightly Memorable
-The voices fade. 	8100000	Slightly Memorable
+The voices fade. 	8100000	Not Memorable
 A line she can't cross. 	8100000	Slightly Memorable
-Most of it is crap. 	8100000	Slightly Memorable
+Most of it is crap. 	8100000	Memorable
 Rocky Mountain Fur Company wants him too. 	8080000	Slightly Memorable
-Don't tell me. 	8070000	Slightly Memorable
+Don't tell me. 	8070000	Not Memorable
 I like my drivers to fit in with the neighborhood... 	8060000	Slightly Memorable
 They give each other a slight smile. 	8040000	Slightly Memorable
-Twenty years. 	8040000	Slightly Memorable
-RIGGAN She's my assistant. 	8040000	Slightly Memorable
+Twenty years. 	8040000	Not Memorable
+RIGGAN She's my assistant. 	8040000	Not Memorable
 He whirls and looks around. 	8040000	Slightly Memorable
 If he does the right thing I will help to take care of his responsibilities. 	8030000	Slightly Memorable
-Everyone gets quiet. 	8020000	Slightly Memorable
-KANE It's not funny. 	8020000	Slightly Memorable
-Don't tell me. 	8020000	Slightly Memorable
+Everyone gets quiet. 	8020000	Not Memorable
+KANE It's not funny. 	8020000	Not Memorable
+Don't tell me. 	8020000	Not Memorable
 After a moment, it's gone. ,	8020000	Slightly Memorable
 SEBASTIAN You're not gonna find a better player. 	8020000	Slightly Memorable
 Lionel gingerly approaches the door to see George finish up a phone call. 	8020000	Slightly Memorable
-I get it. 	8010000	Slightly Memorable
+I get it. 	8010000	Not Memorable
 TAYA Aren't you and Chad going to the range? 	8010000	Slightly Memorable
-I can admit that. 	8010000	Slightly Memorable
+I can admit that. 	8010000	Not Memorable
 EMILY What story, Mr. Rogers? ,	8010000	Slightly Memorable
 EXT. POOL -- NIGHT Brand surfaces first. 	7990000	Slightly Memorable
 Roth looks up from his screen, smiling. ,	7990000	Slightly Memorable
 One eyebrow raised. 	7990000	Slightly Memorable
-HAGEN It's from Johnny. 	7980000	Slightly Memorable
+HAGEN It's from Johnny. 	7980000	Not Memorable
 He's given up fighting this fight. 	7980000	Slightly Memorable
 Look from where I'm sitting this place is a goldmine. 	7980000	Slightly Memorable
 Intense and rough. 	7980000	Slightly Memorable
 I love fighting a good battle but this... it's very bad for my business. 	7980000	Slightly Memorable
 JANE Take the bed. 	7980000	Slightly Memorable
-He can breathe. 	7980000	Slightly Memorable
+He can breathe. 	7980000	Not Memorable
 He is losing it from all the pressure but his daughter bears the brunt. 	7960000	Slightly Memorable
-Or New York? 	7960000	Slightly Memorable
+Or New York? 	7960000	Not Memorable
 You're not going to keep on running my life the way you want it. 	7940000	Slightly Memorable
-ABEL No. JOSEPH Why not? 	7940000	Slightly Memorable
-Why don't you go? 	7940000	Slightly Memorable
+ABEL No. JOSEPH Why not? 	7940000	Not Memorable
+Why don't you go? 	7940000	Not Memorable
 Walter works the room. 	7930000	Slightly Memorable
 Then he looks towards the ground and almost looks like he might cry. 	7930000	Slightly Memorable
 COCO Don't talk like that. 48. 	7920000	Slightly Memorable
 We see it behind his head. 	7910000	Slightly Memorable
 Whether that gets us to Union or not... 	7910000	Slightly Memorable
-As a company. 	7910000	Slightly Memorable
+As a company. 	7910000	Not Memorable
 One eyebrow raised. 	7900000	Slightly Memorable
 Besides, they tell me there isn't a decent restaurant on the whole island. ,	7890000	Slightly Memorable
 SEBASTIAN You're not gonna find a better player. 	7890000	Slightly Memorable
@@ -3662,10 +3662,10 @@ Cooper is still laughing. 	7890000	Slightly Memorable
 Yep, still closed. ,	7890000	Slightly Memorable
 COOPER What is this? 	7880000	Slightly Memorable
 MICHAEL As long as I tell him beforehand he won't object. 	7880000	Slightly Memorable
-Six years of "no" in L.A. have toughened her, but she's still a dreamer. ,	7880000	Slightly Memorable
-Looks out his window. 	7880000	Slightly Memorable
+Six years of "no" in L.A. have toughened her, but she's still a dreamer. ,	7880000	Memorable
+Looks out his window. 	7880000	Not Memorable
 We linger on Sebastian. 	7870000	Slightly Memorable
-Pulls out a drawing. 	7870000	Slightly Memorable
+Pulls out a drawing. 	7870000	Not Memorable
 What are you doing? 	7860000	Slightly Memorable
 I do. (beat) I just didn't think you did. 	7860000	Slightly Memorable
 EXT. PRAIRIE - NIGHT From high above the prairie... 	7860000	Slightly Memorable
@@ -3678,14 +3678,14 @@ Hiding from the customers. 	7830000	Slightly Memorable
 SEBASTIAN Why won't you come? 	7830000	Slightly Memorable
 He has won no awards. 	7820000	Slightly Memorable
 Hang on a minute. 	7820000	Slightly Memorable
-G, going to French. ,	7810000	Slightly Memorable
-Nothing more. 	7810000	Slightly Memorable
-Takes a breath. 	7810000	Slightly Memorable
+G, going to French. ,	7810000	Not Memorable
+Nothing more. 	7810000	Not Memorable
+Takes a breath. 	7810000	Not Memorable
 HENRY Can I talk you outta what you're planning? 	7800000	Slightly Memorable
 She responds stiffly -- a girl who doesn't see her father too often. 	7800000	Slightly Memorable
 BRAND (O.S.) Cooper. 	7790000	Slightly Memorable
-Please don't. 	7790000	Slightly Memorable
-This is you, Mark. ,	7790000	Slightly Memorable
+Please don't. 	7790000	Not Memorable
+This is you, Mark. ,	7790000	Not Memorable
 Try to improve it. 	7790000	Slightly Memorable
 Did you get in a fight? 	7780000	Slightly Memorable
 He wants you to come down in person anyway. 	7780000	Slightly Memorable
@@ -3794,7 +3794,7 @@ ABEL You need to get home and start going through our set of books. 	7300000	Not
 Her face distorts in pain again. 	7300000	Not Memorable
 Kane stares at him. 	7300000	Not Memorable
 BILL O'LEARY It's not always as simple as it appears. 	7300000	Not Memorable
-This poor kid has been working his ass off. 	7290000	Not Memorable
+This poor kid has been working his ass off. 	7290000	Slightly Memorable
 RIGGAN "I'm the wrong person to ask. 	7280000	Not Memorable
 RIGGAN "I'm the wrong person to ask. 	7280000	Not Memorable
 Because you are. 	7280000	Not Memorable
@@ -3860,7 +3860,7 @@ As JULIAN is hiding, trying to figure out what to do next, LOUIS SERVIDIO goes r
 She sings about them and for them. 	7060000	Not Memorable
 Mia removes her shoes, feels the soft carpet under her feet. ,Turns on the projector. ,	7050000	Not Memorable
 He looks unsure. 	7050000	Not Memorable
-He looks at the piles of work, and can't face it. ,	7040000	Not Memorable
+He looks at the piles of work, and can't face it. ,	7040000	Slightly Memorable
 Like, I don't... ,	7030000	Not Memorable
 ROTH Wherever we want. 	7030000	Not Memorable
 Then -- KEITH I get it. 	7030000	Not Memorable
@@ -3956,7 +3956,7 @@ CITY EDITOR Oh, yes, it's already made up. ,	6640000	Not Memorable
 She looks him directly in the eye. 	6630000	Not Memorable
 JAKE How's it going, buddy. ,	6620000	Not Memorable
 ANDREW looks him right in the eye. 	6620000	Not Memorable
-The hall is coming apart in dusty chunks of plaster. 	6620000	Not Memorable
+The hall is coming apart in dusty chunks of plaster. 	6620000	Slightly Memorable
 Something sparks in Lionel. 	6620000	Not Memorable
 ABEL What's that? 	6610000	Not Memorable
 What you've decided I ought to have - what you'd want if you were me. 	6610000	Not Memorable
@@ -3983,7 +3983,7 @@ FITZGERALD I had enough of this cold as hell shit. 	6520000	Not Memorable
 Cracks like a whip. 	6520000	Not Memorable
 But who's counting. 	6510000	Not Memorable
 I'm gonna have to start from scratch, with less than twenty-four hours... ,	6510000	Not Memorable
-It's not my fault I got Shanghai'ed. 	6510000	Not Memorable
+It's not my fault I got Shanghai'ed. 	6510000	Memorable
 Tap my arm or bang something metal if you have a problem. 	6510000	Not Memorable
 Hope you're safe up there. 54. 	6500000	Not Memorable
 And the parents and the teachers. 	6500000	Not Memorable
@@ -4094,7 +4094,7 @@ Had to gain some ground on Henry and them others. 	6060000	Not Memorable
 The train stops at the Junction On signal - but they don't like to wait. 	6060000	Not Memorable
 It'll be by the door. 	6060000	Not Memorable
 KANE I don't my plans myself. 	6050000	Not Memorable
-WAYNE Everything dies to give life. 	6050000	Not Memorable
+WAYNE Everything dies to give life. 	6050000	Slightly Memorable
 JULIAN I don't think so. 77 LOUIS SERVIDIO Did they or not? 	6050000	Not Memorable
 Feels like a franchise. 	6040000	Not Memorable
 SONNY It's me, Sonny. ,	6030000	Not Memorable
@@ -4157,7 +4157,7 @@ Okay, take care. ,	5800000	Not Memorable
 BERNSTEIN (sighs) You know how long it took the "Chronicle" to get that staff together? 	5800000	Not Memorable
 Slams it shut. 	5800000	Not Memorable
 It's great. 	5790000	Not Memorable
-Yes, it's yours... idiot. ,	5790000	Not Memorable
+Yes, it's yours... idiot. ,	5790000	Slightly Memorable
 ABEL It does matter, that you know we didn't do this. ,	5780000	Not Memorable
 The stage from the audience again. 	5780000	Not Memorable
 CHRIS A sniper won't aim for your head. 	5780000	Not Memorable
@@ -4397,7 +4397,7 @@ There is no answer from Kane. 	5160000	Not Memorable
 This is a sore spot and he backs off. 	5160000	Not Memorable
 MURPH (QUIET) Couldn't we just let it go? 	5160000	Not Memorable
 He's holding a drink. 	5160000	Not Memorable
-The worst thing about high school, and believe me it was a long list, were the Black kids. ,	5150000	Not Memorable
+The worst thing about high school, and believe me it was a long list, were the Black kids. ,	5150000	Slightly Memorable
 We just hear the sounds of his feet getting lower and lower. 	5150000	Not Memorable
 No. They have stopped the leak. 	5150000	Not Memorable
 Mocassins. 	5150000	Not Memorable
@@ -4407,7 +4407,7 @@ I feel it too. 	5130000	Not Memorable
 Tars double checks his work. 	5120000	Not Memorable
 CUT TO: 94E The Dean tries one more. 	5120000	Not Memorable
 Then -- a light turns on. 	5110000	Not Memorable
-I'm grateful to be alive. 	5110000	Not Memorable
+I'm grateful to be alive. 	5110000	Slightly Memorable
 While your peers are taking internships, making short films... ,	5110000	Not Memorable
 What is wrong with that? 	5110000	Not Memorable
 And what about you? 	5100000	Not Memorable
@@ -4440,10 +4440,10 @@ He then stops again. 	5030000	Not Memorable
 You can't buy Dave. 	5020000	Not Memorable
 ANNA And took the deposit? 	5020000	Not Memorable
 Has found where it's coming from... 	5010000	Not Memorable
-They worship everything and they value nothing. 	5000000	Not Memorable
+They worship everything and they value nothing. 	5000000	Memorable
 His arm is on her shoulder now. 	5000000	Not Memorable
 I -- I just -- CASTING DIRECTOR One second. 	5000000	Not Memorable
-You don't know what it means to feel - to know that people - that an audience don't want you. 	5000000	Not Memorable
+You don't know what it means to feel - to know that people - that an audience don't want you. 	5000000	Memorable
 One, two, three... ,	5000000	Not Memorable
 Close your eyes. 	5000000	Not Memorable
 In the tree. 	4990000	Not Memorable
@@ -4455,7 +4455,7 @@ Jane and I used to be so close... but -- now... 	4980000	Not Memorable
 They're mobilizing. 	4980000	Not Memorable
 Henry takes the journal... flips it open. 	4970000	Not Memorable
 If...once we go to series, we might have to figure out a summer schedule. ,	4970000	Not Memorable
-Because I'm not sure we're worth saving. 	4970000	Not Memorable
+Because I'm not sure we're worth saving. 	4970000	Slightly Memorable
 Feel it. (MORE) (CONTINUED) CONTINUED: MAZ (CONT'D) The light. 	4960000	Not Memorable
 What if it's a blood diamond? 	4960000	Not Memorable
 It spits dirt. 	4950000	Not Memorable
@@ -4476,7 +4476,7 @@ If he's right - and the papers publish this story he has - KANE Oh, they'll publ
 SEBASTIAN Yeah, feasibly -- I could be on the road for years with just this record. ,	4910000	Not Memorable
 There is music and light coming from a room past all the cubicles... 42. 36 INT. BULLPEN - NIGHT 36 ...An office filled with computers. 	4910000	Not Memorable
 Debris blocks a back-door. 	4900000	Not Memorable
-When the war was over, they didn't know when to stop fighting. ,	4900000	Not Memorable
+When the war was over, they didn't know when to stop fighting. ,	4900000	Slightly Memorable
 MIA Sebastian, no one's going to a club called "Chicken on a Stick". ,	4900000	Not Memorable
 SUNGMI Hey, about the rally. ,	4900000	Not Memorable
 HENRY What's out that direction? 	4890000	Not Memorable
@@ -4586,7 +4586,7 @@ You'll expose us all. 	4660000	Not Memorable
 KANE You've got a private office here, haven't you? ,	4660000	Not Memorable
 SEBASTIAN So I'm doing that. 	4660000	Not Memorable
 The Sheepdog does it again. 	4660000	Not Memorable
-They're savages. 	4660000	Not Memorable
+They're savages. 	4660000	Slightly Memorable
 She was playing with it. 	4660000	Not Memorable
 FN-2187 Because it's the right thing to do. 	4660000	Not Memorable
 Look at that. 	4660000	Not Memorable

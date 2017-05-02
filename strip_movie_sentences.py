@@ -11,7 +11,7 @@ def output_text(script, output, score_output, text):
         score_line = line + ","
         if score_line not in text:
             data = script_line_hits.do_provider_search_with_pause(line, timing=1, reps=0)
-            if (data >= 100000):
+            if (data >= 100000): #only return revalant scores
                 score_line = line + "," + data + "\n"
                 score_output.write(score_line)
             #elif data == -1:

@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# Get sentences based off of each corpus
+# Extract words and their status as memorable depending on the sentence it is in
 import nltk
 import sys
 
