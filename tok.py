@@ -28,7 +28,7 @@ def _hits(fileName, outputFileName):
 
 def main():
     _hits("top_5k.txt", "words_memorability_no_annotation.txt")
-    _hits("top_5k_annotated.txt", "words_memorability_with_annotation.txt")
+    #_hits("top_5k_annotated.txt", "words_memorability_with_annotation.txt")
 
 
 if __name__ == "__main__":
