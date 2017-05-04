@@ -46,6 +46,28 @@ def main():
         output_text(filtered_sentences, output, score_output, text)
     output.close()
 
+def main(arg1, arg2):
+        file_to_open = arg1
+        raw_movie_scripts = open(file_to_open, 'r')
+        text = raw_movie_scripts.read()
+        all_movie_scripts = text.split("THE END")
+        output = open("filtered_" + arg1, 'w+');
+        score_output = open(arg2, 'a+');
+        score_output.seek(0)
+    #    text = score_output.read()
+    #    score_output.seek(len(text) - 1)
+        for i in range(len(all_movie_scripts) - 1):
+            split_text = all_movie_scripts[i].replace("\n", " ")
+            sentences = re.split(r'(?<=[^A-Z].[.?]) +(?=[A-Z])', split_text)
+            filtered_sentences = remove_extra_spaces(sentences)
+            output_text(filtered_sentences, output, score_output, text)
+        output.close()
+
 if __name__ == "__main__":
-    main()
+    if (len(sys.argv > 1)):
+        main(sys.argv[1], sys.argv[2])
+    elif (len(sys.argv) == 1):
+        main()
+    else:
+        print "Error"
     #sys.exit(main(sys.argv));

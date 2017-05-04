@@ -20,7 +20,7 @@ def second_pass(data):
             print "Percentage for " + pos + " in " + memorability + " is " + str(percentage)
         print "------------------------ End of " + memorability + "\n"
 
-def main(arguments):
+def main(arguments, option):
     file1 = open(arguments[1], "r")
     text = file1.read()
     text_lines = text.split("\n")
@@ -32,7 +32,6 @@ def main(arguments):
     data["Slightly Memorable"]["Total"] = 0
     data["Not Memorable"] = {}
     data["Not Memorable"]["Total"] = 0
-    i = 0
     for line in text_lines:
         sentence = line.split("\t")
         if (len(sentence) == 3):
@@ -53,8 +52,14 @@ def main(arguments):
                     pair = {pos:1}
                     data[memorability].update(pair)
                 data[memorability]["Total"] += 1
-    second_pass(data)
+    if (option == 1):
+        return data
+    else:
+        second_pass(data)
 
 
 if __name__ == "__main__":
-    main(sys.argv)
+    if (len(sys.argv) == 3):
+        main(sys.argv, sys.argv[2])
+    else:
+        main(sys.argv, 0)

@@ -28,8 +28,19 @@ def _hits(fileName, outputFileName):
 
 def main():
     _hits("top_5k.txt", "words_memorability_no_annotation.txt")
-    #_hits("top_5k_annotated.txt", "words_memorability_with_annotation.txt")
+    _hits("top_5k_annotated.txt", "words_memorability_with_annotation.txt")
+
+def main(args1, args2):
+    yahoo = args1
+    yahoo_words = "words_mem_no_annotation_" + args1
+    annotated = args2
+    annotated_words = "words_mem_with_annotation_" + args2
+    _hits(yahoo,yahoo_words)
+    _hits(annotated, annotated_words)
 
 
 if __name__ == "__main__":
-    main()
+    if (len(sys.argv) == 1):
+        main()
+    elif (len(sys.argv) > 1):
+        main(sys.argv)
