@@ -1,347 +1,185 @@
-ALLEN Your best. 	932000000	Memorable
-ALLEN Your best. 	932000000	Memorable
-It's not for my best. 	374000000	Memorable
-It's not for my best. 	374000000	Memorable
-PROFESSOR STEEVES What's your name? 	181000000	Memorable
-PROFESSOR STEEVES What's your name? 	181000000	Memorable
-PROFESSOR STEEVES What's your name? 	181000000	Memorable
-Do you want to go back to Greystone? 	155000000	Memorable
-Do you want to go back to Greystone? 	155000000	Memorable
-Do you want to go back to Greystone? 	155000000	Memorable
-LUCIEN You can't show this to anyone. 	148000000	Memorable
-LUCIEN You can't show this to anyone. 	148000000	Memorable
-LUCIEN You can't show this to anyone. 	148000000	Memorable
-LUCIEN You can't show this to anyone. 	148000000	Memorable
-NAOMI Where were you? 	138000000	Memorable
-NAOMI Where were you? 	138000000	Memorable
-ALLEN Dad, what's going on? ,	136000000	Memorable
-ALLEN Dad, what's going on? ,	136000000	Memorable
-JACK What do you want me to do? 	132000000	Memorable
-Listen, you have to look after yourself. ,	110000000	Memorable
-Listen, you have to look after yourself. ,	110000000	Memorable
+ALLEN Your best. 	932000000 Not Memorable
+It's not for my best. 	374000000  Not Memorable
+PROFESSOR STEEVES What's your name? 	181000000  Not Memorable
+Do you want to go back to Greystone? 	155000000 Not Memorable
+LUCIEN You can't show this to anyone. 	148000000  Slightly Memorable
+NAOMI Where were you? 	138000000  Not Memorable
+ALLEN Dad, what's going on? ,	136000000 Not Memorable
+JACK What do you want me to do? 	132000000  Not Memorable
 Listen, you have to look after yourself. ,	110000000	Memorable
 Are you all right? 18. 	98800000	Memorable
-Are you all right? 18. 	98800000	Memorable
 I don't do...the cannabis. 	98400000	Memorable
-I don't do...the cannabis. 	98400000	Memorable
-LUCIEN It's how we make the world wider. 	88300000	Memorable
-ALLEN No. I'm not. 14. 	87700000	Memorable
-ALLEN No. I'm not. 14. 	87700000	Memorable
-ALLEN No. I'm not. 14. 	87700000	Memorable
-We have to write it all down. 	80700000	Memorable
-Just the sound of the water. 	78200000	Memorable
+LUCIEN It's how we make the world wider. 	88300000  Slightly Memorable
+ALLEN No. I'm not. 14. 	87700000  Slightly Memorable
+We have to write it all down. 	80700000 Not Memorable
+Just the sound of the water. 	78200000  Slightly Memorable
 You want the world on fire? 	77900000	Memorable
-Some beach near Rome. 	77700000	Memorable
-ALLEN Why didn't you tell me? 	77600000	Memorable
-PROFESSOR STEEVES "The New Vision. 	75900000	Memorable
-ALLEN Why don't you like me? 	75400000	Memorable
-ALLEN Why don't you like me? 	75400000	Memorable
-Maybe you're not up for this after all. 35. 	75000000	Memorable
-BILL Play nice, David. ,	74800000	Memorable
-BILL Play nice, David. ,	74800000	Memorable
-LUCIEN We need a name. 	72100000	Memorable
-LUCIEN We need a name. 	72100000	Memorable
+Some beach near Rome. 	77700000 Slightly Memorable
+ALLEN Why didn't you tell me? 	77600000 Not Memorable
+PROFESSOR STEEVES "The New Vision. 	75900000  Not Memorable
+ALLEN Why don't you like me? 	75400000  Not Memorable
+Maybe you're not up for this after all. 35. 	75000000 Not Memorable
+BILL Play nice, David. ,	74800000 Not Memorable
+LUCIEN We need a name. 	72100000  Not Memorable
 Calls out to David. 	72000000	Memorable
 ALLEN Can he still hear me? 	65800000	Memorable
-ALLEN Can he still hear me? 	65800000	Memorable
-ALLEN Can he still hear me? 	65800000	Memorable
 LUCIEN What are you, moving in? ,	64100000	Memorable
-JACK You missed. 	64000000	Memorable
-They're playing his game. 	58900000	Memorable
-Allen realizes what's happening. 	58600000	Memorable
-Allen realizes what's happening. 	58500000	Memorable
-Bang: the whole world... 	57700000	Memorable
-Bang: the whole world... 	57700000	Memorable
-Bang: the whole world... 	57700000	Memorable
-BILL (O.S.) Pervitin. 	57100000	Memorable
+JACK You missed. 	64000000  Not Memorable
+They're playing his game. 	58900000 Not Memorable
+Allen realizes what's happening. 	58600000  Not Memorable
+BILL (O.S.) Pervitin. 	57100000 Not Memorable
 LUCIEN We have the map. 	55600000	Memorable
 A work of fiction you will deliver as your final exam. 	52800000	Memorable
 The other students take note. 	50700000	Memorable
-The other students take note. 	50700000	Memorable
-The other students take note. 	50700000	Memorable
-LOUIS You got in?! 7. 	49700000	Memorable
-LOUIS You got in?! 7. 	49700000	Memorable
 LOUIS You got in?! 7. 	49700000	Memorable
 Get out! Allen stumbles out of the room, scared. ,	49000000	Memorable
-Two more sentences. 	48300000	Memorable
-Two more sentences. 	48300000	Memorable
-Two more sentences. 	48300000	Memorable
-JACK My best friend since I was twelve. 	48200000	Memorable
-Allen looks down, a bad liar. 4. ,	47000000	Memorable
-Allen looks down, a bad liar. 4. ,	47000000	Memorable
-Allen looks down, a bad liar. 4. ,	47000000	Memorable
-Life is only interesting if life is wide. 13. 	46300000	Memorable
-Life is only interesting if life is wide. 13. 	46300000	Memorable
-This is what a first time looks like. 	46300000	Memorable
+Two more sentences. 	48300000 Not Memorable
+JACK My best friend since I was twelve. 	48200000 Slightly Memorable
+Allen looks down, a bad liar. 4. ,	47000000 Not Memorable
+Life is only interesting if life is wide. 13. 	46300000 Slightly Memorable
 This is what a first time looks like. 	46300000	Memorable
 LUCIEN Fuck you. 	46300000	Memorable
 ALLEN Fuck you. 	46300000	Memorable
 Life is only interesting if life is wide. 13. 	46300000	Memorable
 That would just be the end of you. 	44800000	Memorable
-Is he there with you?! ALLEN No, he's not here with me. ,	41700000	Memorable
-Is he there with you?! ALLEN No, he's not here with me. ,	41700000	Memorable
-Because you're not right. 	40800000	Memorable
-Because you're not right. 	40800000	Memorable
-Because you're not right. 	40800000	Memorable
-LUCIEN Because it was me. 	40500000	Memorable
-LUCIEN Because it was me. 	40500000	Memorable
-Share. 	40100000	Memorable
+Is he there with you?! ALLEN No, he's not here with me. ,	41700000  Not Memorable
+Because you're not right. 	40800000 Slightly Memorable
+LUCIEN Because it was me. 	40500000 Not Memorable
+Share. 	40100000  Not Memorable
 ALLEN Show me your fucking map. 	36700000	Memorable
-But it's too late. 	35100000	Memorable
+But it's too late. 	35100000  Slightly Memorable
 LUKE You hymies are really all about work, huh? ,	34500000	Memorable
-LUKE You hymies are really all about work, huh? ,	34500000	Memorable
-LUKE You hymies are really all about work, huh? ,	34500000	Memorable
-ALLEN No, my mother. ,	34200000	Memorable
-ALLEN No, my mother. ,	34200000	Memorable
-Candles light the room. 	33700000	Memorable
-Candles light the room. 	33700000	Memorable
-Candles light the room. 	33700000	Memorable
-We see a young man cleaning house, sweeping in the background. ,	33500000	Memorable
-We see a young man cleaning house, sweeping in the background. ,	33500000	Memorable
-We see a young man cleaning house, sweeping in the background. ,	33500000	Memorable
+ALLEN No, my mother. ,	34200000 Not Memorable
+Candles light the room. 	33700000 Not Memorable
+We see a young man cleaning house, sweeping in the background. ,	33500000 Not Memorable
 He eyes a map of the New York City subway system. 	32100000	Memorable
-He eyes a map of the New York City subway system. 	32100000	Memorable
-He eyes a map of the New York City subway system. 	32100000	Memorable
-That's one. 	31800000	Memorable
-Anything for me? 	31000000	Memorable
-Anything for me? 	31000000	Memorable
-Anything for me? 	31000000	Memorable
-First. 	30200000	Memorable
-First. 	30200000	Memorable
-She may not get her nectacled. 	30000000	Memorable
-She may not get her nectacled. 	30000000	Memorable
+That's one. 	31800000 Not Memorable
+Anything for me? 	31000000  Not Memorable
+First. 	30200000  Not Memorable
+She may not get her nectacled. 	30000000  Not Memorable
 I'm not even sure why I bothered to come back. 	29700000	Memorable
-A blank page. 	29300000	Memorable
-ALLEN How did they come up "Dada"? 	28000000	Memorable
+A blank page. 	29300000 Not Memorable
 ALLEN How did they come up "Dada"? 	28000000	Memorable
 DAVID Or maybe he already has. 	27200000	Memorable
 David pulls him to the center of the room. 	25600000	Memorable
 David pulls him to the center of the room. 	25600000	Memorable
 He drops it into three coffee cups. 	25200000	Memorable
 It's... 	25000000	Memorable
-MUSIC PLAYS over... 	25000000	Memorable
-MUSIC PLAYS over... 	25000000	Memorable
-LUCIEN Well, thank you. ,	24600000	Memorable
-DAVID He's out. 	24200000	Memorable
-JACK Trust me. 	24200000	Memorable
+MUSIC PLAYS over... 	25000000 Not Memorable
+LUCIEN Well, thank you. ,	24600000  Not Memorable
+DAVID He's out. 	24200000 Not Memorable
+JACK Trust me. 	24200000  Not Memorable
 To be reborn, we have to die first. ,	23300000	Memorable
-To be reborn, we have to die first. ,	23300000	Memorable
-ALLEN (into the phone) Listen, I'll come as soon as I can. 16. ,	22700000	Memorable
-ALLEN (into the phone) Listen, I'll come as soon as I can. 16. ,	22700000	Memorable
-The class titters. 	22300000	Memorable
-The class titters. 	22300000	Memorable
+ALLEN (into the phone) Listen, I'll come as soon as I can. 16. ,	22700000 Slightly Memorable
 The class titters. 	22300000	Memorable
 Living. 	22200000	Memorable
-Living. 	22200000	Memorable
-Living. 	22200000	Memorable
-Remember? 	21100000	Memorable
-Ever. 	21000000	Memorable
+Remember? 	21100000 Not Memorable
+Ever. 	21000000 Not Memorable
 Look at her! Listen to her! Naomi babbling. 	20900000	Memorable
-NAOMI You've got to get me out of here. 	20700000	Memorable
-NAOMI You've got to get me out of here. 	20700000	Memorable
-NAOMI You've got to get me out of here. 	20700000	Memorable
-Give. 	19900000	Memorable
+NAOMI You've got to get me out of here. 	20700000 Slightly Memorable
+Give. 	19900000 Not Memorable
 That book is restricted. 	18700000	Memorable
 Dead. 	18700000	Memorable
 The puppy following his new master. 	18700000	Memorable
-Dead. 	18700000	Memorable
-Dead. 	18700000	Memorable
 That book is restricted. 	18700000	Memorable
-The puppy following his new master. 	18700000	Memorable
-That book is restricted. 	18700000	Memorable
-Dead. 	18700000	Memorable
-Jack. 	18500000	Memorable
-Jack. 	18500000	Memorable
-What does that even mean?! JACK Good. 	18300000	Memorable
-PERMISSIONS LIBRARIAN Get down immediately. 	18200000	Memorable
-PERMISSIONS LIBRARIAN Get down immediately. 	18200000	Memorable
-PERMISSIONS LIBRARIAN Get down immediately. 	18200000	Memorable
-Until. 	17600000	Memorable
-Until. 	17600000	Memorable
-Until. 	17600000	Memorable
+Jack. 	18500000 Not Memorable
+What does that even mean?! JACK Good. 	18300000 Slightly Memorable
+PERMISSIONS LIBRARIAN Get down immediately. 	18200000 Slightly Memorable
+Until. 	17600000  Not Memorable
 DAVID What the hell is this? 	17200000	Memorable
-LUCIEN What do you think? 	17000000	Memorable
+LUCIEN What do you think? 	17000000 Not Memorable
 Alone. 	16800000	Memorable
-Lose. 	16600000	Memorable
-We PULL BACK to see the entire wall is covered in words. 	15900000	Memorable
-Louis lights his own cigarette. 	15300000	Memorable
-Louis lights his own cigarette. 	15300000	Memorable
-Louis lights his own cigarette. 	15300000	Memorable
-Off in the Navy. 	15100000	Memorable
+Lose. 	16600000 Not Memorable
+We PULL BACK to see the entire wall is covered in words. 	15900000  Slightly Memorable
+Louis lights his own cigarette. 	15300000 Slightly Memorable
+Off in the Navy. 	15100000  Not Memorable
 NAOMI Honey, I need you come home now. ,	15000000	Memorable
-NAOMI Honey, I need you come home now. ,	15000000	Memorable
-NAOMI Honey, I need you come home now. ,	15000000	Memorable
-ALLEN I got into Columbia University! LOUIS You got into Columbia University?! Allen and his father embrace. 	14900000	Memorable
-He left. 	14900000	Memorable
-ALLEN I got into Columbia University! LOUIS You got into Columbia University?! Allen and his father embrace. 	14900000	Memorable
-He left. 	14900000	Memorable
-ALLEN I got into Columbia University! LOUIS You got into Columbia University?! Allen and his father embrace. 	14900000	Memorable
-He left. 	14900000	Memorable
-Put him on. 15. 	14800000	Memorable
-We're taking my brother with us to the social. 	14800000	Memorable
-Put him on. 15. 	14800000	Memorable
-We're taking my brother with us to the social. 	14800000	Memorable
-Put him on. 15. 	14800000	Memorable
-We're taking my brother with us to the social. 	14800000	Memorable
-JACK Hey when'd this come? 	14500000	Memorable
-Lucien RUNS for it, then Jack. ,	14500000	Memorable
-Furious. 	14300000	Memorable
-Furious. 	14300000	Memorable
-Have, hand. ,	13600000	Memorable
-Have, hand. ,	13600000	Memorable
-Have, hand. ,	13600000	Memorable
-He's in. 	13500000	Memorable
-He's in. 	13500000	Memorable
-What else? 	13000000	Memorable
-This is bad. 	13000000	Memorable
-This is bad. 	13000000	Memorable
+He left. 	14900000  Not Memorable
+Put him on. 15. 	14800000 Not Memorable
+We're taking my brother with us to the social. 	14800000  Not Memorable
+JACK Hey when'd this come? 	14500000  Slightly Memorable
+Lucien RUNS for it, then Jack. ,	14500000 Not Memorable
 Where is Sammy now? 	12900000	Memorable
-JACK I dunno. 	12800000	Memorable
+JACK I dunno. 	12800000 Not Memorable
 Have you read A Vision? 	12200000	Memorable
-Have you read A Vision? 	12200000	Memorable
-Have you read A Vision? 	12200000	Memorable
-The door slams. 	12000000	Memorable
-JACK Even better. 	12000000	Memorable
-The door slams. 	12000000	Memorable
-I love first times. 	12000000	Memorable
+JACK Even better. 	12000000 Slightly Memorable
+The door slams. 	12000000 Slightly Memorable
 I love first times. 	12000000	Memorable
 The door slams. 	12000000	Memorable
 I love first times. 	12000000	Memorable
 All playing in reverse. 	11700000	Memorable
 ALLEN Not exactly. 	11700000	Memorable
-Moving on. 	11500000	Memorable
-Moving on. 	11500000	Memorable
-Allen sits beside. 	11500000	Memorable
-Moving on. 	11500000	Memorable
+Allen sits beside. 	11500000  Not Memorable
+Moving on. 	11500000  Not Memorable
 None of them belong on the page. 	11300000	Memorable
-Unhappy. 	11200000	Memorable
+Unhappy. 	11200000  Not Memorable
 Beowolf. 	10900000	Memorable
 Books for furniture. 	10900000	Memorable
-Beowolf. 	10900000	Memorable
-Books for furniture. 	10900000	Memorable
-Books for furniture. 	10900000	Memorable
-Beowolf. 	10900000	Memorable
 ALLEN Dad didn't do that. 	10800000	Memorable
 With a friend. 25. 	10800000	Memorable
-ALLEN Dad didn't do that. 	10800000	Memorable
-With a friend. 25. 	10800000	Memorable
-ALLEN Dad didn't do that. 	10800000	Memorable
-Even better. 	10600000	Memorable
 Even better. 	10600000	Memorable
 Why do you think he chose that form? 	10400000	Memorable
-Why do you think he chose that form? 	10400000	Memorable
-Why do you think he chose that form? 	10400000	Memorable
-There it is. 	10400000	Memorable
+There it is. 	10400000  Not Memorable
 I love complicated. 	9680000	Memorable
-I love complicated. 	9680000	Memorable
-ALLEN What is that? 	9650000	Memorable
-ALLEN What is that? 	9650000	Memorable
+ALLEN What is that? 	9650000  Not Memorable
 ALLEN Not anymore. 	9610000	Memorable
 Life is round. 	9490000	Memorable
-Life is round. 	9490000	Memorable
-ALLEN Be careful. 	9350000	Memorable
+ALLEN Be careful. 	9350000  Not Memorable
 ALLEN A fruit? 	9110000	Memorable
-Allen considers, agrees. ,	8900000	Memorable
+Allen considers, agrees. ,	8900000	 Not Memorable
 A suicide is underway. 	8810000	Memorable
-A suicide is underway. 	8810000	Memorable
 A record starts up down the hall. 	8810000	Memorable
-A record starts up down the hall. 	8810000	Memorable
-A record starts up down the hall. 	8810000	Memorable
-David at his party... 	8450000	Memorable
+David at his party... 	8450000  Not Memorable
 Lucien looks up, surprised. ,	8010000	Memorable
-Lucien looks up, surprised. ,	8010000	Memorable
-Lucien looks up, surprised. ,	7990000	Memorable
-LOUIS Is what we hand away. 	7950000	Memorable
-LOUIS Is what we hand away. 	7950000	Memorable
 LOUIS Is what we hand away. 	7950000	Memorable
 DAVID It's mine. 	7940000	Memorable
 But under the right circumstances, even he might change the world. ,	7860000	Memorable
 You expecting something? 	7860000	Memorable
-You expecting something? 	7860000	Memorable
-But under the right circumstances, even he might change the world. ,	7860000	Memorable
-You expecting something? 	7860000	Memorable
-It's your truth. 	7790000	Memorable
-It's your truth. 	7790000	Memorable
-It's your truth. 	7790000	Memorable
 It's your truth. 	7790000	Memorable
 Bill holds up his finger - it is on fire. 	7690000	Memorable
 LUKE I'm getting good at telling. 	7610000	Memorable
-LUKE I'm getting good at telling. 	7610000	Memorable
-LUKE I'm getting good at telling. 	7600000	Memorable
-The kind of kid who takes care of everything. 	7310000	Memorable
-The kind of kid who takes care of everything. 	7310000	Memorable
-Clear your head. 	7280000	Memorable
-Clear your head. 	7280000	Memorable
-Clear your head. 	7280000	Memorable
-Allen's eyes roll back. 	7090000	Memorable
-Bill notices David, turns off the gas. 32. ,	7070000	Memorable
+The kind of kid who takes care of everything. 	7310000  Not Memorable
+Clear your head. 	7280000 Slightly Memorable
+Allen's eyes roll back. 	7090000  Slightly Memorable
+Bill notices David, turns off the gas. 32. ,	7070000  Slightly Memorable
 This detonates inside Allen. 	7070000	Memorable
-He's upset. 	7030000	Memorable
-He's upset. 	7020000	Memorable
 He's upset. 	7020000	Memorable
 BILL "A girl who is bespectacled. 	6910000	Memorable
 BILL "A girl who is bespectacled. 	6890000	Memorable
 The Gutenberg Bible. 	6820000	Memorable
-The Gutenberg Bible. 	6820000	Memorable
-The Gutenberg Bible. 	6820000	Memorable
-EDIE (O.S.) Jack? 	6790000	Memorable
+EDIE (O.S.) Jack? 	6790000  Not Memorable
 LUKE What the hell are you doing? 	6790000	Memorable
 LUCIEN A queer. 	6690000	Memorable
 She's not well. 	6680000	Memorable
-She's not well. 	6680000	Memorable
-She's not well. 	6680000	Memorable
 The kind of kid who takes care of everything. 	6660000	Memorable
-LUCIEN No. Downtown. 	6620000	Memorable
-LUCIEN No. Downtown. 	6620000	Memorable
+LUCIEN No. Downtown. 	6620000 Not Memorable
 LUCIEN The expression of self. 	6580000	Memorable
-Allen, realizing he is trapped, unable to answer. ,	6580000	Memorable
-LUCIEN The expression of self. 	6580000	Memorable
-Allen, realizing he is trapped, unable to answer. ,	6580000	Memorable
 Allen, realizing he is trapped, unable to answer. ,	6580000	Memorable
 ALLEN You asked me to. 	6520000	Memorable
 His current medium is himself. 	6500000	Memorable
-His current medium is himself. 	6500000	Memorable
-Lucien lays down. 	6460000	Memorable
-Lucien lays down. 	6460000	Memorable
-I have to. 	6430000	Memorable
+Lucien lays down. 	6460000  Not Memorable
 I have to. 	6430000	Memorable
 It's overwritten, I know. ,	6360000	Memorable
-It's overwritten, I know. ,	6360000	Memorable
 ALLEN (to his father) You can't do this to her. 	6350000	Memorable
-ALLEN (to his father) You can't do this to her. 	6350000	Memorable
-All eyes on Allen. 	6350000	Memorable
-All eyes on Allen. 	6350000	Memorable
 All eyes on Allen. 	6350000	Memorable
 ALLEN No, you're not leaving. ,	6240000	Memorable
 Lucien looks at Allen, amazed. ,	6240000	Memorable
 ALLEN No, you're not leaving. ,	6240000	Memorable
-ALLEN Where'd he go? 	6240000	Memorable
-ALLEN Where'd he go? 	6240000	Memorable
-Lucien looks at Allen, amazed. ,	6240000	Memorable
-Lucien looks at Allen, amazed. ,	6240000	Memorable
+ALLEN Where'd he go? 	6240000 Not Memorable
+Lucien looks at Allen, amazed. ,	6240000  Not Memorable
 Louis tries to read his son's face. 	6230000	Memorable
-ALLEN Where'd he go? 	6230000	Memorable
-ALLEN How come you're not at the social? 	6230000	Memorable
-Louis tries to read his son's face. 	6230000	Memorable
+ALLEN Where'd he go? 	6230000 Not Memorable
+ALLEN How come you're not at the social? 	6230000 Not Memorable
 Louis tries to read his son's face. 	6230000	Memorable
 ALLEN How come you're not at the social? 	6230000	Memorable
-ALLEN How come you're not at the social? 	6230000	Memorable
-LOUIS How was she today? 	6220000	Memorable
-LOUIS How was she today? 	6220000	Memorable
 LOUIS How was she today? 	6220000	Memorable
 Waits for it. 	6110000	Memorable
 ALLEN I got in. 	6040000	Memorable
-ALLEN I got in. 	6040000	Memorable
-ALLEN I got in. 	6040000	Memorable
 Eat shoe leather? 	5820000	Memorable
-ALLEN It's complicated. 	5820000	Memorable
 ALLEN It's complicated. 	5820000	Memorable
 I cooked all day for you. 43. 	5800000	Memorable
 Let's make the prisoners come out and play. 	5690000	Memorable
-Let's make the prisoners come out and play. 	5690000	Memorable
 ALLEN I was out. 	5670000	Memorable
-ALLEN I was out. 	5670000	Memorable
-ALLEN What's that? 	5670000	Memorable
 ALLEN What's that? 	5650000	Memorable
 What is happening? 	5570000	Memorable
 INT. BILL'S APARTMENT - DAY Bill rattles off the list. 	5500000	Memorable
@@ -352,44 +190,27 @@ You talk like a Catholic. 	5350000	Memorable
 DAVID And get you sent back to your mother again? 	5160000	Memorable
 Inspired to write something beautiful. 	4980000	Memorable
 ALLEN I didn't want her to know. (beat) It was a dream anyway. 	4970000	Memorable
-ALLEN I didn't want her to know. (beat) It was a dream anyway. 	4970000	Memorable
-ALLEN I didn't want her to know. (beat) It was a dream anyway. 	4970000	Memorable
 LUCIEN Institutions. 29. 	4920000	Memorable
 I want my whole life to be composed of them. 	4890000	Memorable
 NAOMI He wouldn't dare put me back there. 5. 	4890000	Memorable
 I want my whole life to be composed of them. 	4890000	Memorable
-I want my whole life to be composed of them. 	4890000	Memorable
-NAOMI He wouldn't dare put me back there. 5. 	4890000	Memorable
 NAOMI He wouldn't dare put me back there. 5. 	4890000	Memorable
 We realize it is Jack's novel The Sea Is My Brother. 	4840000	Memorable
 Sucks it, eyeing Allen the whole time. ,	4830000	Memorable
-What will it be? 	4800000	Memorable
+What will it be? 	4800000 Not Memorable
 LUCIEN No. We're not going to kill him. 	4690000	Memorable
-LUCIEN No. We're not going to kill him. 	4690000	Memorable
-Uh-oh. 	4680000	Memorable
-Uh-oh. 	4680000	Memorable
-Because he is. 	4640000	Memorable
-Because he is. 	4640000	Memorable
-Because he is. 	4640000	Memorable
+Uh-oh. 	4680000 Slightly Memorable
+Because he is. 	4640000 Not Memorable
 ALLEN Then let's get rid of him. 	4620000	Memorable
 JACK Both of you! Quiet! Jack sets up an old phonograph. 	4600000	Memorable
-Luke pulls out his own waistband and sprays some cologne down the front. 	4570000	Memorable
-Luke pulls out his own waistband and sprays some cologne down the front. 	4570000	Memorable
 Luke pulls out his own waistband and sprays some cologne down the front. 	4570000	Memorable
 Movements are cooked up by people who can't write about the people who can. 	4480000	Memorable
 BILL Get this man a pair of scissors! DAVID This is not your revolution, this is my life. ,	4390000	Memorable
 Allen, terrified, looks at David, who looks back, knowing exactly now who Allen is. ,	4380000	Memorable
-Allen, terrified, looks at David, who looks back, knowing exactly now who Allen is. ,	4380000	Memorable
-Lucien takes the joint. 	4350000	Memorable
 Lucien takes the joint. 	4350000	Memorable
 In the trenches. 	4330000	Memorable
 Stones rise back into his pockets. 	4230000	Memorable
-Stones rise back into his pockets. 	4230000	Memorable
-Stones rise back into his pockets. 	4230000	Memorable
-Stones rise back into his pockets. 	4230000	Memorable
 With a senior, some football player. ,	4210000	Memorable
-There's one of them every year. 	4180000	Memorable
-There's one of them every year. 	4180000	Memorable
 There's one of them every year. 	4180000	Memorable
 LUCIEN Who's Sammy? 	4120000	Memorable
 Columbia's full of squares. 	4090000	Memorable
@@ -399,32 +220,17 @@ ALLEN You are an extraordinary man. 	4040000	Memorable
 NAOMI He's not home. 	4020000	Memorable
 NAOMI He's not home. 	4020000	Memorable
 NAOMI I don't feel good. 	4020000	Memorable
-NAOMI I don't feel good. 	4020000	Memorable
-NAOMI He's not home. 	4020000	Memorable
-NAOMI I don't feel good. 	4020000	Memorable
-NAOMI (O.S.) Who are you talking to? 	4010000	Memorable
 NAOMI (O.S.) Who are you talking to? 	4010000	Memorable
 Passing out from the liquor. 	3970000	Memorable
-ALLEN (O.S.) Dad is not trying to get inside your head, okay? ,	3900000	Memorable
-ALLEN (O.S.) Dad is not trying to get inside your head, okay? ,	3900000	Memorable
-You see how much I've got to do. 	3900000	Memorable
-You see how much I've got to do. 	3900000	Memorable
+ALLEN (O.S.) Dad is not trying to get inside your head, okay? ,	3900000 Not Memorable
 You see how much I've got to do. 	3900000	Memorable
 ALLEN (O.S.) Dad is not trying to get inside your head, okay? ,	3900000	Memorable
-She finally softens, takes his hand. ,	3880000	Memorable
-She finally softens, takes his hand. ,	3880000	Memorable
 She finally softens, takes his hand. ,	3880000	Memorable
 LUCIEN It's better than anything you've ever written. 	3870000	Memorable
 And dying. 	3820000	Memorable
-And dying. 	3820000	Memorable
-And dying. 	3820000	Memorable
 It is our duty to break the law. 30. 	3770000	Memorable
 Because I've got a job for a writer. 	3760000	Memorable
-Because I've got a job for a writer. 	3760000	Memorable
-Because I've got a job for a writer. 	3760000	Memorable
 EDIE I didn't know we were having guests. 	3680000	Memorable
-Luke smacks him on the shoulder. 8. 	3620000	Memorable
-Luke smacks him on the shoulder. 8. 	3620000	Memorable
 Luke smacks him on the shoulder. 8. 	3620000	Memorable
 ALLEN Do you know her?! LUCIEN No, and I don't plan on it. ,	3600000	Memorable
 ALLEN Do you know her?! LUCIEN No, and I don't plan on it. ,	3600000	Memorable
@@ -437,9 +243,6 @@ A beat of understanding between them. 	3230000	Memorable
 A beat of understanding between them. 	3230000	Memorable
 He writes the words down. 	3210000	Memorable
 Allen hands him back the smoke. 	3190000	Memorable
-Allen hands him back the smoke. 	3190000	Memorable
-Allen reaches for her. 	3150000	Memorable
-Allen reaches for her. 	3150000	Memorable
 Allen reaches for her. 	3150000	Memorable
 LUCIEN How did you...? 	3130000	Memorable
 LUCIEN How did you...? 	3130000	Memorable
@@ -453,9 +256,7 @@ Lucien gets into bed. 	3130000	Memorable
 Lucien grabs Allen's hand, pulls him to the party. ,	3130000	Memorable
 LUCIEN Then what do you suggest? 	3130000	Memorable
 LUCIEN How did you...? 	3130000	Memorable
-PERMISSIONS LIBRARIAN What is this nonsense? 	3100000	Memorable
-PERMISSIONS LIBRARIAN What is this nonsense? 	3100000	Memorable
-PERMISSIONS LIBRARIAN What is this nonsense? 	3100000	Memorable
+PERMISSIONS LIBRARIAN What is this nonsense? 	3100000 Slightly Memorable
 LOUIS Your mother needs her rest. 	3090000	Memorable
 LOUIS Your mother needs her rest. 	3090000	Memorable
 ALLEN Complicated enough? 	3080000	Memorable
@@ -466,15 +267,10 @@ Who is you? 	3020000	Memorable
 NAOMI I called you! MALE NURSE It's time to go, Mrs. ,	2990000	Memorable
 NAOMI I called you! MALE NURSE It's time to go, Mrs. ,	2990000	Memorable
 NAOMI (O.S.) I found the wires. 	2950000	Memorable
-NAOMI (O.S.) I found the wires. 	2950000	Memorable
-NAOMI (O.S.) I found the wires. 	2950000	Memorable
 Allen mimes deafness. 	2940000	Memorable
-Allen mimes deafness. 	2930000	Memorable
-Allen mimes deafness. 	2920000	Memorable
 David approaches Lucien. 	2910000	Memorable
 Lucien tries to help, but falls off his own chair. ,	2900000	Memorable
 Lucien tries to help, but falls off his own chair. ,	2890000	Memorable
-BILL Words, boys. ,	2860000	Memorable
 BILL Words, boys. ,	2860000	Memorable
 And... 28. 	2850000	Memorable
 And... 28. 	2850000	Memorable
@@ -510,10 +306,6 @@ I'm hungry and what you do in the kitchen is unholy. 	2330000	Slightly Memorable
 We're headed out to the front. 	2320000	Slightly Memorable
 JACK So Al. You thought my novel was shit? 	2290000	Slightly Memorable
 TOUR These are among the University's most prized possessions. 	2270000	Slightly Memorable
-TOUR These are among the University's most prized possessions. 	2270000	Slightly Memorable
-TOUR These are among the University's most prized possessions. 	2270000	Slightly Memorable
-He says life is round: we're stuck on this wheel. 	2180000	Slightly Memorable
-He says life is round: we're stuck on this wheel. 	2180000	Slightly Memorable
 He says life is round: we're stuck on this wheel. 	2180000	Slightly Memorable
 That's my sonnet for Steeves. 	2170000	Slightly Memorable
 Allen hides them behind his back. 	2170000	Slightly Memorable
@@ -521,75 +313,39 @@ It is the first principle of good creative work. 	2160000	Slightly Memorable
 ALLEN Paterson, New Jersey. ,	2120000	Slightly Memorable
 He can't believe he's really here in the big city. 	2110000	Slightly Memorable
 The dutiful son's first failure. 26. 	2110000	Slightly Memorable
-The dutiful son's first failure. 26. 	2110000	Slightly Memorable
-He can't believe he's really here in the big city. 	2110000	Slightly Memorable
 He can't believe he's really here in the big city. 	2110000	Slightly Memorable
 LUCIEN Allen! No! Allen doesn't turn. 	2080000	Slightly Memorable
-LUCIEN Allen! No! Allen doesn't turn. 	2080000	Slightly Memorable
-LUCIEN Allen! No! Allen doesn't turn. 	2080000	Slightly Memorable
-LUCIEN Allen! No! Allen doesn't turn. 	2080000	Slightly Memorable
 LUKE He's Navy. 	2070000	Slightly Memorable
-LUKE He's Navy. 	2070000	Slightly Memorable
-LUKE He's Navy. 	2070000	Slightly Memorable
-ALLEN Never heard of it. 	2010000	Slightly Memorable
-ALLEN Never heard of it. 	2010000	Slightly Memorable
 ALLEN Never heard of it. 	2010000	Slightly Memorable
 Anzio? 	2000000	Slightly Memorable
 ALLEN Oh no, thanks. ,	1990000	Slightly Memorable
 Say nothing. 	1990000	Slightly Memorable
 ALLEN Oh no, thanks. ,	1990000	Slightly Memorable
 Bill walks in, knows what game his friend is playing. ,	1990000	Slightly Memorable
-Bill walks in, knows what game his friend is playing. ,	1990000	Slightly Memorable
-ALLEN She's going to be furious. 24. 	1980000	Slightly Memorable
 ALLEN She's going to be furious. 24. 	1980000	Slightly Memorable
 BILL (O.S.) What do you hate from the pit of your gut? 	1970000	Slightly Memorable
 Lucien steps between David and their wall of clippings. 	1950000	Slightly Memorable
 Allen stops short. 	1940000	Slightly Memorable
 PROFESSOR STEEVES There can be no creation before imitation. 	1910000	Slightly Memorable
-PROFESSOR STEEVES There can be no creation before imitation. 	1910000	Slightly Memorable
-PROFESSOR STEEVES There can be no creation before imitation. 	1910000	Slightly Memorable
-This is very bad. 	1890000	Slightly Memorable
 This is very bad. 	1890000	Slightly Memorable
 It's the same BRAHMS from his mother's bedroom. 	1870000	Slightly Memorable
-It's the same BRAHMS from his mother's bedroom. 	1870000	Slightly Memorable
-It's the same BRAHMS from his mother's bedroom. 	1870000	Slightly Memorable
-ALLEN (O.S.) Mom I can't come home. 	1870000	Slightly Memorable
-ALLEN (O.S.) Mom I can't come home. 	1870000	Slightly Memorable
 ALLEN (O.S.) Mom I can't come home. 	1870000	Slightly Memorable
 NAOMI He's trying to get inside my head. 	1800000	Slightly Memorable
-NAOMI He's trying to get inside my head. 	1800000	Slightly Memorable
-NAOMI He's trying to get inside my head. 	1800000	Slightly Memorable
 But Allen doesn't hear, he grins to himself. ,	1780000	Slightly Memorable
-But Allen doesn't hear, he grins to himself. ,	1780000	Slightly Memorable
-But Allen doesn't hear, he grins to himself. ,	1780000	Slightly Memorable
-Suddenly, a breath: he comes back to life. ,	1770000	Slightly Memorable
-Suddenly, a breath: he comes back to life. ,	1770000	Slightly Memorable
-Suddenly, a breath: he comes back to life. ,	1770000	Slightly Memorable
 Suddenly, a breath: he comes back to life. ,	1770000	Slightly Memorable
 ALLEN You don't know me. 	1760000	Slightly Memorable
 Look at him. 	1750000	Slightly Memorable
-Look at him. 	1750000	Slightly Memorable
 The band puts down their instruments. 	1740000	Slightly Memorable
 The band puts down their instruments. 	1740000	Slightly Memorable
 Ginsberg. 	1720000	Slightly Memorable
-Ginsberg. 	1720000	Slightly Memorable
-ALLEN I don't drink. 	1710000	Slightly Memorable
-ALLEN I don't drink. 	1710000	Slightly Memorable
 ALLEN I don't drink. 	1710000	Slightly Memorable
 David crosses through crowd towards Allen. 	1700000	Slightly Memorable
-David crosses through crowd towards Allen. 	1700000	Slightly Memorable
-Up the hallway, a door locks. ,	1690000	Slightly Memorable
-Up the hallway, a door locks. ,	1690000	Slightly Memorable
 Up the hallway, a door locks. ,	1690000	Slightly Memorable
 LUCIEN Only the most anti-social have to go to an event actually called one. 	1680000	Slightly Memorable
-LUCIEN Only the most anti-social have to go to an event actually called one. 	1680000	Slightly Memorable
-LUCIEN Are you a writer? 	1680000	Slightly Memorable
-LUCIEN Are you a writer? 	1680000	Slightly Memorable
 LUCIEN Are you a writer? 	1680000	Slightly Memorable
 LUCIEN Only the most anti-social have to go to an event actually called one. 	1680000	Slightly Memorable
 NAOMI This is your fault. 	1640000	Slightly Memorable
 NAOMI This is your fault. 	1640000	Slightly Memorable
-ALLEN He looks like a criminal. 19. 	1630000	Slightly Memorable
 ALLEN He looks like a criminal. 19. 	1630000	Slightly Memorable
 ALLEN Lu! It's very rough but... 	1620000	Slightly Memorable
 In all the broken places. 	1590000	Slightly Memorable
@@ -607,62 +363,38 @@ LOUIS (talking to himself, dreaming) Trilling's there. ,	1580000	Slightly Memora
 ALLEN You don't understand. 	1580000	Slightly Memorable
 Allen walks inside. 	1580000	Slightly Memorable
 ALLEN I've been thinking about what Yeats said. 	1560000	Slightly Memorable
-ALLEN I've been thinking about what Yeats said. 	1560000	Slightly Memorable
-He's looking at the response in shock. 	1530000	Slightly Memorable
-He's looking at the response in shock. 	1530000	Slightly Memorable
-He's looking at the response in shock. 	1530000	Slightly Memorable
 Allen pulls her back, into the house. ,	1500000	Slightly Memorable
-Allen pulls her back, into the house. ,	1500000	Slightly Memorable
-Jazz music sparks, PRE-LAP from where this party's going next. ,	1450000	Slightly Memorable
 Jazz music sparks, PRE-LAP from where this party's going next. ,	1450000	Slightly Memorable
 But you fuck me and won't marry me. 	1450000	Slightly Memorable
-LUKE Shut the books. 	1440000	Slightly Memorable
 LUKE Shut the books. 	1440000	Slightly Memorable
 LUCIEN Once you meet him, you'll see what I mean. ,	1440000	Slightly Memorable
 LUKE Shut the books. 	1440000	Slightly Memorable
 INT. GINSBERG HOME - NIGHT The radio continues playing to a modest home. 	1420000	Slightly Memorable
-INT. GINSBERG HOME - NIGHT The radio continues playing to a modest home. 	1420000	Slightly Memorable
-INT. GINSBERG HOME - NIGHT The radio continues playing to a modest home. 	1420000	Slightly Memorable
-DAVID None of us notice him. 	1390000	Slightly Memorable
 DAVID None of us notice him. 	1390000	Slightly Memorable
 BILL What kind of life is it? 	1370000	Slightly Memorable
 Allen turns the music up all the way. 	1360000	Slightly Memorable
 ALLEN Where's Lu? 39. 	1360000	Slightly Memorable
 Allen turns the music up all the way. 	1360000	Slightly Memorable
-Allen turns the music up all the way. 	1360000	Slightly Memorable
 JACK A "new vision?" ALLEN Yeah. 	1340000	Slightly Memorable
-LOUIS I told you it wouldn't work. 	1330000	Slightly Memorable
-LOUIS I told you it wouldn't work. 	1330000	Slightly Memorable
 LOUIS I told you it wouldn't work. 	1330000	Slightly Memorable
 A ceremony. 	1320000	Slightly Memorable
 Moved, he links his arm with Allen's. ,	1310000	Slightly Memorable
-ALLEN I've spent my life making other people happy. 	1310000	Slightly Memorable
 Moved, he links his arm with Allen's. ,	1310000	Slightly Memorable
 ALLEN I've spent my life making other people happy. 	1310000	Slightly Memorable
 The room freezes. 	1270000	Slightly Memorable
-David and Bill share a knowing look. 	1260000	Slightly Memorable
 ALLEN I love complicated. 	1260000	Slightly Memorable
 David and Bill share a knowing look. 	1260000	Slightly Memorable
 You are not in wonderland I have heard the strange madness long growing in your soul. 	1260000	Slightly Memorable
 Look at her! Listen to her! Naomi babbling. 	1260000	Slightly Memorable
 Is it something? 	1190000	Slightly Memorable
 Allen looks down, amazed. ,	1180000	Slightly Memorable
-Allen looks down, amazed. ,	1180000	Slightly Memorable
-Allen looks down, amazed. ,	1180000	Slightly Memorable
-Allen, swept up in the energy. ,	1170000	Slightly Memorable
 Allen, swept up in the energy. ,	1170000	Slightly Memorable
 And it's beautiful. 	1160000	Slightly Memorable
 ALLEN I use periods and commas. 	1160000	Slightly Memorable
-David sees the boys talking. 	1150000	Slightly Memorable
-David sees the boys talking. 	1150000	Slightly Memorable
 LUCIEN How's your Yeats? 	1130000	Slightly Memorable
-The unlocked door creaks open. 12. 	1130000	Slightly Memorable
-LUCIEN How's your Yeats? 	1130000	Slightly Memorable
-The unlocked door creaks open. 12. 	1130000	Slightly Memorable
 The unlocked door creaks open. 12. 	1130000	Slightly Memorable
 LUCIEN How's your Yeats? 	1130000	Slightly Memorable
 NAOMI Don't ever leave me. 	1110000	Slightly Memorable
-ALLEN (V.O.) And if you try to let them go... 	1110000	Slightly Memorable
 ALLEN (V.O.) And if you try to let them go... 	1110000	Slightly Memorable
 NAOMI Don't ever leave me. 	1110000	Slightly Memorable
 PROFESSOR STEEVES The war awaits. 	1110000	Slightly Memorable
@@ -681,21 +413,11 @@ The music suddenly stops as we ... 	1050000	Slightly Memorable
 Lucien closes his eyes. 	1040000	Slightly Memorable
 LUKE (O.S.) You don't wanna go down there. 	1010000	Slightly Memorable
 EDIE (O.S.) Today. 	1010000	Slightly Memorable
-LUKE (O.S.) You don't wanna go down there. 	1010000	Slightly Memorable
-LUKE (O.S.) You don't wanna go down there. 	1010000	Slightly Memorable
-The first time Allen has defied anyone. 	1010000	Slightly Memorable
-I nailed the windows. 	998000	Slightly Memorable
-I nailed the windows. 	998000	Slightly Memorable
 I nailed the windows. 	998000	Slightly Memorable
 LOUIS Until we know, the only thing we have-- ALLEN is what we give away. ,	969000	Slightly Memorable
-LOUIS Until we know, the only thing we have-- ALLEN is what we give away. ,	969000	Slightly Memorable
-LOUIS Until we know, the only thing we have-- ALLEN is what we give away. ,	969000	Slightly Memorable
-Assonance. 	966000	Slightly Memorable
 Assonance. 	965000	Slightly Memorable
 He has been adrift in a hallucination. 	965000	Slightly Memorable
 Assonance. 	965000	Slightly Memorable
-Allen quickly thinks, turns to her bureau. ,	964000	Slightly Memorable
-Allen quickly thinks, turns to her bureau. ,	964000	Slightly Memorable
 Allen quickly thinks, turns to her bureau. ,	964000	Slightly Memorable
 Then the sound of the door creaking open. 	961000	Slightly Memorable
 His father just sighs. 	946000	Slightly Memorable
@@ -707,1291 +429,54 @@ Lucien, mute witness to it all. ,	935000	Slightly Memorable
 Lucien, mute witness to it all. ,	935000	Slightly Memorable
 Allen searching through their past. 	926000	Slightly Memorable
 And Lucien on the floor, reading the Times and smoking. ,	913000	Slightly Memorable
-And Lucien on the floor, reading the Times and smoking. ,	913000	Slightly Memorable
-And Lucien on the floor, reading the Times and smoking. ,	913000	Slightly Memorable
 LUCIEN He wishes he were a criminal. 	910000	Slightly Memorable
 LUCIEN He wishes he were a criminal. 	910000	Slightly Memorable
 BILL (O.S.) But beware of the side-effects. 	903000	Slightly Memorable
 NAOMI What did you say? 	900000	Slightly Memorable
-NAOMI What did you say? 	900000	Slightly Memorable
-NAOMI What did you say? 	900000	Slightly Memorable
-LOUIS It's for her best. 	889000	Slightly Memorable
-LOUIS It's for her best. 	889000	Slightly Memorable
-My father left me when I was four. 	861000	Slightly Memorable
 My father left me when I was four. 	861000	Slightly Memorable
 Allen reaches through the bars and SNATCHES the paper. 	844000	Slightly Memorable
 LUKE Land of the fairies. 	840000	Slightly Memorable
-LUKE Land of the fairies. 	840000	Slightly Memorable
-LUKE Land of the fairies. 	840000	Slightly Memorable
 ALLEN It's time I find happiness the only way I see possible. 	837000	Slightly Memorable
-ALLEN It's time I find happiness the only way I see possible. 	837000	Slightly Memorable
-As the war report ends, a stuffy musical piece begins. ,	835000	Slightly Memorable
-As the war report ends, a stuffy musical piece begins. ,	835000	Slightly Memorable
 As the war report ends, a stuffy musical piece begins. ,	835000	Slightly Memorable
 LUCIEN Lu, I don't think he gets what we're trying to do. ,	830000	Slightly Memorable
 Hands them to Lucien who nails them to the wall. 	830000	Slightly Memorable
 LUCIEN Allen in Wonderland. 	828000	Slightly Memorable
-LUCIEN Allen in Wonderland. 	828000	Slightly Memorable
-LUCIEN Allen in Wonderland. 	828000	Slightly Memorable
 We close in on Allen's despondent face. 	824000	Slightly Memorable
 We close in on Allen's despondent face. 	824000	Slightly Memorable
-Consonance. 	796000	Slightly Memorable
-Consonance. 	796000	Slightly Memorable
 Consonance. 	795000	Slightly Memorable
-From down the hall... 	793000	Slightly Memorable
-From down the hall... 	793000	Slightly Memorable
 From down the hall... 	793000	Slightly Memorable
 Bill stands up, woozy. ,	787000	Slightly Memorable
 Her knuckles are bleeding. 	785000	Slightly Memorable
-Her knuckles are bleeding. 	785000	Slightly Memorable
-Her knuckles are bleeding. 	785000	Slightly Memorable
-Then a woman whimpering in pain. 	783000	Slightly Memorable
-Then a woman whimpering in pain. 	783000	Slightly Memorable
 Then a woman whimpering in pain. 	783000	Slightly Memorable
 We were just in Allen's imagination. 	782000	Slightly Memorable
 ALLEN Professor Steeves, then how do you explain Whitman? ,	769000	Slightly Memorable
-ALLEN Professor Steeves, then how do you explain Whitman? ,	769000	Slightly Memorable
-ALLEN Professor Steeves, then how do you explain Whitman? ,	769000	Slightly Memorable
-Allen watching him disappear. 	734000	Slightly Memorable
 Allen watching him disappear. 	734000	Slightly Memorable
 PROFESSOR STEEVES All right. 	717000	Slightly Memorable
 Jack ignores Allen, wings the pigskin right at him. ,	703000	Slightly Memorable
 DAVID That's odd since I'm the only thing keeping him here. 	703000	Slightly Memorable
-He looks down, ashamed. 6. ,	696000	Slightly Memorable
-He looks down, ashamed. 6. ,	696000	Slightly Memorable
 Steeves motions to the door. 	696000	Slightly Memorable
 He looks down, ashamed. 6. ,	696000	Slightly Memorable
 The hardest thing he's ever done. 	695000	Slightly Memorable
-The hardest thing he's ever done. 	695000	Slightly Memorable
-The hardest thing he's ever done. 	695000	Slightly Memorable
 An eerie hum from the glass. 	684000	Slightly Memorable
-An eerie hum from the glass. 	684000	Slightly Memorable
-DAVID So the pattern of our evening, our lives, holds. ,	682000	Slightly Memorable
-DAVID So the pattern of our evening, our lives, holds. ,	682000	Slightly Memorable
-Allen grabs for his manuscript back, but Lucien pulls it out of reach. ,	676000	Slightly Memorable
-Allen grabs for his manuscript back, but Lucien pulls it out of reach. ,	676000	Slightly Memorable
-Allen grabs for his manuscript back, but Lucien pulls it out of reach. ,	676000	Slightly Memorable
-Allen grabs for his manuscript back, but Lucien pulls it out of reach. ,	676000	Slightly Memorable
-LUCIEN I found a real writer. 	672000	Slightly Memorable
-ALLEN No. Lucien drinks wine beside. 	667000	Slightly Memorable
-This boy so close, the rush of contact. ,	666000	Slightly Memorable
-This boy so close, the rush of contact. ,	666000	Slightly Memorable
+DAVID So the pattern of our evening, our lives, holds. ,	682000 Not Memorable
+Allen grabs for his manuscript back, but Lucien pulls it out of reach. ,	676000 Not Memorable
+LUCIEN I found a real writer. 	672000 Not Memorable
+ALLEN No. Lucien drinks wine beside. 	667000  Not Memorable
 This boy so close, the rush of contact. ,	666000	Slightly Memorable
 Flash of their past build in a crescendo as he keeps searching, digging through moments, leading to... ,	662000	Slightly Memorable
-David's body LIFTS into the young man's arms. 	654000	Slightly Memorable
-David's body LIFTS into the young man's arms. 	654000	Slightly Memorable
 David's body LIFTS into the young man's arms. 	653000	Slightly Memorable
-David's body LIFTS into the young man's arms. 	653000	Slightly Memorable
-Bill puts the tube of gas back in his mouth, back to business. ,	639000	Slightly Memorable
-Bill puts the tube of gas back in his mouth, back to business. ,	639000	Slightly Memorable
-Libation? 	629000	Slightly Memorable
-Libation? 	629000	Slightly Memorable
-Libation? 	629000	Slightly Memorable
-ALLEN There's more life in those five pages than in the dozens of bad sonnets we've read in class. 	623000	Slightly Memorable
+Bill puts the tube of gas back in his mouth, back to business. ,	639000 Not Memorable
+Libation? 	629000 Not Memorable
+ALLEN There's more life in those five pages than in the dozens of bad sonnets we've read in class. 	623000  Slightly Memorable
 He's been caught. 	621000	Slightly Memorable
-He's been caught. 	621000	Slightly Memorable
-He's been caught. 	621000	Slightly Memorable
-He notices on one wall are patriotic posters, exercise posters. ,	611000	Slightly Memorable
-He notices on one wall are patriotic posters, exercise posters. ,	611000	Slightly Memorable
-He notices on one wall are patriotic posters, exercise posters. ,	611000	Slightly Memorable
-Allen, now the third wheel, reluctantly chases after. ,	607000	Slightly Memorable
-Lucien inverts two small glasses and pours. 	581000	Slightly Memorable
-Lucien inverts two small glasses and pours. 	581000	Slightly Memorable
-Lucien inverts two small glasses and pours. 	581000	Slightly Memorable
-LUCIEN First thought, best thought. ,	572000	Slightly Memorable
+He notices on one wall are patriotic posters, exercise posters. ,	611000  Not Memorable
+Allen, now the third wheel, reluctantly chases after. ,	607000  Not Memorable
+Lucien inverts two small glasses and pours. 	581000 Not Memorable
+LUCIEN First thought, best thought. ,	572000  Not Memorable
 Your father perhaps is the poet Louis Ginsberg? 	571000	Slightly Memorable
-Your father perhaps is the poet Louis Ginsberg? 	571000	Slightly Memorable
-Your father perhaps is the poet Louis Ginsberg? 	571000	Slightly Memorable
-Jack comes to the table. 	562000	Slightly Memorable
-It's fiction. 	555000	Slightly Memorable
-It's fiction. 	555000	Slightly Memorable
-It's fiction. 	555000	Slightly Memorable
-It's fiction. 	555000	Slightly Memorable
-He pulls the knife free. 	550000	Slightly Memorable
-He nailed the windows shut while I was in the bath. 	549000	Slightly Memorable
-He nailed the windows shut while I was in the bath. 	549000	Slightly Memorable
-He nailed the windows shut while I was in the bath. 	549000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
-ALLEN Allen Ginsberg. 	540000	Slightly Memorable
+Jack comes to the table. 	562000  Not Memorable
+It's fiction. 	555000 Slightly Memorable
+He pulls the knife free. 	550000  Not Memorable
+He nailed the windows shut while I was in the bath. 	549000 Memorable
+ALLEN Allen Ginsberg. 	540000 Not Memorable
 Now, come on, I want you to meet our host. ,	532000	Slightly Memorable
-Now, come on, I want you to meet our host. ,	532000	Slightly Memorable
-LUCIEN Don't go then. 	530000	Slightly Memorable
-Allen shakes his head. 	530000	Slightly Memorable
-LUCIEN Don't go then. 	530000	Slightly Memorable
-Allen shakes his head. 	530000	Slightly Memorable
-Allen shakes his head. 	529000	Slightly Memorable
-You sent him to me. 	520000	Slightly Memorable
-You sent him to me. 	520000	Slightly Memorable
-You sent him to me. 	520000	Slightly Memorable
-You sent him to me. 	520000	Slightly Memorable
-And New York City, right in your goddamn lap. ,	518000	Slightly Memorable
-And New York City, right in your goddamn lap. ,	518000	Slightly Memorable
-And New York City, right in your goddamn lap. ,	518000	Slightly Memorable
-A glimpse into their private dynamic. 	490000	Slightly Memorable
-His jaw-drops: Allen is on his bed, running in place like a mad-man. ,	490000	Slightly Memorable
-Van Doren. 	475000	Slightly Memorable
-Van Doren. 	475000	Slightly Memorable
-Van Doren. 	475000	Slightly Memorable
-NAOMI He already signed the papers. 	453000	Slightly Memorable
-NAOMI He already signed the papers. 	453000	Slightly Memorable
-You don't know Lu. As soon you think you do, he'll find someone else. ,	447000	Slightly Memorable
-Lucien stands -- the only thing moving -- and Allen follows. 	447000	Slightly Memorable
-Allen, torn between his mother and this boy. ,	446000	Slightly Memorable
-Allen, torn between his mother and this boy. ,	446000	Slightly Memorable
-He declines. 	444000	Slightly Memorable
-He declines. 	444000	Slightly Memorable
-He declines. 	444000	Slightly Memorable
-JACK Sounds phony. 	441000	Slightly Memorable
-LUCIEN David, don't touch anything. ,	434000	Slightly Memorable
-ALLEN (whispered) Sounds like you. 	427000	Slightly Memorable
-ALLEN (whispered) Sounds like you. 	427000	Slightly Memorable
-ALLEN You mean Jack? 	422000	Slightly Memorable
-Campus is actually quite quiet. 	414000	Slightly Memorable
-Campus is actually quite quiet. 	414000	Slightly Memorable
-Campus is actually quite quiet. 	414000	Slightly Memorable
-ALLEN (sarcastic) Then why don't you just ship out again? 44. 	406000	Slightly Memorable
-LUCIEN At least you have her. 	404000	Slightly Memorable
-LUCIEN At least you have her. 	404000	Slightly Memorable
-He wears a distinctive red CRAVAT that only the truly beautiful can pull off. 	401000	Slightly Memorable
-He wears a distinctive red CRAVAT that only the truly beautiful can pull off. 	401000	Slightly Memorable
-He wears a distinctive red CRAVAT that only the truly beautiful can pull off. 	401000	Slightly Memorable
-Without this balance, a poem becomes slack, sloppy. ,	400000	Slightly Memorable
-Without this balance, a poem becomes slack, sloppy. ,	400000	Slightly Memorable
-Without this balance, a poem becomes slack, sloppy. ,	400000	Slightly Memorable
-Destroy the old and build the new! Allen, with scissors, cuts up pages of the books. ,	383000	Slightly Memorable
-He gets an idea. 	382000	Slightly Memorable
-CUT TO: EXT. COLUMBIA QUAD - DAY First day of college. 	380000	Slightly Memorable
-CUT TO: EXT. COLUMBIA QUAD - DAY First day of college. 	380000	Slightly Memorable
-CUT TO: EXT. COLUMBIA QUAD - DAY First day of college. 	380000	Slightly Memorable
-The nurse takes Naomi to the door. 	378000	Slightly Memorable
-The nurse takes Naomi to the door. 	378000	Slightly Memorable
-ALLEN The best selling poet in the country. 	376000	Slightly Memorable
-ALLEN The best selling poet in the country. 	376000	Slightly Memorable
-LUKE (bright smile) You're Jewish, right? ,	374000	Slightly Memorable
-LUKE (bright smile) You're Jewish, right? ,	374000	Slightly Memorable
-LUKE (bright smile) You're Jewish, right? ,	373000	Slightly Memorable
-He struggles. 	370000	Slightly Memorable
-He struggles. 	370000	Slightly Memorable
-Lucien leans over a young woman, a statue at a table with a young man in military attire. ,	367000	Slightly Memorable
-CUT TO: INT. LECTURE HALL - DAY Professor Steeves lecturing before the class. 	362000	Slightly Memorable
-A stand-off. 	362000	Slightly Memorable
-LUCIEN Allen, Willy. ,	362000	Slightly Memorable
-She holds a pot, eyes Lucien and Allen. ,	362000	Slightly Memorable
-LUCIEN Allen, Willy. ,	362000	Slightly Memorable
-Bill, David, and Allen at a table. ,	360000	Slightly Memorable
-Bill, David, and Allen at a table. ,	360000	Slightly Memorable
-Before him, the staggering facade of the library like the Parthenon. ,	357000	Slightly Memorable
-Before him, the staggering facade of the library like the Parthenon. ,	357000	Slightly Memorable
-Before him, the staggering facade of the library like the Parthenon. ,	357000	Slightly Memorable
-INT. ALLEN'S DORM ROOM - DAY Allen pops two. 	353000	Slightly Memorable
-Bill gives the secret nod to Norman. 37. 	352000	Slightly Memorable
-He's already got a roommate. 	348000	Slightly Memorable
-He's already got a roommate. 	348000	Slightly Memorable
-He's already got a roommate. 	348000	Slightly Memorable
-Louis hands over the letter. 	346000	Slightly Memorable
-Louis hands over the letter. 	346000	Slightly Memorable
-Louis hands over the letter. 	346000	Slightly Memorable
-ALLEN Allen. 	337000	Slightly Memorable
-ALLEN Allen. 	337000	Slightly Memorable
-We see she has stripped the wallpaper from the wall and pulled the telephone wire out from underneath. 	336000	Slightly Memorable
-We see she has stripped the wallpaper from the wall and pulled the telephone wire out from underneath. 	336000	Slightly Memorable
-We see she has stripped the wallpaper from the wall and pulled the telephone wire out from underneath. 	336000	Slightly Memorable
-Newsreels? 	330000	Slightly Memorable
-A RED LINE TRAVELS UP THE SUBWAY MAP FROM COLUMBIA UNIVERSITY TO HARLEM BRINGING US TO... 	329000	Slightly Memorable
-A RED LINE TRAVELS UP THE SUBWAY MAP FROM COLUMBIA UNIVERSITY TO HARLEM BRINGING US TO... 	329000	Slightly Memorable
-He spots the piece of paper in Allen's hand. 	323000	Slightly Memorable
-INT. ALLEN'S DORM ROOM - DAY Allen at his typewriter. 	320000	Slightly Memorable
-He eyes Allen, curiously. ,	314000	Slightly Memorable
-He eyes Allen, curiously. ,	314000	Slightly Memorable
-He's sharp, the mayor of this scene. ,	309000	Slightly Memorable
-He's sharp, the mayor of this scene. ,	309000	Slightly Memorable
-LUCIEN (O.S.) Let's hear a bit, shall we? ,	308000	Slightly Memorable
-LUCIEN (O.S.) Let's hear a bit, shall we? ,	308000	Slightly Memorable
-LUCIEN (O.S.) Let's hear a bit, shall we? ,	308000	Slightly Memorable
-Go write your own. 	305000	Slightly Memorable
-Go write your own. 	305000	Slightly Memorable
-Go write your own. 	305000	Slightly Memorable
-Allen, worried, looks off, dread in his face. ,	303000	Slightly Memorable
-Allen, worried, looks off, dread in his face. ,	303000	Slightly Memorable
-Allen, worried, looks off, dread in his face. ,	303000	Slightly Memorable
-That's Shakespeare's handwriting. 	301000	Slightly Memorable
-That's Shakespeare's handwriting. 	301000	Slightly Memorable
-That's Shakespeare's handwriting. 	301000	Slightly Memorable
-The pipe starts to bend. 	300000	Slightly Memorable
-ALLEN I can't. 	300000	Slightly Memorable
-ALLEN I can't. 	300000	Slightly Memorable
-The pipe starts to bend. 	300000	Slightly Memorable
-ALLEN I can't. 	300000	Slightly Memorable
-You'll kill me with that. 	296000	Slightly Memorable
-You'll kill me with that. 	296000	Slightly Memorable
-You'll kill me with that. 	296000	Slightly Memorable
-You'll kill me with that. 	296000	Slightly Memorable
-Know thyself. 	295000	Slightly Memorable
-Know thyself. 	295000	Slightly Memorable
-David spies the pages in Allen's hand. 	293000	Slightly Memorable
-ALLEN (V.O.) They become part of who you are... 	293000	Slightly Memorable
-ALLEN (V.O.) They become part of who you are... 	293000	Slightly Memorable
-ALLEN (V.O.) They become part of who you are... 	293000	Slightly Memorable
-ALLEN (V.O.) They become part of who you are... 	293000	Slightly Memorable
-EDIE That's funny. 	292000	Slightly Memorable
-A realization. 	291000	Slightly Memorable
-ALLEN (Five?) Lucien's passion building. 	290000	Slightly Memorable
-A realization. 	290000	Slightly Memorable
-ALLEN (Five?) Lucien's passion building. 	290000	Slightly Memorable
-The brio?! From atop the chair, Lucien kicks his record player with his foot. ,	287000	Slightly Memorable
-The brio?! From atop the chair, Lucien kicks his record player with his foot. ,	287000	Slightly Memorable
-He notices Allen's empty seat. 	286000	Slightly Memorable
-Allen reaches through the bars and SNATCHES the paper. 	281000	Slightly Memorable
-Allen reaches through the bars and SNATCHES the paper. 	281000	Slightly Memorable
-Allen reaches through the bars and SNATCHES the paper. 	281000	Slightly Memorable
-TOUR GUIDE The South Hall library is a church, and these are the sacraments. ,	280000	Slightly Memorable
-TOUR GUIDE The South Hall library is a church, and these are the sacraments. ,	280000	Slightly Memorable
-Allen rushes upstairs. 	279000	Slightly Memorable
-Allen rushes upstairs. 	279000	Slightly Memorable
-Allen rushes upstairs. 	279000	Slightly Memorable
-David sits at Lucien's desk, writing. ,	276000	Slightly Memorable
-Extraordinary men propel us forward. 	276000	Slightly Memorable
-Empty words. 	272000	Slightly Memorable
-TOUR GUIDE The South Hall library is a church, and these are the sacraments. ,	272000	Slightly Memorable
-Empty words. 	272000	Slightly Memorable
-A BRAHMS WALTZ plays. 	271000	Slightly Memorable
-A BRAHMS WALTZ plays. 	271000	Slightly Memorable
-A BRAHMS WALTZ plays. 	271000	Slightly Memorable
-Allen looks down at the "New Vision", ashamed. ,	264000	Slightly Memorable
-The scene is playing in REVERSE MOTION. ALLEN (V.O.) They only circle back and return to you. 	257000	Slightly Memorable
-LUCIEN (O.S.) Oh please. 	257000	Slightly Memorable
-The scene is playing in REVERSE MOTION. ALLEN (V.O.) They only circle back and return to you. 	257000	Slightly Memorable
-LUCIEN (O.S.) Oh please. 	257000	Slightly Memorable
-The scene is playing in REVERSE MOTION. ALLEN (V.O.) They only circle back and return to you. 	257000	Slightly Memorable
-The scene is playing in REVERSE MOTION. ALLEN (V.O.) They only circle back and return to you. 	257000	Slightly Memorable
-Suddenly, the jazz singer stops. ,	256000	Slightly Memorable
-Suddenly, the jazz singer stops. ,	256000	Slightly Memorable
-ALLEN Writing! INT. BILL'S APARTMENT - DAY Bill, a thoughtful eye on young Allen. ,	255000	Slightly Memorable
-LUCIEN You two did just fight. 	254000	Slightly Memorable
-Louis sits beside his son. 	250000	Slightly Memorable
-Louis sits beside his son. 	250000	Slightly Memorable
-Louis sits beside his son. 	250000	Slightly Memorable
-LUCIEN To Walt Whitman, you dirty bastard. ,	248000	Slightly Memorable
-LUCIEN To Walt Whitman, you dirty bastard. ,	248000	Slightly Memorable
-LUCIEN To Walt Whitman, you dirty bastard. ,	248000	Slightly Memorable
-Steeves walks to Allen's desk, grabs his journal. ,	247000	Slightly Memorable
-ALLEN That's Ogden Nash! LUCIEN Who's Ogden Nash? 	244000	Slightly Memorable
-He couldn't be more captivated. 	244000	Slightly Memorable
-ALLEN That's Ogden Nash! LUCIEN Who's Ogden Nash? 	244000	Slightly Memorable
-We realize it is a BODY. ALLEN (V.O.) Some things, once you've loved them, become yours forever. ,	244000	Slightly Memorable
-We realize it is a BODY. ALLEN (V.O.) Some things, once you've loved them, become yours forever. ,	244000	Slightly Memorable
-He couldn't be more captivated. 	244000	Slightly Memorable
-We realize it is a BODY. ALLEN (V.O.) Some things, once you've loved them, become yours forever. ,	244000	Slightly Memorable
-We realize it is a BODY. ALLEN (V.O.) Some things, once you've loved them, become yours forever. ,	244000	Slightly Memorable
-TOUR GUIDE That was highly unusual. 	238000	Slightly Memorable
-Steeves locks down his gaze on Allen. 	238000	Slightly Memorable
-TOUR GUIDE That was highly unusual. 	238000	Slightly Memorable
-Steeves locks down his gaze on Allen. 	238000	Slightly Memorable
-TOUR GUIDE That was highly unusual. 	238000	Slightly Memorable
-Steeves locks down his gaze on Allen. 	238000	Slightly Memorable
-The faint sound of jazz, fun from someone else's home from down the block. ,	237000	Slightly Memorable
-The faint sound of jazz, fun from someone else's home from down the block. ,	237000	Slightly Memorable
-The faint sound of jazz, fun from someone else's home from down the block. ,	237000	Slightly Memorable
-They riff on the The New Vision manifesto. 	236000	Slightly Memorable
-They riff on the The New Vision manifesto. 	236000	Slightly Memorable
-He is clothed, open white shirt, khakis. ,	235000	Slightly Memorable
-He is clothed, open white shirt, khakis. ,	235000	Slightly Memorable
-He is clothed, open white shirt, khakis. ,	235000	Slightly Memorable
-He is clothed, open white shirt, khakis. ,	235000	Slightly Memorable
-BILL Aim for the throat. 	234000	Slightly Memorable
-BILL Aim for the throat. 	234000	Slightly Memorable
-Allen shakes his head no. 	229000	Slightly Memorable
-Allen shakes his head no. 	229000	Slightly Memorable
-CUT TO: INT. ALLEN'S DORM ROOM - DAY Allen jerking-off at his desk. 	229000	Slightly Memorable
-LUCIEN Don't edit me! Lucien shoves Allen. 	228000	Slightly Memorable
-LUCIEN Don't edit me! Lucien shoves Allen. 	228000	Slightly Memorable
-ALLEN Give, is. ,	227000	Slightly Memorable
-ALLEN Give, is. ,	227000	Slightly Memorable
-ALLEN Give, is. ,	227000	Slightly Memorable
-LUCIEN Right now, I just need you to write us something beautiful. (beat) First thought, best thought. 36. ,	227000	Slightly Memorable
-JACK Carr, you're goddamn crazy. ,	226000	Slightly Memorable
-JACK Allen. 	226000	Slightly Memorable
-First folio Hamlet. 	224000	Slightly Memorable
-First folio Hamlet. 	224000	Slightly Memorable
-First folio Hamlet. 	224000	Slightly Memorable
-Ever done that? 	221000	Slightly Memorable
-Ever done that? 	221000	Slightly Memorable
-Allen's fingers slide to Lucien's cheek. 	221000	Slightly Memorable
-Lest we die unbloomed. 	221000	Slightly Memorable
-Allen racing around his room, burning off energy. ,	220000	Slightly Memorable
-EDIE I thought you liked it WIDE OPEN... 	216000	Slightly Memorable
-ALLEN (whispered, to Lucien) You're going to the dance? ,	216000	Slightly Memorable
-ALLEN (whispered, to Lucien) You're going to the dance? ,	216000	Slightly Memorable
-DAVID So you just met Lucien in the lunch line and now he's all that you can see. 21. 	214000	Slightly Memorable
-We hear a groan from the young man. 	213000	Slightly Memorable
-He knows this tune. 	213000	Slightly Memorable
-We hear a groan from the young man. 	213000	Slightly Memorable
-We hear a groan from the young man. 	213000	Slightly Memorable
-He knows this tune. 	213000	Slightly Memorable
-He knows this tune. 	213000	Slightly Memorable
-He's allowed. 	210000	Slightly Memorable
-He's allowed. 	210000	Slightly Memorable
-DAVID So you just met Lucien in the lunch line and now he's all that you can see. 21. 	208000	Slightly Memorable
-CUT TO: INT. JAZZ CLUB - NIGHT ...a drummer takes a wild solo. 	207000	Slightly Memorable
-The sounds of a party spill out onto the landing and beyond. 	206000	Slightly Memorable
-The sounds of a party spill out onto the landing and beyond. 	206000	Slightly Memorable
-Lucien passed out in Allen's lap. 	205000	Slightly Memorable
-BILL We are exploring the avenues of Allen's mind. 	204000	Slightly Memorable
-Allen turns and races towards the exit of the prison. 	204000	Slightly Memorable
-Allen turns and races towards the exit of the prison. 	204000	Slightly Memorable
-Allen turns and races towards the exit of the prison. 	204000	Slightly Memorable
-Allen turns and races towards the exit of the prison. 	204000	Slightly Memorable
-Smoke, artists flirting, arguing. ,	203000	Slightly Memorable
-Smoke, artists flirting, arguing. ,	203000	Slightly Memorable
-We follow Allen's P.O.V. as he runs his finger through Lucien's hair. 	202000	Slightly Memorable
-David throws Lucien's coat over his shoulder. 	202000	Slightly Memorable
-Steeves tosses the journal back down on Allen's desk. 	201000	Slightly Memorable
-David's eyes OPEN. CUT TO: INT. THE TOMBS - DAY LUCIEN ...or they destroy you. 	197000	Slightly Memorable
-David's eyes OPEN. CUT TO: INT. THE TOMBS - DAY LUCIEN ...or they destroy you. 	197000	Slightly Memorable
-David's eyes OPEN. CUT TO: INT. THE TOMBS - DAY LUCIEN ...or they destroy you. 	197000	Slightly Memorable
-David's eyes OPEN. CUT TO: INT. THE TOMBS - DAY LUCIEN ...or they destroy you. 	197000	Slightly Memorable
-He knocks. 	197000	Slightly Memorable
-PROFESSOR STEEVES This university exists because of tradition and form. 	196000	Slightly Memorable
-PROFESSOR STEEVES This university exists because of tradition and form. 	196000	Slightly Memorable
-PROFESSOR STEEVES This university exists because of tradition and form. 	196000	Slightly Memorable
-TOUR GUIDE Original folios of the most important texts in history. 	195000	Slightly Memorable
-TOUR GUIDE Original folios of the most important texts in history. 	195000	Slightly Memorable
-TOUR GUIDE Original folios of the most important texts in history. 	195000	Slightly Memorable
-How about the "New Vision?" LUCIEN Ginsy, you're hired! Allen smiles a mile wide. ,	194000	Slightly Memorable
-He knocks. 	194000	Slightly Memorable
-He knocks. 	194000	Slightly Memorable
-INT. DORM HALLWAY - CONTINUOUS The Hall Monitor hands Allen the phone. 	193000	Slightly Memorable
-INT. DORM HALLWAY - CONTINUOUS The Hall Monitor hands Allen the phone. 	193000	Slightly Memorable
-How about the "New Vision?" LUCIEN Ginsy, you're hired! Allen smiles a mile wide. ,	193000	Slightly Memorable
-INT. DORM HALLWAY - CONTINUOUS The Hall Monitor hands Allen the phone. 	193000	Slightly Memorable
-He doesn't break the rules. 	192000	Slightly Memorable
-He doesn't break the rules. 	192000	Slightly Memorable
-He doesn't break the rules. 	192000	Slightly Memorable
-What have you done to my apartment? 	191000	Slightly Memorable
-INT. ALLEN'S DORM ROOM - DAY Allen sets his bag on his bed. 	190000	Slightly Memorable
-INT. ALLEN'S DORM ROOM - DAY Allen sets his bag on his bed. 	190000	Slightly Memorable
-INT. ALLEN'S DORM ROOM - DAY Allen sets his bag on his bed. 	190000	Slightly Memorable
-Lucien quickly waves goodbye to Allen, heads down the staircase. ,	187000	Slightly Memorable
-INT. LIBRARY, MAIN HALL - DAY The beautiful main hall of Columbia University's Butler Library. ,	187000	Slightly Memorable
-INT. LIBRARY, MAIN HALL - DAY The beautiful main hall of Columbia University's Butler Library. ,	187000	Slightly Memorable
-Lucien quickly waves goodbye to Allen, heads down the staircase. ,	187000	Slightly Memorable
-INT. LIBRARY, MAIN HALL - DAY The beautiful main hall of Columbia University's Butler Library. ,	187000	Slightly Memorable
-Naomi points an accusing finger at Louis. 	187000	Slightly Memorable
-David walks over and SLAMS the door in Allen's face. 	187000	Slightly Memorable
-Naomi points an accusing finger at Louis. 	187000	Slightly Memorable
-INT. BATHROOM, 48 MORTON APARTMENT - NIGHT Allen splashes water on his face. ,	186000	Slightly Memorable
-A writer and handsome too. (beat) James? 	185000	Slightly Memorable
-ALLEN Get off! From deep within, Allen can see she is still there, and we can see she knows that it's too late. ,	183000	Slightly Memorable
-ALLEN Get off! From deep within, Allen can see she is still there, and we can see she knows that it's too late. ,	183000	Slightly Memorable
-LUCIEN ...there are certain thoroughfares which remind one of nothing less... 	183000	Slightly Memorable
-LUCIEN ...there are certain thoroughfares which remind one of nothing less... 	183000	Slightly Memorable
-LUCIEN ...there are certain thoroughfares which remind one of nothing less... 	183000	Slightly Memorable
-But determined. 	182000	Slightly Memorable
-But determined. 	182000	Slightly Memorable
-But determined. 	182000	Slightly Memorable
-An oasis in this wasteland. 	182000	Slightly Memorable
-An oasis in this wasteland. 	182000	Slightly Memorable
-But determined. 	182000	Slightly Memorable
-An oasis in this wasteland. 	182000	Slightly Memorable
-English Professors. 	181000	Slightly Memorable
-English Professors. 	181000	Slightly Memorable
-English Professors. 	181000	Slightly Memorable
-Allen tenses, afraid. ,	179000	Slightly Memorable
-NOTHING. Allen's blocked. 	179000	Slightly Memorable
-A male nurse leads Naomi from the bedroom. 	177000	Slightly Memorable
-A male nurse leads Naomi from the bedroom. 	177000	Slightly Memorable
-Offers his son one. 	176000	Slightly Memorable
-Offers his son one. 	176000	Slightly Memorable
-Offers his son one. 	176000	Slightly Memorable
-He reaches a door with a lit transom. 	171000	Slightly Memorable
-He reaches a door with a lit transom. 	171000	Slightly Memorable
-He reaches a door with a lit transom. 	171000	Slightly Memorable
-You came in here, you rupture the pattern. ,	170000	Slightly Memorable
-You came in here, you rupture the pattern. ,	170000	Slightly Memorable
-You came in here, you rupture the pattern. ,	170000	Slightly Memorable
-Allen looks to Lucien for help. 45. 	166000	Slightly Memorable
-We PULL BACK to see a noose around Allen's neck. 	165000	Slightly Memorable
-We PULL BACK to see a noose around Allen's neck. 	165000	Slightly Memorable
-Lucien and Allen sit on the stage beneath the frozen musicians. 	164000	Slightly Memorable
-She stares seductively at Allen. 	161000	Slightly Memorable
-She stares seductively at Allen. 	161000	Slightly Memorable
-Jack notices a piece of mail addressed to him next to Allen. 	158000	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT Candlelight flickers on Allen's face. 	157000	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT Candlelight flickers on Allen's face. 	157000	Slightly Memorable
-And kisses him. 	154000	Slightly Memorable
-Nervous, Allen tries to make conversation. ,	153000	Slightly Memorable
-Nervous, Allen tries to make conversation. ,	153000	Slightly Memorable
-Nervous, Allen tries to make conversation. ,	153000	Slightly Memorable
-Jack grabs his jacket. 	153000	Slightly Memorable
-He walks over to it. 	151000	Slightly Memorable
-He walks over to it. 	151000	Slightly Memorable
-He walks over to it. 	151000	Slightly Memorable
-Allen and Lucien watch entranced. 	149000	Slightly Memorable
-He lights Allen's cigarette with the flame. 	147000	Slightly Memorable
-Offers a joint to Allen. 	145000	Slightly Memorable
-Offers a joint to Allen. 	145000	Slightly Memorable
-An alarm HAMMERS through the prison. 	143000	Slightly Memorable
-Allen spots the mail in his father's hand. 	143000	Slightly Memorable
-An alarm HAMMERS through the prison. 	143000	Slightly Memorable
-Allen spots the mail in his father's hand. 	143000	Slightly Memorable
-Allen spots the mail in his father's hand. 	143000	Slightly Memorable
-An alarm HAMMERS through the prison. 	143000	Slightly Memorable
-Louis comes out onto the porch, with an open LETTER in hand from the mail pile. ,	143000	Slightly Memorable
-Louis comes out onto the porch, with an open LETTER in hand from the mail pile. ,	143000	Slightly Memorable
-An alarm HAMMERS through the prison. 	143000	Slightly Memorable
-Louis comes out onto the porch, with an open LETTER in hand from the mail pile. ,	143000	Slightly Memorable
-ALLEN Because it's easier. 	141000	Slightly Memorable
-ALLEN Because it's easier. 	141000	Slightly Memorable
-ALLEN Because it's easier. 	141000	Slightly Memorable
-Allen, surprised to hear his Dad reciting one of his poems. ,	139000	Slightly Memorable
-David spots Allen watching from the bathroom. 	139000	Slightly Memorable
-Allen, surprised to hear his Dad reciting one of his poems. ,	139000	Slightly Memorable
-Allen, surprised to hear his Dad reciting one of his poems. ,	139000	Slightly Memorable
-Allen, alone stares out the window. ,	137000	Slightly Memorable
-Allen, alone stares out the window. ,	137000	Slightly Memorable
-Allen, alone stares out the window. ,	137000	Slightly Memorable
-Allen sits up, jealous, his mind spinning. ,	135000	Slightly Memorable
-ALLEN He hated rhyme and meter. 	135000	Slightly Memorable
-ALLEN He hated rhyme and meter. 	135000	Slightly Memorable
-ALLEN He hated rhyme and meter. 	135000	Slightly Memorable
-Jack served in the Merchant Marines. 	134000	Slightly Memorable
-LUCIEN Isn't that you? 	134000	Slightly Memorable
-LUCIEN Isn't that you? 	134000	Slightly Memorable
-Allen looks around, scared and confused. ,	134000	Slightly Memorable
-LUCIEN Isn't that you? 	134000	Slightly Memorable
-A RED LINE glides down the map from Columbia University all the way...to Greenwich Village. 	133000	Slightly Memorable
-What're your trenches, Al? ALLEN Allen. ,	133000	Slightly Memorable
-A RED LINE glides down the map from Columbia University all the way...to Greenwich Village. 	133000	Slightly Memorable
-DIRTY BE-BOP JAZZ PLAYS OVER... 	132000	Slightly Memorable
-DIRTY BE-BOP JAZZ PLAYS OVER... 	132000	Slightly Memorable
-We see David's feet and hands are TIED together with shoelaces. 	131000	Slightly Memorable
-We see David's feet and hands are TIED together with shoelaces. 	131000	Slightly Memorable
-LUCIEN (calling out) Dave! Where's the liquor?! I'll be right back. 	131000	Slightly Memorable
-LUCIEN (calling out) Dave! Where's the liquor?! I'll be right back. 	131000	Slightly Memorable
-We see David's feet and hands are TIED together with shoelaces. 	131000	Slightly Memorable
-We see David's feet and hands are TIED together with shoelaces. 	131000	Slightly Memorable
-JACK Out. 	130000	Slightly Memorable
-This is World War news. 	128000	Slightly Memorable
-Bill motions to the side of the tub. 	128000	Slightly Memorable
-Bill selects a green pill bottle and gives it to Allen. 	128000	Slightly Memorable
-This is World War news. 	128000	Slightly Memorable
-This is World War news. 	128000	Slightly Memorable
-JACK (whispered to Allen) She painted it. 	127000	Slightly Memorable
-The whole point was untucking your shirt. 	125000	Slightly Memorable
-The whole point was untucking your shirt. 	125000	Slightly Memorable
-ALLEN (whispered) Is he a criminal? 	125000	Slightly Memorable
-An untucked shirt. 	125000	Slightly Memorable
-The whole point was untucking your shirt. 	125000	Slightly Memorable
-ALLEN (whispered) Is he a criminal? 	125000	Slightly Memorable
-An untucked shirt. 	125000	Slightly Memorable
-An untucked shirt. 	125000	Slightly Memorable
-Bill motions to the side of the tub. 	124000	Slightly Memorable
-Not everyone gets an allowance. (beat) Leave. 	118000	Slightly Memorable
-Sometimes when I fight with Edie, I want to. ,	117000	Slightly Memorable
-NAOMI SHHHH. He can hear you! She's losing it. 	117000	Slightly Memorable
-NAOMI SHHHH. He can hear you! She's losing it. 	117000	Slightly Memorable
-NAOMI SHHHH. He can hear you! She's losing it. 	117000	Slightly Memorable
-Would you rather this building be built by engineers or Whitman and his boys at play? 11. 	115000	Slightly Memorable
-Would you rather this building be built by engineers or Whitman and his boys at play? 11. 	115000	Slightly Memorable
-Would you rather this building be built by engineers or Whitman and his boys at play? 11. 	115000	Slightly Memorable
-Louis turns off the music. 	114000	Slightly Memorable
-Louis turns off the music. 	114000	Slightly Memorable
-Louis turns off the music. 	114000	Slightly Memorable
-Bill takes out a switchblade. 	113000	Slightly Memorable
-Steeves cocks his eye, stares down Allen. ,	113000	Slightly Memorable
-Bill takes out a switchblade. 	113000	Slightly Memorable
-He shouts down the hall. 	112000	Slightly Memorable
-INT. GINSBERG HOME - NIGHT Naomi looks out the window, does not want to answer. ,	112000	Slightly Memorable
-LUCIEN It's completely brilliant and impossible. 	112000	Slightly Memorable
-LUCIEN It's completely brilliant and impossible. 	112000	Slightly Memorable
-LUCIEN It's completely brilliant and impossible. 	112000	Slightly Memorable
-INT. GINSBERG HOME - NIGHT Naomi looks out the window, does not want to answer. ,	112000	Slightly Memorable
-INT. GINSBERG HOME - NIGHT Naomi looks out the window, does not want to answer. ,	112000	Slightly Memorable
-Allen spots the TERM PAPER in Lucien's hand. 	111000	Slightly Memorable
-Allen spots the TERM PAPER in Lucien's hand. 	111000	Slightly Memorable
-Lucien softens, leans against Allen. ,	110000	Slightly Memorable
-But you are fortunate. 	109000	Slightly Memorable
-The pipe BREAKS. They crash to the ground. 	108000	Slightly Memorable
-The pipe BREAKS. They crash to the ground. 	108000	Slightly Memorable
-The entire room hushes. 	107000	Slightly Memorable
-He moves towards her, to console her. ,	107000	Slightly Memorable
-Allen's ears prick up. 	107000	Slightly Memorable
-Allen's ears prick up. 	107000	Slightly Memorable
-Allen takes his cigarette, lays next to him. ,	107000	Slightly Memorable
-He moves towards her, to console her. ,	107000	Slightly Memorable
-The entire room hushes. 	107000	Slightly Memorable
-Allen's ears prick up. 	107000	Slightly Memorable
-The entire room hushes. 	107000	Slightly Memorable
-LUCIEN (O.S.) Let the prisoners come out and play. 	107000	Slightly Memorable
-Allen takes his cigarette, lays next to him. ,	107000	Slightly Memorable
-He moves towards her, to console her. ,	107000	Slightly Memorable
-ALLEN Then tell the truth, Lu. LUCIEN You weren't even there. ,	106000	Slightly Memorable
-ALLEN Then tell the truth, Lu. LUCIEN You weren't even there. ,	106000	Slightly Memorable
-ALLEN Then tell the truth, Lu. LUCIEN You weren't even there. ,	106000	Slightly Memorable
-ALLEN Then tell the truth, Lu. LUCIEN You weren't even there. ,	106000	Slightly Memorable
-He steps into the frozen moment. 	104000	Slightly Memorable
-Luke slams the door behind. 	103000	Slightly Memorable
-Luke slams the door behind. 	103000	Slightly Memorable
-No one interrupts Professor Steeves. 	103000	Slightly Memorable
-Luke slams the door behind. 	103000	Slightly Memorable
-ALLEN Dad?! LOUIS It's for the best. 	102000	Slightly Memorable
-ALLEN Dad?! LOUIS It's for the best. 	102000	Slightly Memorable
-Lucien, furious, crumples it up. ,	100000	Slightly Memorable
-Lucien, furious, crumples it up. ,	100000	Slightly Memorable
-Lucien, furious, crumples it up. ,	100000	Slightly Memorable
-Lucien, furious, crumples it up. ,	100000	Slightly Memorable
-JACK Shut your mouth, Edie. ,	99100	Slightly Memorable
-A stain of blood on David's chest shrinks, vanishes. ,	99100	Slightly Memorable
-A stain of blood on David's chest shrinks, vanishes. ,	99100	Slightly Memorable
-A stain of blood on David's chest shrinks, vanishes. ,	99100	Slightly Memorable
-A stain of blood on David's chest shrinks, vanishes. ,	99100	Slightly Memorable
-ALLEN You're not allowed to be here. 	98300	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT 3:00 AM. Allen snoring. 	98100	Slightly Memorable
-Murmurs from around the class. 	97700	Slightly Memorable
-Murmurs from around the class. 	97700	Slightly Memorable
-Murmurs from around the class. 	97700	Slightly Memorable
-Lucien perks up. 	97300	Slightly Memorable
-Lucien perks up. 	97300	Slightly Memorable
-It crashes onto Allen's head. 	97200	Slightly Memorable
-Shafts of eroded light slice into the depths of the Hudson River. 	96400	Slightly Memorable
-Shafts of eroded light slice into the depths of the Hudson River. 	96400	Slightly Memorable
-Shafts of eroded light slice into the depths of the Hudson River. 	96400	Slightly Memorable
-Brilliant, no? ,	94700	Slightly Memorable
-The playful mood dies. 	94000	Slightly Memorable
-The playful mood dies. 	94000	Slightly Memorable
-The playful mood dies. 	94000	Slightly Memorable
-LUCIEN Some earjob at the bar just called me "boy." So I stole his drink. 	93900	Slightly Memorable
-LUCIEN Some earjob at the bar just called me "boy." So I stole his drink. 	93900	Slightly Memorable
-The boys knock it back, Lucien pushing Allen to finish the whole drink. ,	93700	Slightly Memorable
-He looks back at Allen who is copying from a tome of sonnets. 	93400	Slightly Memorable
-He looks back at Allen who is copying from a tome of sonnets. 	93400	Slightly Memorable
-He looks back at Allen who is copying from a tome of sonnets. 	93400	Slightly Memorable
-Allen realizing how far she's gone. 	93300	Slightly Memorable
-Allen realizing how far she's gone. 	93300	Slightly Memorable
-Lucien hands him his glass. 	92500	Slightly Memorable
-Lucien hands him his glass. 	92500	Slightly Memorable
-Lucien hands him his glass. 	92500	Slightly Memorable
-Defensive, Allen pockets his poem for Lucien. ,	92300	Slightly Memorable
-Lucien grabs a DRUNK YOUNG GIRL from the crowd, kisses her passionately. ,	91600	Slightly Memorable
-Lucien grabs a DRUNK YOUNG GIRL from the crowd, kisses her passionately. ,	91600	Slightly Memorable
-LUCIEN You make me too smart, they're gonna suspect something's up. ,	89400	Slightly Memorable
-DAVID Dimly-lit, I am sure. ,	87400	Slightly Memorable
-JACK Sammy, you bastard. 42. ,	87000	Slightly Memorable
-The the disruption we long for, comes along and the circle is broken. ,	86700	Slightly Memorable
-The the disruption we long for, comes along and the circle is broken. ,	86700	Slightly Memorable
-DAVID More than I suspect this theory accommodates. 	86400	Slightly Memorable
-DAVID More than I suspect this theory accommodates. 	86400	Slightly Memorable
-Die already. 	85500	Slightly Memorable
-Die already. 	85500	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - DAY Lucien's door slams open. 	85200	Slightly Memorable
-He ships out tomorrow. 	82800	Slightly Memorable
-He ships out tomorrow. 	82800	Slightly Memorable
-He ships out tomorrow. 	82800	Slightly Memorable
-He needs to be somewhere about twelve hours ago. 	80700	Slightly Memorable
-He needs to be somewhere about twelve hours ago. 	80700	Slightly Memorable
-Jack exits, slams the door shut. ,	80600	Slightly Memorable
-Why would we bother? 	80400	Slightly Memorable
-Why would we bother? 	80400	Slightly Memorable
-Jack darts over, hangs the painting upside down. ,	80100	Slightly Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen doesn't even register his name. 	79500	Slightly Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen doesn't even register his name. 	79500	Slightly Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen doesn't even register his name. 	79500	Slightly Memorable
-He spots a DINGY, floating off a dock. ,	78900	Slightly Memorable
-Lucien enjoying himself immensely. 	77900	Slightly Memorable
-Lucien enjoying himself immensely. 	77900	Slightly Memorable
-David hands Lucien a TERM PAPER. LUCIEN (O.S.) It only has to be five pages. 33. 	77600	Slightly Memorable
-Allen, furious at the interruption. ,	77200	Slightly Memorable
-Allen trips off the chair, the noose snaps tight...and suddenly he's hanging in mid-air. ,	76000	Slightly Memorable
-Allen trips off the chair, the noose snaps tight...and suddenly he's hanging in mid-air. ,	76000	Slightly Memorable
-Allen stares. 	75300	Slightly Memorable
-Allen stares. 	75300	Slightly Memorable
-Allen stares. 	75200	Slightly Memorable
-ALLEN Where have you been?! Lucien starts getting undressed. 	75100	Slightly Memorable
-ALLEN Fuck your one million words. 	74800	Slightly Memorable
-Lucien's eyes open. 	72700	Slightly Memorable
-LUCIEN Henry Miller. 	71800	Slightly Memorable
-LUCIEN Henry Miller. 	71800	Slightly Memorable
-LUCIEN Henry Miller. 	71800	Slightly Memorable
-She tasted like imported sophistication and domestic cigarettes. 	71600	Slightly Memorable
-She tasted like imported sophistication and domestic cigarettes. 	71600	Slightly Memorable
-Allen's singled out. 	71500	Slightly Memorable
-Allen's singled out. 	71500	Slightly Memorable
-But Lucien suddenly takes Allen's finger in his mouth. 	71400	Slightly Memorable
-Lucien does the same to his own palm, then presses their two bloody hands together. ,	71200	Slightly Memorable
-The pair erupt into life, into desire. ,	70400	Slightly Memorable
-Then lets her go, keeps walking. ,	69500	Slightly Memorable
-Then lets her go, keeps walking. ,	69500	Slightly Memorable
-The ball SLAMS into a painting on the wall. 	67900	Slightly Memorable
-Gets wider. 	66700	Slightly Memorable
-Gets wider. 	66700	Slightly Memorable
-Allen crosses the grand Ivy League campus in awe. 	66600	Slightly Memorable
-Gets wider. 	66600	Slightly Memorable
-Parents look around in shock. 	66600	Slightly Memorable
-Parents look around in shock. 	66600	Slightly Memorable
-Allen crosses the grand Ivy League campus in awe. 	66600	Slightly Memorable
-Allen crosses the grand Ivy League campus in awe. 	66600	Slightly Memorable
-Parents look around in shock. 	66600	Slightly Memorable
-PROFESSOR STEEVES Say more. 	65500	Slightly Memorable
-PROFESSOR STEEVES Say more. 	65500	Slightly Memorable
-PROFESSOR STEEVES Say more. 	65500	Slightly Memorable
-Jack pulls the stylus off. 	65400	Slightly Memorable
-INT. LIVING ROOM, 48 MORTON APARTMENT - NIGHT DAVID KAMMERER, the man we saw dead at the film's opening, runs his fingers on the rim of a wine glass. ,	65200	Slightly Memorable
-INT. LIVING ROOM, 48 MORTON APARTMENT - NIGHT DAVID KAMMERER, the man we saw dead at the film's opening, runs his fingers on the rim of a wine glass. ,	65200	Slightly Memorable
-Who the hell was that? 	64900	Slightly Memorable
-Who the hell was that? 	64900	Slightly Memorable
-Who the hell was that? 	64900	Slightly Memorable
-Allen, trapped, over her shoulder. ,	64800	Slightly Memorable
-Allen, trapped, over her shoulder. ,	64800	Slightly Memorable
-Allen, trapped, over her shoulder. ,	64800	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT A mattress lies on the floor, a phonograph on top. ,	62600	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT A mattress lies on the floor, a phonograph on top. ,	62600	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT A mattress lies on the floor, a phonograph on top. ,	62600	Slightly Memorable
-LUCIEN My father. 	62500	Slightly Memorable
-Allen sees her blood on the sill, where she tried to escape. ,	62200	Slightly Memorable
-Allen sees her blood on the sill, where she tried to escape. ,	62200	Slightly Memorable
-Allen sees her blood on the sill, where she tried to escape. ,	62200	Slightly Memorable
-Lucien returns with a paper in hand. 	61900	Slightly Memorable
-Lucien returns with a paper in hand. 	61900	Slightly Memorable
-EXT. RIVERSIDE PARK - NIGHT Lucien drinks from a wine bottle as the three boys stroll. 	61200	Slightly Memorable
-Allen pulls out his poem from his pocket. 	59200	Slightly Memorable
-Allen, on the couch with a stack of pages, shakes his head. ,	59200	Slightly Memorable
-We're going make sure nobody remembers him. (turns to Allen) How many men started the Renaissance? 22. 	58900	Slightly Memorable
-We're going make sure nobody remembers him. (turns to Allen) How many men started the Renaissance? 22. 	58900	Slightly Memorable
-DAVID Allen, who comes uninvited to my apartment. ,	57900	Slightly Memorable
-DAVID Allen, who comes uninvited to my apartment. ,	57900	Slightly Memorable
-Already a million words under his belt before Columbia. 	57500	Slightly Memorable
-ALLEN Fine. 	57200	Slightly Memorable
-ALLEN Fine. 	57200	Slightly Memorable
-ALLEN Fine. 	57200	Slightly Memorable
-CUT TO: INT. TAVERN - NIGHT The party continuing at this underground speakeasy. 	56600	Slightly Memorable
-CUT TO: INT. TAVERN - NIGHT The party continuing at this underground speakeasy. 	56600	Slightly Memorable
-We have entered into another universe. 	55800	Slightly Memorable
-Naomi, in the midst of a paranoid attack, puts her finger to her mouth. ,	55700	Slightly Memorable
-Naomi, in the midst of a paranoid attack, puts her finger to her mouth. ,	55700	Slightly Memorable
-Naomi, in the midst of a paranoid attack, puts her finger to her mouth. ,	55700	Slightly Memorable
-A jazz signer owns the room. 	55200	Slightly Memorable
-A jazz signer owns the room. 	55200	Slightly Memorable
-It's catnip for the skirts. 	55000	Slightly Memorable
-It's catnip for the skirts. 	55000	Slightly Memorable
-It's catnip for the skirts. 	55000	Slightly Memorable
-He tilts the mirror to see them clearly. 	54700	Slightly Memorable
-VOICE OF SAMMY (O.S.) Jack, how are you chum? ,	54500	Slightly Memorable
-Norman pops open a briefcase full of drugs. 	54000	Slightly Memorable
-LOUIS Were you even going to tell me you applied?! Allen spies the "Columbia University" seal on the front. 	52500	Slightly Memorable
-LOUIS Were you even going to tell me you applied?! Allen spies the "Columbia University" seal on the front. 	52500	Slightly Memorable
-LOUIS Were you even going to tell me you applied?! Allen spies the "Columbia University" seal on the front. 	52500	Slightly Memorable
-A sleepless Allen, hair on end, storms into the room, fresh pages in hand. ,	52100	Slightly Memorable
-He can barely breathe, this close to what he finds beautiful. ,	51600	Slightly Memorable
-PROFESSOR STEEVES Oh look. 	51500	Slightly Memorable
-JACK Right. 	51100	Slightly Memorable
-JACK I've left school twice already. 	50100	Slightly Memorable
-Enraptured, Allen taps his fingers to these new rhythms. ,	49900	Slightly Memorable
-Bill turns off the gas. 	49300	Slightly Memorable
-Bill turns off the gas. 	49300	Slightly Memorable
-Allen shakes, holding Lucien's body for the first time. ,	48800	Slightly Memorable
-Whitman Jr. graced us with his presence today. 34. 	48400	Slightly Memorable
-Lucien crashes to his bed. 	48100	Slightly Memorable
-INT. 48 MORTON APARTMENT - DAY Allen stopping Lucien in his tracks. 	48000	Slightly Memorable
-ALLEN Really? 	47800	Slightly Memorable
-Allen looks up, moved. ,	46900	Slightly Memorable
-It's Ivy League tradition meets thousands of years of scholarship. 	45700	Slightly Memorable
-It's Ivy League tradition meets thousands of years of scholarship. 	45700	Slightly Memorable
-It's Ivy League tradition meets thousands of years of scholarship. 	45700	Slightly Memorable
-Patterns, routines, a wheel of self-abuse. ,	45400	Slightly Memorable
-Patterns, routines, a wheel of self-abuse. ,	45400	Slightly Memorable
-It's a frantic assembly-line: Bill whips books to Allen, Allen tears out sections, and Lucien hammers them up. ,	45400	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen, confused. ,	45300	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen, confused. ,	45300	Slightly Memorable
-PROFESSOR STEEVES (O.S.) Kill your darlings. 	45300	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen, confused. ,	45300	Slightly Memorable
-No one interrupts Professor Steeves. 	45200	Slightly Memorable
-No one interrupts Professor Steeves. 	45200	Slightly Memorable
-Beautiful, kid. ,	45100	Slightly Memorable
-David smirks, walks off leaving Allen alone with his pages. ,	44600	Slightly Memorable
-Whatever this drug is, it's working. ,	44000	Slightly Memorable
-A DOCTOR holds out a clipboard. 	43100	Slightly Memorable
-A DOCTOR holds out a clipboard. 	43100	Slightly Memorable
-Allen studies the map, his finger gliding down to Greenwich Village. ,	42800	Slightly Memorable
-Allen studies the map, his finger gliding down to Greenwich Village. ,	42800	Slightly Memorable
-Allen studies the map, his finger gliding down to Greenwich Village. ,	42800	Slightly Memorable
-NAOMI You need to promise. 	42800	Slightly Memorable
-INT. BATHROOM, 48 MORTON APARTMENT - NIGHT A makeshift bar in a sink full of ice. ,	42800	Slightly Memorable
-NAOMI You need to promise. 	42800	Slightly Memorable
-INT. BATHROOM, 48 MORTON APARTMENT - NIGHT A makeshift bar in a sink full of ice. ,	42800	Slightly Memorable
-LOUIS I wrote the goddamn poem. 	42500	Slightly Memorable
-Lucien won't let go -- it's a tug of war between the two boys, two wills. ,	42500	Slightly Memorable
-LOUIS I wrote the goddamn poem. 	42500	Slightly Memorable
-Lucien won't let go -- it's a tug of war between the two boys, two wills. ,	42500	Slightly Memorable
-Lucien won't let go -- it's a tug of war between the two boys, two wills. ,	42500	Slightly Memorable
-LOUIS I wrote the goddamn poem. 	42500	Slightly Memorable
-Lucien won't let go -- it's a tug of war between the two boys, two wills. ,	42400	Slightly Memorable
-It's pure bohemia here. 17. 	42000	Slightly Memorable
-It's pure bohemia here. 17. 	42000	Slightly Memorable
-LUCIEN Bunk for school. 	41700	Slightly Memorable
-LUCIEN Bunk for school. 	41700	Slightly Memorable
-INT. HARLEM NIGHTCLUB - NIGHT Time suddenly slows. 	41600	Slightly Memorable
-ALLEN Two. 	41300	Slightly Memorable
-ALLEN Two. 	41300	Slightly Memorable
-PERMISSIONS LIBRARIAN Security! As two Campus Security Guards rush in, Lucien leaps down in front of Allen. ,	40700	Slightly Memorable
-PERMISSIONS LIBRARIAN Security! As two Campus Security Guards rush in, Lucien leaps down in front of Allen. ,	40700	Slightly Memorable
-PERMISSIONS LIBRARIAN Security! As two Campus Security Guards rush in, Lucien leaps down in front of Allen. ,	40700	Slightly Memorable
-From the back row, Lucien watches Allen and unsheathes a grin. ,	40400	Slightly Memorable
-From the back row, Lucien watches Allen and unsheathes a grin. ,	40400	Slightly Memorable
-From the back row, Lucien watches Allen and unsheathes a grin. ,	40400	Slightly Memorable
-Finally, she understands: their sounds are drowned out by the music. ,	40100	Slightly Memorable
-Finally, she understands: their sounds are drowned out by the music. ,	40100	Slightly Memorable
-The music tapers, the hands of the drummer taper down to a still. ,	40100	Slightly Memorable
-Finally, she understands: their sounds are drowned out by the music. ,	40100	Slightly Memorable
-INT. 48 MORTON APARTMENT - AN HOUR LATER Bill at David's bookcase, removing classic art and literature books and throwing them to Allen. ,	40000	Slightly Memorable
-LUCIEN Allen! No! DON'T...! CUT TO BLACK. INSERT TITLE: KILL YOUR DARLINGS CUT TO: 3. 	40000	Slightly Memorable
-LUCIEN Allen! No! DON'T...! CUT TO BLACK. INSERT TITLE: KILL YOUR DARLINGS CUT TO: 3. 	40000	Slightly Memorable
-LUCIEN Allen! No! DON'T...! CUT TO BLACK. INSERT TITLE: KILL YOUR DARLINGS CUT TO: 3. 	40000	Slightly Memorable
-LUCIEN Allen! No! DON'T...! CUT TO BLACK. INSERT TITLE: KILL YOUR DARLINGS CUT TO: 3. 	40000	Slightly Memorable
-David collects his jacket, approaches. ,	39400	Slightly Memorable
-He smiles and dances joyfully to the up-beat number with his broom. 	39300	Slightly Memorable
-He smiles and dances joyfully to the up-beat number with his broom. 	39300	Slightly Memorable
-He smiles and dances joyfully to the up-beat number with his broom. 	39300	Slightly Memorable
-Lucien toasts Allen's glass. 	39200	Slightly Memorable
-Lucien toasts Allen's glass. 	39200	Slightly Memorable
-Lucien toasts Allen's glass. 	39200	Slightly Memorable
-INT. GINSBERG HALLWAY - NIGHT Louis lectures Allen. 	39000	Slightly Memorable
-INT. GINSBERG HALLWAY - NIGHT Louis lectures Allen. 	39000	Slightly Memorable
-INT. LECTURE HALL - DAY Professor Steeves, intent, in front of the class. ,	38800	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen walks down a darkened hallway, the music leading him forward. ,	36800	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen walks down a darkened hallway, the music leading him forward. ,	36800	Slightly Memorable
-INT. DORM HALLWAY - NIGHT Allen walks down a darkened hallway, the music leading him forward. ,	36800	Slightly Memorable
-Reiteration of themes. 	35500	Slightly Memorable
-Reiteration of themes. 	35500	Slightly Memorable
-Reiteration of themes. 	35500	Slightly Memorable
-NAOMI Shhh...Allen. 	35200	Slightly Memorable
-NAOMI Shhh...Allen. 	35200	Slightly Memorable
-NAOMI Shhh...Allen. 	35200	Slightly Memorable
-Lucien returns to the table and slams a glass down. 	35000	Slightly Memorable
-Lucien returns to the table and slams a glass down. 	35000	Slightly Memorable
-She motions to the shattered window pane across the room. 	34700	Slightly Memorable
-She motions to the shattered window pane across the room. 	34700	Slightly Memorable
-Neat trick, Lu. BILL Well, I'm listening. 23. ,	34100	Slightly Memorable
-Neat trick, Lu. BILL Well, I'm listening. 23. ,	34100	Slightly Memorable
-Allen, Lucien and Bill watch from a table. ,	33900	Slightly Memorable
-Allen, Lucien and Bill watch from a table. ,	33900	Slightly Memorable
-ALLEN Why is Jack a real writer? 	32900	Slightly Memorable
-CUT TO: INT. DORM - DAY Allen furiously typing up the manifesto at his school desk. 	32700	Slightly Memorable
-A female student is instantly aroused. 	32600	Slightly Memorable
-A female student is instantly aroused. 	32600	Slightly Memorable
-A female student is instantly aroused. 	32600	Slightly Memorable
-EXT. GINSBERG HOME - NIGHT SUPER: PATERSON, NEW JERSEY. 1943. ,	31700	Slightly Memorable
-EXT. GINSBERG HOME - NIGHT SUPER: PATERSON, NEW JERSEY. 1943. ,	31700	Slightly Memorable
-EXT. GINSBERG HOME - NIGHT SUPER: PATERSON, NEW JERSEY. 1943. ,	31700	Slightly Memorable
-Allen turns to Lucien. 	31600	Slightly Memorable
-EXT. GINSBERG HOME - NIGHT SUPER: PATERSON, NEW JERSEY. 1943. ,	31600	Slightly Memorable
-Allen turns to Lucien. 	31600	Slightly Memorable
-The scratchy record starts as Jack sidles up close to the speaker. 	30700	Slightly Memorable
-Clarinet, strings. ,	30600	Slightly Memorable
-LUCIEN "The rose that scents the summer air/ grows from my beloved's hair...?" ALLEN Keep going. 	30600	Slightly Memorable
-INT. LUCIEN CARR'S DORM ROOM - NIGHT A rainstorm beating against the windows. 	30500	Slightly Memorable
-Clarinet, strings. ,	30500	Slightly Memorable
-LUCIEN He's a professor working as a janitor so he can be near his precious Lu-Lu. He is a goddamn fruit who won't let me go. 	30400	Slightly Memorable
-Clarinet, strings. ,	30300	Slightly Memorable
-LUCIEN Which is why I committed it to memory. 	30200	Not Memorable
-LUCIEN Which is why I committed it to memory. 	30200	Not Memorable
-LUCIEN Which is why I committed it to memory. 	30200	Not Memorable
-ALLEN Then listen to me. 	29600	Not Memorable
-ALLEN Then listen to me. 	29600	Not Memorable
-ALLEN Then listen to me. 	29600	Not Memorable
-ALLEN No. Suddenly, from upstairs, the sound of glass shattering. ,	29500	Not Memorable
-ALLEN No. Suddenly, from upstairs, the sound of glass shattering. ,	29500	Not Memorable
-ALLEN No. Suddenly, from upstairs, the sound of glass shattering. ,	29500	Not Memorable
-BILL Bingo. 	29400	Not Memorable
-INT. BEDROOM, 48 MORTON APARTMENT - NIGHT Lucien flips through the term paper. ,	29200	Not Memorable
-Allen stumbles along on the tour. 	28900	Not Memorable
-Allen stumbles along on the tour. 	28900	Not Memorable
-Allen stumbles along on the tour. 	28900	Not Memorable
-EDIE Where are you going? 	28900	Not Memorable
-PROFESSOR STEEVES (V.O.) The Victorian sonnet has the balance of three tenets. 	28700	Not Memorable
-PROFESSOR STEEVES (V.O.) The Victorian sonnet has the balance of three tenets. 	28700	Not Memorable
-PROFESSOR STEEVES (V.O.) The Victorian sonnet has the balance of three tenets. 	28700	Not Memorable
-Allen sighs, follows suit. ,	28500	Not Memorable
-Allen sighs, follows suit. ,	28500	Not Memorable
-Allen sighs, follows suit. ,	28500	Not Memorable
-Lucien flips through the journal, closes it, disappointed. ,	28400	Not Memorable
-From behind the bars of a jail cell, Lucien Carr (the young man from the opening) finishes reading from a paper MANUSCRIPT in his hand. 2. ,	27100	Not Memorable
-From behind the bars of a jail cell, Lucien Carr (the young man from the opening) finishes reading from a paper MANUSCRIPT in his hand. 2. ,	27100	Not Memorable
-From behind the bars of a jail cell, Lucien Carr (the young man from the opening) finishes reading from a paper MANUSCRIPT in his hand. 2. ,	27100	Not Memorable
-LUCIEN If you're going to stay, don't hog the blanket. ,	26900	Not Memorable
-BILL The derangement of the senses. 	26800	Not Memorable
-BILL The derangement of the senses. 	26800	Not Memorable
-PROFESSOR STEEVES You want life? 	26500	Not Memorable
-Lucien steadies himself. 	26300	Not Memorable
-EXT. BAR - DAWN Drunk, Allen and Lucien stumble to the ground. ,	26200	Not Memorable
-EXT. BAR - DAWN Drunk, Allen and Lucien stumble to the ground. ,	26200	Not Memorable
-ALLEN It's missing some periods and commas. 	25800	Not Memorable
-EXT. COLUMBIA ENTRANCE - NIGHT Lucien throws his jacket over Allen's shoulder and leads him into the wild city around the corner. 	25400	Not Memorable
-Writers, real writers, gotta be in the beds. ,	25400	Not Memorable
-EXT. COLUMBIA ENTRANCE - NIGHT Lucien throws his jacket over Allen's shoulder and leads him into the wild city around the corner. 	25400	Not Memorable
-Lucien sees his friend scared. 	25300	Not Memorable
-Lucien sees his friend scared. 	25300	Not Memorable
-Allen wakes up to see Lucien entering. 	25000	Not Memorable
-He pulls out a RECORD, starts the phonograph and turns up the volume. ,	24900	Not Memorable
-He pulls out a RECORD, starts the phonograph and turns up the volume. ,	24900	Not Memorable
-He pulls out a RECORD, starts the phonograph and turns up the volume. ,	24900	Not Memorable
-He sees Allen, badly hungover and brooding, writing in a journal. ,	23800	Not Memorable
-LUCIEN ...than a big cancerous cock. 	23500	Not Memorable
-LUCIEN ...than a big cancerous cock. 	23500	Not Memorable
-LUCIEN ...than a big cancerous cock. 	23500	Not Memorable
-Allen raises an eyebrow. 	23400	Not Memorable
-Allen raises an eyebrow. 	23400	Not Memorable
-LOUIS Why? 	23200	Not Memorable
-LOUIS Why? 	23200	Not Memorable
-LOUIS Why? 	23200	Not Memorable
-He stares at Lucien. 	23000	Not Memorable
-Head there and you never come back. (extending a firm hand) Luke Detweiler, Danville, Virginia. ,	22600	Not Memorable
-Head there and you never come back. (extending a firm hand) Luke Detweiler, Danville, Virginia. ,	22600	Not Memorable
-Head there and you never come back. (extending a firm hand) Luke Detweiler, Danville, Virginia. ,	22600	Not Memorable
-He can hear you! Allen wraps his mother's hand with a dish towel. 	22500	Not Memorable
-He can hear you! Allen wraps his mother's hand with a dish towel. 	22500	Not Memorable
-Allen hangs up on his mother and races after Lucien. 	22500	Not Memorable
-He can hear you! Allen wraps his mother's hand with a dish towel. 	22500	Not Memorable
-Allen hangs up on his mother and races after Lucien. 	22500	Not Memorable
-LUCIEN (O.S.) Extraordinary men propel society forward. 	22000	Not Memorable
-She motions to the shattered window pane across the room. 	21800	Not Memorable
-INT. BATHROOM - 48 MORTON APARTMENT - NIGHT Allen, caught, looks down, pretends he heard nothing. ,	21600	Not Memorable
-Someone breaks it. 	21400	Not Memorable
-Someone breaks it. 	21400	Not Memorable
-Someone breaks it. 	21400	Not Memorable
-Lucien presses Allen's hand back and forth, both unharmed. ,	21100	Not Memorable
-JACK You're right. 	20800	Not Memorable
-Lucien pulls out a BOY SCOUT KNIFE. Wraps Allen's hand in a fist around the blade. 	20400	Not Memorable
-INT. 48 MORTON APARTMENT - DAY Allen, Lucien pacing with increasing excitement. ,	20100	Not Memorable
-ALLEN Yes. 	19700	Not Memorable
-ALLEN Yes. 	19700	Not Memorable
-ALLEN Yes. 	19700	Not Memorable
-ALLEN Yes. 	19700	Not Memorable
-ALLEN Yes. 	19700	Not Memorable
-Allen looks nervously towards the door. 	19200	Not Memorable
-Allen looks nervously towards the door. 	19200	Not Memorable
-Allen looks nervously towards the door. 	19200	Not Memorable
-DAVID Until. 	19100	Not Memorable
-DAVID Until. 	19100	Not Memorable
-Naomi recognizes her son. 	18800	Not Memorable
-Naomi recognizes her son. 	18800	Not Memorable
-David appears in a janitor uniform. 	18700	Not Memorable
-The body BREAKS the surface and we see the face of its owner ---- DAVID KAMMERER, 33, bearded, handsome. ,	18600	Not Memorable
-Professor Steeves smiles to himself. 	18600	Not Memorable
-The body BREAKS the surface and we see the face of its owner ---- DAVID KAMMERER, 33, bearded, handsome. ,	18600	Not Memorable
-Professor Steeves smiles to himself. 	18600	Not Memorable
-Professor Steeves smiles to himself. 	18600	Not Memorable
-The body BREAKS the surface and we see the face of its owner ---- DAVID KAMMERER, 33, bearded, handsome. ,	18600	Not Memorable
-The body BREAKS the surface and we see the face of its owner ---- DAVID KAMMERER, 33, bearded, handsome. ,	18600	Not Memorable
-INT. DORM HALLWAY - CONTINUOUS Lucien passes Allen, putting on his coat, heading out to the city. ,	18600	Not Memorable
-INT. DORM HALLWAY - CONTINUOUS Lucien passes Allen, putting on his coat, heading out to the city. ,	18600	Not Memorable
-Lucien gets on his knees and THRUSTS a lamp between his legs. 	18500	Not Memorable
-Lucien gets on his knees and THRUSTS a lamp between his legs. 	18500	Not Memorable
-Completely vulnerable, Allen sits back down. ,	18500	Not Memorable
-Lucien gets on his knees and THRUSTS a lamp between his legs. 	18500	Not Memorable
-Bill eyes Allen, skeptically. ,	18200	Not Memorable
-Bill eyes Allen, skeptically. ,	18200	Not Memorable
-PROFESSOR STEEVES He writes rhyming, metered verse. ,	18100	Not Memorable
-PROFESSOR STEEVES He writes rhyming, metered verse. ,	18100	Not Memorable
-PROFESSOR STEEVES He writes rhyming, metered verse. ,	18100	Not Memorable
-LUCIEN Actually I invited him. 	17900	Not Memorable
-LUCIEN Actually I invited him. 	17900	Not Memorable
-Lucien listens anew, realizing this poem is about him. ,	17100	Not Memorable
-ALLEN LUCIEN Gets wider. 	16800	Not Memorable
-ALLEN LUCIEN Gets wider. 	16800	Not Memorable
-ALLEN LUCIEN Gets wider. 	16800	Not Memorable
-He rips the pages from the typewriter. 	16600	Not Memorable
-Professor Steeves smiles victoriously and writes on the blackboard. 	16500	Not Memorable
-Professor Steeves smiles victoriously and writes on the blackboard. 	16500	Not Memorable
-Professor Steeves smiles victoriously and writes on the blackboard. 	16500	Not Memorable
-The tour guide points to the contents of the vitrines: the wonders of literary history. 	15900	Not Memorable
-The tour guide points to the contents of the vitrines: the wonders of literary history. 	15900	Not Memorable
-The tour guide points to the contents of the vitrines: the wonders of literary history. 	15900	Not Memorable
-Allen paces as a drunk Lucien knocks off a bottle of wine and reads from Allen's journal. 	15700	Not Memorable
-BILL (through the mask) You're...pinching... 	15400	Not Memorable
-BILL (through the mask) You're...pinching... 	15400	Not Memorable
-Suddenly, in a reflection in the glass, a flash of RED catches Allen's eye. ,	15300	Not Memorable
-Suddenly, in a reflection in the glass, a flash of RED catches Allen's eye. ,	15300	Not Memorable
-Suddenly, in a reflection in the glass, a flash of RED catches Allen's eye. ,	15300	Not Memorable
-The Burroughs family is richer than God. 	15000	Not Memorable
-The Burroughs family is richer than God. 	15000	Not Memorable
-ALLEN You drink in your room?! LUCIEN How does a horrible bottle of Chianti sound? 	14900	Not Memorable
-ALLEN You drink in your room?! LUCIEN How does a horrible bottle of Chianti sound? 	14900	Not Memorable
-ALLEN You drink in your room?! LUCIEN How does a horrible bottle of Chianti sound? 	14900	Not Memorable
-In the mirror, he sees David and Lucien in the bedroom. ,	14600	Not Memorable
-INT. BILL'S APARTMENT - DAY Bill with NORMAN (30s, shady, real criminal) and Allen in his dim, bookshelf-lined lair. ,	14300	Not Memorable
-Desperate, Lucien calls out after him. ,	14100	Not Memorable
-Desperate, Lucien calls out after him. ,	14100	Not Memorable
-Desperate, Lucien calls out after him. ,	14100	Not Memorable
-Desperate, Lucien calls out after him. ,	14100	Not Memorable
-Allen stands up, realizing his foot is on a snaking black tube leading to a metal canister of gas. ,	13900	Not Memorable
-Allen stands up, realizing his foot is on a snaking black tube leading to a metal canister of gas. ,	13900	Not Memorable
-Lucien turns, loving this. ,	13700	Not Memorable
-The Technicolor fades. 	13700	Not Memorable
-Lucien turns, loving this. ,	13700	Not Memorable
-His roommate LUKE, 18, buzz cut, in a sweaty Columbia sweatshirt, leans over him. ,	13600	Not Memorable
-His roommate LUKE, 18, buzz cut, in a sweaty Columbia sweatshirt, leans over him. ,	13600	Not Memorable
-Allen shoves the nurse off Naomi. 	13600	Not Memorable
-His roommate LUKE, 18, buzz cut, in a sweaty Columbia sweatshirt, leans over him. ,	13600	Not Memorable
-Allen shoves the nurse off Naomi. 	13600	Not Memorable
-INT. HALLWAY, GINSBERG HOME - NIGHT Naomi grips the phone desperately. ,	13300	Not Memorable
-CUT TO: INT. ALLEN'S DORM ROOM - DAY Allen's fingers typing in these same rhythms. 	13300	Not Memorable
-INT. HALLWAY, GINSBERG HOME - NIGHT Naomi grips the phone desperately. ,	13300	Not Memorable
-INT. HALLWAY, GINSBERG HOME - NIGHT Naomi grips the phone desperately. ,	13300	Not Memorable
-Beside, The New Yorker advertising Ogden Nash's upcoming reading. ,	13100	Not Memorable
-Allen takes the envelope, rips it open. ,	13000	Not Memorable
-Allen takes the envelope, rips it open. ,	13000	Not Memorable
-Allen takes the envelope, rips it open. ,	13000	Not Memorable
-Allen disagrees and raises his hand. 	12900	Not Memorable
-Allen disagrees and raises his hand. 	12900	Not Memorable
-Allen disagrees and raises his hand. 	12900	Not Memorable
-Allen stands, gathers himself urgently. ,	12800	Not Memorable
-She is still in her robe, shattered and fogged by sedatives. ,	12800	Not Memorable
-She is still in her robe, shattered and fogged by sedatives. ,	12800	Not Memorable
-Allen stands, gathers himself urgently. ,	12800	Not Memorable
-Edie stares at Allen and Lucien on the couch. 	12800	Not Memorable
-Allen opens the book, looks through the old pages, sees a strange symbol: a diagram of a celestial WHEEL. LUCIEN An endless circle. ,	12700	Not Memorable
-Allen opens the book, looks through the old pages, sees a strange symbol: a diagram of a celestial WHEEL. LUCIEN An endless circle. ,	12700	Not Memorable
-Allen opens the book, looks through the old pages, sees a strange symbol: a diagram of a celestial WHEEL. LUCIEN An endless circle. ,	12700	Not Memorable
-INT. ALLEN'S DORM ROOM - NIGHT Luke, dressed in a suit, puts on cologne. ,	12500	Not Memorable
-INT. ALLEN'S DORM ROOM - NIGHT Luke, dressed in a suit, puts on cologne. ,	12500	Not Memorable
-Lucien drifts off. 	12500	Not Memorable
-INT. ALLEN'S DORM ROOM - NIGHT Luke, dressed in a suit, puts on cologne. ,	12500	Not Memorable
-ALLEN Proclaims the death of morality. 	12400	Not Memorable
-ALLEN The true, uninhibited, uncensored expression of the self. ,	12400	Not Memorable
-ALLEN The true, uninhibited, uncensored expression of the self. ,	12400	Not Memorable
-ALLEN Proclaims the death of morality. 	12400	Not Memorable
-Allen winces in pain. 	12300	Not Memorable
-Lucien leans in, focuses his charm. ,	12300	Not Memorable
-Lucien leans in, focuses his charm. ,	12300	Not Memorable
-Their nooses are attached to the same pipe. 	12200	Not Memorable
-Their nooses are attached to the same pipe. 	12200	Not Memorable
-Lucien fumbles. 40. 	12200	Not Memorable
-PROFESSOR STEEVES Your crushes, your juvenile metaphysics. ,	12200	Not Memorable
-Lucien, intrigued, circles in close. ,	12200	Not Memorable
-Lucien, intrigued, circles in close. ,	12200	Not Memorable
-Lucien, intrigued, circles in close. ,	12200	Not Memorable
-PROFESSOR STEEVES Ginsberg? 	12100	Not Memorable
-LUCIEN (reciting) On a Sunday afternoon, when the shutters are down and the proletariat possesses the street... ,	12100	Not Memorable
-PROFESSOR STEEVES Ginsberg? 	12100	Not Memorable
-PROFESSOR STEEVES Ginsberg? 	12100	Not Memorable
-LUCIEN (reciting) On a Sunday afternoon, when the shutters are down and the proletariat possesses the street... ,	12100	Not Memorable
-LUCIEN (reciting) On a Sunday afternoon, when the shutters are down and the proletariat possesses the street... ,	12100	Not Memorable
-POLICEMEN escort a businessman and another gentleman out of the bathroom, in HANDCUFFS. The mood in the bar chills. ,	12000	Not Memorable
-POLICEMEN escort a businessman and another gentleman out of the bathroom, in HANDCUFFS. The mood in the bar chills. ,	12000	Not Memorable
-BILL Time slows down as you drift deeper and deeper into your cave... 	11700	Not Memorable
-Allen stares defiantly at Lucien from the other side of the bars. 	11700	Not Memorable
-Allen stares defiantly at Lucien from the other side of the bars. 	11700	Not Memorable
-Allen stares defiantly at Lucien from the other side of the bars. 	11700	Not Memorable
-Allen stares defiantly at Lucien from the other side of the bars. 	11700	Not Memorable
-INT. ALLEN'S DORM ROOM - EVENING Luke enters, turns on the light. ,	11600	Not Memorable
-He storms up to the radio, switches the station to a fast- paced boogie-woogie number. ,	11300	Not Memorable
-He storms up to the radio, switches the station to a fast- paced boogie-woogie number. ,	11300	Not Memorable
-He storms up to the radio, switches the station to a fast- paced boogie-woogie number. ,	11300	Not Memorable
-LUCIEN (whispered in her ear) Go. The girl comes to life and clambers over the young man to a second, more attractive soldier. ,	11000	Not Memorable
-BILL Tristan Tzara jabbed a knife into a dictionary. 	10900	Not Memorable
-Lucien scavenges through empty bottles in the sink, looking for any remaining alcohol. ,	10900	Not Memorable
-BILL Tristan Tzara jabbed a knife into a dictionary. 	10900	Not Memorable
-Lucien scavenges through empty bottles in the sink, looking for any remaining alcohol. ,	10900	Not Memorable
-Lucien rises and grabs a wine bottle corked with a sock. 	10800	Not Memorable
-Lucien rises and grabs a wine bottle corked with a sock. 	10800	Not Memorable
-Lucien rises and grabs a wine bottle corked with a sock. 	10800	Not Memorable
-JACK Listen to me, this whole town's full of finks on the 30th floor, writing pure chintz. ,	10800	Not Memorable
-The sound of the IRT screeching takes us to the SUBWAY MAP from Allen's dorm room which comes to life. 	10800	Not Memorable
-The sound of the IRT screeching takes us to the SUBWAY MAP from Allen's dorm room which comes to life. 	10800	Not Memorable
-The prim PERMISSIONS LIBRARIAN clomps over. 	10300	Not Memorable
-The prim PERMISSIONS LIBRARIAN clomps over. 	10300	Not Memorable
-The prim PERMISSIONS LIBRARIAN clomps over. 	10300	Not Memorable
-Allen accidentally drops the broom. 	10100	Not Memorable
-Allen scans, sees the famous poet OGDEN NASH looking around for his glass. ,	10100	Not Memorable
-Allen accidentally drops the broom. 	10100	Not Memorable
-Allen accidentally drops the broom. 	10100	Not Memorable
-Allen scans, sees the famous poet OGDEN NASH looking around for his glass. ,	10100	Not Memorable
-DAVID What there is, darlings and demoiselles, is a circle. ,	10000	Not Memorable
-DAVID What there is, darlings and demoiselles, is a circle. ,	10000	Not Memorable
-We PULL BACK again to see Lucien beside, also with a noose around his neck. ,	9580	Not Memorable
-Lucien loves this, raises an eyebrow. ,	9560	Not Memorable
-We PULL BACK again to see Lucien beside, also with a noose around his neck. ,	9550	Not Memorable
-We PULL BACK to reveal the author of the manuscript: a eighteen-year-old ALLEN GINSBERG. Unslept and exhausted. 	9510	Not Memorable
-We PULL BACK to reveal the author of the manuscript: a eighteen-year-old ALLEN GINSBERG. Unslept and exhausted. 	9510	Not Memorable
-We PULL BACK to reveal the author of the manuscript: a eighteen-year-old ALLEN GINSBERG. Unslept and exhausted. 	9510	Not Memorable
-ALLEN In your ignorance In your isolation, you who have suffered Find where love hides. ,	9510	Not Memorable
-We PULL BACK to reveal the author of the manuscript: a eighteen-year-old ALLEN GINSBERG. Unslept and exhausted. 	9510	Not Memorable
-LOUIS Love that is hoarded, molds at last. ,	9310	Not Memorable
-LOUIS Love that is hoarded, molds at last. ,	9310	Not Memorable
-LOUIS Love that is hoarded, molds at last. ,	9310	Not Memorable
-LUCIEN Stop! Allen grabs the pages Lucien has been working on: they are covered in doodles - there's nothing there. 	9110	Not Memorable
-ALLEN Sorry. 	8890	Not Memorable
-ALLEN Sorry. 	8890	Not Memorable
-EXT. HUDSON RIVER - NIGHT The dingy drifts into view in the middle of the busiest river in the world - quiet at this late in the night. 	8850	Not Memorable
-ALLEN Hello? 	8790	Not Memorable
-ALLEN Hello? 	8790	Not Memorable
-ALLEN Hello? 	8770	Not Memorable
-LUCIEN (CONT'D) Please. 	8430	Not Memorable
-LUCIEN (CONT'D) Please. 	8430	Not Memorable
-LUCIEN (CONT'D) Please. 	8430	Not Memorable
-LUCIEN (CONT'D) Please. 	8430	Not Memorable
-Allen yanks the paper from Lucien's grip and wins. 	8320	Not Memorable
-Allen yanks the paper from Lucien's grip and wins. 	8320	Not Memorable
-Allen yanks the paper from Lucien's grip and wins. 	8320	Not Memorable
-Allen yanks the paper from Lucien's grip and wins. 	8320	Not Memorable
-We see flashes of the past, snippets of Lucien: their contact, Lucien's smile. ,	7920	Not Memorable
-EDIE Out? 	7900	Not Memorable
-Ignoring class. 	7850	Not Memorable
-Allen sees... 	7680	Not Memorable
-Allen sees... 	7670	Not Memorable
-Allen ducks. 	7630	Not Memorable
-Motor hyperactivity. 	7450	Not Memorable
-Motor hyperactivity. 	7440	Not Memorable
-As Lucien walks off, Allen tries to make himself inconspicuous and sits down on the tub. ,	7170	Not Memorable
-As Lucien walks off, Allen tries to make himself inconspicuous and sits down on the tub. ,	7170	Not Memorable
-BILL Show me the man both sober and happy, and I'll show you the crinkled anus of a lying asshole. ,	7120	Not Memorable
-BILL Show me the man both sober and happy, and I'll show you the crinkled anus of a lying asshole. ,	7110	Not Memorable
-RADIO ANNOUNCER (V.O.) But the Germans report a big new red army push toward Romania. 	6960	Not Memorable
-RADIO ANNOUNCER (V.O.) But the Germans report a big new red army push toward Romania. 	6960	Not Memorable
-RADIO ANNOUNCER (V.O.) But the Germans report a big new red army push toward Romania. 	6960	Not Memorable
-Louis sheepishly signs the document on top. 	6780	Not Memorable
-Louis sheepishly signs the document on top. 	6780	Not Memorable
-Allen, mortified, not sure how to take that reference as Lucien knocks his wine back in one gulp. ,	6680	Not Memorable
-Allen, mortified, not sure how to take that reference as Lucien knocks his wine back in one gulp. ,	6680	Not Memorable
-Allen, mortified, not sure how to take that reference as Lucien knocks his wine back in one gulp. ,	6680	Not Memorable
-LUCIEN If it be that I am indulging my self-consciousness in justifying myself, or if it be-- ALLEN That's a run-on. ,	6680	Not Memorable
-LUCIEN If it be that I am indulging my self-consciousness in justifying myself, or if it be-- ALLEN That's a run-on. ,	6680	Not Memorable
-Allen breaks down. 	6430	Not Memorable
-Allen breaks down. 	6410	Not Memorable
-BILL Because David was in the same godforsaken line. 	6010	Not Memorable
-BILL Because David was in the same godforsaken line. 	6010	Not Memorable
-RADIO ANNOUNCER (V.O.) American daylight bombers were busy again, as our liberators with fighter escort continue the air offensive with another sock at German coastal installations in France. ,	5890	Not Memorable
-RADIO ANNOUNCER (V.O.) American daylight bombers were busy again, as our liberators with fighter escort continue the air offensive with another sock at German coastal installations in France. ,	5890	Not Memorable
-RADIO ANNOUNCER (V.O.) American daylight bombers were busy again, as our liberators with fighter escort continue the air offensive with another sock at German coastal installations in France. ,	5880	Not Memorable
-ALLEN Nothing. 	5870	Not Memorable
-As mother and son waltz together with the music, Naomi clutches Allen to her, like he's the only thing keeping her sane. ,	5750	Not Memorable
-As mother and son waltz together with the music, Naomi clutches Allen to her, like he's the only thing keeping her sane. ,	5750	Not Memorable
-As mother and son waltz together with the music, Naomi clutches Allen to her, like he's the only thing keeping her sane. ,	5750	Not Memorable
-In his tucked shirt and creased pants, Allen realizes the entire party is scrutinizing, judging him. ,	5700	Not Memorable
-In his tucked shirt and creased pants, Allen realizes the entire party is scrutinizing, judging him. ,	5700	Not Memorable
-Lucien nods to the huge manuscript on Allen's lap. 	5600	Not Memorable
-Allen stares at Lucien in disbelief. 	5460	Not Memorable
-He tosses Allen a BOOK. Dog-eared, underlined and crumbling. ,	5310	Not Memorable
-He tosses Allen a BOOK. Dog-eared, underlined and crumbling. ,	5310	Not Memorable
-He tosses Allen a BOOK. Dog-eared, underlined and crumbling. ,	5310	Not Memorable
-ALLEN Mom? 	5310	Not Memorable
-ALLEN Mom? 	5300	Not Memorable
-ALLEN Mom? 	5290	Not Memorable
-From out of the background emerges Allen Ginsberg (now 17, fresh-faced, horn-rimmed glasses, dutiful son). ,	5220	Not Memorable
-From out of the background emerges Allen Ginsberg (now 17, fresh-faced, horn-rimmed glasses, dutiful son). ,	5220	Not Memorable
-From out of the background emerges Allen Ginsberg (now 17, fresh-faced, horn-rimmed glasses, dutiful son). ,	5220	Not Memorable
-LUCIEN Alert the press! Tell them Lucien Carr is innocent! Lucien flees, rushes out of the library. ,	4690	Not Memorable
-LUCIEN Alert the press! Tell them Lucien Carr is innocent! Lucien flees, rushes out of the library. ,	4690	Not Memorable
-LUCIEN Alert the press! Tell them Lucien Carr is innocent! Lucien flees, rushes out of the library. ,	4690	Not Memorable
-Toward his lips. 	4670	Not Memorable
-David floats back to LUCIEN CARR, 20, (blonde, beautiful, shirtless and terrified), waist deep in the water. ,	4490	Not Memorable
-David floats back to LUCIEN CARR, 20, (blonde, beautiful, shirtless and terrified), waist deep in the water. ,	4490	Not Memorable
-David floats back to LUCIEN CARR, 20, (blonde, beautiful, shirtless and terrified), waist deep in the water. ,	4490	Not Memorable
-David floats back to LUCIEN CARR, 20, (blonde, beautiful, shirtless and terrified), waist deep in the water. ,	4490	Not Memorable
-INT. HARLEM NIGHTCLUB (MINTON'S PLAYHOUSE) - NIGHT The black crowd claps for the same jazz singer and band we saw earlier, now on their home turf. ,	4360	Not Memorable
-INT. HARLEM NIGHTCLUB (MINTON'S PLAYHOUSE) - NIGHT The black crowd claps for the same jazz singer and band we saw earlier, now on their home turf. ,	4360	Not Memorable
-LUCIEN (whispered, to Allen) He said he was my guardian angel, but that I was too much work. ,	4140	Not Memorable
-LUCIEN (whispered, to Allen) He said he was my guardian angel, but that I was too much work. ,	4140	Not Memorable
-BILL Sudden blindness, bouts of diarrhea, heart palpitations, and a severe decline in moral standards. ,	4100	Not Memorable
-David looks around the mess of his living room, his pillaged library of books, papers all over the floor. ,	3910	Not Memorable
-A troop of Navy midshipmen pass by. 	3900	Not Memorable
-A troop of Navy midshipmen pass by. 	3900	Not Memorable
-A troop of Navy midshipmen pass by. 	3900	Not Memorable
-Unlit cigarette dangling from his lip, Allen turns to Bill. 31. ,	3870	Not Memorable
-INT. DORM HALLWAY - NIGHT Lucien slides down the stairway rail. 	3650	Not Memorable
-INT. DORM HALLWAY - NIGHT Lucien slides down the stairway rail. 	3650	Not Memorable
-EXT. GINSBERG FRONT PORCH - NIGHT Overwhelmed, Allen shakes on the front stairs. ,	3490	Not Memorable
-EXT. GINSBERG FRONT PORCH - NIGHT Overwhelmed, Allen shakes on the front stairs. ,	3490	Not Memorable
-EXT. GINSBERG FRONT PORCH - NIGHT Overwhelmed, Allen shakes on the front stairs. ,	3490	Not Memorable
-Bill smiles. 	3430	Not Memorable
-INT. STAIRWELL - NIGHT Allen, breathless, storms down a flight of stairs, catches up to Lucien. ,	3390	Not Memorable
-INT. STAIRWELL - NIGHT Allen, breathless, storms down a flight of stairs, catches up to Lucien. ,	3390	Not Memorable
-INT. GINSBERG HOME - NIGHT Naomi, clutches the phone, deadly serious. ,	3300	Not Memorable
-INT. GINSBERG HOME - NIGHT Naomi, clutches the phone, deadly serious. ,	3300	Not Memorable
-BILL The Germans call it the "wonder drug." Prescribed for super-human feats. 	3080	Not Memorable
-Jack rowing. 	2770	Not Memorable
-LUCIEN What? 	2750	Not Memorable
-INT. GINSBERG HOME - DAY Allen and Lucien enter the house to find Louis standing nervously with a suitcase beside a DOCTOR. DOCTOR Greystone will alert you if there's a change in her condition. 	2680	Not Memorable
-INT. GINSBERG HOME - DAY Allen and Lucien enter the house to find Louis standing nervously with a suitcase beside a DOCTOR. DOCTOR Greystone will alert you if there's a change in her condition. 	2680	Not Memorable
-LUCIEN What? 	2670	Not Memorable
-Some battleship. 	2590	Not Memorable
-EDIE PARKER, Jack's wealthy, vivacious art student girlfriend (early 20's) walks in. ,	2560	Not Memorable
-EXT. GINSBERG FRONT PORCH - NIGHT Allen escapes outside where Lucien is sitting, smoking. ,	2540	Not Memorable
-EXT. GINSBERG FRONT PORCH - NIGHT Allen escapes outside where Lucien is sitting, smoking. ,	2540	Not Memorable
-Luke shrugs. 	2460	Not Memorable
-Luke shrugs. 	2460	Not Memorable
-Luke shrugs. 	2460	Not Memorable
-BILL Nitrous oxide, for narcoanalysis. ,	2380	Not Memorable
-BILL (O.S.) "Return of the Native." "Leviathan." Tear `em up boys. 	2160	Not Memorable
-ALLEN Brahms? 	2100	Not Memorable
-ALLEN Brahms? 	2100	Not Memorable
-ALLEN Brahms? 	2100	Not Memorable
-ALLEN Shit. 	1970	Not Memorable
-ALLEN Shit. 	1970	Not Memorable
-JACK (with a wink) The damn cat! The bell around the neck of Jack's cat KIT KAT jingles as it scurries away. 	1900	Not Memorable
-CUT TO: INT. JAZZ CLUB - NIGHT Allen bopping his head to the new rhythms in this club - the place where be-bop jazz is being born. 	1850	Not Memorable
-CUT TO: INT. JAZZ CLUB - NIGHT Allen bopping his head to the new rhythms in this club - the place where be-bop jazz is being born. 	1850	Not Memorable
-PROFESSOR STEEVES Rhyme, meter, conceit. ,	1630	Not Memorable
-PROFESSOR STEEVES Rhyme, meter, conceit. ,	1630	Not Memorable
-PROFESSOR STEEVES Rhyme, meter, conceit. ,	1630	Not Memorable
-A pompous TOUR GUIDE shows off museum-like glass vitrines to new and prospective students with their families. 	1600	Not Memorable
-A pompous TOUR GUIDE shows off museum-like glass vitrines to new and prospective students with their families. 	1600	Not Memorable
-A pompous TOUR GUIDE shows off museum-like glass vitrines to new and prospective students with their families. 	1600	Not Memorable
-His mother NAOMI (early 40's, Jewish, deep personality disorder) squats in the corner of the room, in a dirty bathrobe. ,	1560	Not Memorable
-His mother NAOMI (early 40's, Jewish, deep personality disorder) squats in the corner of the room, in a dirty bathrobe. ,	1560	Not Memorable
-His mother NAOMI (early 40's, Jewish, deep personality disorder) squats in the corner of the room, in a dirty bathrobe. ,	1560	Not Memorable
-LUCIEN What is? 	1540	Not Memorable
-LUCIEN What is? 	1540	Not Memorable
-BILL (long exhale) Artifacts in the visual field, some light-headedness. ,	1530	Not Memorable
-BILL (long exhale) Artifacts in the visual field, some light-headedness. ,	1530	Not Memorable
-Shocked, Allen rushes to Lucien's desk. ,	1510	Not Memorable
-Important fellows. 	1420	Not Memorable
-LUCIEN We're sending millions to fight the Fascists in Europe, but they're here! Meter and rhyme--- ALLEN And Professor Steeves--- LUCIEN Yes! They're all guards in some prison. ,	1410	Not Memorable
-LUCIEN We're sending millions to fight the Fascists in Europe, but they're here! Meter and rhyme--- ALLEN And Professor Steeves--- LUCIEN Yes! They're all guards in some prison. ,	1410	Not Memorable
-CUT TO: INT. 48 MORTON APARTMENT - NIGHT Allen, the nitrous oxide mask over his face inhaling from a tank of gas. ,	1330	Not Memorable
-Important fellows. 	1310	Not Memorable
-LUCIEN Finally. 	1310	Not Memorable
-Important fellows. 	1310	Not Memorable
-LUCIEN Finally. 	1310	Not Memorable
-LUCIEN Finally. 	1310	Not Memorable
-Allen nods. 	1090	Not Memorable
-Allen nods. 	1090	Not Memorable
-Allen nods. 	1090	Not Memorable
-Allen nods. 	1090	Not Memorable
-Allen nods. 	1090	Not Memorable
-Allen nods. 	1090	Not Memorable
-LUCIEN Perfect. 	1080	Not Memorable
-ONE YEAR EARLIER. Over a strip of working-class row homes, we hear the sounds of a radio announcer giving a dispatch from the war front. ,	1070	Not Memorable
-LUCIEN Perfect. 	1070	Not Memorable
-ONE YEAR EARLIER. Over a strip of working-class row homes, we hear the sounds of a radio announcer giving a dispatch from the war front. ,	1070	Not Memorable
-ONE YEAR EARLIER. Over a strip of working-class row homes, we hear the sounds of a radio announcer giving a dispatch from the war front. ,	1070	Not Memorable
-ONE YEAR EARLIER. Over a strip of working-class row homes, we hear the sounds of a radio announcer giving a dispatch from the war front. ,	1070	Not Memorable
-CUT TO: INT. 48 MORTON APARTMENT - DAY Bill cracking open a Benzedrine canister and removing the soaking strip from inside. 	1010	Not Memorable
-CUT TO: INT. 48 MORTON APARTMENT - DAY Bill cracking open a Benzedrine canister and removing the soaking strip from inside. 	1010	Not Memorable
-Allen looks down to see WILLIAM BURROUGHS (aka BILL, 29, tall, gaunt, wry), in a suit, sprawled out in the bathtub: a gas mask over his mouth. ,	848	Not Memorable
-Allen looks down to see WILLIAM BURROUGHS (aka BILL, 29, tall, gaunt, wry), in a suit, sprawled out in the bathtub: a gas mask over his mouth. ,	848	Not Memorable
-BILL Nitrous oxide, for narcoanalysis. ,	682	Not Memorable
-From behind the bars of a jail cell, Lucien Carr (the young man from the opening) finishes reading from a paper MANUSCRIPT in his hand. 2. ,	622	Not Memorable
-LUCIEN Excellent. 	611	Not Memorable
-LUCIEN Excellent. 	611	Not Memorable
-LUCIEN Excellent. 	610	Not Memorable
-LUCIEN Coming? 	586	Not Memorable
-LUCIEN Coming? 	586	Not Memorable
-ALLEN What?! HALL MONITOR (O.S.) Phone call! Allen reluctantly hands Lucien back the BOOK. ALLEN I'll be back. 	575	Not Memorable
-ALLEN What?! HALL MONITOR (O.S.) Phone call! Allen reluctantly hands Lucien back the BOOK. ALLEN I'll be back. 	575	Not Memorable
-ALLEN What?! HALL MONITOR (O.S.) Phone call! Allen reluctantly hands Lucien back the BOOK. ALLEN I'll be back. 	575	Not Memorable
-Allen and Lucien panic as they swing through the room, suspended in air. ,	479	Not Memorable
-Allen and Lucien panic as they swing through the room, suspended in air. ,	479	Not Memorable
-But safety pins and bassinets--" DAVID "Await the girl who fassinets." LUCIEN And that's what he's selling?! I'll kill him. 	276	Not Memorable
-But safety pins and bassinets--" DAVID "Await the girl who fassinets." LUCIEN And that's what he's selling?! I'll kill him. 	276	Not Memorable
-Then to Allen. 	259	Not Memorable
-Allen, mesmerized. ,	192	Not Memorable
-The ghostly melody of "Lili Marlene," the ache of the war-time lover, plays as a strange SHADOW drifts into view. ,	98	Not Memorable
-The ghostly melody of "Lili Marlene," the ache of the war-time lover, plays as a strange SHADOW drifts into view. ,	98	Not Memorable
-The ghostly melody of "Lili Marlene," the ache of the war-time lover, plays as a strange SHADOW drifts into view. ,	96	Not Memorable
-INT. MASTER BEDROOM, GINSBERG HOME - NIGHT Allen runs into a dark room, flips on the light. ,	82	Not Memorable
-INT. MASTER BEDROOM, GINSBERG HOME - NIGHT Allen runs into a dark room, flips on the light. ,	82	Not Memorable
-Lucien stops. 	81	Not Memorable
-INT. MASTER BEDROOM, GINSBERG HOME - NIGHT Allen runs into a dark room, flips on the light. ,	81	Not Memorable
-INT. ALLEN'S DORM ROOM - LATER The pace of everything has DOUBLED. Allen, sweating at his typewriter, jubilant, tapping his foot with the music, typing furiously at the keys. ,	74	Not Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen groans, snaps out of it. ,	68	Not Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen groans, snaps out of it. ,	68	Not Memorable
-LUCIEN "In the dawn, armed with a burning patience, we shall enter the splendid city!" Allen sits up. ,	66	Not Memorable
-HALL MONITOR (O.S.) Ginsberg?! Allen groans, snaps out of it. ,	66	Not Memorable
-LUCIEN "In the dawn, armed with a burning patience, we shall enter the splendid city!" Allen sits up. ,	65	Not Memorable
-INT. LECTURE HALL - DAY Patrician, old-guard PROFESSOR STEEVES lectures on the first day of class, Allen dutifully taking notes in his journal. 10. ,	57	Not Memorable
-INT. LECTURE HALL - DAY Patrician, old-guard PROFESSOR STEEVES lectures on the first day of class, Allen dutifully taking notes in his journal. 10. ,	57	Not Memorable
-INT. LECTURE HALL - DAY Patrician, old-guard PROFESSOR STEEVES lectures on the first day of class, Allen dutifully taking notes in his journal. 10. ,	57	Not Memorable
-DAVID Take this unbloomed stalwart. 20. 	55	Not Memorable
-Lucien smirks. 	55	Not Memorable
-DAVID Take this unbloomed stalwart. 20. 	55	Not Memorable
-Lucien smirks. 	55	Not Memorable
-Lucien smirks. 	55	Not Memorable
-KILL YOUR DARLINGS Written by John Krokidas and Austin Bunn Story by Austin Bunn Based on a True Story FINAL SHOOTING SCRIPT EXT. RIVERSIDE PARK - NIGHT Underwater. 	47	Not Memorable
-KILL YOUR DARLINGS Written by John Krokidas and Austin Bunn Story by Austin Bunn Based on a True Story FINAL SHOOTING SCRIPT EXT. RIVERSIDE PARK - NIGHT Underwater. 	47	Not Memorable
-KILL YOUR DARLINGS Written by John Krokidas and Austin Bunn Story by Austin Bunn Based on a True Story FINAL SHOOTING SCRIPT EXT. RIVERSIDE PARK - NIGHT Underwater. 	47	Not Memorable
-VOICE OF SAMMY (O.S.) We've just been through 20 days of German shelling, every three hours, night and day. ,	42	Not Memorable
-Allen, mesmerized. ,	36	Not Memorable
-Allen, mesmerized. ,	36	Not Memorable
-Wartime is on. 	35	Not Memorable
-CUT TO: INT. STAIRS/APARTMENT, 48 MORTON STREET - NIGHT Allen, anxious, follows Lucien up a crowded staircase to a West Village apartment. ,	35	Not Memorable
-CUT TO: INT. STAIRS/APARTMENT, 48 MORTON STREET - NIGHT Allen, anxious, follows Lucien up a crowded staircase to a West Village apartment. ,	35	Not Memorable
-Allen looks up, caught in the act, to see his father LOUIS (40's, school teacher, Jewish working-class poet) home from work. ,	35	Not Memorable
-Allen looks up, caught in the act, to see his father LOUIS (40's, school teacher, Jewish working-class poet) home from work. ,	35	Not Memorable
-Allen looks up, caught in the act, to see his father LOUIS (40's, school teacher, Jewish working-class poet) home from work. ,	35	Not Memorable
-LUCIEN Shit. 	33	Not Memorable
-Wartime is on. 	33	Not Memorable
-LUCIEN Shit. 	30	Not Memorable
-Wartime is on. 	29	Not Memorable
-And beshit thyself. 	29	Not Memorable
-And beshit thyself. 	27	Not Memorable
-EDIE (O.S.) Come to the table! VOICE OF SAMMY (O.S.) It's supposed to be beautiful... 	25	Not Memorable
-JACK (O.S.) Hey Al! INT. 118TH STREET APARTMENT - NIGHT Handsome JACK KEROUAC (mid-20's, athletic, infamous jaw) palms a football, fakes a pass to Allen. ,	24	Not Memorable
-DAVID And you are? 	20	Not Memorable
-A spotlight cuts through the room, capturing the singer's sweaty ecstasy, the bassist's fingers mid-plucking. ,	17	Not Memorable
-Willy, Allen, Lucien reefer. ,	16	Not Memorable
-Willy, Allen, Lucien reefer. ,	16	Not Memorable
-Lucien beams. 	14	Not Memorable
-LUCIEN Freshman? 	13	Not Memorable
-LUCIEN Freshman? 	13	Not Memorable
-LUCIEN Freshman? 	13	Not Memorable
-DAVID And you are? 	12	Not Memorable
-Ipromiseloveyoubye. 	11	Not Memorable
-Ipromiseloveyoubye. 	10	Not Memorable
-LUCIEN Watch this. 	10	Not Memorable
-This will be my last one for a while. 	9	Not Memorable
-ALLEN Consonance. 	8	Not Memorable
-ALLEN (O.S.) The New Vision declares-- LUCIEN (O.S.) "Proclaims" is better-- INT. DAVID'S APARTMENT (48 MORTON) - DAY Lucien and Allen pace while Bill reclines on the sofa. 	8	Not Memorable
-ALLEN Consonance. 	8	Not Memorable
-ALLEN (O.S.) The New Vision declares-- LUCIEN (O.S.) "Proclaims" is better-- INT. DAVID'S APARTMENT (48 MORTON) - DAY Lucien and Allen pace while Bill reclines on the sofa. 	8	Not Memorable
-EDIE Scram. 	8	Not Memorable
-ALLEN Consonance. 	8	Not Memorable
-Professor Steeves hushes them. 	7	Not Memorable
-Professor Steeves hushes them. 	7	Not Memorable
-Professor Steeves hushes them. 	7	Not Memorable
-BILL (O.S.) Hrffrff hrffrfffrfrfrrf. 	7	Not Memorable
-BILL (O.S.) Hrffrff hrffrfffrfrfrrf. 	7	Not Memorable
-What was that? 41. 	6	Not Memorable
-DAVID (O.S.) Take this unbloomed stalwart. 	5	Not Memorable
-A DOOR CRASH leads us to... 	5	Not Memorable
-The nurse escorts a docile Naomi out of the room. 	5	Not Memorable
-Lucien, panicking. ,	5	Not Memorable
-An older, elegant woman sharing a cigarette with a boy half her age. ,	5	Not Memorable
-Lucien, panicking. ,	5	Not Memorable
-Lucien, panicking. ,	5	Not Memorable
-The nurse escorts a docile Naomi out of the room. 	5	Not Memorable
-An older, elegant woman sharing a cigarette with a boy half her age. ,	5	Not Memorable
-A DOOR CRASH leads us to... 	5	Not Memorable
-Lucien, panicking. ,	5	Not Memorable
-LUCIEN It's complicated. 	4	Not Memorable
-Allen turns to see Lucien Carr (now 19, devilish, stunningly handsome) LEAP onto a library desk with a book in hand. ,	4	Not Memorable
-A black man making out with a white woman. 	4	Not Memorable
-Allen turns to see Lucien Carr (now 19, devilish, stunningly handsome) LEAP onto a library desk with a book in hand. ,	4	Not Memorable
-Allen turns to see Lucien Carr (now 19, devilish, stunningly handsome) LEAP onto a library desk with a book in hand. ,	4	Not Memorable
-BAR-GOER (O.S.) Fucking perverts. 	4	Not Memorable
-BAR-GOER (O.S.) Fucking perverts. 	4	Not Memorable
-Allen sits beside him, notices: Lucien has been crying. ,	4	Not Memorable
-A black man making out with a white woman. 	4	Not Memorable
-Straight, gay, young, old, a subterranean zoo. ,	3	Not Memorable
-LUCIEN You wanted him gone too. 	3	Not Memorable
-LUCIEN You wanted him gone too. 	3	Not Memorable
-Straight, gay, young, old, a subterranean zoo. ,	3	Not Memorable
-LUCIEN It's Rimbaud. 	3	Not Memorable
-LUCIEN It's Rimbaud. 	3	Not Memorable
-LUCIEN You wanted him gone too. 	3	Not Memorable
-Allen sits beside him, notices: Lucien has been crying. ,	3	Not Memorable
-LUCIEN So what do you suggest? 	3	Not Memorable
-LUCIEN So what do you suggest? 	3	Not Memorable
-LUCIEN You wanted him gone too. 	3	Not Memorable
-Allen struggles to his feet, moaning. ,	3	Not Memorable
-So that's been done. 	2	Not Memorable
-LUCIEN Well, you're not anything yet. ,	2	Not Memorable
-LUCIEN What am I supposed to do? 	2	Not Memorable
-So that's been done. 	2	Not Memorable
-LUCIEN Well, you're not anything yet. ,	2	Not Memorable
-LUCIEN Well, you're not anything yet. ,	2	Not Memorable
-Lucien lights up. 	6400000	Not Memorable

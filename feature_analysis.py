@@ -20,8 +20,9 @@ def second_pass(data):
             print "Percentage for " + pos + " in " + memorability + " is " + str(percentage)
         print "------------------------ End of " + memorability + "\n"
 
-def main(arguments, option):
-    file1 = open(arguments[1], "r")
+def main(file_name, option):
+    q = raw_input("Enter any key when words_mem files are finished")
+    file1 = open(file_name, "r")
     text = file1.read()
     text_lines = text.split("\n")
     data = {}

@@ -21,20 +21,21 @@ def _hits(fileName, outputFileName):
     for line in text:
        if line != "":
             sent = line.split("\t")
-            sentence = sent[0]
-            memorability = sent[2]
-            tokenize(sentence, memorability, outputFileName)
+            if len(sent) == 3:
+                sentence = sent[0]
+                memorability = sent[2]
+                tokenize(sentence, memorability, outputFileName)
     input1.close()
 
 def main():
     _hits("top_5k.txt", "words_memorability_no_annotation.txt")
     _hits("top_5k_annotated.txt", "words_memorability_with_annotation.txt")
 
-def main(args1, args2):
-    yahoo = args1
-    yahoo_words = "words_mem_no_annotation_" + args1
-    annotated = args2
-    annotated_words = "words_mem_with_annotation_" + args2
+def main(args):
+    yahoo = args[0]
+    yahoo_words = "words_mem_no_annotation_" + yahoo
+    annotated = args[1]
+    annotated_words = "words_mem_with_annotation_" + annotated
     _hits(yahoo,yahoo_words)
     _hits(annotated, annotated_words)
 

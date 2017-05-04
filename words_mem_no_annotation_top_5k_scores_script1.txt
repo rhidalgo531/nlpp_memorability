@@ -273,3 +273,6261 @@ you	PRP	Memorable
 tell	VB	Memorable
 me	PRP	Memorable
 ?	.	Memorable
+PROFESSOR	NNP	Memorable
+STEEVES	NNP	Memorable
+``	``	Memorable
+The	DT	Memorable
+New	NNP	Memorable
+Vision	NNP	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Why	WRB	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+you	PRP	Memorable
+like	IN	Memorable
+me	PRP	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+Why	WRB	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+you	PRP	Memorable
+like	IN	Memorable
+me	PRP	Memorable
+?	.	Memorable
+Maybe	RB	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+up	RB	Memorable
+for	IN	Memorable
+this	DT	Memorable
+after	IN	Memorable
+all	DT	Memorable
+.	.	Memorable
+35	CD	Memorable
+.	.	Memorable
+BILL	NNP	Memorable
+Play	NNP	Memorable
+nice	RB	Memorable
+,	,	Memorable
+David	NNP	Memorable
+.	.	Memorable
+,	,	Memorable
+BILL	NNP	Memorable
+Play	NNP	Memorable
+nice	RB	Memorable
+,	,	Memorable
+David	NNP	Memorable
+.	.	Memorable
+,	,	Memorable
+LUCIEN	NNP	Memorable
+We	PRP	Memorable
+need	VBP	Memorable
+a	DT	Memorable
+name	NN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+We	PRP	Memorable
+need	VBP	Memorable
+a	DT	Memorable
+name	NN	Memorable
+.	.	Memorable
+Calls	VBZ	Memorable
+out	RP	Memorable
+to	TO	Memorable
+David	NNP	Memorable
+.	.	Memorable
+ALLEN	NN	Memorable
+Can	MD	Memorable
+he	PRP	Memorable
+still	RB	Memorable
+hear	VB	Memorable
+me	PRP	Memorable
+?	.	Memorable
+ALLEN	NN	Memorable
+Can	MD	Memorable
+he	PRP	Memorable
+still	RB	Memorable
+hear	VB	Memorable
+me	PRP	Memorable
+?	.	Memorable
+ALLEN	NN	Memorable
+Can	MD	Memorable
+he	PRP	Memorable
+still	RB	Memorable
+hear	VB	Memorable
+me	PRP	Memorable
+?	.	Memorable
+LUCIEN	VB	Memorable
+What	WP	Memorable
+are	VBP	Memorable
+you	PRP	Memorable
+,	,	Memorable
+moving	VBG	Memorable
+in	IN	Memorable
+?	.	Memorable
+,	,	Memorable
+JACK	NNP	Memorable
+You	PRP	Memorable
+missed	VBD	Memorable
+.	.	Memorable
+They	PRP	Memorable
+'re	VBP	Memorable
+playing	VBG	Memorable
+his	PRP$	Memorable
+game	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+realizes	VBZ	Memorable
+what	WP	Memorable
+'s	VBZ	Memorable
+happening	VBG	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+realizes	VBZ	Memorable
+what	WP	Memorable
+'s	VBZ	Memorable
+happening	VBG	Memorable
+.	.	Memorable
+Bang	NNP	Memorable
+:	:	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+world	NN	Memorable
+...	:	Memorable
+Bang	NNP	Memorable
+:	:	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+world	NN	Memorable
+...	:	Memorable
+Bang	NNP	Memorable
+:	:	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+world	NN	Memorable
+...	:	Memorable
+BILL	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Pervitin	NN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+We	PRP	Memorable
+have	VBP	Memorable
+the	DT	Memorable
+map	NN	Memorable
+.	.	Memorable
+A	DT	Memorable
+work	NN	Memorable
+of	IN	Memorable
+fiction	NN	Memorable
+you	PRP	Memorable
+will	MD	Memorable
+deliver	VB	Memorable
+as	IN	Memorable
+your	PRP$	Memorable
+final	JJ	Memorable
+exam	NN	Memorable
+.	.	Memorable
+The	DT	Memorable
+other	JJ	Memorable
+students	NNS	Memorable
+take	VBP	Memorable
+note	NN	Memorable
+.	.	Memorable
+The	DT	Memorable
+other	JJ	Memorable
+students	NNS	Memorable
+take	VBP	Memorable
+note	NN	Memorable
+.	.	Memorable
+The	DT	Memorable
+other	JJ	Memorable
+students	NNS	Memorable
+take	VBP	Memorable
+note	NN	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+?	.	Memorable
+!	.	Memorable
+7	CD	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+?	.	Memorable
+!	.	Memorable
+7	CD	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+?	.	Memorable
+!	.	Memorable
+7	CD	Memorable
+.	.	Memorable
+Get	VB	Memorable
+out	RP	Memorable
+!	.	Memorable
+Allen	NNP	Memorable
+stumbles	VBZ	Memorable
+out	IN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+room	NN	Memorable
+,	,	Memorable
+scared	VBD	Memorable
+.	.	Memorable
+,	,	Memorable
+Two	CD	Memorable
+more	JJR	Memorable
+sentences	NNS	Memorable
+.	.	Memorable
+Two	CD	Memorable
+more	JJR	Memorable
+sentences	NNS	Memorable
+.	.	Memorable
+Two	CD	Memorable
+more	JJR	Memorable
+sentences	NNS	Memorable
+.	.	Memorable
+JACK	NNP	Memorable
+My	NNP	Memorable
+best	JJS	Memorable
+friend	NN	Memorable
+since	IN	Memorable
+I	PRP	Memorable
+was	VBD	Memorable
+twelve	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+looks	VBZ	Memorable
+down	RB	Memorable
+,	,	Memorable
+a	DT	Memorable
+bad	JJ	Memorable
+liar	NN	Memorable
+.	.	Memorable
+4.	CD	Memorable
+,	,	Memorable
+Allen	NNP	Memorable
+looks	VBZ	Memorable
+down	RB	Memorable
+,	,	Memorable
+a	DT	Memorable
+bad	JJ	Memorable
+liar	NN	Memorable
+.	.	Memorable
+4.	CD	Memorable
+,	,	Memorable
+Allen	NNP	Memorable
+looks	VBZ	Memorable
+down	RB	Memorable
+,	,	Memorable
+a	DT	Memorable
+bad	JJ	Memorable
+liar	NN	Memorable
+.	.	Memorable
+4.	CD	Memorable
+,	,	Memorable
+Life	NN	Memorable
+is	VBZ	Memorable
+only	RB	Memorable
+interesting	JJ	Memorable
+if	IN	Memorable
+life	NN	Memorable
+is	VBZ	Memorable
+wide	JJ	Memorable
+.	.	Memorable
+13	CD	Memorable
+.	.	Memorable
+Life	NN	Memorable
+is	VBZ	Memorable
+only	RB	Memorable
+interesting	JJ	Memorable
+if	IN	Memorable
+life	NN	Memorable
+is	VBZ	Memorable
+wide	JJ	Memorable
+.	.	Memorable
+13	CD	Memorable
+.	.	Memorable
+This	DT	Memorable
+is	VBZ	Memorable
+what	WP	Memorable
+a	DT	Memorable
+first	JJ	Memorable
+time	NN	Memorable
+looks	VBZ	Memorable
+like	IN	Memorable
+.	.	Memorable
+This	DT	Memorable
+is	VBZ	Memorable
+what	WP	Memorable
+a	DT	Memorable
+first	JJ	Memorable
+time	NN	Memorable
+looks	VBZ	Memorable
+like	IN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Fuck	NNP	Memorable
+you	PRP	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Fuck	NNP	Memorable
+you	PRP	Memorable
+.	.	Memorable
+Life	NN	Memorable
+is	VBZ	Memorable
+only	RB	Memorable
+interesting	JJ	Memorable
+if	IN	Memorable
+life	NN	Memorable
+is	VBZ	Memorable
+wide	JJ	Memorable
+.	.	Memorable
+13	CD	Memorable
+.	.	Memorable
+That	DT	Memorable
+would	MD	Memorable
+just	RB	Memorable
+be	VB	Memorable
+the	DT	Memorable
+end	NN	Memorable
+of	IN	Memorable
+you	PRP	Memorable
+.	.	Memorable
+Is	VBZ	Memorable
+he	PRP	Memorable
+there	RB	Memorable
+with	IN	Memorable
+you	PRP	Memorable
+?	.	Memorable
+!	.	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+he	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+here	RB	Memorable
+with	IN	Memorable
+me	PRP	Memorable
+.	.	Memorable
+,	,	Memorable
+Is	VBZ	Memorable
+he	PRP	Memorable
+there	RB	Memorable
+with	IN	Memorable
+you	PRP	Memorable
+?	.	Memorable
+!	.	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+he	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+here	RB	Memorable
+with	IN	Memorable
+me	PRP	Memorable
+.	.	Memorable
+,	,	Memorable
+Because	IN	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+right	JJ	Memorable
+.	.	Memorable
+Because	IN	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+right	JJ	Memorable
+.	.	Memorable
+Because	IN	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+right	JJ	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Because	IN	Memorable
+it	PRP	Memorable
+was	VBD	Memorable
+me	PRP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Because	IN	Memorable
+it	PRP	Memorable
+was	VBD	Memorable
+me	PRP	Memorable
+.	.	Memorable
+Share	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Show	NNP	Memorable
+me	PRP	Memorable
+your	PRP$	Memorable
+fucking	VBG	Memorable
+map	NN	Memorable
+.	.	Memorable
+But	CC	Memorable
+it	PRP	Memorable
+'s	VBZ	Memorable
+too	RB	Memorable
+late	JJ	Memorable
+.	.	Memorable
+LUKE	NNP	Memorable
+You	PRP	Memorable
+hymies	NNS	Memorable
+are	VBP	Memorable
+really	RB	Memorable
+all	DT	Memorable
+about	IN	Memorable
+work	NN	Memorable
+,	,	Memorable
+huh	VB	Memorable
+?	.	Memorable
+,	,	Memorable
+LUKE	NNP	Memorable
+You	PRP	Memorable
+hymies	NNS	Memorable
+are	VBP	Memorable
+really	RB	Memorable
+all	DT	Memorable
+about	IN	Memorable
+work	NN	Memorable
+,	,	Memorable
+huh	VB	Memorable
+?	.	Memorable
+,	,	Memorable
+LUKE	NNP	Memorable
+You	PRP	Memorable
+hymies	NNS	Memorable
+are	VBP	Memorable
+really	RB	Memorable
+all	DT	Memorable
+about	IN	Memorable
+work	NN	Memorable
+,	,	Memorable
+huh	VB	Memorable
+?	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+my	PRP$	Memorable
+mother	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+my	PRP$	Memorable
+mother	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+Candles	NNS	Memorable
+light	VBD	Memorable
+the	DT	Memorable
+room	NN	Memorable
+.	.	Memorable
+Candles	NNS	Memorable
+light	VBD	Memorable
+the	DT	Memorable
+room	NN	Memorable
+.	.	Memorable
+Candles	NNS	Memorable
+light	VBD	Memorable
+the	DT	Memorable
+room	NN	Memorable
+.	.	Memorable
+We	PRP	Memorable
+see	VBP	Memorable
+a	DT	Memorable
+young	JJ	Memorable
+man	NN	Memorable
+cleaning	VBG	Memorable
+house	NN	Memorable
+,	,	Memorable
+sweeping	VBG	Memorable
+in	IN	Memorable
+the	DT	Memorable
+background	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+We	PRP	Memorable
+see	VBP	Memorable
+a	DT	Memorable
+young	JJ	Memorable
+man	NN	Memorable
+cleaning	VBG	Memorable
+house	NN	Memorable
+,	,	Memorable
+sweeping	VBG	Memorable
+in	IN	Memorable
+the	DT	Memorable
+background	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+We	PRP	Memorable
+see	VBP	Memorable
+a	DT	Memorable
+young	JJ	Memorable
+man	NN	Memorable
+cleaning	VBG	Memorable
+house	NN	Memorable
+,	,	Memorable
+sweeping	VBG	Memorable
+in	IN	Memorable
+the	DT	Memorable
+background	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+He	PRP	Memorable
+eyes	VBZ	Memorable
+a	DT	Memorable
+map	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+New	NNP	Memorable
+York	NNP	Memorable
+City	NNP	Memorable
+subway	NN	Memorable
+system	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+eyes	VBZ	Memorable
+a	DT	Memorable
+map	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+New	NNP	Memorable
+York	NNP	Memorable
+City	NNP	Memorable
+subway	NN	Memorable
+system	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+eyes	VBZ	Memorable
+a	DT	Memorable
+map	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+New	NNP	Memorable
+York	NNP	Memorable
+City	NNP	Memorable
+subway	NN	Memorable
+system	NN	Memorable
+.	.	Memorable
+That	DT	Memorable
+'s	VBZ	Memorable
+one	CD	Memorable
+.	.	Memorable
+Anything	NN	Memorable
+for	IN	Memorable
+me	PRP	Memorable
+?	.	Memorable
+Anything	NN	Memorable
+for	IN	Memorable
+me	PRP	Memorable
+?	.	Memorable
+Anything	NN	Memorable
+for	IN	Memorable
+me	PRP	Memorable
+?	.	Memorable
+First	RB	Memorable
+.	.	Memorable
+First	RB	Memorable
+.	.	Memorable
+She	PRP	Memorable
+may	MD	Memorable
+not	RB	Memorable
+get	VB	Memorable
+her	PRP$	Memorable
+nectacled	JJ	Memorable
+.	.	Memorable
+She	PRP	Memorable
+may	MD	Memorable
+not	RB	Memorable
+get	VB	Memorable
+her	PRP$	Memorable
+nectacled	JJ	Memorable
+.	.	Memorable
+I	PRP	Memorable
+'m	VBP	Memorable
+not	RB	Memorable
+even	RB	Memorable
+sure	JJ	Memorable
+why	WRB	Memorable
+I	PRP	Memorable
+bothered	VBD	Memorable
+to	TO	Memorable
+come	VB	Memorable
+back	RB	Memorable
+.	.	Memorable
+A	DT	Memorable
+blank	JJ	Memorable
+page	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+How	WRB	Memorable
+did	VBD	Memorable
+they	PRP	Memorable
+come	VB	Memorable
+up	IN	Memorable
+``	``	Memorable
+Dada	NNP	Memorable
+''	''	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+How	WRB	Memorable
+did	VBD	Memorable
+they	PRP	Memorable
+come	VB	Memorable
+up	IN	Memorable
+``	``	Memorable
+Dada	NNP	Memorable
+''	''	Memorable
+?	.	Memorable
+DAVID	NNP	Memorable
+Or	NNP	Memorable
+maybe	RB	Memorable
+he	PRP	Memorable
+already	RB	Memorable
+has	VBZ	Memorable
+.	.	Memorable
+David	NNP	Memorable
+pulls	VBZ	Memorable
+him	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+center	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+room	NN	Memorable
+.	.	Memorable
+David	NNP	Memorable
+pulls	VBZ	Memorable
+him	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+center	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+room	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+drops	VBZ	Memorable
+it	PRP	Memorable
+into	IN	Memorable
+three	CD	Memorable
+coffee	NN	Memorable
+cups	NNS	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+...	:	Memorable
+MUSIC	NNP	Memorable
+PLAYS	NNP	Memorable
+over	IN	Memorable
+...	:	Memorable
+MUSIC	NNP	Memorable
+PLAYS	NNP	Memorable
+over	IN	Memorable
+...	:	Memorable
+LUCIEN	NNP	Memorable
+Well	NNP	Memorable
+,	,	Memorable
+thank	NN	Memorable
+you	PRP	Memorable
+.	.	Memorable
+,	,	Memorable
+DAVID	NNP	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+out	RP	Memorable
+.	.	Memorable
+JACK	NNP	Memorable
+Trust	NNP	Memorable
+me	PRP	Memorable
+.	.	Memorable
+To	TO	Memorable
+be	VB	Memorable
+reborn	VBN	Memorable
+,	,	Memorable
+we	PRP	Memorable
+have	VBP	Memorable
+to	TO	Memorable
+die	VB	Memorable
+first	RB	Memorable
+.	.	Memorable
+,	,	Memorable
+To	TO	Memorable
+be	VB	Memorable
+reborn	VBN	Memorable
+,	,	Memorable
+we	PRP	Memorable
+have	VBP	Memorable
+to	TO	Memorable
+die	VB	Memorable
+first	RB	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+into	IN	Memorable
+the	DT	Memorable
+phone	NN	Memorable
+)	)	Memorable
+Listen	NNP	Memorable
+,	,	Memorable
+I	PRP	Memorable
+'ll	MD	Memorable
+come	VB	Memorable
+as	RB	Memorable
+soon	RB	Memorable
+as	IN	Memorable
+I	PRP	Memorable
+can	MD	Memorable
+.	.	Memorable
+16.	CD	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+into	IN	Memorable
+the	DT	Memorable
+phone	NN	Memorable
+)	)	Memorable
+Listen	NNP	Memorable
+,	,	Memorable
+I	PRP	Memorable
+'ll	MD	Memorable
+come	VB	Memorable
+as	RB	Memorable
+soon	RB	Memorable
+as	IN	Memorable
+I	PRP	Memorable
+can	MD	Memorable
+.	.	Memorable
+16.	CD	Memorable
+,	,	Memorable
+The	DT	Memorable
+class	NN	Memorable
+titters	NNS	Memorable
+.	.	Memorable
+The	DT	Memorable
+class	NN	Memorable
+titters	NNS	Memorable
+.	.	Memorable
+The	DT	Memorable
+class	NN	Memorable
+titters	NNS	Memorable
+.	.	Memorable
+Living	VBG	Memorable
+.	.	Memorable
+Living	VBG	Memorable
+.	.	Memorable
+Living	VBG	Memorable
+.	.	Memorable
+Remember	NNP	Memorable
+?	.	Memorable
+Ever	RB	Memorable
+.	.	Memorable
+Look	NN	Memorable
+at	IN	Memorable
+her	PRP$	Memorable
+!	.	Memorable
+Listen	VB	Memorable
+to	TO	Memorable
+her	PRP$	Memorable
+!	.	Memorable
+Naomi	NNP	Memorable
+babbling	NN	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+You	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+get	VB	Memorable
+me	PRP	Memorable
+out	IN	Memorable
+of	IN	Memorable
+here	RB	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+You	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+get	VB	Memorable
+me	PRP	Memorable
+out	IN	Memorable
+of	IN	Memorable
+here	RB	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+You	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+get	VB	Memorable
+me	PRP	Memorable
+out	IN	Memorable
+of	IN	Memorable
+here	RB	Memorable
+.	.	Memorable
+Give	VB	Memorable
+.	.	Memorable
+That	DT	Memorable
+book	NN	Memorable
+is	VBZ	Memorable
+restricted	VBN	Memorable
+.	.	Memorable
+Dead	NNP	Memorable
+.	.	Memorable
+The	DT	Memorable
+puppy	JJ	Memorable
+following	VBG	Memorable
+his	PRP$	Memorable
+new	JJ	Memorable
+master	NN	Memorable
+.	.	Memorable
+Dead	NNP	Memorable
+.	.	Memorable
+Dead	NNP	Memorable
+.	.	Memorable
+That	DT	Memorable
+book	NN	Memorable
+is	VBZ	Memorable
+restricted	VBN	Memorable
+.	.	Memorable
+The	DT	Memorable
+puppy	JJ	Memorable
+following	VBG	Memorable
+his	PRP$	Memorable
+new	JJ	Memorable
+master	NN	Memorable
+.	.	Memorable
+That	DT	Memorable
+book	NN	Memorable
+is	VBZ	Memorable
+restricted	VBN	Memorable
+.	.	Memorable
+Dead	NNP	Memorable
+.	.	Memorable
+Jack	NNP	Memorable
+.	.	Memorable
+Jack	NNP	Memorable
+.	.	Memorable
+What	WP	Memorable
+does	VBZ	Memorable
+that	DT	Memorable
+even	RB	Memorable
+mean	VB	Memorable
+?	.	Memorable
+!	.	Memorable
+JACK	NNP	Memorable
+Good	NNP	Memorable
+.	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+Get	NNP	Memorable
+down	RB	Memorable
+immediately	RB	Memorable
+.	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+Get	NNP	Memorable
+down	RB	Memorable
+immediately	RB	Memorable
+.	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+Get	NNP	Memorable
+down	RB	Memorable
+immediately	RB	Memorable
+.	.	Memorable
+Until	IN	Memorable
+.	.	Memorable
+Until	IN	Memorable
+.	.	Memorable
+Until	IN	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+What	WP	Memorable
+the	DT	Memorable
+hell	NN	Memorable
+is	VBZ	Memorable
+this	DT	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+What	WP	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+think	VB	Memorable
+?	.	Memorable
+Alone	RB	Memorable
+.	.	Memorable
+Lose	NNP	Memorable
+.	.	Memorable
+We	PRP	Memorable
+PULL	NNP	Memorable
+BACK	NNP	Memorable
+to	TO	Memorable
+see	VB	Memorable
+the	DT	Memorable
+entire	JJ	Memorable
+wall	NN	Memorable
+is	VBZ	Memorable
+covered	VBN	Memorable
+in	IN	Memorable
+words	NNS	Memorable
+.	.	Memorable
+Louis	NNP	Memorable
+lights	VBZ	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+cigarette	NN	Memorable
+.	.	Memorable
+Louis	NNP	Memorable
+lights	VBZ	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+cigarette	NN	Memorable
+.	.	Memorable
+Louis	NNP	Memorable
+lights	VBZ	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+cigarette	NN	Memorable
+.	.	Memorable
+Off	IN	Memorable
+in	IN	Memorable
+the	DT	Memorable
+Navy	NNP	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+Honey	NNP	Memorable
+,	,	Memorable
+I	PRP	Memorable
+need	VBP	Memorable
+you	PRP	Memorable
+come	VBP	Memorable
+home	RB	Memorable
+now	RB	Memorable
+.	.	Memorable
+,	,	Memorable
+NAOMI	NNP	Memorable
+Honey	NNP	Memorable
+,	,	Memorable
+I	PRP	Memorable
+need	VBP	Memorable
+you	PRP	Memorable
+come	VBP	Memorable
+home	RB	Memorable
+now	RB	Memorable
+.	.	Memorable
+,	,	Memorable
+NAOMI	NNP	Memorable
+Honey	NNP	Memorable
+,	,	Memorable
+I	PRP	Memorable
+need	VBP	Memorable
+you	PRP	Memorable
+come	VBP	Memorable
+home	RB	Memorable
+now	RB	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+!	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+?	.	Memorable
+!	.	Memorable
+Allen	NNP	Memorable
+and	CC	Memorable
+his	PRP$	Memorable
+father	NN	Memorable
+embrace	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+left	VBD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+!	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+?	.	Memorable
+!	.	Memorable
+Allen	NNP	Memorable
+and	CC	Memorable
+his	PRP$	Memorable
+father	NN	Memorable
+embrace	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+left	VBD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+!	.	Memorable
+LOUIS	NNP	Memorable
+You	PRP	Memorable
+got	VBD	Memorable
+into	IN	Memorable
+Columbia	NNP	Memorable
+University	NNP	Memorable
+?	.	Memorable
+!	.	Memorable
+Allen	NNP	Memorable
+and	CC	Memorable
+his	PRP$	Memorable
+father	NN	Memorable
+embrace	NN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+left	VBD	Memorable
+.	.	Memorable
+Put	VBD	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+.	.	Memorable
+15	CD	Memorable
+.	.	Memorable
+We	PRP	Memorable
+'re	VBP	Memorable
+taking	VBG	Memorable
+my	PRP$	Memorable
+brother	NN	Memorable
+with	IN	Memorable
+us	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+.	.	Memorable
+Put	VBD	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+.	.	Memorable
+15	CD	Memorable
+.	.	Memorable
+We	PRP	Memorable
+'re	VBP	Memorable
+taking	VBG	Memorable
+my	PRP$	Memorable
+brother	NN	Memorable
+with	IN	Memorable
+us	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+.	.	Memorable
+Put	VBD	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+.	.	Memorable
+15	CD	Memorable
+.	.	Memorable
+We	PRP	Memorable
+'re	VBP	Memorable
+taking	VBG	Memorable
+my	PRP$	Memorable
+brother	NN	Memorable
+with	IN	Memorable
+us	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+.	.	Memorable
+JACK	NNP	Memorable
+Hey	NNP	Memorable
+when	WRB	Memorable
+'d	MD	Memorable
+this	DT	Memorable
+come	VB	Memorable
+?	.	Memorable
+Lucien	NNP	Memorable
+RUNS	NNP	Memorable
+for	IN	Memorable
+it	PRP	Memorable
+,	,	Memorable
+then	RB	Memorable
+Jack	NNP	Memorable
+.	.	Memorable
+,	,	Memorable
+Furious	NNP	Memorable
+.	.	Memorable
+Furious	NNP	Memorable
+.	.	Memorable
+Have	NNP	Memorable
+,	,	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+Have	NNP	Memorable
+,	,	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+Have	NNP	Memorable
+,	,	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+in	IN	Memorable
+.	.	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+in	IN	Memorable
+.	.	Memorable
+What	WP	Memorable
+else	RB	Memorable
+?	.	Memorable
+This	DT	Memorable
+is	VBZ	Memorable
+bad	JJ	Memorable
+.	.	Memorable
+This	DT	Memorable
+is	VBZ	Memorable
+bad	JJ	Memorable
+.	.	Memorable
+Where	WRB	Memorable
+is	VBZ	Memorable
+Sammy	NNP	Memorable
+now	RB	Memorable
+?	.	Memorable
+JACK	NNP	Memorable
+I	PRP	Memorable
+dunno	VBP	Memorable
+.	.	Memorable
+Have	VBP	Memorable
+you	PRP	Memorable
+read	VBP	Memorable
+A	DT	Memorable
+Vision	NNP	Memorable
+?	.	Memorable
+Have	VBP	Memorable
+you	PRP	Memorable
+read	VBP	Memorable
+A	DT	Memorable
+Vision	NNP	Memorable
+?	.	Memorable
+Have	VBP	Memorable
+you	PRP	Memorable
+read	VBP	Memorable
+A	DT	Memorable
+Vision	NNP	Memorable
+?	.	Memorable
+The	DT	Memorable
+door	NN	Memorable
+slams	NN	Memorable
+.	.	Memorable
+JACK	NNP	Memorable
+Even	RB	Memorable
+better	RBR	Memorable
+.	.	Memorable
+The	DT	Memorable
+door	NN	Memorable
+slams	NN	Memorable
+.	.	Memorable
+I	PRP	Memorable
+love	VBP	Memorable
+first	JJ	Memorable
+times	NNS	Memorable
+.	.	Memorable
+I	PRP	Memorable
+love	VBP	Memorable
+first	JJ	Memorable
+times	NNS	Memorable
+.	.	Memorable
+The	DT	Memorable
+door	NN	Memorable
+slams	NN	Memorable
+.	.	Memorable
+I	PRP	Memorable
+love	VBP	Memorable
+first	JJ	Memorable
+times	NNS	Memorable
+.	.	Memorable
+All	DT	Memorable
+playing	NN	Memorable
+in	IN	Memorable
+reverse	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Not	RB	Memorable
+exactly	RB	Memorable
+.	.	Memorable
+Moving	VBG	Memorable
+on	IN	Memorable
+.	.	Memorable
+Moving	VBG	Memorable
+on	IN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+sits	VBZ	Memorable
+beside	RB	Memorable
+.	.	Memorable
+Moving	VBG	Memorable
+on	IN	Memorable
+.	.	Memorable
+None	NN	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+belong	VBP	Memorable
+on	IN	Memorable
+the	DT	Memorable
+page	NN	Memorable
+.	.	Memorable
+Unhappy	JJ	Memorable
+.	.	Memorable
+Beowolf	NNP	Memorable
+.	.	Memorable
+Books	NNP	Memorable
+for	IN	Memorable
+furniture	NN	Memorable
+.	.	Memorable
+Beowolf	NNP	Memorable
+.	.	Memorable
+Books	NNP	Memorable
+for	IN	Memorable
+furniture	NN	Memorable
+.	.	Memorable
+Books	NNP	Memorable
+for	IN	Memorable
+furniture	NN	Memorable
+.	.	Memorable
+Beowolf	NNP	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Dad	NNP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+do	VB	Memorable
+that	DT	Memorable
+.	.	Memorable
+With	IN	Memorable
+a	DT	Memorable
+friend	NN	Memorable
+.	.	Memorable
+25	CD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Dad	NNP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+do	VB	Memorable
+that	DT	Memorable
+.	.	Memorable
+With	IN	Memorable
+a	DT	Memorable
+friend	NN	Memorable
+.	.	Memorable
+25	CD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Dad	NNP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+do	VB	Memorable
+that	DT	Memorable
+.	.	Memorable
+Even	RB	Memorable
+better	RBR	Memorable
+.	.	Memorable
+Even	RB	Memorable
+better	RBR	Memorable
+.	.	Memorable
+Why	WRB	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+think	VB	Memorable
+he	PRP	Memorable
+chose	VB	Memorable
+that	IN	Memorable
+form	NN	Memorable
+?	.	Memorable
+Why	WRB	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+think	VB	Memorable
+he	PRP	Memorable
+chose	VB	Memorable
+that	IN	Memorable
+form	NN	Memorable
+?	.	Memorable
+Why	WRB	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+think	VB	Memorable
+he	PRP	Memorable
+chose	VB	Memorable
+that	IN	Memorable
+form	NN	Memorable
+?	.	Memorable
+There	EX	Memorable
+it	PRP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+I	PRP	Memorable
+love	VBP	Memorable
+complicated	VBN	Memorable
+.	.	Memorable
+I	PRP	Memorable
+love	VBP	Memorable
+complicated	VBN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+that	DT	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+that	DT	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+Not	RB	Memorable
+anymore	RB	Memorable
+.	.	Memorable
+Life	NNP	Memorable
+is	VBZ	Memorable
+round	VBN	Memorable
+.	.	Memorable
+Life	NNP	Memorable
+is	VBZ	Memorable
+round	VBN	Memorable
+.	.	Memorable
+ALLEN	RB	Memorable
+Be	NNP	Memorable
+careful	JJ	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+A	NNP	Memorable
+fruit	NN	Memorable
+?	.	Memorable
+Allen	NNP	Memorable
+considers	NNS	Memorable
+,	,	Memorable
+agrees	NNS	Memorable
+.	.	Memorable
+,	,	Memorable
+A	DT	Memorable
+suicide	NN	Memorable
+is	VBZ	Memorable
+underway	RB	Memorable
+.	.	Memorable
+A	DT	Memorable
+suicide	NN	Memorable
+is	VBZ	Memorable
+underway	RB	Memorable
+.	.	Memorable
+A	DT	Memorable
+record	NN	Memorable
+starts	VBZ	Memorable
+up	RP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+hall	NN	Memorable
+.	.	Memorable
+A	DT	Memorable
+record	NN	Memorable
+starts	VBZ	Memorable
+up	RP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+hall	NN	Memorable
+.	.	Memorable
+A	DT	Memorable
+record	NN	Memorable
+starts	VBZ	Memorable
+up	RP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+hall	NN	Memorable
+.	.	Memorable
+David	NNP	Memorable
+at	IN	Memorable
+his	PRP$	Memorable
+party	NN	Memorable
+...	:	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+up	RP	Memorable
+,	,	Memorable
+surprised	JJ	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+up	RP	Memorable
+,	,	Memorable
+surprised	JJ	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+up	RP	Memorable
+,	,	Memorable
+surprised	JJ	Memorable
+.	.	Memorable
+,	,	Memorable
+LOUIS	NNP	Memorable
+Is	VBZ	Memorable
+what	WP	Memorable
+we	PRP	Memorable
+hand	NN	Memorable
+away	RB	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+Is	VBZ	Memorable
+what	WP	Memorable
+we	PRP	Memorable
+hand	NN	Memorable
+away	RB	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+Is	VBZ	Memorable
+what	WP	Memorable
+we	PRP	Memorable
+hand	NN	Memorable
+away	RB	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+mine	NN	Memorable
+.	.	Memorable
+But	CC	Memorable
+under	IN	Memorable
+the	DT	Memorable
+right	JJ	Memorable
+circumstances	NNS	Memorable
+,	,	Memorable
+even	RB	Memorable
+he	PRP	Memorable
+might	MD	Memorable
+change	VB	Memorable
+the	DT	Memorable
+world	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+You	PRP	Memorable
+expecting	VBG	Memorable
+something	NN	Memorable
+?	.	Memorable
+You	PRP	Memorable
+expecting	VBG	Memorable
+something	NN	Memorable
+?	.	Memorable
+But	CC	Memorable
+under	IN	Memorable
+the	DT	Memorable
+right	JJ	Memorable
+circumstances	NNS	Memorable
+,	,	Memorable
+even	RB	Memorable
+he	PRP	Memorable
+might	MD	Memorable
+change	VB	Memorable
+the	DT	Memorable
+world	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+You	PRP	Memorable
+expecting	VBG	Memorable
+something	NN	Memorable
+?	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+your	PRP$	Memorable
+truth	NN	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+your	PRP$	Memorable
+truth	NN	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+your	PRP$	Memorable
+truth	NN	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+your	PRP$	Memorable
+truth	NN	Memorable
+.	.	Memorable
+Bill	NNP	Memorable
+holds	VBZ	Memorable
+up	RP	Memorable
+his	PRP$	Memorable
+finger	NN	Memorable
+-	:	Memorable
+it	PRP	Memorable
+is	VBZ	Memorable
+on	IN	Memorable
+fire	NN	Memorable
+.	.	Memorable
+LUKE	NNP	Memorable
+I	PRP	Memorable
+'m	VBP	Memorable
+getting	VBG	Memorable
+good	JJ	Memorable
+at	IN	Memorable
+telling	VBG	Memorable
+.	.	Memorable
+LUKE	NNP	Memorable
+I	PRP	Memorable
+'m	VBP	Memorable
+getting	VBG	Memorable
+good	JJ	Memorable
+at	IN	Memorable
+telling	VBG	Memorable
+.	.	Memorable
+LUKE	NNP	Memorable
+I	PRP	Memorable
+'m	VBP	Memorable
+getting	VBG	Memorable
+good	JJ	Memorable
+at	IN	Memorable
+telling	VBG	Memorable
+.	.	Memorable
+The	DT	Memorable
+kind	NN	Memorable
+of	IN	Memorable
+kid	NN	Memorable
+who	WP	Memorable
+takes	VBZ	Memorable
+care	NN	Memorable
+of	IN	Memorable
+everything	NN	Memorable
+.	.	Memorable
+The	DT	Memorable
+kind	NN	Memorable
+of	IN	Memorable
+kid	NN	Memorable
+who	WP	Memorable
+takes	VBZ	Memorable
+care	NN	Memorable
+of	IN	Memorable
+everything	NN	Memorable
+.	.	Memorable
+Clear	JJ	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+.	.	Memorable
+Clear	JJ	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+.	.	Memorable
+Clear	JJ	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+'s	POS	Memorable
+eyes	NNS	Memorable
+roll	VBP	Memorable
+back	RB	Memorable
+.	.	Memorable
+Bill	NNP	Memorable
+notices	VBZ	Memorable
+David	NNP	Memorable
+,	,	Memorable
+turns	VBZ	Memorable
+off	IN	Memorable
+the	DT	Memorable
+gas	NN	Memorable
+.	.	Memorable
+32.	CD	Memorable
+,	,	Memorable
+This	DT	Memorable
+detonates	VBZ	Memorable
+inside	RB	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+upset	JJ	Memorable
+.	.	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+upset	JJ	Memorable
+.	.	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+upset	JJ	Memorable
+.	.	Memorable
+BILL	NNP	Memorable
+``	``	Memorable
+A	NNP	Memorable
+girl	NN	Memorable
+who	WP	Memorable
+is	VBZ	Memorable
+bespectacled	VBN	Memorable
+.	.	Memorable
+BILL	NNP	Memorable
+``	``	Memorable
+A	NNP	Memorable
+girl	NN	Memorable
+who	WP	Memorable
+is	VBZ	Memorable
+bespectacled	VBN	Memorable
+.	.	Memorable
+The	DT	Memorable
+Gutenberg	NNP	Memorable
+Bible	NNP	Memorable
+.	.	Memorable
+The	DT	Memorable
+Gutenberg	NNP	Memorable
+Bible	NNP	Memorable
+.	.	Memorable
+The	DT	Memorable
+Gutenberg	NNP	Memorable
+Bible	NNP	Memorable
+.	.	Memorable
+EDIE	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Jack	NNP	Memorable
+?	.	Memorable
+LUKE	NNP	Memorable
+What	WP	Memorable
+the	DT	Memorable
+hell	NN	Memorable
+are	VBP	Memorable
+you	PRP	Memorable
+doing	VBG	Memorable
+?	.	Memorable
+LUCIEN	VB	Memorable
+A	DT	Memorable
+queer	NN	Memorable
+.	.	Memorable
+She	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+well	RB	Memorable
+.	.	Memorable
+She	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+well	RB	Memorable
+.	.	Memorable
+She	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+well	RB	Memorable
+.	.	Memorable
+The	DT	Memorable
+kind	NN	Memorable
+of	IN	Memorable
+kid	NN	Memorable
+who	WP	Memorable
+takes	VBZ	Memorable
+care	NN	Memorable
+of	IN	Memorable
+everything	NN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+.	.	Memorable
+Downtown	NNP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+.	.	Memorable
+Downtown	NNP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+The	DT	Memorable
+expression	NN	Memorable
+of	IN	Memorable
+self	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+realizing	VBG	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+trapped	VBN	Memorable
+,	,	Memorable
+unable	JJ	Memorable
+to	TO	Memorable
+answer	VB	Memorable
+.	.	Memorable
+,	,	Memorable
+LUCIEN	NNP	Memorable
+The	DT	Memorable
+expression	NN	Memorable
+of	IN	Memorable
+self	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+realizing	VBG	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+trapped	VBN	Memorable
+,	,	Memorable
+unable	JJ	Memorable
+to	TO	Memorable
+answer	VB	Memorable
+.	.	Memorable
+,	,	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+realizing	VBG	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+trapped	VBN	Memorable
+,	,	Memorable
+unable	JJ	Memorable
+to	TO	Memorable
+answer	VB	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+You	PRP	Memorable
+asked	VBD	Memorable
+me	PRP	Memorable
+to	TO	Memorable
+.	.	Memorable
+His	PRP$	Memorable
+current	JJ	Memorable
+medium	NN	Memorable
+is	VBZ	Memorable
+himself	PRP	Memorable
+.	.	Memorable
+His	PRP$	Memorable
+current	JJ	Memorable
+medium	NN	Memorable
+is	VBZ	Memorable
+himself	PRP	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+lays	VBZ	Memorable
+down	RB	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+lays	VBZ	Memorable
+down	RB	Memorable
+.	.	Memorable
+I	PRP	Memorable
+have	VBP	Memorable
+to	TO	Memorable
+.	.	Memorable
+I	PRP	Memorable
+have	VBP	Memorable
+to	TO	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+overwritten	JJ	Memorable
+,	,	Memorable
+I	PRP	Memorable
+know	VBP	Memorable
+.	.	Memorable
+,	,	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+overwritten	JJ	Memorable
+,	,	Memorable
+I	PRP	Memorable
+know	VBP	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+to	TO	Memorable
+his	PRP$	Memorable
+father	NN	Memorable
+)	)	Memorable
+You	PRP	Memorable
+ca	MD	Memorable
+n't	RB	Memorable
+do	VB	Memorable
+this	DT	Memorable
+to	TO	Memorable
+her	PRP$	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+to	TO	Memorable
+his	PRP$	Memorable
+father	NN	Memorable
+)	)	Memorable
+You	PRP	Memorable
+ca	MD	Memorable
+n't	RB	Memorable
+do	VB	Memorable
+this	DT	Memorable
+to	TO	Memorable
+her	PRP$	Memorable
+.	.	Memorable
+All	DT	Memorable
+eyes	NNS	Memorable
+on	IN	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+All	DT	Memorable
+eyes	NNS	Memorable
+on	IN	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+All	DT	Memorable
+eyes	NNS	Memorable
+on	IN	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+leaving	VBG	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+at	IN	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+amazed	VBN	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+leaving	VBG	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+Where	NNP	Memorable
+'d	MD	Memorable
+he	PRP	Memorable
+go	VB	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+Where	NNP	Memorable
+'d	MD	Memorable
+he	PRP	Memorable
+go	VB	Memorable
+?	.	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+at	IN	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+amazed	VBN	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+looks	VBZ	Memorable
+at	IN	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+amazed	VBN	Memorable
+.	.	Memorable
+,	,	Memorable
+Louis	NNP	Memorable
+tries	NNS	Memorable
+to	TO	Memorable
+read	VB	Memorable
+his	PRP$	Memorable
+son	NN	Memorable
+'s	POS	Memorable
+face	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Where	NNP	Memorable
+'d	MD	Memorable
+he	PRP	Memorable
+go	VB	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+How	NNP	Memorable
+come	VBP	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+at	IN	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+?	.	Memorable
+Louis	NNP	Memorable
+tries	NNS	Memorable
+to	TO	Memorable
+read	VB	Memorable
+his	PRP$	Memorable
+son	NN	Memorable
+'s	POS	Memorable
+face	NN	Memorable
+.	.	Memorable
+Louis	NNP	Memorable
+tries	NNS	Memorable
+to	TO	Memorable
+read	VB	Memorable
+his	PRP$	Memorable
+son	NN	Memorable
+'s	POS	Memorable
+face	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+How	NNP	Memorable
+come	VBP	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+at	IN	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+How	NNP	Memorable
+come	VBP	Memorable
+you	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+at	IN	Memorable
+the	DT	Memorable
+social	JJ	Memorable
+?	.	Memorable
+LOUIS	NNP	Memorable
+How	NNP	Memorable
+was	VBD	Memorable
+she	PRP	Memorable
+today	NN	Memorable
+?	.	Memorable
+LOUIS	NNP	Memorable
+How	NNP	Memorable
+was	VBD	Memorable
+she	PRP	Memorable
+today	NN	Memorable
+?	.	Memorable
+LOUIS	NNP	Memorable
+How	NNP	Memorable
+was	VBD	Memorable
+she	PRP	Memorable
+today	NN	Memorable
+?	.	Memorable
+Waits	NNS	Memorable
+for	IN	Memorable
+it	PRP	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+got	VBD	Memorable
+in	IN	Memorable
+.	.	Memorable
+Eat	NNP	Memorable
+shoe	NN	Memorable
+leather	NN	Memorable
+?	.	Memorable
+ALLEN	IN	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+complicated	VBN	Memorable
+.	.	Memorable
+ALLEN	IN	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+complicated	VBN	Memorable
+.	.	Memorable
+I	PRP	Memorable
+cooked	VBD	Memorable
+all	DT	Memorable
+day	NN	Memorable
+for	IN	Memorable
+you	PRP	Memorable
+.	.	Memorable
+43	CD	Memorable
+.	.	Memorable
+Let	VB	Memorable
+'s	POS	Memorable
+make	VB	Memorable
+the	DT	Memorable
+prisoners	NNS	Memorable
+come	VBP	Memorable
+out	RB	Memorable
+and	CC	Memorable
+play	VB	Memorable
+.	.	Memorable
+Let	VB	Memorable
+'s	POS	Memorable
+make	VB	Memorable
+the	DT	Memorable
+prisoners	NNS	Memorable
+come	VBP	Memorable
+out	RB	Memorable
+and	CC	Memorable
+play	VB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+was	VBD	Memorable
+out	RB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+was	VBD	Memorable
+out	RB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+'s	VBZ	Memorable
+that	DT	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+'s	VBZ	Memorable
+that	DT	Memorable
+?	.	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+happening	VBG	Memorable
+?	.	Memorable
+INT	NNP	Memorable
+.	.	Memorable
+BILL	NNP	Memorable
+'S	POS	Memorable
+APARTMENT	NNP	Memorable
+-	:	Memorable
+DAY	NNP	Memorable
+Bill	NNP	Memorable
+rattles	VBZ	Memorable
+off	IN	Memorable
+the	DT	Memorable
+list	NN	Memorable
+.	.	Memorable
+Can	MD	Memorable
+I	PRP	Memorable
+see	VB	Memorable
+?	.	Memorable
+Both	DT	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+on	IN	Memorable
+chairs	NNS	Memorable
+.	.	Memorable
+Both	DT	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+on	IN	Memorable
+chairs	NNS	Memorable
+.	.	Memorable
+You	PRP	Memorable
+talk	VBP	Memorable
+like	IN	Memorable
+a	DT	Memorable
+Catholic	NNP	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+And	CC	Memorable
+get	VB	Memorable
+you	PRP	Memorable
+sent	VBN	Memorable
+back	RB	Memorable
+to	TO	Memorable
+your	PRP$	Memorable
+mother	NN	Memorable
+again	RB	Memorable
+?	.	Memorable
+Inspired	VBN	Memorable
+to	TO	Memorable
+write	VB	Memorable
+something	NN	Memorable
+beautiful	JJ	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+want	VB	Memorable
+her	PRP$	Memorable
+to	TO	Memorable
+know	VB	Memorable
+.	.	Memorable
+(	(	Memorable
+beat	NN	Memorable
+)	)	Memorable
+It	PRP	Memorable
+was	VBD	Memorable
+a	DT	Memorable
+dream	NN	Memorable
+anyway	RB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+want	VB	Memorable
+her	PRP$	Memorable
+to	TO	Memorable
+know	VB	Memorable
+.	.	Memorable
+(	(	Memorable
+beat	NN	Memorable
+)	)	Memorable
+It	PRP	Memorable
+was	VBD	Memorable
+a	DT	Memorable
+dream	NN	Memorable
+anyway	RB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+I	PRP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+want	VB	Memorable
+her	PRP$	Memorable
+to	TO	Memorable
+know	VB	Memorable
+.	.	Memorable
+(	(	Memorable
+beat	NN	Memorable
+)	)	Memorable
+It	PRP	Memorable
+was	VBD	Memorable
+a	DT	Memorable
+dream	NN	Memorable
+anyway	RB	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Institutions	NNP	Memorable
+.	.	Memorable
+29	CD	Memorable
+.	.	Memorable
+I	PRP	Memorable
+want	VBP	Memorable
+my	PRP$	Memorable
+whole	JJ	Memorable
+life	NN	Memorable
+to	TO	Memorable
+be	VB	Memorable
+composed	VBN	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+.	.	Memorable
+NAOMI	NN	Memorable
+He	PRP	Memorable
+would	MD	Memorable
+n't	RB	Memorable
+dare	VB	Memorable
+put	VB	Memorable
+me	PRP	Memorable
+back	RB	Memorable
+there	RB	Memorable
+.	.	Memorable
+5	CD	Memorable
+.	.	Memorable
+I	PRP	Memorable
+want	VBP	Memorable
+my	PRP$	Memorable
+whole	JJ	Memorable
+life	NN	Memorable
+to	TO	Memorable
+be	VB	Memorable
+composed	VBN	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+.	.	Memorable
+I	PRP	Memorable
+want	VBP	Memorable
+my	PRP$	Memorable
+whole	JJ	Memorable
+life	NN	Memorable
+to	TO	Memorable
+be	VB	Memorable
+composed	VBN	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+.	.	Memorable
+NAOMI	NN	Memorable
+He	PRP	Memorable
+would	MD	Memorable
+n't	RB	Memorable
+dare	VB	Memorable
+put	VB	Memorable
+me	PRP	Memorable
+back	RB	Memorable
+there	RB	Memorable
+.	.	Memorable
+5	CD	Memorable
+.	.	Memorable
+NAOMI	NN	Memorable
+He	PRP	Memorable
+would	MD	Memorable
+n't	RB	Memorable
+dare	VB	Memorable
+put	VB	Memorable
+me	PRP	Memorable
+back	RB	Memorable
+there	RB	Memorable
+.	.	Memorable
+5	CD	Memorable
+.	.	Memorable
+We	PRP	Memorable
+realize	VBP	Memorable
+it	PRP	Memorable
+is	VBZ	Memorable
+Jack	NNP	Memorable
+'s	POS	Memorable
+novel	NN	Memorable
+The	DT	Memorable
+Sea	NNP	Memorable
+Is	NNP	Memorable
+My	NNP	Memorable
+Brother	NNP	Memorable
+.	.	Memorable
+Sucks	NNS	Memorable
+it	PRP	Memorable
+,	,	Memorable
+eyeing	VBG	Memorable
+Allen	NNP	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+time	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+What	WP	Memorable
+will	MD	Memorable
+it	PRP	Memorable
+be	VB	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+.	.	Memorable
+We	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+going	VBG	Memorable
+to	TO	Memorable
+kill	VB	Memorable
+him	PRP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+.	.	Memorable
+We	PRP	Memorable
+'re	VBP	Memorable
+not	RB	Memorable
+going	VBG	Memorable
+to	TO	Memorable
+kill	VB	Memorable
+him	PRP	Memorable
+.	.	Memorable
+Uh-oh	NN	Memorable
+.	.	Memorable
+Uh-oh	NN	Memorable
+.	.	Memorable
+Because	IN	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+Because	IN	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+Because	IN	Memorable
+he	PRP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Then	RB	Memorable
+let	VB	Memorable
+'s	POS	Memorable
+get	VB	Memorable
+rid	JJ	Memorable
+of	IN	Memorable
+him	PRP	Memorable
+.	.	Memorable
+JACK	NNP	Memorable
+Both	NNP	Memorable
+of	IN	Memorable
+you	PRP	Memorable
+!	.	Memorable
+Quiet	JJ	Memorable
+!	.	Memorable
+Jack	NNP	Memorable
+sets	VBZ	Memorable
+up	RP	Memorable
+an	DT	Memorable
+old	JJ	Memorable
+phonograph	NN	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+pulls	VBZ	Memorable
+out	RP	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+waistband	NN	Memorable
+and	CC	Memorable
+sprays	VBZ	Memorable
+some	DT	Memorable
+cologne	VBP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+front	NN	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+pulls	VBZ	Memorable
+out	RP	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+waistband	NN	Memorable
+and	CC	Memorable
+sprays	VBZ	Memorable
+some	DT	Memorable
+cologne	VBP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+front	NN	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+pulls	VBZ	Memorable
+out	RP	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+waistband	NN	Memorable
+and	CC	Memorable
+sprays	VBZ	Memorable
+some	DT	Memorable
+cologne	VBP	Memorable
+down	RP	Memorable
+the	DT	Memorable
+front	NN	Memorable
+.	.	Memorable
+Movements	NNS	Memorable
+are	VBP	Memorable
+cooked	VBN	Memorable
+up	RP	Memorable
+by	IN	Memorable
+people	NNS	Memorable
+who	WP	Memorable
+ca	MD	Memorable
+n't	RB	Memorable
+write	VB	Memorable
+about	IN	Memorable
+the	DT	Memorable
+people	NNS	Memorable
+who	WP	Memorable
+can	MD	Memorable
+.	.	Memorable
+BILL	NNP	Memorable
+Get	NNP	Memorable
+this	DT	Memorable
+man	NN	Memorable
+a	DT	Memorable
+pair	NN	Memorable
+of	IN	Memorable
+scissors	NNS	Memorable
+!	.	Memorable
+DAVID	NNP	Memorable
+This	DT	Memorable
+is	VBZ	Memorable
+not	RB	Memorable
+your	PRP$	Memorable
+revolution	NN	Memorable
+,	,	Memorable
+this	DT	Memorable
+is	VBZ	Memorable
+my	PRP$	Memorable
+life	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+terrified	VBD	Memorable
+,	,	Memorable
+looks	VBZ	Memorable
+at	IN	Memorable
+David	NNP	Memorable
+,	,	Memorable
+who	WP	Memorable
+looks	VBZ	Memorable
+back	RB	Memorable
+,	,	Memorable
+knowing	VBG	Memorable
+exactly	RB	Memorable
+now	RB	Memorable
+who	WP	Memorable
+Allen	NNP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+,	,	Memorable
+Allen	NNP	Memorable
+,	,	Memorable
+terrified	VBD	Memorable
+,	,	Memorable
+looks	VBZ	Memorable
+at	IN	Memorable
+David	NNP	Memorable
+,	,	Memorable
+who	WP	Memorable
+looks	VBZ	Memorable
+back	RB	Memorable
+,	,	Memorable
+knowing	VBG	Memorable
+exactly	RB	Memorable
+now	RB	Memorable
+who	WP	Memorable
+Allen	NNP	Memorable
+is	VBZ	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+takes	VBZ	Memorable
+the	DT	Memorable
+joint	JJ	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+takes	VBZ	Memorable
+the	DT	Memorable
+joint	JJ	Memorable
+.	.	Memorable
+In	IN	Memorable
+the	DT	Memorable
+trenches	NNS	Memorable
+.	.	Memorable
+Stones	NNS	Memorable
+rise	VB	Memorable
+back	RB	Memorable
+into	IN	Memorable
+his	PRP$	Memorable
+pockets	NNS	Memorable
+.	.	Memorable
+Stones	NNS	Memorable
+rise	VB	Memorable
+back	RB	Memorable
+into	IN	Memorable
+his	PRP$	Memorable
+pockets	NNS	Memorable
+.	.	Memorable
+Stones	NNS	Memorable
+rise	VB	Memorable
+back	RB	Memorable
+into	IN	Memorable
+his	PRP$	Memorable
+pockets	NNS	Memorable
+.	.	Memorable
+Stones	NNS	Memorable
+rise	VB	Memorable
+back	RB	Memorable
+into	IN	Memorable
+his	PRP$	Memorable
+pockets	NNS	Memorable
+.	.	Memorable
+With	IN	Memorable
+a	DT	Memorable
+senior	JJ	Memorable
+,	,	Memorable
+some	DT	Memorable
+football	NN	Memorable
+player	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+There	EX	Memorable
+'s	VBZ	Memorable
+one	CD	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+every	DT	Memorable
+year	NN	Memorable
+.	.	Memorable
+There	EX	Memorable
+'s	VBZ	Memorable
+one	CD	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+every	DT	Memorable
+year	NN	Memorable
+.	.	Memorable
+There	EX	Memorable
+'s	VBZ	Memorable
+one	CD	Memorable
+of	IN	Memorable
+them	PRP	Memorable
+every	DT	Memorable
+year	NN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Who	NNP	Memorable
+'s	POS	Memorable
+Sammy	NNP	Memorable
+?	.	Memorable
+Columbia	NNP	Memorable
+'s	POS	Memorable
+full	JJ	Memorable
+of	IN	Memorable
+squares	NNS	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+A	NNP	Memorable
+literary	JJ	Memorable
+revolution	NN	Memorable
+without	IN	Memorable
+writing	VBG	Memorable
+a	DT	Memorable
+word	NN	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+A	NNP	Memorable
+literary	JJ	Memorable
+revolution	NN	Memorable
+without	IN	Memorable
+writing	VBG	Memorable
+a	DT	Memorable
+word	NN	Memorable
+.	.	Memorable
+ALLEN	IN	Memorable
+You	PRP	Memorable
+are	VBP	Memorable
+an	DT	Memorable
+extraordinary	JJ	Memorable
+man	NN	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+home	NN	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+home	NN	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+I	PRP	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+feel	VB	Memorable
+good	JJ	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+I	PRP	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+feel	VB	Memorable
+good	JJ	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+He	PRP	Memorable
+'s	VBZ	Memorable
+not	RB	Memorable
+home	NN	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+I	PRP	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+feel	VB	Memorable
+good	JJ	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Who	WP	Memorable
+are	VBP	Memorable
+you	PRP	Memorable
+talking	VBG	Memorable
+to	TO	Memorable
+?	.	Memorable
+NAOMI	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Who	WP	Memorable
+are	VBP	Memorable
+you	PRP	Memorable
+talking	VBG	Memorable
+to	TO	Memorable
+?	.	Memorable
+Passing	VBG	Memorable
+out	RP	Memorable
+from	IN	Memorable
+the	DT	Memorable
+liquor	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Dad	NNP	Memorable
+is	VBZ	Memorable
+not	RB	Memorable
+trying	VBG	Memorable
+to	TO	Memorable
+get	VB	Memorable
+inside	IN	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+,	,	Memorable
+okay	NN	Memorable
+?	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Dad	NNP	Memorable
+is	VBZ	Memorable
+not	RB	Memorable
+trying	VBG	Memorable
+to	TO	Memorable
+get	VB	Memorable
+inside	IN	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+,	,	Memorable
+okay	NN	Memorable
+?	.	Memorable
+,	,	Memorable
+You	PRP	Memorable
+see	VBP	Memorable
+how	WRB	Memorable
+much	JJ	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+do	VB	Memorable
+.	.	Memorable
+You	PRP	Memorable
+see	VBP	Memorable
+how	WRB	Memorable
+much	JJ	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+do	VB	Memorable
+.	.	Memorable
+You	PRP	Memorable
+see	VBP	Memorable
+how	WRB	Memorable
+much	JJ	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBN	Memorable
+to	TO	Memorable
+do	VB	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+Dad	NNP	Memorable
+is	VBZ	Memorable
+not	RB	Memorable
+trying	VBG	Memorable
+to	TO	Memorable
+get	VB	Memorable
+inside	IN	Memorable
+your	PRP$	Memorable
+head	NN	Memorable
+,	,	Memorable
+okay	NN	Memorable
+?	.	Memorable
+,	,	Memorable
+She	PRP	Memorable
+finally	RB	Memorable
+softens	VBZ	Memorable
+,	,	Memorable
+takes	VBZ	Memorable
+his	PRP$	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+She	PRP	Memorable
+finally	RB	Memorable
+softens	VBZ	Memorable
+,	,	Memorable
+takes	VBZ	Memorable
+his	PRP$	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+She	PRP	Memorable
+finally	RB	Memorable
+softens	VBZ	Memorable
+,	,	Memorable
+takes	VBZ	Memorable
+his	PRP$	Memorable
+hand	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+LUCIEN	NNP	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+better	JJR	Memorable
+than	IN	Memorable
+anything	NN	Memorable
+you	PRP	Memorable
+'ve	VBP	Memorable
+ever	RB	Memorable
+written	VBN	Memorable
+.	.	Memorable
+And	CC	Memorable
+dying	VBG	Memorable
+.	.	Memorable
+And	CC	Memorable
+dying	VBG	Memorable
+.	.	Memorable
+And	CC	Memorable
+dying	VBG	Memorable
+.	.	Memorable
+It	PRP	Memorable
+is	VBZ	Memorable
+our	PRP$	Memorable
+duty	NN	Memorable
+to	TO	Memorable
+break	VB	Memorable
+the	DT	Memorable
+law	NN	Memorable
+.	.	Memorable
+30	CD	Memorable
+.	.	Memorable
+Because	IN	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBD	Memorable
+a	DT	Memorable
+job	NN	Memorable
+for	IN	Memorable
+a	DT	Memorable
+writer	NN	Memorable
+.	.	Memorable
+Because	IN	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBD	Memorable
+a	DT	Memorable
+job	NN	Memorable
+for	IN	Memorable
+a	DT	Memorable
+writer	NN	Memorable
+.	.	Memorable
+Because	IN	Memorable
+I	PRP	Memorable
+'ve	VBP	Memorable
+got	VBD	Memorable
+a	DT	Memorable
+job	NN	Memorable
+for	IN	Memorable
+a	DT	Memorable
+writer	NN	Memorable
+.	.	Memorable
+EDIE	NNP	Memorable
+I	PRP	Memorable
+did	VBD	Memorable
+n't	RB	Memorable
+know	VB	Memorable
+we	PRP	Memorable
+were	VBD	Memorable
+having	VBG	Memorable
+guests	NNS	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+smacks	VBZ	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+the	DT	Memorable
+shoulder	NN	Memorable
+.	.	Memorable
+8	CD	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+smacks	VBZ	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+the	DT	Memorable
+shoulder	NN	Memorable
+.	.	Memorable
+8	CD	Memorable
+.	.	Memorable
+Luke	NNP	Memorable
+smacks	VBZ	Memorable
+him	PRP	Memorable
+on	IN	Memorable
+the	DT	Memorable
+shoulder	NN	Memorable
+.	.	Memorable
+8	CD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Do	NNP	Memorable
+you	PRP	Memorable
+know	VB	Memorable
+her	PRP	Memorable
+?	.	Memorable
+!	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+and	CC	Memorable
+I	PRP	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+plan	VB	Memorable
+on	IN	Memorable
+it	PRP	Memorable
+.	.	Memorable
+,	,	Memorable
+ALLEN	NNP	Memorable
+Do	NNP	Memorable
+you	PRP	Memorable
+know	VB	Memorable
+her	PRP	Memorable
+?	.	Memorable
+!	.	Memorable
+LUCIEN	NNP	Memorable
+No	NNP	Memorable
+,	,	Memorable
+and	CC	Memorable
+I	PRP	Memorable
+do	VBP	Memorable
+n't	RB	Memorable
+plan	VB	Memorable
+on	IN	Memorable
+it	PRP	Memorable
+.	.	Memorable
+,	,	Memorable
+DAVID	NNP	Memorable
+Ah	NNP	Memorable
+.	.	Memorable
+The	DT	Memorable
+``	``	Memorable
+Vision	NN	Memorable
+''	''	Memorable
+at	IN	Memorable
+last	JJ	Memorable
+.	.	Memorable
+The	DT	Memorable
+memories	NNS	Memorable
+are	VBP	Memorable
+now	RB	Memorable
+flooding	VBG	Memorable
+in	IN	Memorable
+.	.	Memorable
+We	PRP	Memorable
+have	VBP	Memorable
+the	DT	Memorable
+manifesto	NN	Memorable
+.	.	Memorable
+CUT	NN	Memorable
+TO	NN	Memorable
+:	:	Memorable
+A	DT	Memorable
+thunder-clap	NN	Memorable
+.	.	Memorable
+EDIE	NNP	Memorable
+I	PRP	Memorable
+was	VBD	Memorable
+aiming	VBG	Memorable
+for	IN	Memorable
+stew	NN	Memorable
+.	.	Memorable
+A	DT	Memorable
+beat	NN	Memorable
+of	IN	Memorable
+understanding	VBG	Memorable
+between	IN	Memorable
+them	PRP	Memorable
+.	.	Memorable
+A	DT	Memorable
+beat	NN	Memorable
+of	IN	Memorable
+understanding	VBG	Memorable
+between	IN	Memorable
+them	PRP	Memorable
+.	.	Memorable
+He	PRP	Memorable
+writes	VBZ	Memorable
+the	DT	Memorable
+words	NNS	Memorable
+down	RP	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+hands	VBZ	Memorable
+him	PRP	Memorable
+back	RP	Memorable
+the	DT	Memorable
+smoke	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+hands	VBZ	Memorable
+him	PRP	Memorable
+back	RP	Memorable
+the	DT	Memorable
+smoke	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+reaches	VBZ	Memorable
+for	IN	Memorable
+her	PRP$	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+reaches	VBZ	Memorable
+for	IN	Memorable
+her	PRP$	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+reaches	VBZ	Memorable
+for	IN	Memorable
+her	PRP$	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+How	NNP	Memorable
+did	VBD	Memorable
+you	PRP	Memorable
+...	:	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+How	NNP	Memorable
+did	VBD	Memorable
+you	PRP	Memorable
+...	:	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+And	CC	Memorable
+the	DT	Memorable
+Romantics	NNPS	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Then	RB	Memorable
+what	WP	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+suggest	VB	Memorable
+?	.	Memorable
+Lucien	NN	Memorable
+at	IN	Memorable
+the	DT	Memorable
+bar	NN	Memorable
+...	:	Memorable
+38	CD	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+grabs	VBD	Memorable
+Allen	NNP	Memorable
+'s	POS	Memorable
+hand	NN	Memorable
+,	,	Memorable
+pulls	VBZ	Memorable
+him	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+party	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+LUCIEN	NNP	Memorable
+And	CC	Memorable
+the	DT	Memorable
+Romantics	NNPS	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+What	WP	Memorable
+'s	VBZ	Memorable
+that	DT	Memorable
+?	.	Memorable
+Lucien	NNP	Memorable
+gets	VBZ	Memorable
+into	IN	Memorable
+bed	NN	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+grabs	VBD	Memorable
+Allen	NNP	Memorable
+'s	POS	Memorable
+hand	NN	Memorable
+,	,	Memorable
+pulls	VBZ	Memorable
+him	PRP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+party	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+LUCIEN	NNP	Memorable
+Then	RB	Memorable
+what	WP	Memorable
+do	VBP	Memorable
+you	PRP	Memorable
+suggest	VB	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+How	NNP	Memorable
+did	VBD	Memorable
+you	PRP	Memorable
+...	:	Memorable
+?	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+this	DT	Memorable
+nonsense	NN	Memorable
+?	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+this	DT	Memorable
+nonsense	NN	Memorable
+?	.	Memorable
+PERMISSIONS	NNP	Memorable
+LIBRARIAN	NNP	Memorable
+What	WP	Memorable
+is	VBZ	Memorable
+this	DT	Memorable
+nonsense	NN	Memorable
+?	.	Memorable
+LOUIS	NNP	Memorable
+Your	PRP$	Memorable
+mother	NN	Memorable
+needs	VBZ	Memorable
+her	PRP$	Memorable
+rest	NN	Memorable
+.	.	Memorable
+LOUIS	NNP	Memorable
+Your	PRP$	Memorable
+mother	NN	Memorable
+needs	VBZ	Memorable
+her	PRP$	Memorable
+rest	NN	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+Complicated	NNP	Memorable
+enough	RB	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+Complicated	NNP	Memorable
+enough	RB	Memorable
+?	.	Memorable
+PROFESSOR	NNP	Memorable
+STEEVES	NNP	Memorable
+And	CC	Memorable
+so	RB	Memorable
+while	IN	Memorable
+Shakespeare	NN	Memorable
+...	:	Memorable
+Allen	NNP	Memorable
+trails	NNS	Memorable
+behind	IN	Memorable
+.	.	Memorable
+Who	WP	Memorable
+is	VBZ	Memorable
+you	PRP	Memorable
+?	.	Memorable
+NAOMI	NNP	Memorable
+I	PRP	Memorable
+called	VBD	Memorable
+you	PRP	Memorable
+!	.	Memorable
+MALE	''	Memorable
+NURSE	NNP	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+time	NN	Memorable
+to	TO	Memorable
+go	VB	Memorable
+,	,	Memorable
+Mrs.	NNP	Memorable
+,	,	Memorable
+NAOMI	NNP	Memorable
+I	PRP	Memorable
+called	VBD	Memorable
+you	PRP	Memorable
+!	.	Memorable
+MALE	''	Memorable
+NURSE	NNP	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+time	NN	Memorable
+to	TO	Memorable
+go	VB	Memorable
+,	,	Memorable
+Mrs.	NNP	Memorable
+,	,	Memorable
+NAOMI	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+I	PRP	Memorable
+found	VBD	Memorable
+the	DT	Memorable
+wires	NNS	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+I	PRP	Memorable
+found	VBD	Memorable
+the	DT	Memorable
+wires	NNS	Memorable
+.	.	Memorable
+NAOMI	NNP	Memorable
+(	(	Memorable
+O.S	NNP	Memorable
+.	.	Memorable
+)	)	Memorable
+I	PRP	Memorable
+found	VBD	Memorable
+the	DT	Memorable
+wires	NNS	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+mimes	VBZ	Memorable
+deafness	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+mimes	VBZ	Memorable
+deafness	NN	Memorable
+.	.	Memorable
+Allen	NNP	Memorable
+mimes	VBZ	Memorable
+deafness	NN	Memorable
+.	.	Memorable
+David	NNP	Memorable
+approaches	VBZ	Memorable
+Lucien	NNP	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+tries	VBZ	Memorable
+to	TO	Memorable
+help	VB	Memorable
+,	,	Memorable
+but	CC	Memorable
+falls	VBZ	Memorable
+off	RP	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+chair	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+Lucien	NNP	Memorable
+tries	VBZ	Memorable
+to	TO	Memorable
+help	VB	Memorable
+,	,	Memorable
+but	CC	Memorable
+falls	VBZ	Memorable
+off	RP	Memorable
+his	PRP$	Memorable
+own	JJ	Memorable
+chair	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+BILL	NNP	Memorable
+Words	NNP	Memorable
+,	,	Memorable
+boys	VBZ	Memorable
+.	.	Memorable
+,	,	Memorable
+BILL	NNP	Memorable
+Words	NNP	Memorable
+,	,	Memorable
+boys	VBZ	Memorable
+.	.	Memorable
+,	,	Memorable
+And	CC	Memorable
+...	:	Memorable
+28	CD	Memorable
+.	.	Memorable
+And	CC	Memorable
+...	:	Memorable
+28	CD	Memorable
+.	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+about	IN	Memorable
+Yeats	NNS	Memorable
+?	.	Memorable
+ALLEN	NNP	Memorable
+What	WP	Memorable
+about	IN	Memorable
+Yeats	NNS	Memorable
+?	.	Memorable
+From	IN	Memorable
+the	DT	Memorable
+doorway	NN	Memorable
+,	,	Memorable
+we	PRP	Memorable
+see	VBP	Memorable
+that	DT	Memorable
+Louis	NNP	Memorable
+has	VBZ	Memorable
+been	VBN	Memorable
+watching	VBG	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+time	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+How	WRB	Memorable
+does	VBZ	Memorable
+that	IN	Memorable
+work	NN	Memorable
+?	.	Memorable
+From	IN	Memorable
+the	DT	Memorable
+doorway	NN	Memorable
+,	,	Memorable
+we	PRP	Memorable
+see	VBP	Memorable
+that	DT	Memorable
+Louis	NNP	Memorable
+has	VBZ	Memorable
+been	VBN	Memorable
+watching	VBG	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+time	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+From	IN	Memorable
+the	DT	Memorable
+doorway	NN	Memorable
+,	,	Memorable
+we	PRP	Memorable
+see	VBP	Memorable
+that	DT	Memorable
+Louis	NNP	Memorable
+has	VBZ	Memorable
+been	VBN	Memorable
+watching	VBG	Memorable
+the	DT	Memorable
+whole	JJ	Memorable
+time	NN	Memorable
+.	.	Memorable
+,	,	Memorable
+He	PRP	Memorable
+'ll	MD	Memorable
+need	VB	Memorable
+more	JJR	Memorable
+help	NN	Memorable
+if	IN	Memorable
+he	PRP	Memorable
+'s	VBZ	Memorable
+going	VBG	Memorable
+to	TO	Memorable
+get	VB	Memorable
+to	TO	Memorable
+beautiful	VB	Memorable
+.	.	Memorable
+David	NNP	Memorable
+'s	POS	Memorable
+moment	NN	Memorable
+alone	RB	Memorable
+with	IN	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+David	NNP	Memorable
+'s	POS	Memorable
+moment	NN	Memorable
+alone	RB	Memorable
+with	IN	Memorable
+Allen	NNP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Where	NNP	Memorable
+'s	POS	Memorable
+the	DT	Memorable
+verve	NN	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+Where	NNP	Memorable
+'s	POS	Memorable
+the	DT	Memorable
+verve	NN	Memorable
+?	.	Memorable
+LUCIEN	NNP	Memorable
+Welcome	NNP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+edge	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+world	NN	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+Welcome	NNP	Memorable
+to	TO	Memorable
+the	DT	Memorable
+edge	NN	Memorable
+of	IN	Memorable
+the	DT	Memorable
+world	NN	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+eyes	NNS	Memorable
+Allen	NNP	Memorable
+--	:	Memorable
+an	DT	Memorable
+idea	NN	Memorable
+forming	NN	Memorable
+.	.	Memorable
+Lucien	NNP	Memorable
+eyes	NNS	Memorable
+Allen	NNP	Memorable
+--	:	Memorable
+an	DT	Memorable
+idea	NN	Memorable
+forming	NN	Memorable
+.	.	Memorable
+DAVID	NNP	Memorable
+Piece	NNP	Memorable
+of	IN	Memorable
+advice	NN	Memorable
+.	.	Memorable
+A	DT	Memorable
+beat	NN	Memorable
+of	IN	Memorable
+relief	NN	Memorable
+--	:	Memorable
+are	VBP	Memorable
+we	PRP	Memorable
+alive	JJ	Memorable
+?	.	Memorable
+--	:	Memorable
+and	CC	Memorable
+the	DT	Memorable
+two	CD	Memorable
+break	NN	Memorable
+out	IN	Memorable
+into	IN	Memorable
+hysterics	NNS	Memorable
+.	.	Memorable
+A	DT	Memorable
+beat	NN	Memorable
+of	IN	Memorable
+relief	NN	Memorable
+--	:	Memorable
+are	VBP	Memorable
+we	PRP	Memorable
+alive	JJ	Memorable
+?	.	Memorable
+--	:	Memorable
+and	CC	Memorable
+the	DT	Memorable
+two	CD	Memorable
+break	NN	Memorable
+out	IN	Memorable
+into	IN	Memorable
+hysterics	NNS	Memorable
+.	.	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+an	DT	Memorable
+old	JJ	Memorable
+vinyl	NN	Memorable
+RECORD	NNP	Memorable
+sent	NN	Memorable
+by	IN	Memorable
+his	PRP$	Memorable
+friend	NN	Memorable
+Sammy	NNP	Memorable
+.	.	Memorable
+LUCIEN	NNP	Memorable
+It	PRP	Memorable
+'s	VBZ	Memorable
+all	DT	Memorable
+true	JJ	Memorable
+.	.	Memorable
+DAVID	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+need	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+speak	VB	Slightly Memorable
+to	TO	Slightly Memorable
+you	PRP	Slightly Memorable
+.	.	Slightly Memorable
+She	PRP	Slightly Memorable
+smacks	VBZ	Slightly Memorable
+something	NN	Slightly Memorable
+down	RP	Slightly Memorable
+on	IN	Slightly Memorable
+a	DT	Slightly Memorable
+plate	NN	Slightly Memorable
+:	:	Slightly Memorable
+it	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+brown	JJ	Slightly Memorable
+GLOP	NNP	Slightly Memorable
+.	.	Slightly Memorable
+JACK	NNP	Slightly Memorable
+What	WP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+this	DT	Slightly Memorable
+?	.	Slightly Memorable
+It	PRP	Slightly Memorable
+is	VBZ	Slightly Memorable
+our	PRP$	Slightly Memorable
+duty	NN	Slightly Memorable
+to	TO	Slightly Memorable
+break	VB	Slightly Memorable
+the	DT	Slightly Memorable
+law	NN	Slightly Memorable
+.	.	Slightly Memorable
+''	''	Slightly Memorable
+(	(	Slightly Memorable
+to	TO	Slightly Memorable
+Allen	NNP	Slightly Memorable
+)	)	Slightly Memorable
+Fantastic	NNP	Slightly Memorable
+.	.	Slightly Memorable
+Grand	NNP	Slightly Memorable
+classical	JJ	Slightly Memorable
+music	NN	Slightly Memorable
+screeches	NNS	Slightly Memorable
+to	TO	Slightly Memorable
+a	DT	Slightly Memorable
+start	NN	Slightly Memorable
+.	.	Slightly Memorable
+27	CD	Slightly Memorable
+.	.	Slightly Memorable
+Grand	NNP	Slightly Memorable
+classical	JJ	Slightly Memorable
+music	NN	Slightly Memorable
+screeches	NNS	Slightly Memorable
+to	TO	Slightly Memorable
+a	DT	Slightly Memorable
+start	NN	Slightly Memorable
+.	.	Slightly Memorable
+27	CD	Slightly Memorable
+.	.	Slightly Memorable
+Let	VB	Slightly Memorable
+'s	POS	Slightly Memorable
+come	VB	Slightly Memorable
+up	RP	Slightly Memorable
+with	IN	Slightly Memorable
+new	JJ	Slightly Memorable
+words	NNS	Slightly Memorable
+,	,	Slightly Memorable
+new	JJ	Slightly Memorable
+rhythms	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Let	VB	Slightly Memorable
+'s	POS	Slightly Memorable
+come	VB	Slightly Memorable
+up	RP	Slightly Memorable
+with	IN	Slightly Memorable
+new	JJ	Slightly Memorable
+words	NNS	Slightly Memorable
+,	,	Slightly Memorable
+new	JJ	Slightly Memorable
+rhythms	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+The	DT	Slightly Memorable
+MUSIC	NNP	Slightly Memorable
+builds	VBZ	Slightly Memorable
+again	RB	Slightly Memorable
+as	IN	Slightly Memorable
+...	:	Slightly Memorable
+I	PRP	Slightly Memorable
+'m	VBP	Slightly Memorable
+hungry	JJ	Slightly Memorable
+and	CC	Slightly Memorable
+what	WP	Slightly Memorable
+you	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+kitchen	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+unholy	JJ	Slightly Memorable
+.	.	Slightly Memorable
+We	PRP	Slightly Memorable
+'re	VBP	Slightly Memorable
+headed	VBN	Slightly Memorable
+out	RP	Slightly Memorable
+to	TO	Slightly Memorable
+the	DT	Slightly Memorable
+front	NN	Slightly Memorable
+.	.	Slightly Memorable
+JACK	NNP	Slightly Memorable
+So	NNP	Slightly Memorable
+Al	NNP	Slightly Memorable
+.	.	Slightly Memorable
+You	PRP	Slightly Memorable
+thought	VBD	Slightly Memorable
+my	PRP$	Slightly Memorable
+novel	NN	Slightly Memorable
+was	VBD	Slightly Memorable
+shit	VBN	Slightly Memorable
+?	.	Slightly Memorable
+TOUR	IN	Slightly Memorable
+These	DT	Slightly Memorable
+are	VBP	Slightly Memorable
+among	IN	Slightly Memorable
+the	DT	Slightly Memorable
+University	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+most	JJS	Slightly Memorable
+prized	JJ	Slightly Memorable
+possessions	NNS	Slightly Memorable
+.	.	Slightly Memorable
+TOUR	IN	Slightly Memorable
+These	DT	Slightly Memorable
+are	VBP	Slightly Memorable
+among	IN	Slightly Memorable
+the	DT	Slightly Memorable
+University	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+most	JJS	Slightly Memorable
+prized	JJ	Slightly Memorable
+possessions	NNS	Slightly Memorable
+.	.	Slightly Memorable
+TOUR	IN	Slightly Memorable
+These	DT	Slightly Memorable
+are	VBP	Slightly Memorable
+among	IN	Slightly Memorable
+the	DT	Slightly Memorable
+University	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+most	JJS	Slightly Memorable
+prized	JJ	Slightly Memorable
+possessions	NNS	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+says	VBZ	Slightly Memorable
+life	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+round	VBN	Slightly Memorable
+:	:	Slightly Memorable
+we	PRP	Slightly Memorable
+'re	VBP	Slightly Memorable
+stuck	VBN	Slightly Memorable
+on	IN	Slightly Memorable
+this	DT	Slightly Memorable
+wheel	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+says	VBZ	Slightly Memorable
+life	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+round	VBN	Slightly Memorable
+:	:	Slightly Memorable
+we	PRP	Slightly Memorable
+'re	VBP	Slightly Memorable
+stuck	VBN	Slightly Memorable
+on	IN	Slightly Memorable
+this	DT	Slightly Memorable
+wheel	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+says	VBZ	Slightly Memorable
+life	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+round	VBN	Slightly Memorable
+:	:	Slightly Memorable
+we	PRP	Slightly Memorable
+'re	VBP	Slightly Memorable
+stuck	VBN	Slightly Memorable
+on	IN	Slightly Memorable
+this	DT	Slightly Memorable
+wheel	NN	Slightly Memorable
+.	.	Slightly Memorable
+That	DT	Slightly Memorable
+'s	VBZ	Slightly Memorable
+my	PRP$	Slightly Memorable
+sonnet	NN	Slightly Memorable
+for	IN	Slightly Memorable
+Steeves	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+hides	VBZ	Slightly Memorable
+them	PRP	Slightly Memorable
+behind	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+back	NN	Slightly Memorable
+.	.	Slightly Memorable
+It	PRP	Slightly Memorable
+is	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+first	JJ	Slightly Memorable
+principle	NN	Slightly Memorable
+of	IN	Slightly Memorable
+good	JJ	Slightly Memorable
+creative	JJ	Slightly Memorable
+work	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Paterson	NNP	Slightly Memorable
+,	,	Slightly Memorable
+New	NNP	Slightly Memorable
+Jersey	NNP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+He	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+believe	VB	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+really	RB	Slightly Memorable
+here	RB	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+big	JJ	Slightly Memorable
+city	NN	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+dutiful	JJ	Slightly Memorable
+son	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+first	JJ	Slightly Memorable
+failure	NN	Slightly Memorable
+.	.	Slightly Memorable
+26	CD	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+dutiful	JJ	Slightly Memorable
+son	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+first	JJ	Slightly Memorable
+failure	NN	Slightly Memorable
+.	.	Slightly Memorable
+26	CD	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+believe	VB	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+really	RB	Slightly Memorable
+here	RB	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+big	JJ	Slightly Memorable
+city	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+believe	VB	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+really	RB	Slightly Memorable
+here	RB	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+big	JJ	Slightly Memorable
+city	NN	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+!	.	Slightly Memorable
+No	UH	Slightly Memorable
+!	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+turn	VB	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+!	.	Slightly Memorable
+No	UH	Slightly Memorable
+!	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+turn	VB	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+!	.	Slightly Memorable
+No	UH	Slightly Memorable
+!	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+turn	VB	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+!	.	Slightly Memorable
+No	UH	Slightly Memorable
+!	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+turn	VB	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+Navy	NNP	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+Navy	NNP	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+Navy	NNP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Never	NNP	Slightly Memorable
+heard	NN	Slightly Memorable
+of	IN	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Never	NNP	Slightly Memorable
+heard	NN	Slightly Memorable
+of	IN	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Never	NNP	Slightly Memorable
+heard	NN	Slightly Memorable
+of	IN	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+Anzio	NNP	Slightly Memorable
+?	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Oh	NNP	Slightly Memorable
+no	RB	Slightly Memorable
+,	,	Slightly Memorable
+thanks	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Say	NNP	Slightly Memorable
+nothing	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Oh	NNP	Slightly Memorable
+no	RB	Slightly Memorable
+,	,	Slightly Memorable
+thanks	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Bill	NNP	Slightly Memorable
+walks	NNS	Slightly Memorable
+in	IN	Slightly Memorable
+,	,	Slightly Memorable
+knows	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+game	NN	Slightly Memorable
+his	PRP$	Slightly Memorable
+friend	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+playing	VBG	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Bill	NNP	Slightly Memorable
+walks	NNS	Slightly Memorable
+in	IN	Slightly Memorable
+,	,	Slightly Memorable
+knows	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+game	NN	Slightly Memorable
+his	PRP$	Slightly Memorable
+friend	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+playing	VBG	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+She	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+going	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+be	VB	Slightly Memorable
+furious	JJ	Slightly Memorable
+.	.	Slightly Memorable
+24	CD	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+She	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+going	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+be	VB	Slightly Memorable
+furious	JJ	Slightly Memorable
+.	.	Slightly Memorable
+24	CD	Slightly Memorable
+.	.	Slightly Memorable
+BILL	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+What	WP	Slightly Memorable
+do	VBP	Slightly Memorable
+you	PRP	Slightly Memorable
+hate	VB	Slightly Memorable
+from	IN	Slightly Memorable
+the	DT	Slightly Memorable
+pit	NN	Slightly Memorable
+of	IN	Slightly Memorable
+your	PRP$	Slightly Memorable
+gut	NN	Slightly Memorable
+?	.	Slightly Memorable
+Lucien	JJ	Slightly Memorable
+steps	NNS	Slightly Memorable
+between	IN	Slightly Memorable
+David	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+their	PRP$	Slightly Memorable
+wall	NN	Slightly Memorable
+of	IN	Slightly Memorable
+clippings	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+stops	VBZ	Slightly Memorable
+short	RB	Slightly Memorable
+.	.	Slightly Memorable
+PROFESSOR	NNP	Slightly Memorable
+STEEVES	NNP	Slightly Memorable
+There	EX	Slightly Memorable
+can	MD	Slightly Memorable
+be	VB	Slightly Memorable
+no	DT	Slightly Memorable
+creation	NN	Slightly Memorable
+before	IN	Slightly Memorable
+imitation	NN	Slightly Memorable
+.	.	Slightly Memorable
+PROFESSOR	NNP	Slightly Memorable
+STEEVES	NNP	Slightly Memorable
+There	EX	Slightly Memorable
+can	MD	Slightly Memorable
+be	VB	Slightly Memorable
+no	DT	Slightly Memorable
+creation	NN	Slightly Memorable
+before	IN	Slightly Memorable
+imitation	NN	Slightly Memorable
+.	.	Slightly Memorable
+PROFESSOR	NNP	Slightly Memorable
+STEEVES	NNP	Slightly Memorable
+There	EX	Slightly Memorable
+can	MD	Slightly Memorable
+be	VB	Slightly Memorable
+no	DT	Slightly Memorable
+creation	NN	Slightly Memorable
+before	IN	Slightly Memorable
+imitation	NN	Slightly Memorable
+.	.	Slightly Memorable
+This	DT	Slightly Memorable
+is	VBZ	Slightly Memorable
+very	RB	Slightly Memorable
+bad	JJ	Slightly Memorable
+.	.	Slightly Memorable
+This	DT	Slightly Memorable
+is	VBZ	Slightly Memorable
+very	RB	Slightly Memorable
+bad	JJ	Slightly Memorable
+.	.	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+same	JJ	Slightly Memorable
+BRAHMS	NNP	Slightly Memorable
+from	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+mother	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+bedroom	NN	Slightly Memorable
+.	.	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+same	JJ	Slightly Memorable
+BRAHMS	NNP	Slightly Memorable
+from	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+mother	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+bedroom	NN	Slightly Memorable
+.	.	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+same	JJ	Slightly Memorable
+BRAHMS	NNP	Slightly Memorable
+from	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+mother	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+bedroom	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+Mom	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+come	VB	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+Mom	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+come	VB	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+Mom	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+ca	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+come	VB	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+trying	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+get	VB	Slightly Memorable
+inside	IN	Slightly Memorable
+my	PRP$	Slightly Memorable
+head	NN	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+trying	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+get	VB	Slightly Memorable
+inside	IN	Slightly Memorable
+my	PRP$	Slightly Memorable
+head	NN	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+trying	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+get	VB	Slightly Memorable
+inside	IN	Slightly Memorable
+my	PRP$	Slightly Memorable
+head	NN	Slightly Memorable
+.	.	Slightly Memorable
+But	CC	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+hear	VB	Slightly Memorable
+,	,	Slightly Memorable
+he	PRP	Slightly Memorable
+grins	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+But	CC	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+hear	VB	Slightly Memorable
+,	,	Slightly Memorable
+he	PRP	Slightly Memorable
+grins	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+But	CC	Slightly Memorable
+Allen	NNP	Slightly Memorable
+does	VBZ	Slightly Memorable
+n't	RB	Slightly Memorable
+hear	VB	Slightly Memorable
+,	,	Slightly Memorable
+he	PRP	Slightly Memorable
+grins	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Suddenly	RB	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+breath	NN	Slightly Memorable
+:	:	Slightly Memorable
+he	PRP	Slightly Memorable
+comes	VBZ	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+life	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Suddenly	RB	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+breath	NN	Slightly Memorable
+:	:	Slightly Memorable
+he	PRP	Slightly Memorable
+comes	VBZ	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+life	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Suddenly	RB	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+breath	NN	Slightly Memorable
+:	:	Slightly Memorable
+he	PRP	Slightly Memorable
+comes	VBZ	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+life	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Suddenly	RB	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+breath	NN	Slightly Memorable
+:	:	Slightly Memorable
+he	PRP	Slightly Memorable
+comes	VBZ	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+life	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+know	VB	Slightly Memorable
+me	PRP	Slightly Memorable
+.	.	Slightly Memorable
+Look	VB	Slightly Memorable
+at	IN	Slightly Memorable
+him	PRP	Slightly Memorable
+.	.	Slightly Memorable
+Look	VB	Slightly Memorable
+at	IN	Slightly Memorable
+him	PRP	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+band	NN	Slightly Memorable
+puts	VBZ	Slightly Memorable
+down	RP	Slightly Memorable
+their	PRP$	Slightly Memorable
+instruments	NNS	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+band	NN	Slightly Memorable
+puts	VBZ	Slightly Memorable
+down	RP	Slightly Memorable
+their	PRP$	Slightly Memorable
+instruments	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+.	.	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+drink	VB	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+drink	VB	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+drink	VB	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+crosses	VBZ	Slightly Memorable
+through	IN	Slightly Memorable
+crowd	NN	Slightly Memorable
+towards	NNS	Slightly Memorable
+Allen	NNP	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+crosses	VBZ	Slightly Memorable
+through	IN	Slightly Memorable
+crowd	NN	Slightly Memorable
+towards	NNS	Slightly Memorable
+Allen	NNP	Slightly Memorable
+.	.	Slightly Memorable
+Up	IN	Slightly Memorable
+the	DT	Slightly Memorable
+hallway	NN	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+door	NN	Slightly Memorable
+locks	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Up	IN	Slightly Memorable
+the	DT	Slightly Memorable
+hallway	NN	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+door	NN	Slightly Memorable
+locks	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Up	IN	Slightly Memorable
+the	DT	Slightly Memorable
+hallway	NN	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+door	NN	Slightly Memorable
+locks	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Only	RB	Slightly Memorable
+the	DT	Slightly Memorable
+most	RBS	Slightly Memorable
+anti-social	JJ	Slightly Memorable
+have	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+go	VB	Slightly Memorable
+to	TO	Slightly Memorable
+an	DT	Slightly Memorable
+event	NN	Slightly Memorable
+actually	RB	Slightly Memorable
+called	VBD	Slightly Memorable
+one	CD	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Only	RB	Slightly Memorable
+the	DT	Slightly Memorable
+most	RBS	Slightly Memorable
+anti-social	JJ	Slightly Memorable
+have	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+go	VB	Slightly Memorable
+to	TO	Slightly Memorable
+an	DT	Slightly Memorable
+event	NN	Slightly Memorable
+actually	RB	Slightly Memorable
+called	VBD	Slightly Memorable
+one	CD	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Are	NNP	Slightly Memorable
+you	PRP	Slightly Memorable
+a	DT	Slightly Memorable
+writer	NN	Slightly Memorable
+?	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Are	NNP	Slightly Memorable
+you	PRP	Slightly Memorable
+a	DT	Slightly Memorable
+writer	NN	Slightly Memorable
+?	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Are	NNP	Slightly Memorable
+you	PRP	Slightly Memorable
+a	DT	Slightly Memorable
+writer	NN	Slightly Memorable
+?	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Only	RB	Slightly Memorable
+the	DT	Slightly Memorable
+most	RBS	Slightly Memorable
+anti-social	JJ	Slightly Memorable
+have	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+go	VB	Slightly Memorable
+to	TO	Slightly Memorable
+an	DT	Slightly Memorable
+event	NN	Slightly Memorable
+actually	RB	Slightly Memorable
+called	VBD	Slightly Memorable
+one	CD	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+This	DT	Slightly Memorable
+is	VBZ	Slightly Memorable
+your	PRP$	Slightly Memorable
+fault	NN	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+This	DT	Slightly Memorable
+is	VBZ	Slightly Memorable
+your	PRP$	Slightly Memorable
+fault	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+like	IN	Slightly Memorable
+a	DT	Slightly Memorable
+criminal	JJ	Slightly Memorable
+.	.	Slightly Memorable
+19	CD	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+like	IN	Slightly Memorable
+a	DT	Slightly Memorable
+criminal	JJ	Slightly Memorable
+.	.	Slightly Memorable
+19	CD	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Lu	NNP	Slightly Memorable
+!	.	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+very	RB	Slightly Memorable
+rough	JJ	Slightly Memorable
+but	CC	Slightly Memorable
+...	:	Slightly Memorable
+In	IN	Slightly Memorable
+all	PDT	Slightly Memorable
+the	DT	Slightly Memorable
+broken	JJ	Slightly Memorable
+places	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+(	(	Slightly Memorable
+talking	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+,	,	Slightly Memorable
+dreaming	VBG	Slightly Memorable
+)	)	Slightly Memorable
+Trilling	VBG	Slightly Memorable
+'s	POS	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+What	WP	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+good	JJ	Slightly Memorable
+at	IN	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+walks	NNS	Slightly Memorable
+inside	RB	Slightly Memorable
+.	.	Slightly Memorable
+What	WP	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+good	JJ	Slightly Memorable
+at	IN	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+(	(	Slightly Memorable
+talking	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+,	,	Slightly Memorable
+dreaming	VBG	Slightly Memorable
+)	)	Slightly Memorable
+Trilling	VBG	Slightly Memorable
+'s	POS	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+walks	NNS	Slightly Memorable
+inside	RB	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+understand	VB	Slightly Memorable
+.	.	Slightly Memorable
+We	PRP	Slightly Memorable
+need	VBP	Slightly Memorable
+the	DT	Slightly Memorable
+work	NN	Slightly Memorable
+.	.	Slightly Memorable
+(	(	Slightly Memorable
+suddenly	RB	Slightly Memorable
+cold	VBP	Slightly Memorable
+)	)	Slightly Memorable
+I	PRP	Slightly Memorable
+was	VBD	Slightly Memorable
+wrong	JJ	Slightly Memorable
+.	.	Slightly Memorable
+INT	NNP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+'S	POS	Slightly Memorable
+DORM	NNP	Slightly Memorable
+ROOM	NNP	Slightly Memorable
+-	:	Slightly Memorable
+DAY	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+got	VBD	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+What	WP	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+good	JJ	Slightly Memorable
+at	IN	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+(	(	Slightly Memorable
+talking	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+himself	PRP	Slightly Memorable
+,	,	Slightly Memorable
+dreaming	VBG	Slightly Memorable
+)	)	Slightly Memorable
+Trilling	VBG	Slightly Memorable
+'s	POS	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+understand	VB	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+walks	NNS	Slightly Memorable
+inside	RB	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+'ve	VBP	Slightly Memorable
+been	VBN	Slightly Memorable
+thinking	VBG	Slightly Memorable
+about	IN	Slightly Memorable
+what	WP	Slightly Memorable
+Yeats	NNP	Slightly Memorable
+said	VBD	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+'ve	VBP	Slightly Memorable
+been	VBN	Slightly Memorable
+thinking	VBG	Slightly Memorable
+about	IN	Slightly Memorable
+what	WP	Slightly Memorable
+Yeats	NNP	Slightly Memorable
+said	VBD	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+looking	VBG	Slightly Memorable
+at	IN	Slightly Memorable
+the	DT	Slightly Memorable
+response	NN	Slightly Memorable
+in	IN	Slightly Memorable
+shock	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+looking	VBG	Slightly Memorable
+at	IN	Slightly Memorable
+the	DT	Slightly Memorable
+response	NN	Slightly Memorable
+in	IN	Slightly Memorable
+shock	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+looking	VBG	Slightly Memorable
+at	IN	Slightly Memorable
+the	DT	Slightly Memorable
+response	NN	Slightly Memorable
+in	IN	Slightly Memorable
+shock	NN	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+her	PRP$	Slightly Memorable
+back	NN	Slightly Memorable
+,	,	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+house	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+her	PRP$	Slightly Memorable
+back	NN	Slightly Memorable
+,	,	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+house	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Jazz	NNP	Slightly Memorable
+music	NN	Slightly Memorable
+sparks	NNS	Slightly Memorable
+,	,	Slightly Memorable
+PRE-LAP	NN	Slightly Memorable
+from	IN	Slightly Memorable
+where	WRB	Slightly Memorable
+this	DT	Slightly Memorable
+party	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+going	VBG	Slightly Memorable
+next	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Jazz	NNP	Slightly Memorable
+music	NN	Slightly Memorable
+sparks	NNS	Slightly Memorable
+,	,	Slightly Memorable
+PRE-LAP	NN	Slightly Memorable
+from	IN	Slightly Memorable
+where	WRB	Slightly Memorable
+this	DT	Slightly Memorable
+party	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+going	VBG	Slightly Memorable
+next	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+But	CC	Slightly Memorable
+you	PRP	Slightly Memorable
+fuck	VBP	Slightly Memorable
+me	PRP	Slightly Memorable
+and	CC	Slightly Memorable
+wo	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+marry	VB	Slightly Memorable
+me	PRP	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Shut	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+books	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Shut	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+books	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Once	NNP	Slightly Memorable
+you	PRP	Slightly Memorable
+meet	VBP	Slightly Memorable
+him	PRP	Slightly Memorable
+,	,	Slightly Memorable
+you	PRP	Slightly Memorable
+'ll	MD	Slightly Memorable
+see	VB	Slightly Memorable
+what	WP	Slightly Memorable
+I	PRP	Slightly Memorable
+mean	VBP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Shut	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+books	NNS	Slightly Memorable
+.	.	Slightly Memorable
+INT	NNP	Slightly Memorable
+.	.	Slightly Memorable
+GINSBERG	NNP	Slightly Memorable
+HOME	NNP	Slightly Memorable
+-	:	Slightly Memorable
+NIGHT	VBD	Slightly Memorable
+The	DT	Slightly Memorable
+radio	NN	Slightly Memorable
+continues	VBZ	Slightly Memorable
+playing	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+a	DT	Slightly Memorable
+modest	JJ	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+INT	NNP	Slightly Memorable
+.	.	Slightly Memorable
+GINSBERG	NNP	Slightly Memorable
+HOME	NNP	Slightly Memorable
+-	:	Slightly Memorable
+NIGHT	VBD	Slightly Memorable
+The	DT	Slightly Memorable
+radio	NN	Slightly Memorable
+continues	VBZ	Slightly Memorable
+playing	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+a	DT	Slightly Memorable
+modest	JJ	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+INT	NNP	Slightly Memorable
+.	.	Slightly Memorable
+GINSBERG	NNP	Slightly Memorable
+HOME	NNP	Slightly Memorable
+-	:	Slightly Memorable
+NIGHT	VBD	Slightly Memorable
+The	DT	Slightly Memorable
+radio	NN	Slightly Memorable
+continues	VBZ	Slightly Memorable
+playing	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+a	DT	Slightly Memorable
+modest	JJ	Slightly Memorable
+home	NN	Slightly Memorable
+.	.	Slightly Memorable
+DAVID	NNP	Slightly Memorable
+None	NN	Slightly Memorable
+of	IN	Slightly Memorable
+us	PRP	Slightly Memorable
+notice	DT	Slightly Memorable
+him	PRP	Slightly Memorable
+.	.	Slightly Memorable
+DAVID	NNP	Slightly Memorable
+None	NN	Slightly Memorable
+of	IN	Slightly Memorable
+us	PRP	Slightly Memorable
+notice	DT	Slightly Memorable
+him	PRP	Slightly Memorable
+.	.	Slightly Memorable
+BILL	NNP	Slightly Memorable
+What	WP	Slightly Memorable
+kind	NN	Slightly Memorable
+of	IN	Slightly Memorable
+life	NN	Slightly Memorable
+is	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+?	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+turns	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+music	NN	Slightly Memorable
+up	IN	Slightly Memorable
+all	PDT	Slightly Memorable
+the	DT	Slightly Memorable
+way	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Where	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+Lu	NNP	Slightly Memorable
+?	.	Slightly Memorable
+39	CD	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+turns	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+music	NN	Slightly Memorable
+up	IN	Slightly Memorable
+all	PDT	Slightly Memorable
+the	DT	Slightly Memorable
+way	NN	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+turns	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+music	NN	Slightly Memorable
+up	IN	Slightly Memorable
+all	PDT	Slightly Memorable
+the	DT	Slightly Memorable
+way	NN	Slightly Memorable
+.	.	Slightly Memorable
+JACK	NNP	Slightly Memorable
+A	NNP	Slightly Memorable
+``	``	Slightly Memorable
+new	JJ	Slightly Memorable
+vision	NN	Slightly Memorable
+?	.	Slightly Memorable
+''	''	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Yeah	NNP	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+told	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+it	PRP	Slightly Memorable
+would	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+work	VB	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+told	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+it	PRP	Slightly Memorable
+would	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+work	VB	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+told	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+it	PRP	Slightly Memorable
+would	MD	Slightly Memorable
+n't	RB	Slightly Memorable
+work	VB	Slightly Memorable
+.	.	Slightly Memorable
+A	DT	Slightly Memorable
+ceremony	NN	Slightly Memorable
+.	.	Slightly Memorable
+Moved	NNP	Slightly Memorable
+,	,	Slightly Memorable
+he	PRP	Slightly Memorable
+links	VBZ	Slightly Memorable
+his	PRP$	Slightly Memorable
+arm	NN	Slightly Memorable
+with	IN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+'ve	VBP	Slightly Memorable
+spent	VBN	Slightly Memorable
+my	PRP$	Slightly Memorable
+life	NN	Slightly Memorable
+making	VBG	Slightly Memorable
+other	JJ	Slightly Memorable
+people	NNS	Slightly Memorable
+happy	JJ	Slightly Memorable
+.	.	Slightly Memorable
+Moved	NNP	Slightly Memorable
+,	,	Slightly Memorable
+he	PRP	Slightly Memorable
+links	VBZ	Slightly Memorable
+his	PRP$	Slightly Memorable
+arm	NN	Slightly Memorable
+with	IN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+'ve	VBP	Slightly Memorable
+spent	VBN	Slightly Memorable
+my	PRP$	Slightly Memorable
+life	NN	Slightly Memorable
+making	VBG	Slightly Memorable
+other	JJ	Slightly Memorable
+people	NNS	Slightly Memorable
+happy	JJ	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+room	NN	Slightly Memorable
+freezes	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+Bill	NNP	Slightly Memorable
+share	NN	Slightly Memorable
+a	DT	Slightly Memorable
+knowing	NN	Slightly Memorable
+look	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+love	VBP	Slightly Memorable
+complicated	VBN	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+Bill	NNP	Slightly Memorable
+share	NN	Slightly Memorable
+a	DT	Slightly Memorable
+knowing	NN	Slightly Memorable
+look	NN	Slightly Memorable
+.	.	Slightly Memorable
+You	PRP	Slightly Memorable
+are	VBP	Slightly Memorable
+not	RB	Slightly Memorable
+in	IN	Slightly Memorable
+wonderland	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+have	VBP	Slightly Memorable
+heard	VBN	Slightly Memorable
+the	DT	Slightly Memorable
+strange	JJ	Slightly Memorable
+madness	NN	Slightly Memorable
+long	RB	Slightly Memorable
+growing	VBG	Slightly Memorable
+in	IN	Slightly Memorable
+your	PRP$	Slightly Memorable
+soul	NN	Slightly Memorable
+.	.	Slightly Memorable
+Look	NN	Slightly Memorable
+at	IN	Slightly Memorable
+her	PRP$	Slightly Memorable
+!	.	Slightly Memorable
+Listen	VB	Slightly Memorable
+to	TO	Slightly Memorable
+her	PRP$	Slightly Memorable
+!	.	Slightly Memorable
+Naomi	NNP	Slightly Memorable
+babbling	NN	Slightly Memorable
+.	.	Slightly Memorable
+Is	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+something	NN	Slightly Memorable
+?	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+amazed	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+amazed	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+amazed	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+,	,	Slightly Memorable
+swept	VBD	Slightly Memorable
+up	RP	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+energy	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+,	,	Slightly Memorable
+swept	VBD	Slightly Memorable
+up	RP	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+energy	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+And	CC	Slightly Memorable
+it	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+beautiful	JJ	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+use	VBP	Slightly Memorable
+periods	NNS	Slightly Memorable
+and	CC	Slightly Memorable
+commas	NN	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+sees	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+boys	NNS	Slightly Memorable
+talking	VBG	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+sees	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+boys	NNS	Slightly Memorable
+talking	VBG	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+How	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+your	PRP$	Slightly Memorable
+Yeats	NNS	Slightly Memorable
+?	.	Slightly Memorable
+The	DT	Slightly Memorable
+unlocked	JJ	Slightly Memorable
+door	NN	Slightly Memorable
+creaks	NNS	Slightly Memorable
+open	VBP	Slightly Memorable
+.	.	Slightly Memorable
+12	CD	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+How	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+your	PRP$	Slightly Memorable
+Yeats	NNS	Slightly Memorable
+?	.	Slightly Memorable
+The	DT	Slightly Memorable
+unlocked	JJ	Slightly Memorable
+door	NN	Slightly Memorable
+creaks	NNS	Slightly Memorable
+open	VBP	Slightly Memorable
+.	.	Slightly Memorable
+12	CD	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+unlocked	JJ	Slightly Memorable
+door	NN	Slightly Memorable
+creaks	NNS	Slightly Memorable
+open	VBP	Slightly Memorable
+.	.	Slightly Memorable
+12	CD	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+How	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+your	PRP$	Slightly Memorable
+Yeats	NNS	Slightly Memorable
+?	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+Do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+ever	RB	Slightly Memorable
+leave	VB	Slightly Memorable
+me	PRP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+V.O	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+And	CC	Slightly Memorable
+if	IN	Slightly Memorable
+you	PRP	Slightly Memorable
+try	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+let	VB	Slightly Memorable
+them	PRP	Slightly Memorable
+go	VB	Slightly Memorable
+...	:	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+V.O	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+And	CC	Slightly Memorable
+if	IN	Slightly Memorable
+you	PRP	Slightly Memorable
+try	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+let	VB	Slightly Memorable
+them	PRP	Slightly Memorable
+go	VB	Slightly Memorable
+...	:	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+Do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+ever	RB	Slightly Memorable
+leave	VB	Slightly Memorable
+me	PRP	Slightly Memorable
+.	.	Slightly Memorable
+PROFESSOR	NNP	Slightly Memorable
+STEEVES	NNP	Slightly Memorable
+The	DT	Slightly Memorable
+war	NN	Slightly Memorable
+awaits	NNS	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+V.O	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+And	CC	Slightly Memorable
+if	IN	Slightly Memorable
+you	PRP	Slightly Memorable
+try	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+let	VB	Slightly Memorable
+them	PRP	Slightly Memorable
+go	VB	Slightly Memorable
+...	:	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+Do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+ever	RB	Slightly Memorable
+leave	VB	Slightly Memorable
+me	PRP	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+(	(	Slightly Memorable
+V.O	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+And	CC	Slightly Memorable
+if	IN	Slightly Memorable
+you	PRP	Slightly Memorable
+try	VBP	Slightly Memorable
+to	TO	Slightly Memorable
+let	VB	Slightly Memorable
+them	PRP	Slightly Memorable
+go	VB	Slightly Memorable
+...	:	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+a	DT	Slightly Memorable
+Harvard	NNP	Slightly Memorable
+man	NN	Slightly Memorable
+,	,	Slightly Memorable
+and	CC	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+going	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+be	VB	Slightly Memorable
+an	DT	Slightly Memorable
+amazing	JJ	Slightly Memorable
+artist	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+The	DT	Slightly Memorable
+tour	NN	Slightly Memorable
+guide	NN	Slightly Memorable
+looks	VBZ	Slightly Memorable
+around	IN	Slightly Memorable
+confused	VBN	Slightly Memorable
+.	.	Slightly Memorable
+9	CD	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+a	DT	Slightly Memorable
+Harvard	NNP	Slightly Memorable
+man	NN	Slightly Memorable
+,	,	Slightly Memorable
+and	CC	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+going	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+be	VB	Slightly Memorable
+an	DT	Slightly Memorable
+amazing	JJ	Slightly Memorable
+artist	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+The	DT	Slightly Memorable
+tour	NN	Slightly Memorable
+guide	NN	Slightly Memorable
+looks	VBZ	Slightly Memorable
+around	IN	Slightly Memorable
+confused	VBN	Slightly Memorable
+.	.	Slightly Memorable
+9	CD	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+tour	NN	Slightly Memorable
+guide	NN	Slightly Memorable
+looks	VBZ	Slightly Memorable
+around	IN	Slightly Memorable
+confused	VBN	Slightly Memorable
+.	.	Slightly Memorable
+9	CD	Slightly Memorable
+.	.	Slightly Memorable
+Messy	NNP	Slightly Memorable
+,	,	Slightly Memorable
+comfortable	JJ	Slightly Memorable
+,	,	Slightly Memorable
+adorable	JJ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Oh	NNP	Slightly Memorable
+right	NN	Slightly Memorable
+,	,	Slightly Memorable
+you	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+have	VB	Slightly Memorable
+anything	NN	Slightly Memorable
+because	IN	Slightly Memorable
+David	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+not	RB	Slightly Memorable
+here	RB	Slightly Memorable
+to	TO	Slightly Memorable
+write	VB	Slightly Memorable
+it	PRP	Slightly Memorable
+for	IN	Slightly Memorable
+you	PRP	Slightly Memorable
+!	.	Slightly Memorable
+Lucien	VB	Slightly Memorable
+stands	VBZ	Slightly Memorable
+up	RP	Slightly Memorable
+,	,	Slightly Memorable
+drunk	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+BILL	NNP	Slightly Memorable
+But	CC	Slightly Memorable
+the	DT	Slightly Memorable
+words	NNS	Slightly Memorable
+,	,	Slightly Memorable
+oh	IN	Slightly Memorable
+the	DT	Slightly Memorable
+words	NNS	Slightly Memorable
+...	:	Slightly Memorable
+,	,	Slightly Memorable
+The	DT	Slightly Memorable
+music	NN	Slightly Memorable
+suddenly	RB	Slightly Memorable
+stops	VBZ	Slightly Memorable
+as	IN	Slightly Memorable
+we	PRP	Slightly Memorable
+...	:	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+closes	VBZ	Slightly Memorable
+his	PRP$	Slightly Memorable
+eyes	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+wan	VB	Slightly Memorable
+na	RB	Slightly Memorable
+go	VBP	Slightly Memorable
+down	RP	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+EDIE	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+Today	NN	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+wan	VB	Slightly Memorable
+na	RB	Slightly Memorable
+go	VBP	Slightly Memorable
+down	RP	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+You	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+wan	VB	Slightly Memorable
+na	RB	Slightly Memorable
+go	VBP	Slightly Memorable
+down	RP	Slightly Memorable
+there	RB	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+first	JJ	Slightly Memorable
+time	NN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+has	VBZ	Slightly Memorable
+defied	VBN	Slightly Memorable
+anyone	NN	Slightly Memorable
+.	.	Slightly Memorable
+I	PRP	Slightly Memorable
+nailed	VBD	Slightly Memorable
+the	DT	Slightly Memorable
+windows	NNS	Slightly Memorable
+.	.	Slightly Memorable
+I	PRP	Slightly Memorable
+nailed	VBD	Slightly Memorable
+the	DT	Slightly Memorable
+windows	NNS	Slightly Memorable
+.	.	Slightly Memorable
+I	PRP	Slightly Memorable
+nailed	VBD	Slightly Memorable
+the	DT	Slightly Memorable
+windows	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+Until	IN	Slightly Memorable
+we	PRP	Slightly Memorable
+know	VBP	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+thing	NN	Slightly Memorable
+we	PRP	Slightly Memorable
+have	VBP	Slightly Memorable
+--	:	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+is	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+we	PRP	Slightly Memorable
+give	VBP	Slightly Memorable
+away	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+Until	IN	Slightly Memorable
+we	PRP	Slightly Memorable
+know	VBP	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+thing	NN	Slightly Memorable
+we	PRP	Slightly Memorable
+have	VBP	Slightly Memorable
+--	:	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+is	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+we	PRP	Slightly Memorable
+give	VBP	Slightly Memorable
+away	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+Until	IN	Slightly Memorable
+we	PRP	Slightly Memorable
+know	VBP	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+thing	NN	Slightly Memorable
+we	PRP	Slightly Memorable
+have	VBP	Slightly Memorable
+--	:	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+is	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+we	PRP	Slightly Memorable
+give	VBP	Slightly Memorable
+away	RB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Assonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+Assonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+has	VBZ	Slightly Memorable
+been	VBN	Slightly Memorable
+adrift	VBN	Slightly Memorable
+in	IN	Slightly Memorable
+a	DT	Slightly Memorable
+hallucination	NN	Slightly Memorable
+.	.	Slightly Memorable
+Assonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+quickly	RB	Slightly Memorable
+thinks	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+turns	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+her	PRP$	Slightly Memorable
+bureau	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+quickly	RB	Slightly Memorable
+thinks	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+turns	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+her	PRP$	Slightly Memorable
+bureau	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+quickly	RB	Slightly Memorable
+thinks	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+turns	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+her	PRP$	Slightly Memorable
+bureau	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Then	RB	Slightly Memorable
+the	DT	Slightly Memorable
+sound	NN	Slightly Memorable
+of	IN	Slightly Memorable
+the	DT	Slightly Memorable
+door	NN	Slightly Memorable
+creaking	VBG	Slightly Memorable
+open	JJ	Slightly Memorable
+.	.	Slightly Memorable
+His	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+just	RB	Slightly Memorable
+sighs	NNS	Slightly Memorable
+.	.	Slightly Memorable
+His	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+just	RB	Slightly Memorable
+sighs	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Margaret	NNP	Slightly Memorable
+,	,	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+even	RB	Slightly Memorable
+deny	VB	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+His	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+just	RB	Slightly Memorable
+sighs	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Margaret	NNP	Slightly Memorable
+,	,	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+even	RB	Slightly Memorable
+deny	VB	Slightly Memorable
+it	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+,	,	Slightly Memorable
+mute	NN	Slightly Memorable
+witness	NN	Slightly Memorable
+to	TO	Slightly Memorable
+it	PRP	Slightly Memorable
+all	DT	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+,	,	Slightly Memorable
+mute	NN	Slightly Memorable
+witness	NN	Slightly Memorable
+to	TO	Slightly Memorable
+it	PRP	Slightly Memorable
+all	DT	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+searching	VBG	Slightly Memorable
+through	IN	Slightly Memorable
+their	PRP$	Slightly Memorable
+past	NN	Slightly Memorable
+.	.	Slightly Memorable
+And	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+on	IN	Slightly Memorable
+the	DT	Slightly Memorable
+floor	NN	Slightly Memorable
+,	,	Slightly Memorable
+reading	VBG	Slightly Memorable
+the	DT	Slightly Memorable
+Times	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+smoking	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+And	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+on	IN	Slightly Memorable
+the	DT	Slightly Memorable
+floor	NN	Slightly Memorable
+,	,	Slightly Memorable
+reading	VBG	Slightly Memorable
+the	DT	Slightly Memorable
+Times	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+smoking	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+And	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+on	IN	Slightly Memorable
+the	DT	Slightly Memorable
+floor	NN	Slightly Memorable
+,	,	Slightly Memorable
+reading	VBG	Slightly Memorable
+the	DT	Slightly Memorable
+Times	NNP	Slightly Memorable
+and	CC	Slightly Memorable
+smoking	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+wishes	VBZ	Slightly Memorable
+he	PRP	Slightly Memorable
+were	VBD	Slightly Memorable
+a	DT	Slightly Memorable
+criminal	JJ	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+He	PRP	Slightly Memorable
+wishes	VBZ	Slightly Memorable
+he	PRP	Slightly Memorable
+were	VBD	Slightly Memorable
+a	DT	Slightly Memorable
+criminal	JJ	Slightly Memorable
+.	.	Slightly Memorable
+BILL	NNP	Slightly Memorable
+(	(	Slightly Memorable
+O.S	NNP	Slightly Memorable
+.	.	Slightly Memorable
+)	)	Slightly Memorable
+But	CC	Slightly Memorable
+beware	NN	Slightly Memorable
+of	IN	Slightly Memorable
+the	DT	Slightly Memorable
+side-effects	NNS	Slightly Memorable
+.	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+What	WP	Slightly Memorable
+did	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+say	VB	Slightly Memorable
+?	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+What	WP	Slightly Memorable
+did	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+say	VB	Slightly Memorable
+?	.	Slightly Memorable
+NAOMI	NNP	Slightly Memorable
+What	WP	Slightly Memorable
+did	VBD	Slightly Memorable
+you	PRP	Slightly Memorable
+say	VB	Slightly Memorable
+?	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+for	IN	Slightly Memorable
+her	PRP$	Slightly Memorable
+best	JJS	Slightly Memorable
+.	.	Slightly Memorable
+LOUIS	NNP	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+for	IN	Slightly Memorable
+her	PRP$	Slightly Memorable
+best	JJS	Slightly Memorable
+.	.	Slightly Memorable
+My	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+left	VBD	Slightly Memorable
+me	PRP	Slightly Memorable
+when	WRB	Slightly Memorable
+I	PRP	Slightly Memorable
+was	VBD	Slightly Memorable
+four	CD	Slightly Memorable
+.	.	Slightly Memorable
+My	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+left	VBD	Slightly Memorable
+me	PRP	Slightly Memorable
+when	WRB	Slightly Memorable
+I	PRP	Slightly Memorable
+was	VBD	Slightly Memorable
+four	CD	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+reaches	VBZ	Slightly Memorable
+through	IN	Slightly Memorable
+the	DT	Slightly Memorable
+bars	NNS	Slightly Memorable
+and	CC	Slightly Memorable
+SNATCHES	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+paper	NN	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Land	NNP	Slightly Memorable
+of	IN	Slightly Memorable
+the	DT	Slightly Memorable
+fairies	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Land	NNP	Slightly Memorable
+of	IN	Slightly Memorable
+the	DT	Slightly Memorable
+fairies	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUKE	NNP	Slightly Memorable
+Land	NNP	Slightly Memorable
+of	IN	Slightly Memorable
+the	DT	Slightly Memorable
+fairies	NNS	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	IN	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+time	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+find	VBP	Slightly Memorable
+happiness	JJ	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+way	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+see	VBP	Slightly Memorable
+possible	JJ	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	IN	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+time	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+find	VBP	Slightly Memorable
+happiness	JJ	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+way	NN	Slightly Memorable
+I	PRP	Slightly Memorable
+see	VBP	Slightly Memorable
+possible	JJ	Slightly Memorable
+.	.	Slightly Memorable
+As	IN	Slightly Memorable
+the	DT	Slightly Memorable
+war	NN	Slightly Memorable
+report	NN	Slightly Memorable
+ends	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+stuffy	JJ	Slightly Memorable
+musical	JJ	Slightly Memorable
+piece	NN	Slightly Memorable
+begins	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+As	IN	Slightly Memorable
+the	DT	Slightly Memorable
+war	NN	Slightly Memorable
+report	NN	Slightly Memorable
+ends	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+stuffy	JJ	Slightly Memorable
+musical	JJ	Slightly Memorable
+piece	NN	Slightly Memorable
+begins	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+As	IN	Slightly Memorable
+the	DT	Slightly Memorable
+war	NN	Slightly Memorable
+report	NN	Slightly Memorable
+ends	VBZ	Slightly Memorable
+,	,	Slightly Memorable
+a	DT	Slightly Memorable
+stuffy	JJ	Slightly Memorable
+musical	JJ	Slightly Memorable
+piece	NN	Slightly Memorable
+begins	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Lu	NNP	Slightly Memorable
+,	,	Slightly Memorable
+I	PRP	Slightly Memorable
+do	VBP	Slightly Memorable
+n't	RB	Slightly Memorable
+think	VB	Slightly Memorable
+he	PRP	Slightly Memorable
+gets	VBZ	Slightly Memorable
+what	WP	Slightly Memorable
+we	PRP	Slightly Memorable
+'re	VBP	Slightly Memorable
+trying	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+do	VB	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Hands	VBZ	Slightly Memorable
+them	PRP	Slightly Memorable
+to	TO	Slightly Memorable
+Lucien	VB	Slightly Memorable
+who	WP	Slightly Memorable
+nails	VBZ	Slightly Memorable
+them	PRP	Slightly Memorable
+to	TO	Slightly Memorable
+the	DT	Slightly Memorable
+wall	NN	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+in	IN	Slightly Memorable
+Wonderland	NNP	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+in	IN	Slightly Memorable
+Wonderland	NNP	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+in	IN	Slightly Memorable
+Wonderland	NNP	Slightly Memorable
+.	.	Slightly Memorable
+We	PRP	Slightly Memorable
+close	VBP	Slightly Memorable
+in	IN	Slightly Memorable
+on	IN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+despondent	JJ	Slightly Memorable
+face	NN	Slightly Memorable
+.	.	Slightly Memorable
+We	PRP	Slightly Memorable
+close	VBP	Slightly Memorable
+in	IN	Slightly Memorable
+on	IN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+despondent	JJ	Slightly Memorable
+face	NN	Slightly Memorable
+.	.	Slightly Memorable
+Consonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+Consonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+Consonance	NN	Slightly Memorable
+.	.	Slightly Memorable
+From	IN	Slightly Memorable
+down	RP	Slightly Memorable
+the	DT	Slightly Memorable
+hall	NN	Slightly Memorable
+...	:	Slightly Memorable
+From	IN	Slightly Memorable
+down	RP	Slightly Memorable
+the	DT	Slightly Memorable
+hall	NN	Slightly Memorable
+...	:	Slightly Memorable
+From	IN	Slightly Memorable
+down	RP	Slightly Memorable
+the	DT	Slightly Memorable
+hall	NN	Slightly Memorable
+...	:	Slightly Memorable
+Bill	NNP	Slightly Memorable
+stands	VBZ	Slightly Memorable
+up	RP	Slightly Memorable
+,	,	Slightly Memorable
+woozy	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Her	PRP$	Slightly Memorable
+knuckles	NNS	Slightly Memorable
+are	VBP	Slightly Memorable
+bleeding	VBG	Slightly Memorable
+.	.	Slightly Memorable
+Her	PRP$	Slightly Memorable
+knuckles	NNS	Slightly Memorable
+are	VBP	Slightly Memorable
+bleeding	VBG	Slightly Memorable
+.	.	Slightly Memorable
+Her	PRP$	Slightly Memorable
+knuckles	NNS	Slightly Memorable
+are	VBP	Slightly Memorable
+bleeding	VBG	Slightly Memorable
+.	.	Slightly Memorable
+Then	RB	Slightly Memorable
+a	DT	Slightly Memorable
+woman	NN	Slightly Memorable
+whimpering	VBG	Slightly Memorable
+in	IN	Slightly Memorable
+pain	NN	Slightly Memorable
+.	.	Slightly Memorable
+Then	RB	Slightly Memorable
+a	DT	Slightly Memorable
+woman	NN	Slightly Memorable
+whimpering	VBG	Slightly Memorable
+in	IN	Slightly Memorable
+pain	NN	Slightly Memorable
+.	.	Slightly Memorable
+Then	RB	Slightly Memorable
+a	DT	Slightly Memorable
+woman	NN	Slightly Memorable
+whimpering	VBG	Slightly Memorable
+in	IN	Slightly Memorable
+pain	NN	Slightly Memorable
+.	.	Slightly Memorable
+We	PRP	Slightly Memorable
+were	VBD	Slightly Memorable
+just	RB	Slightly Memorable
+in	IN	Slightly Memorable
+Allen	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+imagination	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Professor	NNP	Slightly Memorable
+Steeves	NNP	Slightly Memorable
+,	,	Slightly Memorable
+then	RB	Slightly Memorable
+how	WRB	Slightly Memorable
+do	VB	Slightly Memorable
+you	PRP	Slightly Memorable
+explain	VB	Slightly Memorable
+Whitman	NNP	Slightly Memorable
+?	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Professor	NNP	Slightly Memorable
+Steeves	NNP	Slightly Memorable
+,	,	Slightly Memorable
+then	RB	Slightly Memorable
+how	WRB	Slightly Memorable
+do	VB	Slightly Memorable
+you	PRP	Slightly Memorable
+explain	VB	Slightly Memorable
+Whitman	NNP	Slightly Memorable
+?	.	Slightly Memorable
+,	,	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Professor	NNP	Slightly Memorable
+Steeves	NNP	Slightly Memorable
+,	,	Slightly Memorable
+then	RB	Slightly Memorable
+how	WRB	Slightly Memorable
+do	VB	Slightly Memorable
+you	PRP	Slightly Memorable
+explain	VB	Slightly Memorable
+Whitman	NNP	Slightly Memorable
+?	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+watching	VBG	Slightly Memorable
+him	PRP	Slightly Memorable
+disappear	JJ	Slightly Memorable
+.	.	Slightly Memorable
+Allen	NNP	Slightly Memorable
+watching	VBG	Slightly Memorable
+him	PRP	Slightly Memorable
+disappear	JJ	Slightly Memorable
+.	.	Slightly Memorable
+PROFESSOR	NNP	Slightly Memorable
+STEEVES	NNP	Slightly Memorable
+All	NNP	Slightly Memorable
+right	RB	Slightly Memorable
+.	.	Slightly Memorable
+Jack	NNP	Slightly Memorable
+ignores	VBZ	Slightly Memorable
+Allen	NNP	Slightly Memorable
+,	,	Slightly Memorable
+wings	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+pigskin	NN	Slightly Memorable
+right	NN	Slightly Memorable
+at	IN	Slightly Memorable
+him	PRP	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+DAVID	NNP	Slightly Memorable
+That	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+odd	JJ	Slightly Memorable
+since	IN	Slightly Memorable
+I	PRP	Slightly Memorable
+'m	VBP	Slightly Memorable
+the	DT	Slightly Memorable
+only	JJ	Slightly Memorable
+thing	NN	Slightly Memorable
+keeping	VBG	Slightly Memorable
+him	PRP	Slightly Memorable
+here	RB	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+ashamed	VBD	Slightly Memorable
+.	.	Slightly Memorable
+6.	CD	Slightly Memorable
+,	,	Slightly Memorable
+He	PRP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+ashamed	VBD	Slightly Memorable
+.	.	Slightly Memorable
+6.	CD	Slightly Memorable
+,	,	Slightly Memorable
+Steeves	NNS	Slightly Memorable
+motions	NNS	Slightly Memorable
+to	TO	Slightly Memorable
+the	DT	Slightly Memorable
+door	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+looks	VBZ	Slightly Memorable
+down	RB	Slightly Memorable
+,	,	Slightly Memorable
+ashamed	VBD	Slightly Memorable
+.	.	Slightly Memorable
+6.	CD	Slightly Memorable
+,	,	Slightly Memorable
+The	DT	Slightly Memorable
+hardest	JJS	Slightly Memorable
+thing	NN	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+ever	RB	Slightly Memorable
+done	VBN	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+hardest	JJS	Slightly Memorable
+thing	NN	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+ever	RB	Slightly Memorable
+done	VBN	Slightly Memorable
+.	.	Slightly Memorable
+The	DT	Slightly Memorable
+hardest	JJS	Slightly Memorable
+thing	NN	Slightly Memorable
+he	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+ever	RB	Slightly Memorable
+done	VBN	Slightly Memorable
+.	.	Slightly Memorable
+An	DT	Slightly Memorable
+eerie	JJ	Slightly Memorable
+hum	NN	Slightly Memorable
+from	IN	Slightly Memorable
+the	DT	Slightly Memorable
+glass	NN	Slightly Memorable
+.	.	Slightly Memorable
+An	DT	Slightly Memorable
+eerie	JJ	Slightly Memorable
+hum	NN	Slightly Memorable
+from	IN	Slightly Memorable
+the	DT	Slightly Memorable
+glass	NN	Slightly Memorable
+.	.	Slightly Memorable
+DAVID	NNP	Slightly Memorable
+So	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+pattern	NN	Slightly Memorable
+of	IN	Slightly Memorable
+our	PRP$	Slightly Memorable
+evening	NN	Slightly Memorable
+,	,	Slightly Memorable
+our	PRP$	Slightly Memorable
+lives	NNS	Slightly Memorable
+,	,	Slightly Memorable
+holds	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+DAVID	NNP	Slightly Memorable
+So	NNP	Slightly Memorable
+the	DT	Slightly Memorable
+pattern	NN	Slightly Memorable
+of	IN	Slightly Memorable
+our	PRP$	Slightly Memorable
+evening	NN	Slightly Memorable
+,	,	Slightly Memorable
+our	PRP$	Slightly Memorable
+lives	NNS	Slightly Memorable
+,	,	Slightly Memorable
+holds	VBZ	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+grabs	NN	Slightly Memorable
+for	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+manuscript	NN	Slightly Memorable
+back	RB	Slightly Memorable
+,	,	Slightly Memorable
+but	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+out	IN	Slightly Memorable
+of	IN	Slightly Memorable
+reach	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+grabs	NN	Slightly Memorable
+for	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+manuscript	NN	Slightly Memorable
+back	RB	Slightly Memorable
+,	,	Slightly Memorable
+but	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+out	IN	Slightly Memorable
+of	IN	Slightly Memorable
+reach	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+grabs	NN	Slightly Memorable
+for	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+manuscript	NN	Slightly Memorable
+back	RB	Slightly Memorable
+,	,	Slightly Memorable
+but	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+out	IN	Slightly Memorable
+of	IN	Slightly Memorable
+reach	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+grabs	NN	Slightly Memorable
+for	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+manuscript	NN	Slightly Memorable
+back	RB	Slightly Memorable
+,	,	Slightly Memorable
+but	CC	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+it	PRP	Slightly Memorable
+out	IN	Slightly Memorable
+of	IN	Slightly Memorable
+reach	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+I	PRP	Slightly Memorable
+found	VBD	Slightly Memorable
+a	DT	Slightly Memorable
+real	JJ	Slightly Memorable
+writer	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+No	NNP	Slightly Memorable
+.	.	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+drinks	VBZ	Slightly Memorable
+wine	JJ	Slightly Memorable
+beside	NN	Slightly Memorable
+.	.	Slightly Memorable
+This	DT	Slightly Memorable
+boy	VBZ	Slightly Memorable
+so	RB	Slightly Memorable
+close	JJ	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+rush	NN	Slightly Memorable
+of	IN	Slightly Memorable
+contact	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+This	DT	Slightly Memorable
+boy	VBZ	Slightly Memorable
+so	RB	Slightly Memorable
+close	JJ	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+rush	NN	Slightly Memorable
+of	IN	Slightly Memorable
+contact	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+This	DT	Slightly Memorable
+boy	VBZ	Slightly Memorable
+so	RB	Slightly Memorable
+close	JJ	Slightly Memorable
+,	,	Slightly Memorable
+the	DT	Slightly Memorable
+rush	NN	Slightly Memorable
+of	IN	Slightly Memorable
+contact	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Flash	NNP	Slightly Memorable
+of	IN	Slightly Memorable
+their	PRP$	Slightly Memorable
+past	JJ	Slightly Memorable
+build	NN	Slightly Memorable
+in	IN	Slightly Memorable
+a	DT	Slightly Memorable
+crescendo	NN	Slightly Memorable
+as	IN	Slightly Memorable
+he	PRP	Slightly Memorable
+keeps	VBZ	Slightly Memorable
+searching	VBG	Slightly Memorable
+,	,	Slightly Memorable
+digging	VBG	Slightly Memorable
+through	IN	Slightly Memorable
+moments	NNS	Slightly Memorable
+,	,	Slightly Memorable
+leading	VBG	Slightly Memorable
+to	TO	Slightly Memorable
+...	:	Slightly Memorable
+,	,	Slightly Memorable
+David	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+body	NN	Slightly Memorable
+LIFTS	NNP	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+young	JJ	Slightly Memorable
+man	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+arms	NNS	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+body	NN	Slightly Memorable
+LIFTS	NNP	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+young	JJ	Slightly Memorable
+man	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+arms	NNS	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+body	NN	Slightly Memorable
+LIFTS	NNP	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+young	JJ	Slightly Memorable
+man	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+arms	NNS	Slightly Memorable
+.	.	Slightly Memorable
+David	NNP	Slightly Memorable
+'s	POS	Slightly Memorable
+body	NN	Slightly Memorable
+LIFTS	NNP	Slightly Memorable
+into	IN	Slightly Memorable
+the	DT	Slightly Memorable
+young	JJ	Slightly Memorable
+man	NN	Slightly Memorable
+'s	POS	Slightly Memorable
+arms	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Bill	NNP	Slightly Memorable
+puts	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+tube	NN	Slightly Memorable
+of	IN	Slightly Memorable
+gas	NN	Slightly Memorable
+back	RB	Slightly Memorable
+in	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+mouth	NN	Slightly Memorable
+,	,	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+business	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Bill	NNP	Slightly Memorable
+puts	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+tube	NN	Slightly Memorable
+of	IN	Slightly Memorable
+gas	NN	Slightly Memorable
+back	RB	Slightly Memorable
+in	IN	Slightly Memorable
+his	PRP$	Slightly Memorable
+mouth	NN	Slightly Memorable
+,	,	Slightly Memorable
+back	RB	Slightly Memorable
+to	TO	Slightly Memorable
+business	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Libation	NN	Slightly Memorable
+?	.	Slightly Memorable
+Libation	NN	Slightly Memorable
+?	.	Slightly Memorable
+Libation	NN	Slightly Memorable
+?	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+There	EX	Slightly Memorable
+'s	VBZ	Slightly Memorable
+more	JJR	Slightly Memorable
+life	NN	Slightly Memorable
+in	IN	Slightly Memorable
+those	DT	Slightly Memorable
+five	CD	Slightly Memorable
+pages	NNS	Slightly Memorable
+than	IN	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+dozens	NNS	Slightly Memorable
+of	IN	Slightly Memorable
+bad	JJ	Slightly Memorable
+sonnets	NNS	Slightly Memorable
+we	PRP	Slightly Memorable
+'ve	VBP	Slightly Memorable
+read	VBN	Slightly Memorable
+in	IN	Slightly Memorable
+class	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+been	VBN	Slightly Memorable
+caught	VBN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+been	VBN	Slightly Memorable
+caught	VBN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+been	VBN	Slightly Memorable
+caught	VBN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+notices	VBZ	Slightly Memorable
+on	IN	Slightly Memorable
+one	CD	Slightly Memorable
+wall	NN	Slightly Memorable
+are	VBP	Slightly Memorable
+patriotic	JJ	Slightly Memorable
+posters	NNS	Slightly Memorable
+,	,	Slightly Memorable
+exercise	NN	Slightly Memorable
+posters	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+He	PRP	Slightly Memorable
+notices	VBZ	Slightly Memorable
+on	IN	Slightly Memorable
+one	CD	Slightly Memorable
+wall	NN	Slightly Memorable
+are	VBP	Slightly Memorable
+patriotic	JJ	Slightly Memorable
+posters	NNS	Slightly Memorable
+,	,	Slightly Memorable
+exercise	NN	Slightly Memorable
+posters	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+He	PRP	Slightly Memorable
+notices	VBZ	Slightly Memorable
+on	IN	Slightly Memorable
+one	CD	Slightly Memorable
+wall	NN	Slightly Memorable
+are	VBP	Slightly Memorable
+patriotic	JJ	Slightly Memorable
+posters	NNS	Slightly Memorable
+,	,	Slightly Memorable
+exercise	NN	Slightly Memorable
+posters	NNS	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Allen	NNP	Slightly Memorable
+,	,	Slightly Memorable
+now	RB	Slightly Memorable
+the	DT	Slightly Memorable
+third	JJ	Slightly Memorable
+wheel	NN	Slightly Memorable
+,	,	Slightly Memorable
+reluctantly	RB	Slightly Memorable
+chases	VBZ	Slightly Memorable
+after	IN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+inverts	NNS	Slightly Memorable
+two	CD	Slightly Memorable
+small	JJ	Slightly Memorable
+glasses	NNS	Slightly Memorable
+and	CC	Slightly Memorable
+pours	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+inverts	NNS	Slightly Memorable
+two	CD	Slightly Memorable
+small	JJ	Slightly Memorable
+glasses	NNS	Slightly Memorable
+and	CC	Slightly Memorable
+pours	NNS	Slightly Memorable
+.	.	Slightly Memorable
+Lucien	NNP	Slightly Memorable
+inverts	NNS	Slightly Memorable
+two	CD	Slightly Memorable
+small	JJ	Slightly Memorable
+glasses	NNS	Slightly Memorable
+and	CC	Slightly Memorable
+pours	NNS	Slightly Memorable
+.	.	Slightly Memorable
+LUCIEN	NNP	Slightly Memorable
+First	NNP	Slightly Memorable
+thought	VBD	Slightly Memorable
+,	,	Slightly Memorable
+best	JJS	Slightly Memorable
+thought	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
+Your	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+perhaps	RB	Slightly Memorable
+is	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+poet	NN	Slightly Memorable
+Louis	NNP	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+?	.	Slightly Memorable
+Your	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+perhaps	RB	Slightly Memorable
+is	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+poet	NN	Slightly Memorable
+Louis	NNP	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+?	.	Slightly Memorable
+Your	PRP$	Slightly Memorable
+father	NN	Slightly Memorable
+perhaps	RB	Slightly Memorable
+is	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+poet	NN	Slightly Memorable
+Louis	NNP	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+?	.	Slightly Memorable
+Jack	NNP	Slightly Memorable
+comes	VBZ	Slightly Memorable
+to	TO	Slightly Memorable
+the	DT	Slightly Memorable
+table	NN	Slightly Memorable
+.	.	Slightly Memorable
+It	PRP	Slightly Memorable
+'s	VBZ	Slightly Memorable
+fiction	NN	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+pulls	VBZ	Slightly Memorable
+the	DT	Slightly Memorable
+knife	NN	Slightly Memorable
+free	JJ	Slightly Memorable
+.	.	Slightly Memorable
+He	PRP	Slightly Memorable
+nailed	VBD	Slightly Memorable
+the	DT	Slightly Memorable
+windows	NNS	Slightly Memorable
+shut	VBP	Slightly Memorable
+while	IN	Slightly Memorable
+I	PRP	Slightly Memorable
+was	VBD	Slightly Memorable
+in	IN	Slightly Memorable
+the	DT	Slightly Memorable
+bath	NN	Slightly Memorable
+.	.	Slightly Memorable
+ALLEN	NNP	Slightly Memorable
+Allen	NNP	Slightly Memorable
+Ginsberg	NNP	Slightly Memorable
+.	.	Slightly Memorable
+Now	RB	Slightly Memorable
+,	,	Slightly Memorable
+come	VB	Slightly Memorable
+on	IN	Slightly Memorable
+,	,	Slightly Memorable
+I	PRP	Slightly Memorable
+want	VBP	Slightly Memorable
+you	PRP	Slightly Memorable
+to	TO	Slightly Memorable
+meet	VB	Slightly Memorable
+our	PRP$	Slightly Memorable
+host	NN	Slightly Memorable
+.	.	Slightly Memorable
+,	,	Slightly Memorable
