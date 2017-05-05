@@ -1,0 +1,757 @@
+ALLEN Your best 	N/A	Inconclusive
+ALLEN Your best 	N/A	Inconclusive
+It 's not for my best 	N/A	Inconclusive
+It 's not for my best 	N/A	Inconclusive
+PROFESSOR STEEVES What 's your name ? PROFESSOR STEEVES What 's your name ? PROFESSOR STEEVES What 's your name ? Do you want to go back to Greystone ? Do you want to go back to Greystone ? Do you want to go back to Greystone ? LUCIEN You ca n't show this to anyone 	N/A	Inconclusive
+LUCIEN You ca n't show this to anyone 	N/A	Inconclusive
+LUCIEN You ca n't show this to anyone 	N/A	Inconclusive
+LUCIEN You ca n't show this to anyone 	N/A	Inconclusive
+NAOMI Where were you ? NAOMI Where were you ? ALLEN Dad , what 's going on ? , ALLEN Dad , what 's going on ? , JACK What do you want me to do ? Listen , you have to look after yourself 	0.0460517018599	Slightly Memorable
+, Listen , you have to look after yourself 	0.0460517018599	Slightly Memorable
+, Listen , you have to look after yourself 	0.0460517018599	Slightly Memorable
+, Are you all right ? 18 	0.0460517018599	Slightly Memorable
+Are you all right ? 18 	N/A	Inconclusive
+I do n't do ... the cannabis 	N/A	Inconclusive
+I do n't do ... the cannabis 	N/A	Inconclusive
+LUCIEN It 's how we make the world wider 	N/A	Inconclusive
+ALLEN No 	N/A	Inconclusive
+I 'm not 	N/A	Inconclusive
+14 	N/A	Inconclusive
+ALLEN No 	N/A	Inconclusive
+I 'm not 	N/A	Inconclusive
+14 	N/A	Inconclusive
+ALLEN No 	N/A	Inconclusive
+I 'm not 	N/A	Inconclusive
+14 	N/A	Inconclusive
+We have to write it all down 	N/A	Inconclusive
+Just the sound of the water 	N/A	Inconclusive
+You want the world on fire ? Some beach near Rome 	N/A	Inconclusive
+ALLEN Why did n't you tell me ? PROFESSOR STEEVES `` The New Vision 	0.0460517018599	Slightly Memorable
+ALLEN Why do n't you like me ? ALLEN Why do n't you like me ? Maybe you 're not up for this after all 	N/A	Inconclusive
+35 	N/A	Inconclusive
+BILL Play nice , David 	0.0460517018599	Slightly Memorable
+, BILL Play nice , David 	0.0460517018599	Slightly Memorable
+, LUCIEN We need a name 	0.0460517018599	Slightly Memorable
+LUCIEN We need a name 	N/A	Inconclusive
+Calls out to David 	N/A	Inconclusive
+ALLEN Can he still hear me ? ALLEN Can he still hear me ? ALLEN Can he still hear me ? LUCIEN What are you , moving in ? , JACK You missed 	0.0460517018599	Slightly Memorable
+They 're playing his game 	N/A	Inconclusive
+Allen realizes what 's happening 	N/A	Inconclusive
+Allen realizes what 's happening 	N/A	Inconclusive
+Bang : the whole world ... Bang : the whole world ... Bang : the whole world ... BILL ( O.S 	0.0460517018599	Slightly Memorable
+) Pervitin 	0.0460517018599	Slightly Memorable
+LUCIEN We have the map 	N/A	Inconclusive
+A work of fiction you will deliver as your final exam 	N/A	Inconclusive
+The other students take note 	N/A	Inconclusive
+The other students take note 	N/A	Inconclusive
+The other students take note 	N/A	Inconclusive
+LOUIS You got in ? ! 7 	N/A	Inconclusive
+LOUIS You got in ? ! 7 	N/A	Inconclusive
+LOUIS You got in ? ! 7 	N/A	Inconclusive
+Get out ! Allen stumbles out of the room , scared 	0.0460517018599	Slightly Memorable
+, Two more sentences 	0.0460517018599	Slightly Memorable
+Two more sentences 	N/A	Inconclusive
+Two more sentences 	N/A	Inconclusive
+JACK My best friend since I was twelve 	N/A	Inconclusive
+Allen looks down , a bad liar 	0.0460517018599	Slightly Memorable
+4. , Allen looks down , a bad liar 	0.0460517018599	Slightly Memorable
+4. , Allen looks down , a bad liar 	0.0460517018599	Slightly Memorable
+4. , Life is only interesting if life is wide 	0.0460517018599	Slightly Memorable
+13 	N/A	Inconclusive
+Life is only interesting if life is wide 	N/A	Inconclusive
+13 	N/A	Inconclusive
+This is what a first time looks like 	N/A	Inconclusive
+This is what a first time looks like 	N/A	Inconclusive
+LUCIEN Fuck you 	N/A	Inconclusive
+ALLEN Fuck you 	N/A	Inconclusive
+Life is only interesting if life is wide 	N/A	Inconclusive
+13 	N/A	Inconclusive
+That would just be the end of you 	N/A	Inconclusive
+Is he there with you ? ! ALLEN No , he 's not here with me 	0.0460517018599	Slightly Memorable
+, Is he there with you ? ! ALLEN No , he 's not here with me 	0.0460517018599	Slightly Memorable
+, Because you 're not right 	0.0460517018599	Slightly Memorable
+Because you 're not right 	N/A	Inconclusive
+Because you 're not right 	N/A	Inconclusive
+LUCIEN Because it was me 	N/A	Inconclusive
+LUCIEN Because it was me 	N/A	Inconclusive
+Share 	N/A	Inconclusive
+ALLEN Show me your fucking map 	N/A	Inconclusive
+But it 's too late 	N/A	Inconclusive
+LUKE You hymies are really all about work , huh ? , LUKE You hymies are really all about work , huh ? , LUKE You hymies are really all about work , huh ? , ALLEN No , my mother 	0.0460517018599	Slightly Memorable
+, ALLEN No , my mother 	0.0460517018599	Slightly Memorable
+, Candles light the room 	0.0460517018599	Slightly Memorable
+Candles light the room 	N/A	Inconclusive
+Candles light the room 	N/A	Inconclusive
+We see a young man cleaning house , sweeping in the background 	0.0460517018599	Slightly Memorable
+, We see a young man cleaning house , sweeping in the background 	0.0460517018599	Slightly Memorable
+, We see a young man cleaning house , sweeping in the background 	0.0460517018599	Slightly Memorable
+, He eyes a map of the New York City subway system 	0.0460517018599	Slightly Memorable
+He eyes a map of the New York City subway system 	N/A	Inconclusive
+He eyes a map of the New York City subway system 	N/A	Inconclusive
+That 's one 	N/A	Inconclusive
+Anything for me ? Anything for me ? Anything for me ? First 	N/A	Inconclusive
+First 	N/A	Inconclusive
+She may not get her nectacled 	N/A	Inconclusive
+She may not get her nectacled 	N/A	Inconclusive
+I 'm not even sure why I bothered to come back 	N/A	Inconclusive
+A blank page 	N/A	Inconclusive
+ALLEN How did they come up `` Dada '' ? ALLEN How did they come up `` Dada '' ? DAVID Or maybe he already has 	0.0460517018599	Slightly Memorable
+David pulls him to the center of the room 	N/A	Inconclusive
+David pulls him to the center of the room 	N/A	Inconclusive
+He drops it into three coffee cups 	N/A	Inconclusive
+It 's ... MUSIC PLAYS over ... MUSIC PLAYS over ... LUCIEN Well , thank you 	0.0460517018599	Slightly Memorable
+, DAVID He 's out 	0.0460517018599	Slightly Memorable
+JACK Trust me 	N/A	Inconclusive
+To be reborn , we have to die first 	0.0460517018599	Slightly Memorable
+, To be reborn , we have to die first 	0.0460517018599	Slightly Memorable
+, ALLEN ( into the phone ) Listen , I 'll come as soon as I can 	0.0460517018599	Slightly Memorable
+16. , ALLEN ( into the phone ) Listen , I 'll come as soon as I can 	0.0460517018599	Slightly Memorable
+16. , The class titters 	0.0460517018599	Slightly Memorable
+The class titters 	N/A	Inconclusive
+The class titters 	N/A	Inconclusive
+Living 	N/A	Inconclusive
+Living 	N/A	Inconclusive
+Living 	N/A	Inconclusive
+Remember ? Ever 	N/A	Inconclusive
+Look at her ! Listen to her ! Naomi babbling 	N/A	Inconclusive
+NAOMI You 've got to get me out of here 	N/A	Inconclusive
+NAOMI You 've got to get me out of here 	N/A	Inconclusive
+NAOMI You 've got to get me out of here 	N/A	Inconclusive
+Give 	N/A	Inconclusive
+That book is restricted 	N/A	Inconclusive
+Dead 	N/A	Inconclusive
+The puppy following his new master 	N/A	Inconclusive
+Dead 	N/A	Inconclusive
+Dead 	N/A	Inconclusive
+That book is restricted 	N/A	Inconclusive
+The puppy following his new master 	N/A	Inconclusive
+That book is restricted 	N/A	Inconclusive
+Dead 	N/A	Inconclusive
+Jack 	N/A	Inconclusive
+Jack 	N/A	Inconclusive
+What does that even mean ? ! JACK Good 	N/A	Inconclusive
+PERMISSIONS LIBRARIAN Get down immediately 	N/A	Inconclusive
+PERMISSIONS LIBRARIAN Get down immediately 	N/A	Inconclusive
+PERMISSIONS LIBRARIAN Get down immediately 	N/A	Inconclusive
+Until 	N/A	Inconclusive
+Until 	N/A	Inconclusive
+Until 	N/A	Inconclusive
+DAVID What the hell is this ? LUCIEN What do you think ? Alone 	N/A	Inconclusive
+Lose 	N/A	Inconclusive
+We PULL BACK to see the entire wall is covered in words 	N/A	Inconclusive
+Louis lights his own cigarette 	N/A	Inconclusive
+Louis lights his own cigarette 	N/A	Inconclusive
+Louis lights his own cigarette 	N/A	Inconclusive
+Off in the Navy 	N/A	Inconclusive
+NAOMI Honey , I need you come home now 	0.0460517018599	Slightly Memorable
+, NAOMI Honey , I need you come home now 	0.0460517018599	Slightly Memorable
+, NAOMI Honey , I need you come home now 	0.0460517018599	Slightly Memorable
+, ALLEN I got into Columbia University ! LOUIS You got into Columbia University ? ! Allen and his father embrace 	0.0460517018599	Slightly Memorable
+He left 	N/A	Inconclusive
+ALLEN I got into Columbia University ! LOUIS You got into Columbia University ? ! Allen and his father embrace 	N/A	Inconclusive
+He left 	N/A	Inconclusive
+ALLEN I got into Columbia University ! LOUIS You got into Columbia University ? ! Allen and his father embrace 	N/A	Inconclusive
+He left 	N/A	Inconclusive
+Put him on 	N/A	Inconclusive
+15 	N/A	Inconclusive
+We 're taking my brother with us to the social 	N/A	Inconclusive
+Put him on 	N/A	Inconclusive
+15 	N/A	Inconclusive
+We 're taking my brother with us to the social 	N/A	Inconclusive
+Put him on 	N/A	Inconclusive
+15 	N/A	Inconclusive
+We 're taking my brother with us to the social 	N/A	Inconclusive
+JACK Hey when 'd this come ? Lucien RUNS for it , then Jack 	0.0460517018599	Slightly Memorable
+, Furious 	0.0460517018599	Slightly Memorable
+Furious 	N/A	Inconclusive
+Have , hand 	0.0460517018599	Slightly Memorable
+, Have , hand 	0.0460517018599	Slightly Memorable
+, Have , hand 	0.0460517018599	Slightly Memorable
+, He 's in 	0.0460517018599	Slightly Memorable
+He 's in 	N/A	Inconclusive
+What else ? This is bad 	N/A	Inconclusive
+This is bad 	N/A	Inconclusive
+Where is Sammy now ? JACK I dunno 	N/A	Inconclusive
+Have you read A Vision ? Have you read A Vision ? Have you read A Vision ? The door slams 	N/A	Inconclusive
+JACK Even better 	N/A	Inconclusive
+The door slams 	N/A	Inconclusive
+I love first times 	N/A	Inconclusive
+I love first times 	N/A	Inconclusive
+The door slams 	N/A	Inconclusive
+I love first times 	N/A	Inconclusive
+All playing in reverse 	N/A	Inconclusive
+ALLEN Not exactly 	N/A	Inconclusive
+Moving on 	N/A	Inconclusive
+Moving on 	N/A	Inconclusive
+Allen sits beside 	N/A	Inconclusive
+Moving on 	N/A	Inconclusive
+None of them belong on the page 	N/A	Inconclusive
+Unhappy 	N/A	Inconclusive
+Beowolf 	N/A	Inconclusive
+Books for furniture 	N/A	Inconclusive
+Beowolf 	N/A	Inconclusive
+Books for furniture 	N/A	Inconclusive
+Books for furniture 	N/A	Inconclusive
+Beowolf 	N/A	Inconclusive
+ALLEN Dad did n't do that 	N/A	Inconclusive
+With a friend 	N/A	Inconclusive
+25 	N/A	Inconclusive
+ALLEN Dad did n't do that 	N/A	Inconclusive
+With a friend 	N/A	Inconclusive
+25 	N/A	Inconclusive
+ALLEN Dad did n't do that 	N/A	Inconclusive
+Even better 	N/A	Inconclusive
+Even better 	N/A	Inconclusive
+Why do you think he chose that form ? Why do you think he chose that form ? Why do you think he chose that form ? There it is 	N/A	Inconclusive
+I love complicated 	N/A	Inconclusive
+I love complicated 	N/A	Inconclusive
+ALLEN What is that ? ALLEN What is that ? ALLEN Not anymore 	N/A	Inconclusive
+Life is round 	N/A	Inconclusive
+Life is round 	N/A	Inconclusive
+ALLEN Be careful 	N/A	Inconclusive
+ALLEN A fruit ? Allen considers , agrees 	0.0460517018599	Slightly Memorable
+, A suicide is underway 	0.0460517018599	Slightly Memorable
+A suicide is underway 	N/A	Inconclusive
+A record starts up down the hall 	N/A	Inconclusive
+A record starts up down the hall 	N/A	Inconclusive
+A record starts up down the hall 	N/A	Inconclusive
+David at his party ... Lucien looks up , surprised 	0.0460517018599	Slightly Memorable
+, Lucien looks up , surprised 	0.0460517018599	Slightly Memorable
+, Lucien looks up , surprised 	0.0460517018599	Slightly Memorable
+, LOUIS Is what we hand away 	0.0460517018599	Slightly Memorable
+LOUIS Is what we hand away 	N/A	Inconclusive
+LOUIS Is what we hand away 	N/A	Inconclusive
+DAVID It 's mine 	N/A	Inconclusive
+But under the right circumstances , even he might change the world 	0.0460517018599	Slightly Memorable
+, You expecting something ? You expecting something ? But under the right circumstances , even he might change the world 	0.0460517018599	Slightly Memorable
+, You expecting something ? It 's your truth 	0.0460517018599	Slightly Memorable
+It 's your truth 	N/A	Inconclusive
+It 's your truth 	N/A	Inconclusive
+It 's your truth 	N/A	Inconclusive
+Bill holds up his finger - it is on fire 	N/A	Inconclusive
+LUKE I 'm getting good at telling 	N/A	Inconclusive
+LUKE I 'm getting good at telling 	N/A	Inconclusive
+LUKE I 'm getting good at telling 	N/A	Inconclusive
+The kind of kid who takes care of everything 	N/A	Inconclusive
+The kind of kid who takes care of everything 	N/A	Inconclusive
+Clear your head 	N/A	Inconclusive
+Clear your head 	N/A	Inconclusive
+Clear your head 	N/A	Inconclusive
+Allen 's eyes roll back 	N/A	Inconclusive
+Bill notices David , turns off the gas 	0.0460517018599	Slightly Memorable
+32. , This detonates inside Allen 	0.0460517018599	Slightly Memorable
+He 's upset 	N/A	Inconclusive
+He 's upset 	N/A	Inconclusive
+He 's upset 	N/A	Inconclusive
+BILL `` A girl who is bespectacled 	0.0460517018599	Slightly Memorable
+BILL `` A girl who is bespectacled 	0.0460517018599	Slightly Memorable
+The Gutenberg Bible 	N/A	Inconclusive
+The Gutenberg Bible 	N/A	Inconclusive
+The Gutenberg Bible 	N/A	Inconclusive
+EDIE ( O.S 	0.0460517018599	Slightly Memorable
+) Jack ? LUKE What the hell are you doing ? LUCIEN A queer 	0.0460517018599	Slightly Memorable
+She 's not well 	N/A	Inconclusive
+She 's not well 	N/A	Inconclusive
+She 's not well 	N/A	Inconclusive
+The kind of kid who takes care of everything 	N/A	Inconclusive
+LUCIEN No 	N/A	Inconclusive
+Downtown 	N/A	Inconclusive
+LUCIEN No 	N/A	Inconclusive
+Downtown 	N/A	Inconclusive
+LUCIEN The expression of self 	N/A	Inconclusive
+Allen , realizing he is trapped , unable to answer 	0.0460517018599	Slightly Memorable
+, LUCIEN The expression of self 	0.0460517018599	Slightly Memorable
+Allen , realizing he is trapped , unable to answer 	0.0460517018599	Slightly Memorable
+, Allen , realizing he is trapped , unable to answer 	0.0460517018599	Slightly Memorable
+, ALLEN You asked me to 	0.0460517018599	Slightly Memorable
+His current medium is himself 	N/A	Inconclusive
+His current medium is himself 	N/A	Inconclusive
+Lucien lays down 	N/A	Inconclusive
+Lucien lays down 	N/A	Inconclusive
+I have to 	N/A	Inconclusive
+I have to 	N/A	Inconclusive
+It 's overwritten , I know 	0.0460517018599	Slightly Memorable
+, It 's overwritten , I know 	0.0460517018599	Slightly Memorable
+, ALLEN ( to his father ) You ca n't do this to her 	0.0460517018599	Slightly Memorable
+ALLEN ( to his father ) You ca n't do this to her 	0.0460517018599	Slightly Memorable
+All eyes on Allen 	N/A	Inconclusive
+All eyes on Allen 	N/A	Inconclusive
+All eyes on Allen 	N/A	Inconclusive
+ALLEN No , you 're not leaving 	0.0460517018599	Slightly Memorable
+, Lucien looks at Allen , amazed 	0.0460517018599	Slightly Memorable
+, ALLEN No , you 're not leaving 	0.0460517018599	Slightly Memorable
+, ALLEN Where 'd he go ? ALLEN Where 'd he go ? Lucien looks at Allen , amazed 	0.0460517018599	Slightly Memorable
+, Lucien looks at Allen , amazed 	0.0460517018599	Slightly Memorable
+, Louis tries to read his son 's face 	0.0460517018599	Slightly Memorable
+ALLEN Where 'd he go ? ALLEN How come you 're not at the social ? Louis tries to read his son 's face 	N/A	Inconclusive
+Louis tries to read his son 's face 	N/A	Inconclusive
+ALLEN How come you 're not at the social ? ALLEN How come you 're not at the social ? LOUIS How was she today ? LOUIS How was she today ? LOUIS How was she today ? Waits for it 	N/A	Inconclusive
+ALLEN I got in 	N/A	Inconclusive
+ALLEN I got in 	N/A	Inconclusive
+ALLEN I got in 	N/A	Inconclusive
+Eat shoe leather ? ALLEN It 's complicated 	N/A	Inconclusive
+ALLEN It 's complicated 	N/A	Inconclusive
+I cooked all day for you 	N/A	Inconclusive
+43 	N/A	Inconclusive
+Let 's make the prisoners come out and play 	N/A	Inconclusive
+Let 's make the prisoners come out and play 	N/A	Inconclusive
+ALLEN I was out 	N/A	Inconclusive
+ALLEN I was out 	N/A	Inconclusive
+ALLEN What 's that ? ALLEN What 's that ? What is happening ? INT 	N/A	Inconclusive
+BILL 'S APARTMENT - DAY Bill rattles off the list 	N/A	Inconclusive
+Can I see ? Both of them on chairs 	N/A	Inconclusive
+Both of them on chairs 	N/A	Inconclusive
+You talk like a Catholic 	N/A	Inconclusive
+DAVID And get you sent back to your mother again ? Inspired to write something beautiful 	N/A	Inconclusive
+ALLEN I did n't want her to know 	N/A	Inconclusive
+( beat ) It was a dream anyway 	0.0460517018599	Slightly Memorable
+ALLEN I did n't want her to know 	N/A	Inconclusive
+( beat ) It was a dream anyway 	0.0460517018599	Slightly Memorable
+ALLEN I did n't want her to know 	N/A	Inconclusive
+( beat ) It was a dream anyway 	0.0460517018599	Slightly Memorable
+LUCIEN Institutions 	N/A	Inconclusive
+29 	N/A	Inconclusive
+I want my whole life to be composed of them 	N/A	Inconclusive
+NAOMI He would n't dare put me back there 	N/A	Inconclusive
+5 	N/A	Inconclusive
+I want my whole life to be composed of them 	N/A	Inconclusive
+I want my whole life to be composed of them 	N/A	Inconclusive
+NAOMI He would n't dare put me back there 	N/A	Inconclusive
+5 	N/A	Inconclusive
+NAOMI He would n't dare put me back there 	N/A	Inconclusive
+5 	N/A	Inconclusive
+We realize it is Jack 's novel The Sea Is My Brother 	N/A	Inconclusive
+Sucks it , eyeing Allen the whole time 	0.0460517018599	Slightly Memorable
+, What will it be ? LUCIEN No 	0.0460517018599	Slightly Memorable
+We 're not going to kill him 	N/A	Inconclusive
+LUCIEN No 	N/A	Inconclusive
+We 're not going to kill him 	N/A	Inconclusive
+Uh-oh 	N/A	Inconclusive
+Uh-oh 	N/A	Inconclusive
+Because he is 	N/A	Inconclusive
+Because he is 	N/A	Inconclusive
+Because he is 	N/A	Inconclusive
+ALLEN Then let 's get rid of him 	N/A	Inconclusive
+JACK Both of you ! Quiet ! Jack sets up an old phonograph 	N/A	Inconclusive
+Luke pulls out his own waistband and sprays some cologne down the front 	N/A	Inconclusive
+Luke pulls out his own waistband and sprays some cologne down the front 	N/A	Inconclusive
+Luke pulls out his own waistband and sprays some cologne down the front 	N/A	Inconclusive
+Movements are cooked up by people who ca n't write about the people who can 	N/A	Inconclusive
+BILL Get this man a pair of scissors ! DAVID This is not your revolution , this is my life 	0.0460517018599	Slightly Memorable
+, Allen , terrified , looks at David , who looks back , knowing exactly now who Allen is 	0.0460517018599	Slightly Memorable
+, Allen , terrified , looks at David , who looks back , knowing exactly now who Allen is 	0.0460517018599	Slightly Memorable
+, Lucien takes the joint 	0.0460517018599	Slightly Memorable
+Lucien takes the joint 	N/A	Inconclusive
+In the trenches 	N/A	Inconclusive
+Stones rise back into his pockets 	N/A	Inconclusive
+Stones rise back into his pockets 	N/A	Inconclusive
+Stones rise back into his pockets 	N/A	Inconclusive
+Stones rise back into his pockets 	N/A	Inconclusive
+With a senior , some football player 	0.0460517018599	Slightly Memorable
+, There 's one of them every year 	0.0460517018599	Slightly Memorable
+There 's one of them every year 	N/A	Inconclusive
+There 's one of them every year 	N/A	Inconclusive
+LUCIEN Who 's Sammy ? Columbia 's full of squares 	N/A	Inconclusive
+DAVID A literary revolution without writing a word 	N/A	Inconclusive
+DAVID A literary revolution without writing a word 	N/A	Inconclusive
+ALLEN You are an extraordinary man 	N/A	Inconclusive
+NAOMI He 's not home 	N/A	Inconclusive
+NAOMI He 's not home 	N/A	Inconclusive
+NAOMI I do n't feel good 	N/A	Inconclusive
+NAOMI I do n't feel good 	N/A	Inconclusive
+NAOMI He 's not home 	N/A	Inconclusive
+NAOMI I do n't feel good 	N/A	Inconclusive
+NAOMI ( O.S 	0.0460517018599	Slightly Memorable
+) Who are you talking to ? NAOMI ( O.S 	0.0460517018599	Slightly Memorable
+) Who are you talking to ? Passing out from the liquor 	0.0460517018599	Slightly Memorable
+ALLEN ( O.S 	0.0460517018599	Slightly Memorable
+) Dad is not trying to get inside your head , okay ? , ALLEN ( O.S 	0.0460517018599	Slightly Memorable
+) Dad is not trying to get inside your head , okay ? , You see how much I 've got to do 	0.0460517018599	Slightly Memorable
+You see how much I 've got to do 	N/A	Inconclusive
+You see how much I 've got to do 	N/A	Inconclusive
+ALLEN ( O.S 	0.0460517018599	Slightly Memorable
+) Dad is not trying to get inside your head , okay ? , She finally softens , takes his hand 	0.0460517018599	Slightly Memorable
+, She finally softens , takes his hand 	0.0460517018599	Slightly Memorable
+, She finally softens , takes his hand 	0.0460517018599	Slightly Memorable
+, LUCIEN It 's better than anything you 've ever written 	0.0460517018599	Slightly Memorable
+And dying 	N/A	Inconclusive
+And dying 	N/A	Inconclusive
+And dying 	N/A	Inconclusive
+It is our duty to break the law 	N/A	Inconclusive
+30 	N/A	Inconclusive
+Because I 've got a job for a writer 	N/A	Inconclusive
+Because I 've got a job for a writer 	N/A	Inconclusive
+Because I 've got a job for a writer 	N/A	Inconclusive
+EDIE I did n't know we were having guests 	N/A	Inconclusive
+Luke smacks him on the shoulder 	N/A	Inconclusive
+8 	N/A	Inconclusive
+Luke smacks him on the shoulder 	N/A	Inconclusive
+8 	N/A	Inconclusive
+Luke smacks him on the shoulder 	N/A	Inconclusive
+8 	N/A	Inconclusive
+ALLEN Do you know her ? ! LUCIEN No , and I do n't plan on it 	0.0460517018599	Slightly Memorable
+, ALLEN Do you know her ? ! LUCIEN No , and I do n't plan on it 	0.0460517018599	Slightly Memorable
+, DAVID Ah 	0.0460517018599	Slightly Memorable
+The `` Vision '' at last 	0.0460517018599	Slightly Memorable
+The memories are now flooding in 	N/A	Inconclusive
+We have the manifesto 	N/A	Inconclusive
+CUT TO : A thunder-clap 	0.0460517018599	Slightly Memorable
+EDIE I was aiming for stew 	N/A	Inconclusive
+A beat of understanding between them 	N/A	Inconclusive
+A beat of understanding between them 	N/A	Inconclusive
+He writes the words down 	N/A	Inconclusive
+Allen hands him back the smoke 	N/A	Inconclusive
+Allen hands him back the smoke 	N/A	Inconclusive
+Allen reaches for her 	N/A	Inconclusive
+Allen reaches for her 	N/A	Inconclusive
+Allen reaches for her 	N/A	Inconclusive
+LUCIEN How did you ... ? LUCIEN How did you ... ? LUCIEN And the Romantics 	N/A	Inconclusive
+LUCIEN Then what do you suggest ? Lucien at the bar ... 38 	N/A	Inconclusive
+Lucien grabs Allen 's hand , pulls him to the party 	0.0460517018599	Slightly Memorable
+, LUCIEN And the Romantics 	0.0460517018599	Slightly Memorable
+LUCIEN What 's that ? Lucien gets into bed 	N/A	Inconclusive
+Lucien grabs Allen 's hand , pulls him to the party 	0.0460517018599	Slightly Memorable
+, LUCIEN Then what do you suggest ? LUCIEN How did you ... ? PERMISSIONS LIBRARIAN What is this nonsense ? PERMISSIONS LIBRARIAN What is this nonsense ? PERMISSIONS LIBRARIAN What is this nonsense ? LOUIS Your mother needs her rest 	0.0460517018599	Slightly Memorable
+LOUIS Your mother needs her rest 	N/A	Inconclusive
+ALLEN Complicated enough ? ALLEN Complicated enough ? PROFESSOR STEEVES And so while Shakespeare ... Allen trails behind 	N/A	Inconclusive
+Who is you ? NAOMI I called you ! MALE NURSE It 's time to go , Mrs. , NAOMI I called you ! MALE NURSE It 's time to go , Mrs. , NAOMI ( O.S 	0.0460517018599	Slightly Memorable
+) I found the wires 	0.0460517018599	Slightly Memorable
+NAOMI ( O.S 	0.0460517018599	Slightly Memorable
+) I found the wires 	0.0460517018599	Slightly Memorable
+NAOMI ( O.S 	0.0460517018599	Slightly Memorable
+) I found the wires 	0.0460517018599	Slightly Memorable
+Allen mimes deafness 	N/A	Inconclusive
+Allen mimes deafness 	N/A	Inconclusive
+Allen mimes deafness 	N/A	Inconclusive
+David approaches Lucien 	N/A	Inconclusive
+Lucien tries to help , but falls off his own chair 	0.0460517018599	Slightly Memorable
+, Lucien tries to help , but falls off his own chair 	0.0460517018599	Slightly Memorable
+, BILL Words , boys 	0.0460517018599	Slightly Memorable
+, BILL Words , boys 	0.0460517018599	Slightly Memorable
+, And ... 28 	0.0460517018599	Slightly Memorable
+And ... 28 	N/A	Inconclusive
+ALLEN What about Yeats ? ALLEN What about Yeats ? From the doorway , we see that Louis has been watching the whole time 	0.0460517018599	Slightly Memorable
+, How does that work ? From the doorway , we see that Louis has been watching the whole time 	0.0460517018599	Slightly Memorable
+, From the doorway , we see that Louis has been watching the whole time 	0.0460517018599	Slightly Memorable
+, He 'll need more help if he 's going to get to beautiful 	0.0460517018599	Slightly Memorable
+David 's moment alone with Allen 	N/A	Inconclusive
+David 's moment alone with Allen 	N/A	Inconclusive
+LUCIEN Where 's the verve ? LUCIEN Where 's the verve ? LUCIEN Welcome to the edge of the world 	N/A	Inconclusive
+LUCIEN Welcome to the edge of the world 	N/A	Inconclusive
+Lucien eyes Allen -- an idea forming 	N/A	Inconclusive
+Lucien eyes Allen -- an idea forming 	N/A	Inconclusive
+DAVID Piece of advice 	N/A	Inconclusive
+A beat of relief -- are we alive ? -- and the two break out into hysterics 	N/A	Inconclusive
+A beat of relief -- are we alive ? -- and the two break out into hysterics 	N/A	Inconclusive
+It 's an old vinyl RECORD sent by his friend Sammy 	N/A	Inconclusive
+LUCIEN It 's all true 	N/A	Inconclusive
+DAVID I need to speak to you 	N/A	Inconclusive
+She smacks something down on a plate : it 's brown GLOP 	0.0240854866783	Memorable
+JACK What 's this ? It is our duty to break the law 	N/A	Inconclusive
+'' ( to Allen ) Fantastic 	0.0399993408274	Slightly Memorable
+Grand classical music screeches to a start 	N/A	Inconclusive
+27 	N/A	Inconclusive
+Grand classical music screeches to a start 	N/A	Inconclusive
+27 	N/A	Inconclusive
+Let 's come up with new words , new rhythms 	0.0570206331207	Slightly Memorable
+, Let 's come up with new words , new rhythms 	0.0631418021642	Slightly Memorable
+, The MUSIC builds again as ... I 'm hungry and what you do in the kitchen is unholy 	0.0725934141266	Slightly Memorable
+We 're headed out to the front 	N/A	Inconclusive
+JACK So Al 	N/A	Inconclusive
+You thought my novel was shit ? TOUR These are among the University 's most prized possessions 	N/A	Inconclusive
+TOUR These are among the University 's most prized possessions 	N/A	Inconclusive
+TOUR These are among the University 's most prized possessions 	N/A	Inconclusive
+He says life is round : we 're stuck on this wheel 	0.0954256479971	Not Memorable
+He says life is round : we 're stuck on this wheel 	0.0991610845778	Not Memorable
+He says life is round : we 're stuck on this wheel 	0.102651627673	Not Memorable
+That 's my sonnet for Steeves 	N/A	Inconclusive
+Allen hides them behind his back 	N/A	Inconclusive
+It is the first principle of good creative work 	N/A	Inconclusive
+ALLEN Paterson , New Jersey 	0.109464188731	Not Memorable
+, He ca n't believe he 's really here in the big city 	0.112525127938	Not Memorable
+The dutiful son 's first failure 	N/A	Inconclusive
+26 	N/A	Inconclusive
+The dutiful son 's first failure 	N/A	Inconclusive
+26 	N/A	Inconclusive
+He ca n't believe he 's really here in the big city 	N/A	Inconclusive
+He ca n't believe he 's really here in the big city 	N/A	Inconclusive
+LUCIEN Allen ! No ! Allen does n't turn 	N/A	Inconclusive
+LUCIEN Allen ! No ! Allen does n't turn 	N/A	Inconclusive
+LUCIEN Allen ! No ! Allen does n't turn 	N/A	Inconclusive
+LUCIEN Allen ! No ! Allen does n't turn 	N/A	Inconclusive
+LUKE He 's Navy 	N/A	Inconclusive
+LUKE He 's Navy 	N/A	Inconclusive
+LUKE He 's Navy 	N/A	Inconclusive
+ALLEN Never heard of it 	N/A	Inconclusive
+ALLEN Never heard of it 	N/A	Inconclusive
+ALLEN Never heard of it 	N/A	Inconclusive
+Anzio ? ALLEN Oh no , thanks 	0.131131084742	Not Memorable
+, Say nothing 	0.131506957534	Not Memorable
+ALLEN Oh no , thanks 	0.13211938799	Not Memorable
+, Bill walks in , knows what game his friend is playing 	0.13351974336	Not Memorable
+, Bill walks in , knows what game his friend is playing 	0.134826002087	Not Memorable
+, ALLEN She 's going to be furious 	0.135646879926	Not Memorable
+24 	N/A	Inconclusive
+ALLEN She 's going to be furious 	N/A	Inconclusive
+24 	N/A	Inconclusive
+BILL ( O.S 	0.136806511159	Not Memorable
+) What do you hate from the pit of your gut ? Lucien steps between David and their wall of clippings 	0.138640057118	Not Memorable
+Allen stops short 	N/A	Inconclusive
+PROFESSOR STEEVES There can be no creation before imitation 	N/A	Inconclusive
+PROFESSOR STEEVES There can be no creation before imitation 	N/A	Inconclusive
+PROFESSOR STEEVES There can be no creation before imitation 	N/A	Inconclusive
+This is very bad 	N/A	Inconclusive
+This is very bad 	N/A	Inconclusive
+It 's the same BRAHMS from his mother 's bedroom 	N/A	Inconclusive
+It 's the same BRAHMS from his mother 's bedroom 	N/A	Inconclusive
+It 's the same BRAHMS from his mother 's bedroom 	N/A	Inconclusive
+ALLEN ( O.S 	0.14322462133	Not Memorable
+) Mom I ca n't come home 	0.143557633032	Not Memorable
+ALLEN ( O.S 	0.143694447528	Not Memorable
+) Mom I ca n't come home 	0.144000182452	Not Memorable
+ALLEN ( O.S 	0.144125515845	Not Memorable
+) Mom I ca n't come home 	0.144404936766	Not Memorable
+NAOMI He 's trying to get inside my head 	N/A	Inconclusive
+NAOMI He 's trying to get inside my head 	N/A	Inconclusive
+NAOMI He 's trying to get inside my head 	N/A	Inconclusive
+But Allen does n't hear , he grins to himself 	0.145595148701	Not Memorable
+, But Allen does n't hear , he grins to himself 	0.145861767577	Not Memorable
+, But Allen does n't hear , he grins to himself 	0.146091049663	Not Memorable
+, Suddenly , a breath : he comes back to life 	0.146284368845	Not Memorable
+, Suddenly , a breath : he comes back to life 	0.146443039118	Not Memorable
+, Suddenly , a breath : he comes back to life 	0.146568318003	Not Memorable
+, Suddenly , a breath : he comes back to life 	0.146661409716	Not Memorable
+, ALLEN You do n't know me 	0.14670442124	Not Memorable
+Look at him 	N/A	Inconclusive
+Look at him 	N/A	Inconclusive
+The band puts down their instruments 	N/A	Inconclusive
+The band puts down their instruments 	N/A	Inconclusive
+Ginsberg 	N/A	Inconclusive
+Ginsberg 	N/A	Inconclusive
+ALLEN I do n't drink 	N/A	Inconclusive
+ALLEN I do n't drink 	N/A	Inconclusive
+ALLEN I do n't drink 	N/A	Inconclusive
+David crosses through crowd towards Allen 	N/A	Inconclusive
+David crosses through crowd towards Allen 	N/A	Inconclusive
+Up the hallway , a door locks 	0.146643777595	Not Memorable
+, Up the hallway , a door locks 	0.146579962687	Not Memorable
+, Up the hallway , a door locks 	0.146503037847	Not Memorable
+, LUCIEN Only the most anti-social have to go to an event actually called one 	0.14632461774	Not Memorable
+LUCIEN Only the most anti-social have to go to an event actually called one 	N/A	Inconclusive
+LUCIEN Are you a writer ? LUCIEN Are you a writer ? LUCIEN Are you a writer ? LUCIEN Only the most anti-social have to go to an event actually called one 	N/A	Inconclusive
+NAOMI This is your fault 	N/A	Inconclusive
+NAOMI This is your fault 	N/A	Inconclusive
+ALLEN He looks like a criminal 	N/A	Inconclusive
+19 	N/A	Inconclusive
+ALLEN He looks like a criminal 	N/A	Inconclusive
+19 	N/A	Inconclusive
+ALLEN Lu ! It 's very rough but ... In all the broken places 	N/A	Inconclusive
+LOUIS ( talking to himself , dreaming ) Trilling 's there 	0.144278251747	Not Memorable
+, What he 's good at 	0.144101985928	Not Memorable
+Allen walks inside 	N/A	Inconclusive
+What he 's good at 	N/A	Inconclusive
+LOUIS ( talking to himself , dreaming ) Trilling 's there 	0.143511389825	Not Memorable
+, Allen walks inside 	0.143380961844	Not Memorable
+ALLEN You do n't understand 	N/A	Inconclusive
+We need the work 	N/A	Inconclusive
+( suddenly cold ) I was wrong 	0.142838906904	Not Memorable
+INT 	N/A	Inconclusive
+ALLEN 'S DORM ROOM - DAY Allen 's got it 	N/A	Inconclusive
+What he 's good at 	N/A	Inconclusive
+LOUIS ( talking to himself , dreaming ) Trilling 's there 	0.141853897675	Not Memorable
+, ALLEN You do n't understand 	0.141623619031	Not Memorable
+Allen walks inside 	N/A	Inconclusive
+ALLEN I 've been thinking about what Yeats said 	N/A	Inconclusive
+ALLEN I 've been thinking about what Yeats said 	N/A	Inconclusive
+He 's looking at the response in shock 	N/A	Inconclusive
+He 's looking at the response in shock 	N/A	Inconclusive
+He 's looking at the response in shock 	N/A	Inconclusive
+Allen pulls her back , into the house 	0.139425040661	Not Memorable
+, Allen pulls her back , into the house 	0.139024374092	Not Memorable
+, Jazz music sparks , PRE-LAP from where this party 's going next 	0.138432705694	Not Memorable
+, Jazz music sparks , PRE-LAP from where this party 's going next 	0.137826315261	Not Memorable
+, But you fuck me and wo n't marry me 	0.137350219967	Not Memorable
+LUKE Shut the books 	N/A	Inconclusive
+LUKE Shut the books 	N/A	Inconclusive
+LUCIEN Once you meet him , you 'll see what I mean 	0.13637400646	Not Memorable
+, LUKE Shut the books 	0.136125133088	Not Memorable
+INT 	N/A	Inconclusive
+GINSBERG HOME - NIGHT The radio continues playing to a modest home 	N/A	Inconclusive
+INT 	N/A	Inconclusive
+GINSBERG HOME - NIGHT The radio continues playing to a modest home 	N/A	Inconclusive
+INT 	N/A	Inconclusive
+GINSBERG HOME - NIGHT The radio continues playing to a modest home 	N/A	Inconclusive
+DAVID None of us notice him 	N/A	Inconclusive
+DAVID None of us notice him 	N/A	Inconclusive
+BILL What kind of life is it ? Allen turns the music up all the way 	N/A	Inconclusive
+ALLEN Where 's Lu ? 39 	N/A	Inconclusive
+Allen turns the music up all the way 	N/A	Inconclusive
+Allen turns the music up all the way 	N/A	Inconclusive
+JACK A `` new vision ? '' ALLEN Yeah 	0.130905804481	Not Memorable
+LOUIS I told you it would n't work 	N/A	Inconclusive
+LOUIS I told you it would n't work 	N/A	Inconclusive
+LOUIS I told you it would n't work 	N/A	Inconclusive
+A ceremony 	N/A	Inconclusive
+Moved , he links his arm with Allen 's 	0.128906499427	Not Memorable
+, ALLEN I 've spent my life making other people happy 	0.128265715244	Not Memorable
+Moved , he links his arm with Allen 's 	0.127737292798	Not Memorable
+, ALLEN I 've spent my life making other people happy 	0.127086560654	Not Memorable
+The room freezes 	N/A	Inconclusive
+David and Bill share a knowing look 	N/A	Inconclusive
+ALLEN I love complicated 	N/A	Inconclusive
+David and Bill share a knowing look 	N/A	Inconclusive
+You are not in wonderland I have heard the strange madness long growing in your soul 	N/A	Inconclusive
+Look at her ! Listen to her ! Naomi babbling 	N/A	Inconclusive
+Is it something ? Allen looks down , amazed 	0.123697699265	Not Memorable
+, Allen looks down , amazed 	0.123327719459	Not Memorable
+, Allen looks down , amazed 	0.122956518162	Not Memorable
+, Allen , swept up in the energy 	0.122459731559	Not Memorable
+, Allen , swept up in the energy 	0.121960888848	Not Memorable
+, And it 's beautiful 	0.121648096586	Not Memorable
+ALLEN I use periods and commas 	N/A	Inconclusive
+David sees the boys talking 	N/A	Inconclusive
+David sees the boys talking 	N/A	Inconclusive
+LUCIEN How 's your Yeats ? The unlocked door creaks open 	N/A	Inconclusive
+12 	N/A	Inconclusive
+LUCIEN How 's your Yeats ? The unlocked door creaks open 	N/A	Inconclusive
+12 	N/A	Inconclusive
+The unlocked door creaks open 	N/A	Inconclusive
+12 	N/A	Inconclusive
+LUCIEN How 's your Yeats ? NAOMI Do n't ever leave me 	N/A	Inconclusive
+ALLEN ( V.O 	0.117775040991	Not Memorable
+) And if you try to let them go ... ALLEN ( V.O 	0.116937444671	Not Memorable
+) And if you try to let them go ... NAOMI Do n't ever leave me 	0.115901414367	Not Memorable
+PROFESSOR STEEVES The war awaits 	N/A	Inconclusive
+ALLEN ( V.O 	0.115381389064	Not Memorable
+) And if you try to let them go ... NAOMI Do n't ever leave me 	0.114337564413	Not Memorable
+ALLEN ( V.O 	0.114141311089	Not Memorable
+) And if you try to let them go ... LUCIEN He 's a Harvard man , and he 's going to be an amazing artist 	0.112433867944	Not Memorable
+, The tour guide looks around confused 	0.111972276926	Not Memorable
+9 	N/A	Inconclusive
+LUCIEN He 's a Harvard man , and he 's going to be an amazing artist 	0.110848211589	Not Memorable
+, The tour guide looks around confused 	0.110384172683	Not Memorable
+9 	N/A	Inconclusive
+The tour guide looks around confused 	N/A	Inconclusive
+9 	N/A	Inconclusive
+Messy , comfortable , adorable 	0.109520674307	Not Memorable
+, ALLEN Oh right , you do n't have anything because David 's not here to write it for you ! Lucien stands up , drunk 	0.10778759554	Not Memorable
+, BILL But the words , oh the words ... , The music suddenly stops as we ... Lucien closes his eyes 	0.106315596766	Not Memorable
+LUKE ( O.S 	0.106114520523	Not Memorable
+) You do n't wan na go down there 	0.105510830507	Not Memorable
+EDIE ( O.S 	0.105309452699	Not Memorable
+) Today 	0.1051751613	Not Memorable
+LUKE ( O.S 	0.104973666207	Not Memorable
+) You do n't wan na go down there 	0.104368779528	Not Memorable
+LUKE ( O.S 	0.104167022547	Not Memorable
+) You do n't wan na go down there 	0.103561390975	Not Memorable
+The first time Allen has defied anyone 	N/A	Inconclusive
+I nailed the windows 	N/A	Inconclusive
+I nailed the windows 	N/A	Inconclusive
+I nailed the windows 	N/A	Inconclusive
+LOUIS Until we know , the only thing we have -- ALLEN is what we give away 	0.10113423737	Not Memorable
+, LOUIS Until we know , the only thing we have -- ALLEN is what we give away 	0.0999184753805	Not Memorable
+, LOUIS Until we know , the only thing we have -- ALLEN is what we give away 	0.098701684869	Not Memorable
+, Assonance 	0.0985664357536	Not Memorable
+Assonance 	N/A	Inconclusive
+He has been adrift in a hallucination 	N/A	Inconclusive
+Assonance 	N/A	Inconclusive
+Allen quickly thinks , turns to her bureau 	0.0974165143389	Not Memorable
+, Allen quickly thinks , turns to her bureau 	0.0968075661291	Not Memorable
+, Allen quickly thinks , turns to her bureau 	0.0961985483813	Not Memorable
+, Then the sound of the door creaking open 	0.0955894953036	Not Memorable
+His father just sighs 	N/A	Inconclusive
+His father just sighs 	N/A	Inconclusive
+Margaret , do n't even deny it 	0.0945744188346	Not Memorable
+, His father just sighs 	0.0942360849168	Not Memorable
+Margaret , do n't even deny it 	0.0937624548476	Not Memorable
+, Lucien , mute witness to it all 	0.0932212338672	Not Memorable
+, Lucien , mute witness to it all 	0.0926801086981	Not Memorable
+, Allen searching through their past 	0.0922743403841	Not Memorable
+And Lucien on the floor , reading the Times and smoking 	0.0915306314612	Not Memorable
+, And Lucien on the floor , reading the Times and smoking 	0.0907196598947	Not Memorable
+, And Lucien on the floor , reading the Times and smoking 	0.08990911522	Not Memorable
+, LUCIEN He wishes he were a criminal 	0.0893690211677	Not Memorable
+LUCIEN He wishes he were a criminal 	N/A	Inconclusive
+BILL ( O.S 	0.0886942390643	Not Memorable
+) But beware of the side-effects 	0.0882895623797	Not Memorable
+NAOMI What did you say ? NAOMI What did you say ? NAOMI What did you say ? LOUIS It 's for her best 	N/A	Inconclusive
+LOUIS It 's for her best 	N/A	Inconclusive
+My father left me when I was four 	N/A	Inconclusive
+My father left me when I was four 	N/A	Inconclusive
+Allen reaches through the bars and SNATCHES the paper 	N/A	Inconclusive
+LUKE Land of the fairies 	N/A	Inconclusive
+LUKE Land of the fairies 	N/A	Inconclusive
+LUKE Land of the fairies 	N/A	Inconclusive
+ALLEN It 's time I find happiness the only way I see possible 	N/A	Inconclusive
+ALLEN It 's time I find happiness the only way I see possible 	N/A	Inconclusive
+As the war report ends , a stuffy musical piece begins 	0.0811052100494	Not Memorable
+, As the war report ends , a stuffy musical piece begins 	0.0803042079751	Not Memorable
+, As the war report ends , a stuffy musical piece begins 	0.0795043309176	Not Memorable
+, LUCIEN Lu , I do n't think he gets what we 're trying to do 	0.0784396528135	Not Memorable
+, Hands them to Lucien who nails them to the wall 	0.0777089428937	Not Memorable
+LUCIEN Allen in Wonderland 	N/A	Inconclusive
+LUCIEN Allen in Wonderland 	N/A	Inconclusive
+LUCIEN Allen in Wonderland 	N/A	Inconclusive
+We close in on Allen 's despondent face 	N/A	Inconclusive
+We close in on Allen 's despondent face 	N/A	Inconclusive
+Consonance 	N/A	Inconclusive
+Consonance 	N/A	Inconclusive
+Consonance 	N/A	Inconclusive
+From down the hall ... From down the hall ... From down the hall ... Bill stands up , woozy 	0.0743354169509	Slightly Memorable
+, Her knuckles are bleeding 	0.0740060137394	Slightly Memorable
+Her knuckles are bleeding 	N/A	Inconclusive
+Her knuckles are bleeding 	N/A	Inconclusive
+Then a woman whimpering in pain 	N/A	Inconclusive
+Then a woman whimpering in pain 	N/A	Inconclusive
+Then a woman whimpering in pain 	N/A	Inconclusive
+We were just in Allen 's imagination 	N/A	Inconclusive
+ALLEN Professor Steeves , then how do you explain Whitman ? , ALLEN Professor Steeves , then how do you explain Whitman ? , ALLEN Professor Steeves , then how do you explain Whitman ? , Allen watching him disappear 	0.0692262692781	Slightly Memorable
+Allen watching him disappear 	N/A	Inconclusive
+PROFESSOR STEEVES All right 	N/A	Inconclusive
+Jack ignores Allen , wings the pigskin right at him 	0.0680566654552	Slightly Memorable
+, DAVID That 's odd since I 'm the only thing keeping him here 	0.0671495538548	Slightly Memorable
+He looks down , ashamed 	0.0668261414714	Slightly Memorable
+6. , He looks down , ashamed 	0.0663738611486	Slightly Memorable
+6. , Steeves motions to the door 	0.0659221651313	Slightly Memorable
+He looks down , ashamed 	0.065599885538	Slightly Memorable
+6. , The hardest thing he 's ever done 	0.0650205452473	Slightly Memorable
+The hardest thing he 's ever done 	N/A	Inconclusive
+The hardest thing he 's ever done 	N/A	Inconclusive
+An eerie hum from the glass 	N/A	Inconclusive
+An eerie hum from the glass 	N/A	Inconclusive
+DAVID So the pattern of our evening , our lives , holds 	0.0625854616784	Slightly Memorable
+, DAVID So the pattern of our evening , our lives , holds 	0.0617565812531	Slightly Memorable
+, Allen grabs for his manuscript back , but Lucien pulls it out of reach 	0.0608028803325	Slightly Memorable
+, Allen grabs for his manuscript back , but Lucien pulls it out of reach 	0.0598521079533	Slightly Memorable
+, Allen grabs for his manuscript back , but Lucien pulls it out of reach 	0.0589043002742	Slightly Memorable
+, Allen grabs for his manuscript back , but Lucien pulls it out of reach 	0.0579594917849	Slightly Memorable
+, LUCIEN I found a real writer 	0.0575196168552	Slightly Memorable
+ALLEN No 	N/A	Inconclusive
+Lucien drinks wine beside 	N/A	Inconclusive
+This boy so close , the rush of contact 	0.0565792662005	Slightly Memorable
+, This boy so close , the rush of contact 	0.0559540736397	Slightly Memorable
+, This boy so close , the rush of contact 	0.0553302575681	Slightly Memorable
+, Flash of their past build in a crescendo as he keeps searching , digging through moments , leading to ... , David 's body LIFTS into the young man 's arms 	0.053343392293	Slightly Memorable
+David 's body LIFTS into the young man 's arms 	N/A	Inconclusive
+David 's body LIFTS into the young man 's arms 	N/A	Inconclusive
+David 's body LIFTS into the young man 's arms 	N/A	Inconclusive
+Bill puts the tube of gas back in his mouth , back to business 	0.050635070978	Slightly Memorable
+, Bill puts the tube of gas back in his mouth , back to business 	0.0497181235442	Slightly Memorable
+, Libation ? Libation ? Libation ? ALLEN There 's more life in those five pages than in the dozens of bad sonnets we 've read in class 	0.0480152274611	Slightly Memorable
+He 's been caught 	N/A	Inconclusive
+He 's been caught 	N/A	Inconclusive
+He 's been caught 	N/A	Inconclusive
+He notices on one wall are patriotic posters , exercise posters 	0.0466250061112	Slightly Memorable
+, He notices on one wall are patriotic posters , exercise posters 	0.0459027702968	Slightly Memorable
+, He notices on one wall are patriotic posters , exercise posters 	0.0451826689281	Slightly Memorable
+, Allen , now the third wheel , reluctantly chases after 	0.0445244576542	Slightly Memorable
+, Lucien inverts two small glasses and pours 	0.0440468923659	Slightly Memorable
+Lucien inverts two small glasses and pours 	N/A	Inconclusive
+Lucien inverts two small glasses and pours 	N/A	Inconclusive
+LUCIEN First thought , best thought 	0.0428571709895	Slightly Memorable
+, Your father perhaps is the poet Louis Ginsberg ? Your father perhaps is the poet Louis Ginsberg ? Your father perhaps is the poet Louis Ginsberg ? Jack comes to the table 	0.0409072882321	Slightly Memorable
+It 's fiction 	N/A	Inconclusive
+He pulls the knife free 	N/A	Inconclusive
+He nailed the windows shut while I was in the bath 	N/A	Inconclusive
+ALLEN Allen Ginsberg 	N/A	Inconclusive
+Now , come on , I want you to meet our host 	0.038915563075	Slightly Memorable

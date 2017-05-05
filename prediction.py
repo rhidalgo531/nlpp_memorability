@@ -8,19 +8,23 @@ import tok as tokenization
 import feature_analysis as analysis
 import math
 
-## take in two arguments, one should be the name of the text that they want edited,
-## the script
 def output_all(all_info_lines):
     output_name = raw_input("Please name your output file for predictions, with extension")
     output_f = open(output_name, "w")
     for ele in all_info_lines:
-        print ele
         output_f.write(ele)
     output_f.close()
 
 def predict_by_entropy(sentence, in_set, out_of_set, parent_data):
     total = in_set + out_of_set
-    entropy_child = (-1.0 * math.log(float(in_set)/float(total)) * (float(in_set)/float(total))) - ((float(out_of_set)/float(total)) * math.log(float(out_of_set)/float(total)))
+    child_x = float(in_set)/float(total)
+    child_y = (float(out_of_set)/float(total))
+    if child_y == 0.0:
+        child_y = 0.01
+    if child_x == 0.0:
+        child_x = 0.01
+    entropy_child = (-1.0 * math.log(child_x) * child_x) - (-1.0 *(child_y) * math.log(child_y))
+    print entropy_child
     words = sentence.split(" ")
     in_set_parent = 0
     out_of_set_parent = 0
@@ -33,21 +37,27 @@ def predict_by_entropy(sentence, in_set, out_of_set, parent_data):
             if word in parent_data["Not Memorable"]:
                 out_of_set_parent += parent_data["Not Memorable"][word]
     total_parent = in_set_parent + out_of_set_parent
-    x = float(in_set_parent)/float(total_parent)
-    y = (float(out_of_set_parent)/float(total_parent))
-    if y == 0.0:
-        entropy_parent = ( -1.0 * math.log(x) * x)
+    if total_parent == 0:
+        line = sentence + "\t" + "N/A" + "\t" + "Inconclusive\n"
+        return line
     else:
-        entropy_parent = ( -1.0 * math.log(x) * x) - (y * math.log(y))
-    information_gain = entropy_parent - entropy_child
-    line = ""
-    if information_gain > 0.75:
-        line = sentence + "\t" + str(information_gain) + "\t" + "Not Memorable\n"
-    elif information_gain > 0.25:
-         line = sentence + "\t" + str(information_gain) + "\t" + "Slightly Memorable\n"
-    else:
-        line = sentence + "\t" + str(information_gain) + "\t" + "Memorable\n"
-    return line
+        x = float(in_set_parent)/float(total_parent)
+        y = (float(out_of_set_parent)/float(total_parent))
+        if y == 0.0:
+            y = 1
+        if x == 0.0:
+            x = 1
+        entropy_parent = ( -1.0 * math.log(x) * x) - (-1.0 *y * math.log(y))
+        information_gain = entropy_parent - entropy_child
+        print information_gain
+        line = ""
+        if information_gain > 0.075:
+            line = sentence + "\t" + str(information_gain) + "\t" + "Not Memorable\n"
+        elif information_gain > 0.025:
+            line = sentence + "\t" + str(information_gain) + "\t" + "Slightly Memorable\n"
+        else:
+            line = sentence + "\t" + str(information_gain) + "\t" + "Memorable\n"
+        return line
 
 
 def test_file(file_name, type_of_file):
@@ -77,27 +87,27 @@ def test_file(file_name, type_of_file):
                 line = all_lines[i].split("\t")
                 if (len(line) == 3):
                     word = line[0]
-                    memorability_type = line[2]
-                    sentence += word + " "
-                    if memorability_type == "Memorable":
-                        temp_in_set += 1
+                    if word == ".":
+                        all_info_lines.append(predict_by_entropy(sentence, temp_in_set, temp_out_set, parent_data))
+                        sentence = ""
                     else:
-                        temp_out_set += 1
-                else:
-            #### NEED TO GET THIS HERE
-                    all_info_lines.append(predict_by_entropy(sentence, temp_in_set, temp_out_set, parent_data))
-                    sentence = ""
+                        memorability_type = line[2]
+                        sentence += word + " "
+                        if memorability_type == "Memorable":
+                            temp_in_set += 1
+                        else:
+                            temp_out_set += 1
     output_all(all_info_lines)
 
 
 def do_func(hits_file, annotated_file):
     args = [hits_file, annotated_file]
-    #tokenization.main(args)
+    tokenization.main(args)
     test_file(hits_file, "yahoo")
     test_file(annotated_file, "manual")
 
 def get_top_5(script):
-    #top5.main(script, "top_5k_" + script)
+    top5.main(script, "top_5k_" + script)
     top5_file = "top_5k_" + script
     flag = True
     while (flag == True):
@@ -116,7 +126,7 @@ def get_top_5(script):
 
 def main(arguments):
     script_filtered = "scores_" + arguments[1]
-    #strip.main(arguments[1], script_filtered)
+    strip.main(arguments[1], script_filtered)
     ## Get script, get filtered movie type
     get_top_5(script_filtered)
 
